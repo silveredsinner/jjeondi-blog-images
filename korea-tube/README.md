@@ -1,4 +1,4 @@
-# Korea Tube
+# Let's Visit Korea
 
 한국 여행·음식·문화 유튜브 영상을 **지역별(지도)** · **카테고리별(음식/여행/문화)** 로 모아 보고,
 사이트에서 고른 언어로 **유튜브 자막을 자동으로 켜 주는** 정적 웹사이트입니다.
@@ -87,7 +87,7 @@ GitHub Pages, Netlify, Vercel 등에 이 폴더를 그대로 올리면 됩니다
   "Allow GitHub Actions to create and approve pull requests" 체크
 - 워크플로 파일이 **기본 브랜치(main)에 있어야** 예약 실행됩니다.
 
-### 수동 실행 옵션 (Actions → Korea Tube content → Run workflow)
+### 수동 실행 옵션 (Actions → Let's Visit Korea content → Run workflow)
 - `max_videos`: 한 번에 처리할 영상 수 (기본 15)
 - `only_shows`: `1` 이면 방송 프로그램 영상만
 - `blog_region`: 지역 key 를 넣으면 그 지역 글을 새로 씀 (예: `busan`)
