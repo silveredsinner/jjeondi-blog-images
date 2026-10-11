@@ -336,8 +336,10 @@
     if (affs.length) {
       box.appendChild(el("h3", null, t("book")));
       const row = el("div", "aff-row");
-      const q = encodeURIComponent(`${r.en.split("·")[0]}, Korea`);
+      const city = r.en.split("·")[0];
       for (const a of affs) {
+        // cityOnly: "Busan, Korea" 대신 "Busan" 으로 검색 (KKday 처럼 쉼표가 들어가면 결과가 줄어드는 사이트)
+        const q = encodeURIComponent(a.cityOnly ? city : `${city}, Korea`);
         // site 가 있으면 제휴 리다이렉트 주소의 {site} 자리에 (검색어를 넣은) 목적지 주소를 인코딩해서 넣는다
         const href = a.site ? a.url.replace("{site}", encodeURIComponent(a.site.replace("{q}", q))) : a.url.replace("{q}", q);
         const link = linkBtn(href, "", "aff-btn", a.tracked);
