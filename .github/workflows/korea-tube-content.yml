@@ -67,6 +67,7 @@ jobs:
           add-paths: |
             korea-tube/data/places-auto.js
             korea-tube/data/hidden-videos.js
+            korea-tube/data/video-subs.js
             korea-tube/data/auto/**
             korea-tube/blog/**
           commit-message: "Korea Tube: 영상 속 맛집 자동 추출 + 블로그 초안"
