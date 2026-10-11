@@ -7,7 +7,7 @@ import vm from "node:vm";
 import { fileURLToPath } from "node:url";
 
 const SITE = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
-const SITE_URL = (process.env.SITE_URL || "https://silveredsinner.github.io/jjeondi-blog-images").replace(/\/$/, "");
+const SITE_URL = (process.env.SITE_URL || "https://letsvisitkorea.com").replace(/\/$/, "");
 const p = (...xs) => path.join(SITE, ...xs);
 
 // 사이트 데이터 읽기 (브라우저용 data/*.js 를 그대로 실행)
@@ -37,7 +37,7 @@ function page({ rel, title, desc, image, url, body }) {
   <meta name="description" content="${esc(desc)}">
   <link rel="canonical" href="${url}">
   <meta property="og:type" content="website">
-  <meta property="og:site_name" content="Korea Tube">
+  <meta property="og:site_name" content="Let's Visit Korea">
   <meta property="og:title" content="${esc(title)}">
   <meta property="og:description" content="${esc(desc)}">
   <meta property="og:url" content="${url}">
@@ -49,7 +49,7 @@ function page({ rel, title, desc, image, url, body }) {
 </head>
 <body>
   <header class="topbar">
-    <a class="brand" href="${rel}index.html"><span class="logo" aria-hidden="true">▶</span><h1>Korea Tube</h1></a>
+    <a class="brand" href="${rel}index.html"><span class="logo" aria-hidden="true">▶</span><h1>Let's Visit Korea</h1></a>
     <nav class="bp-nav">
       <a href="${rel}blog/index.html">Blog</a>
       <button class="bp-switch" data-to="ko">한국어</button>
@@ -122,7 +122,7 @@ for (const r of window.REGIONS) {
   const url = `${SITE_URL}/r/${r.key}.html`;
   fs.writeFileSync(p(`r/${r.key}.html`), page({
     rel: "../",
-    title: `${r.ko} 여행·맛집 영상 모음 – ${r.en} travel & food videos | Korea Tube`,
+    title: `${r.ko} 여행·맛집 영상 모음 – ${r.en} travel & food videos | Let's Visit Korea`,
     desc: `${info.ko.intro} ${r.ko} 영상 ${vids.length}개와 영상에 나온 맛집 ${places.length}곳. ${info.en.intro}`,
     image: vids[0] ? thumb(vids[0].id) : null,
     url,
@@ -139,8 +139,8 @@ for (const x of posts) urls.push(`${SITE_URL}/blog/posts/${x.slug}.html`);
   const seo = `<!--seo:start-->
   <link rel="canonical" href="${SITE_URL}/">
   <meta property="og:type" content="website">
-  <meta property="og:site_name" content="Korea Tube">
-  <meta property="og:title" content="Korea Tube – 한국 여행·음식 유튜브 지도 / Korea travel & food videos by region">
+  <meta property="og:site_name" content="Let's Visit Korea">
+  <meta property="og:title" content="Let's Visit Korea – 한국 여행·음식 유튜브 지도 / Korea travel & food videos by region">
   <meta property="og:description" content="지역별 한국 여행·음식·문화 유튜브와 영상 속 맛집. Korean travel & food videos by region, with subtitles in 12 languages.">
   <meta property="og:url" content="${SITE_URL}/">
   ${firstVideo ? `<meta property="og:image" content="${thumb(firstVideo.id)}">` : ""}

@@ -116,10 +116,10 @@ export function renderPost(post) {
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>${esc(post.title.ko)} | Korea Tube</title>
+  <title>${esc(post.title.ko)} | Let's Visit Korea</title>
   <meta name="description" content="${esc(post.summary.ko)}">
   <meta property="og:type" content="article">
-  <meta property="og:site_name" content="Korea Tube">
+  <meta property="og:site_name" content="Let's Visit Korea">
   <meta property="og:title" content="${esc(post.title.ko)}">
   <meta property="og:description" content="${esc(post.summary.ko)}">
   ${post.videos[0] ? `<meta property="og:image" content="https://i.ytimg.com/vi/${esc(post.videos[0].id)}/hqdefault.jpg">` : ""}
@@ -130,7 +130,7 @@ export function renderPost(post) {
 </head>
 <body>
   <header class="topbar">
-    <a class="brand" href="../../index.html"><span class="logo" aria-hidden="true">▶</span><h1>Korea Tube</h1></a>
+    <a class="brand" href="../../index.html"><span class="logo" aria-hidden="true">▶</span><h1>Let's Visit Korea</h1></a>
     <nav class="bp-nav">
       <a href="../index.html">Blog</a>
       <button class="bp-switch" data-to="ko">한국어</button>
