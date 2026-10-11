@@ -393,6 +393,8 @@
     document.documentElement.lang = state.lang;
     document.querySelectorAll("[data-i18n]").forEach((el) => { el.textContent = t(el.dataset.i18n); });
     $("search").placeholder = t("search");
+    // 로고·사이트 이름: 지역·필터를 모두 지운 첫 화면으로 새로 열기 (언어만 유지)
+    $("homeLink").href = `./?lang=${encodeURIComponent(state.lang)}`;
   }
 
   function renderAll() {

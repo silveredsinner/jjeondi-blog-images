@@ -4,6 +4,8 @@
 // 필요한 환경변수: YOUTUBE_API_KEY, ANTHROPIC_API_KEY
 // 선택: DISCOVER=mukbang,beauty (찾을 주제), MAX_NEW (주제별 최대 추가 수, 기본 20),
 //       MIN_VIEWS (최소 조회수, 기본 30000), REVIEW_FILE (PR 본문에 결과 추가)
+//       DISCOVER_REGIONS=busan,gangwon (먹방: 이 지역만 도시 이름으로 영어·한국어 검색, 다른 지역 영상은 이번에 안 넣음)
+//       PER_REGION (지역당 최대 추가 수, 기본 4) — 한 지역에 몰리지 않게
 // 유튜브 할당량: 검색 1번에 100. 주제별 검색어 수만큼 쓴다 (먹방 11번, K-뷰티 6번).
 import fs from "node:fs";
 import { loadSiteData, readJson, writeJson, askJson } from "./lib.mjs";
@@ -15,6 +17,23 @@ const WANT = (process.env.DISCOVER || "mukbang,beauty").split(",").map((s) => s.
 const MAX_NEW = Number(process.env.MAX_NEW || 20);
 const MIN_VIEWS = Number(process.env.MIN_VIEWS || 30000);
 const MIN_SECONDS = 240; // 4분 미만(쇼츠·짧은 클립) 제외
+const ONLY_REGIONS = (process.env.DISCOVER_REGIONS || "").split(",").map((s) => s.trim()).filter(Boolean);
+const PER_REGION = Number(process.env.PER_REGION || 4);
+
+// 지역별 검색에 쓸 대표 도시 (영어, 한국어)
+const CITIES = {
+  seoul: [["Seoul", "서울"]],
+  gyeonggi: [["Incheon", "인천"], ["Suwon", "수원"]],
+  gangwon: [["Gangneung", "강릉"], ["Sokcho", "속초"], ["Chuncheon", "춘천"]],
+  chungcheong: [["Daejeon", "대전"], ["Gongju", "공주"]],
+  jeonbuk: [["Jeonju", "전주"], ["Gunsan", "군산"]],
+  jeonnam: [["Yeosu", "여수"], ["Mokpo", "목포"], ["Gwangju", "광주"]],
+  gyeongbuk: [["Gyeongju", "경주"], ["Andong", "안동"], ["Pohang", "포항"]],
+  daegu: [["Daegu", "대구"]],
+  gyeongnam: [["Tongyeong", "통영"], ["Jinju", "진주"], ["Ulsan", "울산"]],
+  busan: [["Busan", "부산"]],
+  jeju: [["Jeju", "제주"]],
+};
 
 const site = loadSiteData();
 const REGION_KEYS = site.REGIONS.map((r) => r.key);
@@ -25,7 +44,9 @@ const TOPICS = {
   mukbang: {
     label: "먹방",
     cats: ["food", "mukbang"],
-    queries: site.REGIONS.map((r) => `${r.en.split("·")[0]} Korea mukbang`),
+    queries: ONLY_REGIONS.length
+      ? ONLY_REGIONS.flatMap((k) => (CITIES[k] || []).flatMap(([en, ko]) => [`${en} Korea mukbang`, `${ko} 먹방`]))
+      : site.REGIONS.map((r) => `${r.en.split("·")[0]} Korea mukbang`),
     rule: "A mukbang or eating video: the creator eats Korean food on camera at a restaurant, market or street stall in Korea.",
   },
   beauty: {
@@ -128,6 +149,9 @@ for (const key of WANT) {
 
   // 3) Claude 검토 (조회수 많은 순으로 15개씩)
   const added = [];
+  const perRegion = {};
+  for (const v of store) if (v.cats.includes(topic.cats[1])) perRegion[v.region] = (perRegion[v.region] || 0) + 1;
+  const startCount = { ...perRegion };
   for (let i = 0; i < cands.length && added.length < MAX_NEW; i += 15) {
     const batch = cands.slice(i, i + 15);
     const prompt = `Topic rule: ${topic.rule}\n\nCandidates:\n` + batch.map((c) =>
@@ -147,6 +171,10 @@ for (const key of WANT) {
       const pass = x?.keep && REGION_KEYS.includes(x.region) && x.evidence.trim().length >= 2 && source.includes(squash(x.evidence));
       if (!pass) { seen[c.id] = { topic: key, checked: today, reason: x?.reason || "no verdict" }; continue; }
       if (added.length >= MAX_NEW) break;
+      // 요청한 지역이 아니거나, 이번 실행에서 그 지역을 이미 PER_REGION 개 넣었으면 건너뜀 (seen 에 안 넣어 다음에 다시 후보)
+      if (key === "mukbang" && ONLY_REGIONS.length && !ONLY_REGIONS.includes(x.region)) continue;
+      if ((perRegion[x.region] || 0) - (startCount[x.region] || 0) >= PER_REGION) continue;
+      perRegion[x.region] = (perRegion[x.region] || 0) + 1;
       const v = { id: c.id, region: x.region, cats: topic.cats, title: c.title.slice(0, 120), channel: c.channel, views: c.views, evidence: x.evidence, added: today };
       store.push(v); have.add(c.id); added.push(v);
     }
