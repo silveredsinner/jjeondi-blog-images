@@ -54,6 +54,11 @@ jobs:
           BLOG_REGION: ${{ inputs.blog_region }}
           REVIEW_FILE: ${{ runner.temp }}/review.md
         run: node blog.mjs
+      - name: 영상 상태 점검 (삭제·비공개 영상 숨기기)
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          REVIEW_FILE: ${{ runner.temp }}/review.md
+        run: node check-videos.mjs
       - name: 확인용 PR 만들기
         uses: peter-evans/create-pull-request@v7
         with:
@@ -61,6 +66,7 @@ jobs:
           delete-branch: true
           add-paths: |
             korea-tube/data/places-auto.js
+            korea-tube/data/hidden-videos.js
             korea-tube/data/auto/**
             korea-tube/blog/**
           commit-message: "Korea Tube: 영상 속 맛집 자동 추출 + 블로그 초안"

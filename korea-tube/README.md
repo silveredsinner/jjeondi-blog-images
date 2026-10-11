@@ -91,3 +91,9 @@ GitHub Pages, Netlify, Vercel 등에 이 폴더를 그대로 올리면 됩니다
 - `max_videos`: 한 번에 처리할 영상 수 (기본 15)
 - `only_shows`: `1` 이면 방송 프로그램 영상만
 - `blog_region`: 지역 key 를 넣으면 그 지역 글을 새로 씀 (예: `busan`)
+
+### 삭제·비공개 영상 자동 숨김
+자동 실행 때마다 `scripts/check-videos.mjs` 가 **모든 영상**의 상태를 YouTube API로 확인합니다.
+삭제·비공개·퍼가기 금지된 영상은 `data/auto/availability.json` 에 기록되고, `data/hidden-videos.js` 를 통해
+사이트에서 자동으로 숨겨집니다. 맛집 정보는 그대로 두고 "영상 보기" 버튼만 빠집니다.
+채널 주인이 영상을 다시 공개하면 다음 점검 때 자동으로 다시 나타납니다.
