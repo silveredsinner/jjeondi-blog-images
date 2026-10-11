@@ -25,7 +25,22 @@ export function buildPlacesJs() {
   return { total: store.length, published: pub.length };
 }
 
+// data/auto/availability.json → data/hidden-videos.js (삭제·비공개·퍼가기 금지 영상 목록)
+export function buildHiddenJs() {
+  let avail = {};
+  try { avail = JSON.parse(fs.readFileSync(path.join(SITE, "data/auto/availability.json"), "utf8")); } catch {}
+  const hidden = Object.entries(avail).filter(([, v]) => v.status !== "ok").map(([id]) => id).sort();
+  fs.writeFileSync(
+    path.join(SITE, "data/hidden-videos.js"),
+    `// 자동 생성 파일: data/auto/availability.json 에서 scripts/build-places.mjs 가 만듦. 직접 고치지 마세요.\n` +
+    `// 유튜브에서 삭제·비공개되었거나 퍼가기가 막힌 영상. 사이트에서 숨긴다.\n` +
+    `window.HIDDEN_VIDEOS = ${JSON.stringify(hidden)};\n`,
+  );
+  return { hidden: hidden.length };
+}
+
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
   const r = buildPlacesJs();
-  console.log(`places-auto.js: ${r.published}/${r.total}곳 공개`);
+  const h = buildHiddenJs();
+  console.log(`places-auto.js: ${r.published}/${r.total}곳 공개, hidden-videos.js: ${h.hidden}개 숨김`);
 }
