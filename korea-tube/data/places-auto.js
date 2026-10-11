@@ -85,23 +85,10 @@ window.PLACES_AUTO = [
     "ko": "돌집식당",
     "en": "Doljip Sikdang (Korean set meal restaurant in Mokpo)",
     "q": "목포 돌집식당",
-    "menu_ko": "백반 (반찬 17가지), 갈치조림",
-    "menu_en": "Baekban set meal with 17 side dishes, braised hairtail",
+    "menu_ko": "백반 (반찬 17가지)",
+    "menu_en": "Baekban set meal with 17 side dishes",
     "videos": [
       "ZoCVb-0NxR8"
-    ],
-    "auto": true
-  },
-  {
-    "region": "gyeongnam",
-    "type": "restaurant",
-    "ko": "한일식당",
-    "en": "Hanil Sikdang",
-    "q": "진주 한일식당",
-    "menu_ko": "육회비빔밥",
-    "menu_en": "Yukhoe bibimbap (beef tartare bibimbap)",
-    "videos": [
-      "vARBHI7t4y0"
     ],
     "auto": true
   },
@@ -115,19 +102,6 @@ window.PLACES_AUTO = [
     "menu_en": "Siraegi (dried radish greens) soup set meal at a market eatery (6,000 won)",
     "videos": [
       "prxvrdsZbZw"
-    ],
-    "auto": true
-  },
-  {
-    "region": "daegu",
-    "type": "restaurant",
-    "ko": "송림식당",
-    "en": "Songnim Sikdang (Daegu raw beef restaurant)",
-    "q": "대구 송림식당",
-    "menu_ko": "뭉티기(생고기)",
-    "menu_en": "Mungtigi (Daegu-style raw beef)",
-    "videos": [
-      "39J-3yy4dDg"
     ],
     "auto": true
   },

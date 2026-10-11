@@ -7,28 +7,13 @@
       "ko": "돌집식당",
       "en": "Doljip Sikdang (Korean set meal restaurant in Mokpo)",
       "q": "목포 돌집식당",
-      "menu_ko": "백반 (반찬 17가지), 갈치조림",
-      "menu_en": "Baekban set meal with 17 side dishes, braised hairtail",
+      "menu_ko": "백반 (반찬 17가지)",
+      "menu_en": "Baekban set meal with 17 side dishes",
       "videos": [
         "ZoCVb-0NxR8"
       ],
       "auto": true,
       "evidence": "방송보고 가는거 아니다.\n돌집식당 진짜 대실망.\n불친절하고 음식도 심하게 짜고..\n방송 나온 반찬 별로 없었슴",
-      "added": "2026-10-11"
-    },
-    {
-      "region": "gyeongnam",
-      "type": "restaurant",
-      "ko": "한일식당",
-      "en": "Hanil Sikdang",
-      "q": "진주 한일식당",
-      "menu_ko": "육회비빔밥",
-      "menu_en": "Yukhoe bibimbap (beef tartare bibimbap)",
-      "videos": [
-        "vARBHI7t4y0"
-      ],
-      "auto": true,
-      "evidence": "한일식당이네요",
       "added": "2026-10-11"
     },
     {
@@ -44,21 +29,6 @@
       ],
       "auto": true,
       "evidence": "통영 서호시장의 시락국집 중에 지금까지 알려진 여러 시락국집이 있지만, 솔직히 저기가 진국이다.",
-      "added": "2026-10-11"
-    },
-    {
-      "region": "daegu",
-      "type": "restaurant",
-      "ko": "송림식당",
-      "en": "Songnim Sikdang (Daegu raw beef restaurant)",
-      "q": "대구 송림식당",
-      "menu_ko": "뭉티기(생고기)",
-      "menu_en": "Mungtigi (Daegu-style raw beef)",
-      "videos": [
-        "39J-3yy4dDg"
-      ],
-      "auto": true,
-      "evidence": "대구 송림식당",
       "added": "2026-10-11"
     },
     {
