@@ -38,16 +38,18 @@
           <a href="https://www.google.com/maps/search/?api=1&query=%EA%B3%A1%EC%84%B1%20%EC%84%9D%EA%B3%A1%EC%8B%9C%EC%9E%A5" target="_blank" rel="noopener">구글 지도</a>
         </li></ul>
       <p class="bp-note">영업시간·위치는 바뀔 수 있으니 방문 전 지도에서 확인하세요.</p>
-      <h2>관련 영상</h2>
-      <div class="bp-videos">
-        <a class="bp-video" href="../../index.html?v=ZoCVb-0NxR8">
+      <section class="bp-videos-wrap">
+        <h2>관련 영상</h2>
+        <div class="bp-videos">
+        <a class="bp-video" data-video="ZoCVb-0NxR8" href="../../index.html?v=ZoCVb-0NxR8">
           <img loading="lazy" alt="" src="https://i.ytimg.com/vi/ZoCVb-0NxR8/hqdefault.jpg">
           <span>목포 – 반찬 17가지 백반 한 상 (8회)</span>
         </a>
-        <a class="bp-video" href="../../index.html?v=2n2pcobA6DI">
+        <a class="bp-video" data-video="2n2pcobA6DI" href="../../index.html?v=2n2pcobA6DI">
           <img loading="lazy" alt="" src="https://i.ytimg.com/vi/2n2pcobA6DI/hqdefault.jpg">
           <span>[EP.01 곡성] 백종원을 모르는 사장님의 찐한 콩국수집</span>
         </a></div>
+      </section>
     </article>
     <article class="bp-lang" lang="en" data-lang="en">
       <h1>Jeonnam on Screen: Doljip Sikdang in Mokpo and Seokgok Traditional Market in Gokseong</h1>
@@ -69,20 +71,31 @@
           <a href="https://www.google.com/maps/search/?api=1&query=%EA%B3%A1%EC%84%B1%20%EC%84%9D%EA%B3%A1%EC%8B%9C%EC%9E%A5" target="_blank" rel="noopener">Google Maps</a>
         </li></ul>
       <p class="bp-note">Hours and locations change — check the map before you go.</p>
-      <h2>Related videos</h2>
-      <div class="bp-videos">
-        <a class="bp-video" href="../../index.html?v=ZoCVb-0NxR8">
+      <section class="bp-videos-wrap">
+        <h2>Related videos</h2>
+        <div class="bp-videos">
+        <a class="bp-video" data-video="ZoCVb-0NxR8" href="../../index.html?v=ZoCVb-0NxR8">
           <img loading="lazy" alt="" src="https://i.ytimg.com/vi/ZoCVb-0NxR8/hqdefault.jpg">
           <span>목포 – 반찬 17가지 백반 한 상 (8회)</span>
         </a>
-        <a class="bp-video" href="../../index.html?v=2n2pcobA6DI">
+        <a class="bp-video" data-video="2n2pcobA6DI" href="../../index.html?v=2n2pcobA6DI">
           <img loading="lazy" alt="" src="https://i.ytimg.com/vi/2n2pcobA6DI/hqdefault.jpg">
           <span>[EP.01 곡성] 백종원을 모르는 사장님의 찐한 콩국수집</span>
         </a></div>
+      </section>
     </article>
   </main>
+  <script src="../../data/hidden-videos.js"></script>
   <script>
     (function () {
+      // 유튜브에서 삭제·비공개된 영상은 관련 영상에서 빼고, 하나도 안 남으면 칸째 숨김
+      var hidden = window.HIDDEN_VIDEOS || [];
+      document.querySelectorAll(".bp-video").forEach(function (a) {
+        if (hidden.indexOf(a.dataset.video) !== -1) a.remove();
+      });
+      document.querySelectorAll(".bp-videos-wrap").forEach(function (w) {
+        if (!w.querySelector(".bp-video")) w.remove();
+      });
       var saved; try { saved = localStorage.getItem("kt.lang"); } catch (e) {}
       var q = new URLSearchParams(location.search).get("lang");
       function show(l) {
