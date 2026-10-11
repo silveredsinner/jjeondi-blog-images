@@ -89,6 +89,7 @@ window.VIDEOS = [
   { id: "Zg8Ffhg_oJQ", region: "busan", cats: ["travel", "food"], title: "Jagalchi, Gamcheon Village & Seomyeon – Busan Vlog" },
 
   // 제주
+  { id: "stUKYEYBXfU", region: "jeju", cats: ["food"], title: "What to Eat in Jeju – Neulbom Heukdwaeji Black Pork BBQ" },
   { id: "8Fc8TP05Wfs", region: "jeju", cats: ["food"], title: "Why Jeju's Black Pork Is a Must-Try" },
   { id: "tSZVmJKzH5k", region: "jeju", cats: ["food", "travel"], title: "Ultimate Jeju Island Food Tour" },
   { id: "w12hNrPkBxQ", region: "jeju", cats: ["food"], title: "Jeju Street Food – Black Pork Street & Dongmun Market" },

@@ -17,6 +17,7 @@ window.LANGS = [
 
 window.I18N = {
   ko: {
+    travelInfo: "{r} 여행 정보", foods: "대표 음식", spots: "가볼 곳", places: "영상에 나온 맛집·장소", book: "여행 예약", watch: "영상 보기", naverMap: "네이버 지도", googleMap: "구글 지도", t_restaurant: "맛집", t_market: "시장", t_spot: "명소", affNote: "일부 링크는 제휴 링크예요. 예약하시면 사이트 운영에 도움이 되는 수수료가 지급될 수 있어요(가격은 같아요).", placeNote: "위치·영업시간은 바뀔 수 있으니 지도에서 꼭 확인하세요.", hideInfo: "접기", showInfo: "여행 정보 보기",
     allShows: "전체 프로그램", creators: "유튜버 영상",
     tagline: "한국 여행·음식·문화 유튜브를 지역별로",
     subtitleLang: "자막 언어",
@@ -31,6 +32,7 @@ window.I18N = {
     capNone: "이 영상에는 자막 트랙이 없어 번역 자막을 켤 수 없어요.",
   },
   en: {
+    travelInfo: "{r} travel guide", foods: "Must-eat", spots: "Must-see", places: "Places from the videos", book: "Book your trip", watch: "Watch", naverMap: "Naver Map", googleMap: "Google Maps", t_restaurant: "Restaurant", t_market: "Market", t_spot: "Sight", affNote: "Some links are affiliate links. If you book, this site may earn a commission at no extra cost to you.", placeNote: "Locations and hours change — please check the map before you go.", hideInfo: "Hide", showInfo: "Show travel guide",
     allShows: "All programs", creators: "YouTube creators",
     tagline: "Korean travel, food & culture videos by region",
     subtitleLang: "Subtitles",
@@ -45,6 +47,7 @@ window.I18N = {
     capNone: "This video has no caption track, so translated subtitles aren't available.",
   },
   ja: {
+    travelInfo: "{r} 旅行ガイド", foods: "名物グルメ", spots: "観光スポット", places: "動画に登場したお店・スポット", book: "旅行の予約", watch: "動画を見る", naverMap: "NAVER地図", googleMap: "Googleマップ", t_restaurant: "飲食店", t_market: "市場", t_spot: "名所", affNote: "一部のリンクはアフィリエイトリンクです。予約すると当サイトに手数料が入る場合があります（料金は変わりません）。", placeNote: "場所や営業時間は変わることがあります。地図で確認してください。", hideInfo: "閉じる", showInfo: "旅行ガイドを見る",
     allShows: "すべての番組", creators: "YouTuber動画",
     tagline: "韓国の旅・グルメ・文化の動画を地域別に",
     subtitleLang: "字幕",
@@ -59,6 +62,7 @@ window.I18N = {
     capNone: "この動画には字幕トラックがないため、翻訳字幕を表示できません。",
   },
   "zh-Hans": {
+    travelInfo: "{r} 旅游指南", foods: "必吃美食", spots: "必去景点", places: "视频中出现的餐厅·景点", book: "预订行程", watch: "看视频", naverMap: "Naver 地图", googleMap: "谷歌地图", t_restaurant: "餐厅", t_market: "市场", t_spot: "景点", affNote: "部分链接为联盟链接，您预订后本站可能获得佣金（价格不变）。", placeNote: "位置和营业时间可能变动，请出发前在地图上确认。", hideInfo: "收起", showInfo: "查看旅游指南",
     allShows: "全部节目", creators: "YouTuber 视频",
     tagline: "按地区浏览韩国旅行·美食·文化视频",
     subtitleLang: "字幕",
@@ -73,6 +77,7 @@ window.I18N = {
     capNone: "该视频没有字幕轨道，无法显示翻译字幕。",
   },
   "zh-Hant": {
+    travelInfo: "{r} 旅遊指南", foods: "必吃美食", spots: "必去景點", places: "影片中出現的餐廳·景點", book: "預訂行程", watch: "看影片", naverMap: "Naver 地圖", googleMap: "Google 地圖", t_restaurant: "餐廳", t_market: "市場", t_spot: "景點", affNote: "部分連結為聯盟連結，您預訂後本站可能獲得佣金（價格不變）。", placeNote: "位置與營業時間可能變動，請出發前在地圖上確認。", hideInfo: "收合", showInfo: "查看旅遊指南",
     allShows: "全部節目", creators: "YouTuber 影片",
     tagline: "依地區瀏覽韓國旅遊·美食·文化影片",
     subtitleLang: "字幕",

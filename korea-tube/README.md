@@ -42,3 +42,15 @@ cd korea-tube && python3 -m http.server 8000   # http://localhost:8000
 
 GitHub Pages, Netlify, Vercel 등에 이 폴더를 그대로 올리면 됩니다.
 (`file://` 로 직접 열면 유튜브 플레이어가 동작하지 않으니 꼭 웹서버로 열어 주세요.)
+
+## 지역 여행 정보 · 맛집 · 제휴 링크
+지역을 선택하면 영상 목록 위에 **여행 정보 칸**이 나옵니다.
+
+- `data/places.js`
+  - `REGION_INFO`: 지역 소개, 대표 음식, 가볼 곳 (ko/en, 다른 언어는 en 사용)
+  - `PLACES`: 영상에 나온 맛집·시장·명소. `videos` 에 영상 ID를 넣으면 "영상 보기" 버튼이 생깁니다.
+    주소·영업시간은 적지 않고 네이버/구글 지도 검색 링크(`q`)로 연결합니다.
+- `data/affiliates.js`: 여행 예약 버튼(Klook, KKday, Agoda, Booking.com)
+  - 지금은 일반 검색 링크입니다. 제휴 승인 후 받은 **추적 링크**로 `url` 을 바꾸고 `tracked: true` 로 하세요.
+  - `{q}` 자리에 "Busan, Korea" 같은 지역 이름이 들어갑니다.
+  - `tracked: true` 가 하나라도 있으면 "제휴 링크 포함" 안내가 자동 표시됩니다.
