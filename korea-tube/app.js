@@ -73,19 +73,47 @@
   // ---------- 지도 ----------
   // Leaflet 이 로드되지 않으면(차단·오프라인) 지도 없이 지역 칩만으로 동작
   const hasMap = typeof window.L !== "undefined";
-  const KOREA = [[33.0, 125.0], [38.6, 130.0]];
-  const markers = {};
+  const KOREA = [[33.1, 125.9], [38.65, 129.6]];
+  const areas = {};
+  const labels = {};
+  let hoverKey = null;
+  // 라벨 위치: 작은 광역시와 겹치지 않게 조정한 곳만 지정 (없으면 REGIONS 의 좌표)
+  const LABEL_POS = {
+    gyeonggi: [37.2, 127.3], gangwon: [37.75, 128.3], chungcheong: [36.55, 127.35],
+    gyeongbuk: [36.45, 128.75], gyeongnam: [35.35, 128.1], jeonnam: [34.95, 126.95],
+    busan: [35.12, 129.22],
+  };
   let map = null;
   if (hasMap) {
-    map = L.map("map", { scrollWheelZoom: false }).fitBounds(KOREA);
+    map = L.map("map", { scrollWheelZoom: false, zoomSnap: 0.25 }).fitBounds(KOREA);
     L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
       maxZoom: 12, minZoom: 6,
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
     }).addTo(map);
+    // 시·도 경계를 지역별로 음영 표시 (data/korea-provinces.js). 경계 데이터가 없으면 동그라미로 대체
+    const toggle = (key) => selectRegion(state.region === key ? null : key);
+    if (window.KOREA_PROVINCES) {
+      for (const r of REGIONS) {
+        const layer = L.geoJSON(
+          { type: "FeatureCollection", features: KOREA_PROVINCES.features.filter((f) => f.properties.region === r.key) },
+          { style: { weight: 1.2 } },
+        ).addTo(map);
+        layer.on("click", () => toggle(r.key));
+        layer.on("mouseover", () => { hoverKey = r.key; renderMap(); });
+        layer.on("mouseout", () => { hoverKey = null; renderMap(); });
+        areas[r.key] = layer;
+      }
+    } else {
+      for (const r of REGIONS) {
+        areas[r.key] = L.circleMarker([r.lat, r.lng], { radius: 14, weight: 2 }).addTo(map).on("click", () => toggle(r.key));
+      }
+    }
+    // 지역 이름 라벨 (누르면 그 지역 선택)
     for (const r of REGIONS) {
-      markers[r.key] = L.circleMarker([r.lat, r.lng], { radius: 14, weight: 2 })
-        .addTo(map)
-        .on("click", () => selectRegion(state.region === r.key ? null : r.key));
+      const [lat, lng] = LABEL_POS[r.key] || [r.lat, r.lng];
+      labels[r.key] = L.tooltip({ permanent: true, direction: "center", className: "region-label", interactive: true })
+        .setLatLng([lat, lng]).setContent("").addTo(map);
+      labels[r.key].getElement()?.addEventListener("click", () => toggle(r.key));
     }
   } else {
     $("map").hidden = true;
@@ -102,21 +130,24 @@
   function renderMap() {
     if (!hasMap) return;
     const accent = cssVar("--accent"), strong = cssVar("--accent-strong");
+    const max = Math.max(1, ...REGIONS.map((r) => countFor(r.key)));
     for (const r of REGIONS) {
-      const m = markers[r.key];
       const n = countFor(r.key);
       const active = state.region === r.key;
-      m.setStyle({
-        radius: active ? 18 : 10 + Math.min(n, 8),
+      const hover = hoverKey === r.key;
+      // 영상이 많을수록 진하게, 선택한 지역은 가장 진하게
+      const base = n ? 0.12 + 0.38 * (n / max) : 0.04;
+      areas[r.key].setStyle({
         color: active ? strong : accent,
+        weight: active ? 2.5 : 1.2,
         fillColor: active ? strong : accent,
-        fillOpacity: n ? (active ? 0.85 : 0.55) : 0.15,
+        fillOpacity: active ? 0.6 : hover ? Math.min(base + 0.15, 0.7) : base,
+        ...(areas[r.key].setRadius ? { radius: active ? 18 : 10 + Math.min(n, 8) } : {}),
       });
-      m.unbindTooltip();
-      m.bindTooltip(`${regionName(r)} · ${n}`, {
-        permanent: true, direction: "top", offset: [0, -10],
-        className: "region-label" + (active ? " active" : ""),
-      });
+      if (active && areas[r.key].bringToFront) areas[r.key].bringToFront();
+      const el = labels[r.key].getElement();
+      labels[r.key].setContent(`${regionName(r)} <b>${n}</b>`);
+      if (el) el.classList.toggle("active", active);
     }
   }
 
@@ -158,7 +189,9 @@
     state.region = key;
     if (map && key) {
       const r = REGIONS.find((x) => x.key === key);
-      map.flyTo([r.lat, r.lng], Math.max(map.getZoom(), 7), { duration: 0.6 });
+      const b = areas[key].getBounds ? areas[key].getBounds() : null;
+      if (b && b.isValid()) map.flyToBounds(b, { padding: [30, 30], maxZoom: 9, duration: 0.6 });
+      else map.flyTo([r.lat, r.lng], Math.max(map.getZoom(), 7), { duration: 0.6 });
     } else if (map) {
       map.flyToBounds(KOREA, { duration: 0.6 });
     }
