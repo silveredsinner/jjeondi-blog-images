@@ -23,6 +23,7 @@ window.AFFILIATES = [
 window.KKDAY_WIDGETS = {
   seoul: "14078",
   gyeonggi: "14079",
+  gangwon: "14082",
   chungcheong: "14081",
   busan: "14077",
 };
