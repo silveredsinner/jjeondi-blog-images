@@ -1,5 +1,19 @@
 [
   {
+    "slug": "2026-10-11-gyeonggi",
+    "date": "2026-10-11",
+    "region": "gyeonggi",
+    "title": {
+      "ko": "경기·인천 영상 속 맛집·명소: 제이미 로맥과 함께 걷는 인천 문학경기장과 랜더스 펍",
+      "en": "Gyeonggi·Incheon on Screen: Munhak Stadium and Landers Pub from Jamie Romak's KBO Memory Trip"
+    },
+    "summary": {
+      "ko": "'어서와 한국은 처음이지' EP.444에서 제이미 로맥이 다시 찾은 인천 문학경기장과 SSG 랜더스 테마 펍을 소개합니다. 야구와 치맥을 함께 즐기는 인천 당일치기 코스입니다.",
+      "en": "Revisit the Incheon spots from Jamie Romak's KBO memory trip on 'Welcome, First Time in Korea?' EP.444: Munhak Stadium, home of the SSG Landers, and a Landers-themed pub for a post-game beer."
+    },
+    "cover": "U5_MLHWltKw"
+  },
+  {
     "slug": "2026-10-11-chungcheong-market-eats",
     "date": "2026-10-11",
     "region": "chungcheong",
@@ -12,5 +26,19 @@
       "en": "Eumseong, Cheonan, Cheongju, Jecheon and Daejeon: market restaurants and a famous bakery from YouTube, with map links."
     },
     "cover": "xZOgnxlWMSE"
+  },
+  {
+    "slug": "2026-10-11-busan",
+    "date": "2026-10-11",
+    "region": "busan",
+    "title": {
+      "ko": "부산 영상 속 맛집·명소: 족발거리와 황령산 야경",
+      "en": "Busan on Screen: Jokbal Street and the Hwangnyeongsan Night View"
+    },
+    "summary": {
+      "ko": "'어서와 한국은 처음이지' 부산 편에 나온 부산 족발거리와 야경 명소로 알려진 황령산 정상을 소개합니다. 저녁은 족발로, 밤은 산 위에서 도시 불빛과 함께 보내는 코스입니다.",
+      "en": "Two Busan stops linked to the show 'Welcome, First Time in Korea?': Jokbal Street for braised pig's trotters and the Hwangnyeongsan summit, known for its night view. Dinner first, city lights after."
+    },
+    "cover": "ZJWdoRyWpRM"
   }
 ]
