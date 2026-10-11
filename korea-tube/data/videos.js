@@ -86,4 +86,76 @@ window.VIDEOS = [
   { id: "tSZVmJKzH5k", region: "jeju", cats: ["food", "travel"], title: "Ultimate Jeju Island Food Tour" },
   { id: "w12hNrPkBxQ", region: "jeju", cats: ["food"], title: "Jeju Street Food – Black Pork Street & Dongmun Market" },
   { id: "to09DCFBC3w", region: "jeju", cats: ["food", "culture"], title: "Top 10 Must-Try Jeju Island Foods" },
+
+  // ---- 추가 영상 ----
+  // 서울
+  { id: "GZ19bu0Uwmw", region: "seoul", cats: ["food"], title: "The Korean BBQ You Must-Eat in Seoul" },
+  { id: "10PXs5uNizg", region: "seoul", cats: ["food", "travel"], title: "Walking Through the Food Alley in Mapo, Seoul (4K)" },
+  { id: "-EpYVDdr28U", region: "seoul", cats: ["culture"], title: "Korean Templestay Program at Bongeunsa Temple" },
+  { id: "ymanyBefqm4", region: "seoul", cats: ["culture"], title: "Inside a 600-Year-Old Korean Temple in Seoul – Templestay & Buddhism" },
+  { id: "gfLENahnU-I", region: "seoul", cats: ["culture", "food"], title: "Kimchi Museum Cooking Class in Seoul" },
+  { id: "nPdlof5VpEA", region: "seoul", cats: ["culture", "food"], title: "Korean Royal Court Cuisine" },
+
+  // 경기·인천
+  { id: "4urFCY-yQjg", region: "gyeonggi", cats: ["culture"], title: "Foreigners at Yongjoosa Temple Stay Learn Korean Buddhist Culture" },
+  { id: "u28jZSGAXBE", region: "gyeonggi", cats: ["travel"], title: "Suwon Day Trip in Spring – Hwaseong Fortress & Hanok Cafe" },
+  { id: "KAxu61ssQ1A", region: "gyeonggi", cats: ["travel", "food"], title: "Exploring Incheon Chinatown & Wolmi Island" },
+
+  // 강원
+  { id: "4XSsFNsQstA", region: "gangwon", cats: ["food"], title: "Chuncheon Dakgalbi & Nami Island" },
+  { id: "QMHjjtCd7Zc", region: "gangwon", cats: ["travel"], title: "Seoul to Chuncheon Korea" },
+  { id: "9es1UOwrJrU", region: "gangwon", cats: ["culture"], title: "Temple Stay Experience at Woljeongsa Temple" },
+  { id: "pUFen3b4yYo", region: "gangwon", cats: ["travel", "food"], title: "Sokcho Trip – Beach, Cafes, Central Market & Makgeolli Bread" },
+
+  // 충청·대전
+  { id: "O6TiJrfHIr0", region: "chungcheong", cats: ["travel", "culture"], title: "Buyeo Trip – Baekje Cultural Land" },
+  { id: "lvJ1P-Z-AGQ", region: "chungcheong", cats: ["culture", "travel"], title: "Not Seoul, But Korea ep.03 – Buyeo, Capital of Baekje" },
+  { id: "6uIaRyhkHbY", region: "chungcheong", cats: ["culture"], title: "K-UNESCO Adventure Ep3 – Baekje Historic Areas" },
+  { id: "pT0PfB24lVI", region: "chungcheong", cats: ["food"], title: "The Most Famous Bakery in Daejeon (Sungsimdang)" },
+
+  // 전북
+  { id: "hn-XKPVdMo0", region: "jeonbuk", cats: ["culture", "food"], title: "Jeonju Vlog – Gyeonggijeon Shrine & Tteokgalbi" },
+  { id: "1JqvLe8gGS0", region: "jeonbuk", cats: ["food"], title: "Korean Street Food at Jeonju Hanok Village" },
+
+  // 전남
+  { id: "onPkqArVH4g", region: "jeonnam", cats: ["food"], title: "Damyang Tteokgalbi & Bamboo Rice (Zeit für Hansik #11)" },
+  { id: "B7Zcf9oSjTk", region: "jeonnam", cats: ["travel"], title: "Bamboo Forest + Things to Do in Damyang" },
+  { id: "aPLfay-XLvU", region: "jeonnam", cats: ["travel"], title: "Quick 1-Day Tour of Mokpo's Major Attractions" },
+  { id: "hh2QPbsd_ig", region: "jeonnam", cats: ["food"], title: "What Real Southern Korean Food Looks Like (Jeonju & Mokpo)" },
+  { id: "3PK-A1LmBJQ", region: "jeonnam", cats: ["travel"], title: "Exploring Jeollanam-do: A Scenic Journey" },
+
+  // 경북
+  { id: "bZ0CTEahxpY", region: "gyeongbuk", cats: ["travel", "culture"], title: "Andong & Hahoe Village – UNESCO, Hanok Stay & Market" },
+  { id: "E6pfhgGh0jo", region: "gyeongbuk", cats: ["travel", "food"], title: "10 Things to Do in Andong" },
+  { id: "gHJ1wy5nrwg", region: "gyeongbuk", cats: ["culture"], title: "Andong Hahoe Village – Where K-Dramas Get Their Soul" },
+  { id: "3_lbDaSgKnk", region: "gyeongbuk", cats: ["culture"], title: "Temple Stay & Sunmudo Demonstration at Golgulsa Temple" },
+  { id: "b-ap7OkYNgQ", region: "gyeongbuk", cats: ["food", "travel"], title: "A Perfect 2 Days in Gyeongju: Food and Travel Guide" },
+
+  // 대구
+  { id: "j1CT-I1HeRs", region: "daegu", cats: ["travel", "food"], title: "Day Trip to Daegu from Busan – Local Food & Public Transport" },
+  { id: "NQqCTLHnNQ0", region: "daegu", cats: ["food", "travel"], title: "大邱 Day 1 – Beef Bone Soup, Spicy Tteokbokki & Hanok Starbucks" },
+
+  // 경남
+  { id: "zaCFhS2PO3M", region: "gyeongnam", cats: ["food"], title: "Jinju Naengmyeon, Jukjeon & Suyuk (Zeit für Hansik #10)" },
+  { id: "VTksE8CVpW0", region: "gyeongnam", cats: ["food"], title: "Lunch at Parkgunja Jinju Naengmyeon" },
+  { id: "y8wy6wMSfdE", region: "gyeongnam", cats: ["travel"], title: "Tongyeong, South Korea Tour" },
+  { id: "P9qpZ_5m1dY", region: "gyeongnam", cats: ["culture"], title: "Is Korea's Templestay Right for You? (Haeinsa Temple)" },
+  { id: "qSK6yJ5XM6U", region: "gyeongnam", cats: ["travel", "food", "culture"], title: "Jinhae Cherry Blossom Festival: Tips, Tricks & Food" },
+  { id: "7Dz3rR8_CFY", region: "gyeongnam", cats: ["travel", "food"], title: "Jinhae Cherry Blossom Festival: A Feast for the Eyes and Taste Buds" },
+
+  // 부산
+  { id: "jP6rtQWgFs8", region: "busan", cats: ["travel"], title: "Gamcheon Culture Village & Haeundae Beach" },
+  { id: "wiZEP4pxOts", region: "busan", cats: ["culture", "travel"], title: "Korea's Rainbow Town: Gamcheon Culture Village" },
+  { id: "anedartZpOo", region: "busan", cats: ["food"], title: "Busan's Famous Dwaeji Gukbap" },
+  { id: "AphJn-_tkFg", region: "busan", cats: ["food"], title: "Famous Korean Cold Noodles in Busan" },
+  { id: "hUoEj-3GFMg", region: "busan", cats: ["travel"], title: "Busan Vlog – Haeundae, Gamcheon, BIFF Square, Jagalchi, Gwangalli" },
+
+  // 제주
+  { id: "fAXN4IIiny4", region: "jeju", cats: ["culture"], title: "Diving with Legends: Jeju's Sea Women (Haenyeo)" },
+  { id: "t3XnwQ0xTKA", region: "jeju", cats: ["culture"], title: "Haenyeo, Wisdom of the Sea" },
+  { id: "tKC4Ws9nF38", region: "jeju", cats: ["culture"], title: "World's Oldest Divers – Jeju Haenyeo" },
+  { id: "P6H9y7tNfIE", region: "jeju", cats: ["food"], title: "Jeju Island Korean Seafood Tour (From $1 to $350)" },
+  { id: "In8J_DwJ_GY", region: "jeju", cats: ["food"], title: "Massive Korean Seafood Hotpot – Seafood Tour of Jeju" },
+  { id: "FSHRF_joORo", region: "jeju", cats: ["food"], title: "Korea's Best Seafood in Jeju" },
+  { id: "5y0H7uNLS5c", region: "jeju", cats: ["food", "travel"], title: "Eating Through Korea's Food Island: Jeju" },
 ];
