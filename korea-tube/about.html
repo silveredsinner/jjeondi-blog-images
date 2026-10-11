@@ -1,0 +1,80 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>소개 · About | Korea Tube</title>
+  <meta name="description" content="Korea Tube 소개, 연락처, 면책 안내">
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23d9480f'/%3E%3Cpath d='M12 9l12 7-12 7z' fill='white'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="blog/blog.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="index.html"><span class="logo" aria-hidden="true">▶</span><h1>Korea Tube</h1></a>
+    <nav class="bp-nav">
+      <a href="blog/index.html">Blog</a>
+      <button class="bp-switch" data-to="ko">한국어</button>
+      <button class="bp-switch" data-to="en">English</button>
+    </nav>
+  </header>
+  <main class="bp-main">
+    <article class="bp-lang" lang="ko" data-lang="ko">
+      <h1>Korea Tube 소개</h1>
+      <p class="bp-summary">한국 여행·음식·문화 유튜브 영상을 지역별로 모아, 원하는 언어 자막으로 볼 수 있게 정리한 사이트예요.</p>
+      <h2>무엇을 하나요</h2>
+      <ul>
+        <li>유튜브에 공개된 영상을 지역(지도)·카테고리·프로그램별로 분류해 소개해요.</li>
+        <li>영상에 나온 맛집과 장소를 지도 링크와 함께 정리해요.</li>
+        <li>지역 여행 정보와 블로그 글을 써요.</li>
+      </ul>
+      <h2>영상과 저작권</h2>
+      <p>모든 영상은 유튜브의 공식 퍼가기(임베드) 기능으로 재생되며, 영상과 썸네일의 저작권은 각 채널과 방송사에 있어요. 이 사이트는 MBC every1, TV CHOSUN, 백종원 채널 등 어떤 방송사·채널과도 제휴하거나 후원을 받지 않았어요. 프로그램 이름은 영상을 분류하기 위해서만 써요.</p>
+      <p>삭제되거나 비공개로 바뀐 영상은 자동으로 확인해 사이트에서 숨겨요.</p>
+      <h2>정보를 만드는 방법</h2>
+      <p>맛집·장소 정보는 영상 설명란, 채널 댓글, 공개된 기사·글에서 이름을 확인한 것만 실어요. 일부 정보와 블로그 글 초안은 AI(Claude)의 도움을 받아 만들고, 사람이 확인한 뒤 올려요. 영업시간·위치·가격은 바뀔 수 있으니 방문 전에 지도에서 확인해 주세요.</p>
+      <h2>제휴 링크</h2>
+      <p>여행 예약 버튼 중 일부는 제휴 링크일 수 있어요. 이 링크로 예약하시면 사이트 운영에 도움이 되는 수수료를 받을 수 있지만, 가격은 같아요.</p>
+      <h2>연락처 · 수정·삭제 요청</h2>
+      <p>잘못된 정보, 영상 삭제 요청, 제휴 문의는 <a href="https://github.com/silveredsinner/jjeondi-blog-images/issues" target="_blank" rel="noopener">GitHub 이슈</a>로 남겨 주세요. 영상 주인이나 가게에서 삭제를 요청하시면 빠르게 반영할게요.</p>
+    </article>
+    <article class="bp-lang" lang="en" data-lang="en">
+      <h1>About Korea Tube</h1>
+      <p class="bp-summary">Korea Tube collects YouTube videos about travel, food and culture in Korea by region, and lets you watch them with subtitles in your language.</p>
+      <h2>What we do</h2>
+      <ul>
+        <li>We organize publicly available YouTube videos by region (map), category and program.</li>
+        <li>We list the restaurants and places that appear in the videos, with map links.</li>
+        <li>We write regional travel notes and blog posts.</li>
+      </ul>
+      <h2>Videos and copyright</h2>
+      <p>All videos play through YouTube's official embedded player. Videos and thumbnails belong to their channels and broadcasters. This site is not affiliated with, endorsed by or sponsored by MBC every1, TV CHOSUN, Paik Jong-won's channel or any other broadcaster or creator. Program names are used only to categorize videos.</p>
+      <p>Videos that are deleted or made private are detected automatically and hidden from the site.</p>
+      <h2>How the information is made</h2>
+      <p>We only list a restaurant or place when its name can be confirmed in the video description, a channel comment, or a published article. Some information and blog drafts are prepared with the help of AI (Claude) and checked by a person before publishing. Hours, locations and prices change, so please check a map before you go.</p>
+      <h2>Affiliate links</h2>
+      <p>Some booking buttons may be affiliate links. If you book through them, this site may earn a commission at no extra cost to you.</p>
+      <h2>Contact, corrections and removal requests</h2>
+      <p>Please report mistakes, request removals or ask about partnerships via <a href="https://github.com/silveredsinner/jjeondi-blog-images/issues" target="_blank" rel="noopener">GitHub Issues</a>. Requests from video owners or businesses are handled promptly.</p>
+    </article>
+  </main>
+  <footer class="foot site-foot">
+    <a href="about.html">소개 · About</a> · <a href="privacy.html">개인정보처리방침 · Privacy</a>
+  </footer>
+  <script>
+    (function () {
+      var saved; try { saved = localStorage.getItem("kt.lang"); } catch (e) {}
+      var q = new URLSearchParams(location.search).get("lang");
+      function show(l) {
+        document.querySelectorAll(".bp-lang").forEach(function (a) { a.hidden = a.dataset.lang !== l; });
+        document.documentElement.lang = l;
+      }
+      var l = q || saved;
+      show(!l || l === "ko" ? "ko" : "en");
+      document.querySelectorAll(".bp-switch").forEach(function (b) {
+        b.onclick = function () { show(b.dataset.to); try { localStorage.setItem("kt.lang", b.dataset.to); } catch (e) {} };
+      });
+    })();
+  </script>
+</body>
+</html>
