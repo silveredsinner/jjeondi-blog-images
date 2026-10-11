@@ -27,6 +27,9 @@
 ```
 
 - `region` 키: `seoul, gyeonggi, gangwon, chungcheong, jeonbuk, jeonnam, gyeongbuk, daegu, gyeongnam, busan, jeju`
+- 여러 지역이 나오는 영상은 `region: ["seoul", "gangwon"]` 처럼 배열로 쓰면 양쪽 지역에 모두 표시됩니다.
+- 방송 프로그램 클립은 `show: "hello1stkorea"` 를 붙이면 카드에 프로그램 이름이 표시되고, 프로그램 이름으로 검색할 수 있습니다.
+  프로그램은 `SHOWS` 에 추가합니다. 저작권 문제를 피하려면 **방송사 공식 채널에 올라온 영상만** 넣으세요.
 - 지역을 늘리려면 `REGIONS` 에 `{ key, ko, en, lat, lng }` 를 추가하세요.
 
 ## 로컬 실행 / 배포

@@ -1,7 +1,8 @@
 // 지역·카테고리 데이터와 영상 목록.
 // 영상을 추가하려면 VIDEOS 배열에 { id, title, region, cats } 한 줄을 넣으면 됩니다.
 //   id     : 유튜브 영상 ID (youtube.com/watch?v=XXXX 의 XXXX)
-//   region : 아래 REGIONS 의 key
+//   region : 아래 REGIONS 의 key. 여러 지역이 나오면 ["seoul", "gangwon"] 처럼 배열
+//   show   : (선택) 방송 프로그램 key — 아래 SHOWS 참고
 //   cats   : "food" | "travel" | "culture" 중 하나 이상
 
 window.REGIONS = [
@@ -17,6 +18,10 @@ window.REGIONS = [
   { key: "busan",     ko: "부산",       en: "Busan",            lat: 35.18,   lng: 129.08 },
   { key: "jeju",      ko: "제주",       en: "Jeju",             lat: 33.40,   lng: 126.55 },
 ];
+
+window.SHOWS = {
+  hello1stkorea: { ko: "어서와 한국은 처음이지", en: "Welcome, First Time in Korea? (MBC every1)" },
+};
 
 window.VIDEOS = [
   // 서울
@@ -158,4 +163,25 @@ window.VIDEOS = [
   { id: "In8J_DwJ_GY", region: "jeju", cats: ["food"], title: "Massive Korean Seafood Hotpot – Seafood Tour of Jeju" },
   { id: "FSHRF_joORo", region: "jeju", cats: ["food"], title: "Korea's Best Seafood in Jeju" },
   { id: "5y0H7uNLS5c", region: "jeju", cats: ["food", "travel"], title: "Eating Through Korea's Food Island: Jeju" },
+
+  // ---- 어서와 한국은 처음이지 (MBC every1) ----
+  { show: "hello1stkorea", id: "TQ5Qvhl7hsY", region: "seoul", cats: ["travel"], title: "라망의 소원! 서울 시티투어 버스 타고 남산타워로 (EP.417)" },
+  { show: "hello1stkorea", id: "YQns4VAN7r8", region: "seoul", cats: ["travel", "culture"], title: "27년 만에 한국 방문 – 난지도부터 여의도까지 (EP.433)" },
+  { show: "hello1stkorea", id: "Bx09PpxOzMk", region: "seoul", cats: ["food"], title: "[하이라이트] 신촌 단골집에서 모듬 곱창에 살얼음 소맥, 한국 첫 한식!" },
+  { show: "hello1stkorea", id: "XwCqH_8hGZ0", region: ["seoul", "gangwon"], cats: ["travel", "culture"], title: "[요약] 경복궁부터 KTX 타고 강릉으로 – 캐나다 다둥이 가족" },
+  { show: "hello1stkorea", id: "8GBNRqTq9Ww", region: "gangwon", cats: ["travel"], title: "기대하던 강릉역에 도착한 캐나다 가족 (EP.427)" },
+  { show: "hello1stkorea", id: "3v4YvmiZFzw", region: "gangwon", cats: ["travel"], title: "[하이라이트] 강릉 바다 보고 초흥분한 4남매" },
+  { show: "hello1stkorea", id: "U5_MLHWltKw", region: "gyeonggi", cats: ["culture", "food"], title: "[요약] 제이미 로맥의 KBO 추억 여행 – 인천 문학경기장, 치맥 (EP.444)" },
+  { show: "hello1stkorea", id: "2e02jJ6kBBI", region: "jeonbuk", cats: ["travel", "food", "culture"], title: "뉴질랜드 사 형제의 전주 여행 – 한정식, 경기전 (EP.266)" },
+  { show: "hello1stkorea", id: "78d_mitSTVk", region: "jeonbuk", cats: ["food"], title: "(1시간) 파코, 전주에선 잘 먹었니? – 전주 한정식 하이라이트" },
+  { show: "hello1stkorea", id: "mdpSZXJ6bUs", region: "jeonnam", cats: ["culture", "travel"], title: "외국인들의 전통 놀이 체험 – 낙안읍성 & 순천만 (EP.385)" },
+  { show: "hello1stkorea", id: "ZJWdoRyWpRM", region: "busan", cats: ["travel"], title: "친구 찾아 부산행 – 해동용궁사 (EP.287)" },
+  { show: "hello1stkorea", id: "f4nAamavqRI", region: "busan", cats: ["food", "culture"], title: "부전시장에서 발견한 K-기술 (EP.439)" },
+  { show: "hello1stkorea", id: "-Lr84RSaIkY", region: "busan", cats: ["food"], title: "[하이라이트] 부전시장에서 그릇 72개 산 미슐랭 셰프들 + 김밥 첫 경험" },
+  { show: "hello1stkorea", id: "XGrrzGKGqY0", region: "busan", cats: ["food"], title: "미슐랭 셰프들이 선택한 부산 저녁 – 족발 먹방 (EP.438)" },
+  { show: "hello1stkorea", id: "5ThiIY-Kg60", region: "busan", cats: ["food"], title: "[하이라이트] 부산 족발거리 – 족발, 불족발, 냉채족발, 막국수" },
+  { show: "hello1stkorea", id: "bPiNak40Pz8", region: "gyeongnam", cats: ["food", "culture"], title: "[하이라이트] 해녀를 위한 미슐랭 요리 – 갓 잡은 거제 해산물" },
+  { show: "hello1stkorea", id: "uxGWG4hMsm4", region: "jeju", cats: ["travel", "food"], title: "제주 해산물 아침, 협재 오션뷰 카페, 흑돼지 (EP.303)" },
+  { show: "hello1stkorea", id: "gwkq82E6M7k", region: "jeju", cats: ["travel"], title: "어서와 한국은 두 번째지? 제주에서 다시 만난 친구들 (EP.29-1)" },
+  { show: "hello1stkorea", id: "mwblwy0tp7k", region: "jeju", cats: ["travel", "food"], title: "(4시간) 여름 분위기 낭낭한 제주도 여행 모음" },
 ];
