@@ -131,6 +131,13 @@ button { font: inherit; color: inherit; cursor: pointer; }
 
 .foot { max-width: 1400px; margin: 0 auto; padding: 8px 24px 32px; color: var(--muted); font-size: 12px; }
 
+.foot-links { margin-top: 8px; }
+.foot a, .site-foot a { color: var(--muted); }
+.region-links { margin-top: 6px; line-height: 1.9; }
+.site-foot { text-align: center; padding: 16px 16px 32px; }
+.bp-cta { display: inline-block; padding: 8px 14px; border-radius: 10px; background: var(--accent); color: #fff !important; text-decoration: none; font-weight: 600; }
+.bp-video em { display: block; font-style: normal; font-size: 11px; color: var(--accent-strong); margin-top: 3px; }
+
 dialog {
   width: min(960px, calc(100vw - 32px)); padding: 0; border: 1px solid var(--border);
   border-radius: 14px; background: var(--surface); color: var(--text);

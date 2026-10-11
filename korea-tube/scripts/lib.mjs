@@ -10,6 +10,7 @@ export const SITE = path.resolve(here, "..");
 export const p = (...xs) => path.join(SITE, ...xs);
 
 export const MODEL = "claude-opus-5-5";
+const FAVICON = `<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23d9480f'/%3E%3Cpath d='M12 9l12 7-12 7z' fill='white'/%3E%3C/svg%3E">`;
 
 // 브라우저용 data/*.js 파일들을 window 객체에 실행해서 그대로 읽는다.
 export function loadSiteData() {
@@ -117,6 +118,13 @@ export function renderPost(post) {
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>${esc(post.title.ko)} | Korea Tube</title>
   <meta name="description" content="${esc(post.summary.ko)}">
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Korea Tube">
+  <meta property="og:title" content="${esc(post.title.ko)}">
+  <meta property="og:description" content="${esc(post.summary.ko)}">
+  ${post.videos[0] ? `<meta property="og:image" content="https://i.ytimg.com/vi/${esc(post.videos[0].id)}/hqdefault.jpg">` : ""}
+  <meta name="twitter:card" content="summary_large_image">
+  ${FAVICON}
   <link rel="stylesheet" href="../../styles.css">
   <link rel="stylesheet" href="../blog.css">
 </head>
@@ -131,6 +139,9 @@ export function renderPost(post) {
   </header>
   <main class="bp-main">${section("ko")}${section("en")}
   </main>
+  <footer class="foot site-foot">
+    <a href="../../about.html">소개 · About</a> · <a href="../../privacy.html">개인정보처리방침 · Privacy</a>
+  </footer>
   <script src="../../data/hidden-videos.js"></script>
   <script>
     (function () {
