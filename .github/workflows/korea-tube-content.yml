@@ -46,11 +46,13 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           MAX_VIDEOS: ${{ inputs.max_videos || '15' }}
           ONLY_SHOWS: ${{ inputs.only_shows || '0' }}
+          REVIEW_FILE: ${{ runner.temp }}/review.md
         run: node enrich.mjs
       - name: 블로그 글 초안 쓰기
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           BLOG_REGION: ${{ inputs.blog_region }}
+          REVIEW_FILE: ${{ runner.temp }}/review.md
         run: node blog.mjs
       - name: 확인용 PR 만들기
         uses: peter-evans/create-pull-request@v7
@@ -63,9 +65,4 @@ jobs:
             korea-tube/blog/**
           commit-message: "Korea Tube: 영상 속 맛집 자동 추출 + 블로그 초안"
           title: "Korea Tube 자동 업데이트: 맛집 정보·블로그 초안"
-          body: |
-            영상 설명란과 댓글에서 자동으로 찾은 맛집과, 그걸로 쓴 블로그 글 초안이에요.
-            병합하기 전에 확인해 주세요:
-            - `korea-tube/data/auto/places-auto.json` 의 `evidence` (근거 문장)가 실제로 그 가게를 가리키는지
-            - `korea-tube/blog/posts/` 의 글 내용에 틀린 정보가 없는지
-            틀린 항목은 이 PR 에서 지우거나 고친 뒤 병합하면 사이트에 자동 배포돼요.
+          body-path: ${{ runner.temp }}/review.md

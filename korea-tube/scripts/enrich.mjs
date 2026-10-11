@@ -3,7 +3,8 @@
 // 선택: MAX_VIDEOS (한 번에 처리할 영상 수, 기본 15), ONLY_SHOWS=1 (방송 프로그램 영상만)
 //       VIDEO_IDS=id1,id2 (이 영상만 처리, 이미 처리한 영상도 다시)
 import fs from "node:fs";
-import { loadSiteData, readJson, writeJson, regionsOf, normName, askJson, p } from "./lib.mjs";
+import { loadSiteData, readJson, writeJson, regionsOf, normName, askJson } from "./lib.mjs";
+import { buildPlacesJs } from "./build-places.mjs";
 
 const YT_KEY = process.env.YOUTUBE_API_KEY;
 const MAX = Number(process.env.MAX_VIDEOS || 15);
@@ -91,10 +92,10 @@ for (const v of todo) {
     continue;
   }
   const comments = await yt("commentThreads", { part: "snippet", videoId: v.id, order: "relevance", maxResults: "15", textFormat: "plainText" });
-  const commentText = (comments.items || [])
-    .map((c) => c.snippet.topLevelComment.snippet)
-    .map((c) => `- ${c.authorDisplayName}${c.authorChannelId?.value === sn.channelId ? " (채널 주인)" : ""}: ${c.textDisplay}`)
-    .join("\n");
+  const cs = (comments.items || []).map((c) => c.snippet.topLevelComment.snippet);
+  const isOwner = (c) => c.authorChannelId?.value === sn.channelId;
+  const commentText = cs.map((c) => `- ${c.authorDisplayName}${isOwner(c) ? " (채널 주인)" : ""}: ${c.textDisplay}`).join("\n");
+  const ownerText = squash(cs.filter(isOwner).map((c) => c.textDisplay).join("\n"));
   const regions = regionsOf(v).map((r) => `${r} (${site.REGIONS.find((x) => x.key === r)?.ko})`).join(", ");
 
   const registered = [...site.PLACES, ...store].filter((x) => regionsOf(v).includes(x.region)).map((x) => `- ${x.ko}`).join("\n");
@@ -134,13 +135,18 @@ ${commentText || "(없음)"}`;
       if (!existing.videos.includes(v.id) && store.includes(existing)) existing.videos.push(v.id);
       continue;
     }
+    // 근거가 어디서 나왔는지는 모델이 아니라 원문 위치로 판정
+    const ev = squash(x.evidence);
+    const src = squash(sn.description).includes(ev) ? "description" : ownerText.includes(ev) ? "owner_comment" : "viewer_comment";
+    // needs_check 는 맨 앞에 둔다: 승인할 때 그 한 줄만 지워도 JSON 이 깨지지 않도록
     const place = {
+      ...(src === "viewer_comment" ? { needs_check: true } : {}),
       region: x.region, type: x.type, ko: x.name_ko, en: x.name_en, q: x.map_query.trim() || x.name_ko,
       menu_ko: x.menu_ko, menu_en: x.menu_en, videos: [v.id],
-      auto: true, evidence: x.evidence, added: today(),
+      auto: true, source: src, evidence: x.evidence, added: today(),
     };
     store.push(place);
-    added.push(place);
+    added.push({ ...place, video_title: sn.title });
     n++;
   }
   processed[v.id] = { date: today(), status: "done", found: n };
@@ -150,13 +156,32 @@ ${commentText || "(없음)"}`;
 writeJson("data/auto/places-auto.json", store);
 writeJson("data/auto/processed.json", processed);
 writeJson("data/auto/last-run.json", { date: today(), added });
-fs.writeFileSync(
-  p("data/places-auto.js"),
-  `// 자동 생성 파일: scripts/enrich.mjs 가 영상 설명란·댓글에서 뽑은 장소 (data/auto/places-auto.json 에서 만들어짐)\n` +
-  `// 직접 고치려면 data/auto/places-auto.json 을 고친 뒤 다시 생성하거나, 확정된 항목은 data/places.js 로 옮기세요.\n` +
-  `window.PLACES_AUTO = ${JSON.stringify(store.map(({ evidence, added, ...rest }) => rest), null, 2)};\n`,
-);
-console.log(`\n새로 찾은 장소 ${added.length}곳`);
+buildPlacesJs();
+writeReview(added, todo.length);
+console.log(`\n새로 찾은 장소 ${added.length}곳 (확인 필요 ${added.filter((x) => x.needs_check).length}곳)`);
+
+// PR 본문으로 쓸 검토 요약 (REVIEW_FILE 환경변수 경로, 없으면 쓰지 않음)
+function writeReview(list, nVideos) {
+  if (!process.env.REVIEW_FILE) return;
+  const q = (s) => encodeURIComponent(s);
+  const label = { description: "설명란", owner_comment: "채널 댓글", viewer_comment: "시청자 댓글" };
+  const line = (x) => `- **${x.ko}** (${x.en}) · ${x.menu_ko} · 근거: ${label[x.source]}\n` +
+    `  - 영상: [${x.video_title}](https://www.youtube.com/watch?v=${x.videos[0]})\n` +
+    `  - 근거 원문: ${x.evidence.replace(/\s+/g, " ").slice(0, 200)}`;
+  const check = list.filter((x) => x.needs_check), ok = list.filter((x) => !x.needs_check);
+  const md = [
+    `영상 ${nVideos}개의 설명란·댓글에서 새 장소 ${list.length}곳을 찾았어요.`,
+    "",
+    `## ⚠️ 확인 필요 ${check.length}곳 (시청자 댓글만 근거)`,
+    check.length ? "사이트와 블로그에 **아직 공개되지 않아요.** 맞으면 `korea-tube/data/auto/places-auto.json` 에서 그 항목의 `\"needs_check\": true,` 줄을 지우고, 틀리면 항목을 통째로 지운 뒤 병합하세요." : "없음",
+    ...check.map((x) => line(x) + `\n  - 검색: [네이버](https://search.naver.com/search.naver?query=${q(x.q)}) · [구글](https://www.google.com/search?q=${q(x.q)})`),
+    "",
+    `## ✅ 설명란·채널 댓글 근거 ${ok.length}곳 (병합하면 공개)`,
+    ...(ok.length ? ok.map(line) : ["없음"]),
+    "",
+  ].join("\n");
+  fs.writeFileSync(process.env.REVIEW_FILE, md);
+}
 
 // 같은 장소 판정: 정규화한 이름이 같거나, 3글자 이상에서 한쪽이 다른 쪽을 포함
 function sameName(existingKo, key) {

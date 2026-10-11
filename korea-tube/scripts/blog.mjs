@@ -2,22 +2,26 @@
 // 필요한 환경변수: ANTHROPIC_API_KEY
 // 선택: BLOG_REGION=busan  → 새 장소와 상관없이 그 지역의 모든 장소로 글 쓰기
 //       MIN_PLACES=2       → 새 장소가 이 수 이상인 지역만 글 쓰기 (기본 2)
+import fs from "node:fs";
 import { loadSiteData, readJson, askJson, savePost } from "./lib.mjs";
 
 const site = loadSiteData();
 const MIN = Number(process.env.MIN_PLACES || 2);
 const today = new Date().toISOString().slice(0, 10);
 
+// 확인 필요(needs_check) 장소는 글에 쓰지 않는다. PLACES_AUTO 에는 이미 빠져 있음
 const allPlaces = [...site.PLACES, ...site.PLACES_AUTO];
 let groups = {};
 if (process.env.BLOG_REGION) {
   const r = process.env.BLOG_REGION;
   groups[r] = allPlaces.filter((x) => x.region === r);
 } else {
-  for (const x of readJson("data/auto/last-run.json", { added: [] }).added) (groups[x.region] ||= []).push(x);
+  for (const x of readJson("data/auto/last-run.json", { added: [] }).added) if (!x.needs_check) (groups[x.region] ||= []).push(x);
   groups = Object.fromEntries(Object.entries(groups).filter(([, xs]) => xs.length >= MIN));
 }
+if (process.env.REVIEW_FILE) fs.appendFileSync(process.env.REVIEW_FILE, "\n## 블로그 초안\n");
 if (!Object.keys(groups).length) {
+  if (process.env.REVIEW_FILE) fs.appendFileSync(process.env.REVIEW_FILE, "이번에는 없음 (새 장소가 2곳 이상 모인 지역이 없음)\n");
   console.log("새 글을 쓸 만큼 장소가 모인 지역이 없어요.");
   process.exit(0);
 }
@@ -74,4 +78,5 @@ ${videos.map((v) => `- ${v.title}${v.show ? ` [${v.show}]` : ""}`).join("\n")}
     videos: videos.map(({ id, title }) => ({ id, title })),
   });
   console.log(`  → blog/posts/${slug}.html`);
+  if (process.env.REVIEW_FILE) fs.appendFileSync(process.env.REVIEW_FILE, `\n- 📝 블로그 초안: \`korea-tube/blog/posts/${slug}.html\` — ${out.title_ko}`);
 }
