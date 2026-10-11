@@ -127,6 +127,8 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .show:empty { display: none; }
 .tags { display: flex; flex-wrap: wrap; gap: 4px; margin-top: 8px; }
 .tag { font-size: 11px; padding: 2px 7px; border-radius: 999px; background: var(--bg); color: var(--muted); border: 1px solid var(--border); }
+.tag.subs { background: var(--accent); color: #fff; border-color: transparent; font-weight: 600; }
+.chip.subs-chip { border-style: dashed; }
 .tag.region { background: var(--accent-soft); color: var(--accent-strong); border-color: transparent; font-weight: 600; }
 
 .foot { max-width: 1400px; margin: 0 auto; padding: 8px 24px 32px; color: var(--muted); font-size: 12px; }
@@ -149,6 +151,10 @@ dialog::backdrop { background: rgba(0,0,0,.6); }
 .icon-btn:hover { background: var(--bg); }
 .player-wrap { aspect-ratio: 16 / 9; background: #000; }
 .player-wrap iframe, .player-wrap #player { width: 100%; height: 100%; display: block; border: 0; }
+.caption-status .cap-warn { color: var(--accent-strong); font-weight: 600; }
+.caption-status .cap-avail { font-size: 12px; margin-top: 2px; }
+.caption-status .cap-yt { display: inline-block; margin-top: 6px; font-weight: 600; color: var(--accent-strong); }
+.caption-status .cap-how { font-size: 12px; margin-top: 2px; }
 .caption-status { margin: 0; padding: 8px 14px 12px; font-size: 13px; color: var(--muted); min-height: 1.5em; }
 
 /* ---------- 지역 여행 정보 ---------- */

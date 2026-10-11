@@ -13,6 +13,7 @@
     q: "",
     show: "all", // "all" | "none"(유튜버 영상) | SHOWS key
     infoOpen: true,
+    subsOnly: false,
   };
   readUrlState();
 
@@ -199,12 +200,19 @@
   }
 
   // ---------- 영상 목록 ----------
+  // 영상별 자막 언어 (data/video-subs.js). 확인 전이면 undefined
+  const SUBS = window.VIDEO_SUBS || {};
+  const hasSubsData = () => Object.keys(SUBS).length > 0;
+  const hasMySubs = (v) => (SUBS[v.id] || []).some((c) => sameLang(c, state.lang));
+  const subsFilterOn = () => state.subsOnly && state.lang !== "ko" && hasSubsData();
+
   function filtered() {
     const q = state.q.trim().toLowerCase();
     return VIDEOS.filter((v) =>
       (!state.region || regionsOf(v).includes(state.region)) &&
       (state.cat === "all" || v.cats.includes(state.cat)) &&
       matchShow(v, state.show) &&
+      (!subsFilterOn() || hasMySubs(v)) &&
       (!q || `${v.title} ${showName(v)}`.toLowerCase().includes(q))
     );
   }
@@ -222,10 +230,12 @@
         <div class="meta">
           <div class="title"></div>
           <div class="show"></div>
-          <div class="tags">${regionsOf(v).map(() => '<span class="tag region"></span>').join("")}${v.cats.map((c) => `<span class="tag">${t(c)}</span>`).join("")}</div>
+          <div class="tags">${state.lang !== "ko" && hasMySubs(v) ? '<span class="tag subs"></span>' : ""}${regionsOf(v).map(() => '<span class="tag region"></span>').join("")}${v.cats.map((c) => `<span class="tag">${t(c)}</span>`).join("")}</div>
         </div>`;
       card.querySelector(".title").textContent = v.title;
       card.querySelector(".show").textContent = showName(v);
+      const subsTag = card.querySelector(".tag.subs");
+      if (subsTag) subsTag.textContent = "CC " + t("subsBadge", { lang: langLabel(state.lang) });
       card.querySelectorAll(".tag.region").forEach((el, i) => {
         el.textContent = regionName(REGIONS.find((x) => x.key === regionsOf(v)[i]));
       });
@@ -383,6 +393,11 @@
       if (key !== "all" && key !== "none") b.classList.add("program");
       el.appendChild(b);
     }
+    if (state.lang !== "ko" && hasSubsData()) {
+      const b = chip("CC " + t("onlySubs", { lang: langLabel(state.lang) }), state.subsOnly, () => { state.subsOnly = !state.subsOnly; renderAll(); });
+      b.classList.add("subs-chip");
+      el.appendChild(b);
+    }
   }
   $("search").oninput = (e) => { state.q = e.target.value; renderGrid(); };
 
@@ -398,7 +413,9 @@
     if (pending) { openPlayer(pending); pending = null; }
   };
 
+  let currentVideo = null;
   function openPlayer(v) {
+    currentVideo = v;
     $("playerTitle").textContent = v.title;
     setCapStatus("");
     if (!dialog.open) dialog.showModal();
@@ -451,22 +468,52 @@
         return;
       }
       const lang = state.lang;
-      const base = (code) => code.toLowerCase().split("-")[0];
-      const exact = tracks.find((tr) => tr.languageCode === lang) ||
-        (lang.startsWith("zh") ? null : tracks.find((tr) => base(tr.languageCode) === base(lang)));
-      if (exact) {
-        player.setOption("captions", "track", exact);
-      } else {
-        // 사람이 만든 자막 > 자동 생성(asr) 순으로 원본 선택 후 번역
-        const source = tracks.find((tr) => tr.kind !== "asr") || tracks[0];
-        player.setOption("captions", "track", { ...source, translationLanguage: { languageCode: lang } });
-      }
-      setCapStatus(t("capOn", { lang: langLabel(lang) }));
+      const pick = pickTrack(tracks, lang);
+      if (pick.track) player.setOption("captions", "track", pick.track);
+      else if (lang === "ko") player.unloadModule?.("captions"); // 한국어 화면에서 한국어 자막이 없으면 끔
+      showCaptionStatus(pick, tracks, lang);
     } catch (err) {
       console.warn("caption setup failed", err);
     }
   }
 
+  // 유튜브 퍼가기 플레이어는 영상에 이미 있는 자막만 켤 수 있다 (자동 번역은 YouTube 사이트에서만 가능).
+  // 선택한 언어 → 영어 순으로 고르고, 없으면 YouTube 자동 번역으로 보는 방법을 안내한다.
+  function sameLang(code, lang) {
+    const c = String(code || "").toLowerCase();
+    if (lang === "zh-Hans") return /^zh(-(hans|cn|sg))?$/.test(c);
+    if (lang === "zh-Hant") return /^zh-(hant|tw|hk|mo)$/.test(c);
+    return c.split("-")[0] === lang.toLowerCase().split("-")[0];
+  }
+  function pickTrack(tracks, lang) {
+    const human = (xs) => xs.find((tr) => tr.kind !== "asr") || xs[0];
+    const mine = tracks.filter((tr) => sameLang(tr.languageCode, lang));
+    if (mine.length) return { track: human(mine), exact: true };
+    if (lang === "ko") return { track: null, exact: false };
+    const en = tracks.filter((tr) => sameLang(tr.languageCode, "en"));
+    return en.length ? { track: human(en), exact: false, fallback: "English" } : { track: null, exact: false };
+  }
+  function trackName(tr) {
+    const name = tr.languageName || tr.displayName || tr.languageCode;
+    return tr.kind === "asr" ? `${name} (auto)` : name;
+  }
+  function showCaptionStatus(pick, tracks, lang) {
+    const box = $("captionStatus");
+    box.innerHTML = "";
+    const line = (text, cls) => { const d = document.createElement("div"); if (cls) d.className = cls; d.textContent = text; box.appendChild(d); return d; };
+    if (pick.exact) line(t("capOn", { lang: langLabel(lang) }));
+    else if (pick.fallback) line(t("capFallback", { lang: langLabel(lang), fb: pick.fallback }), "cap-warn");
+    else if (lang !== "ko") line(tracks.length ? t("capNoneLang", { lang: langLabel(lang) }) : t("capNone"), "cap-warn");
+    if (tracks.length) line(t("capAvail", { list: tracks.map(trackName).join(", ") }), "cap-avail");
+    if (!pick.exact && lang !== "ko" && tracks.length && currentVideo) {
+      const a = document.createElement("a");
+      a.href = `https://www.youtube.com/watch?v=${currentVideo.id}&hl=${lang}`;
+      a.target = "_blank"; a.rel = "noopener"; a.className = "cap-yt";
+      a.textContent = t("capYoutube", { lang: langLabel(lang) }) + " ↗";
+      box.appendChild(a);
+      line(t("capHow", { lang: langLabel(lang) }), "cap-how");
+    }
+  }
   function setCapStatus(msg) { $("captionStatus").textContent = msg; }
 
   function closePlayer() {
