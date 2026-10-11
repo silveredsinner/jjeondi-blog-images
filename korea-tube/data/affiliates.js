@@ -22,6 +22,7 @@ window.AFFILIATES = [
 // 지역 key → oid. 지역마다 Product City 를 골라 코드를 만들고 여기에 oid 를 추가하세요. 없는 지역은 위젯이 안 나와요.
 window.KKDAY_WIDGETS = {
   seoul: "14078",
+  gyeonggi: "14079",
   busan: "14077",
 };
 window.KKDAY_WIDGET_JS = "https://kkpartners.kkday.com/iframe.init.1.0.js";
