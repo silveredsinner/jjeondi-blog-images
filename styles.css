@@ -139,6 +139,46 @@ dialog::backdrop { background: rgba(0,0,0,.6); }
 .player-wrap iframe, .player-wrap #player { width: 100%; height: 100%; display: block; border: 0; }
 .caption-status { margin: 0; padding: 8px 14px 12px; font-size: 13px; color: var(--muted); min-height: 1.5em; }
 
+/* ---------- 지역 여행 정보 ---------- */
+.region-info {
+  margin-top: 14px; padding: 16px 18px; border-radius: 14px;
+  background: var(--surface); border: 1px solid var(--border); box-shadow: var(--shadow);
+}
+.region-info h2 { margin: 0; font-size: 17px; }
+.region-info h3 { font-size: 13px; color: var(--muted); margin: 16px 0 8px; font-weight: 600; }
+.info-head { display: flex; align-items: center; justify-content: space-between; gap: 12px; }
+.info-toggle { border: 1px solid var(--border); background: var(--bg); border-radius: 8px; padding: 4px 10px; font-size: 12px; color: var(--muted); }
+.info-intro { margin: 8px 0 0; font-size: 14px; }
+.info-cols { display: grid; grid-template-columns: 1fr 1fr; gap: 0 20px; }
+.info-col h3 { margin-top: 14px; }
+.info-tags { display: flex; flex-wrap: wrap; gap: 6px; }
+.info-tag { font-size: 13px; padding: 4px 10px; border-radius: 999px; background: var(--accent-soft); color: var(--accent-strong); text-decoration: none; }
+.info-tag.link { background: var(--bg); color: var(--text); border: 1px solid var(--border); }
+.info-tag.link:hover { border-color: var(--accent); }
+.place-list { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 10px; }
+.place { border: 1px solid var(--border); border-radius: 10px; padding: 10px 12px; background: var(--bg); }
+.place-top { display: flex; align-items: center; gap: 6px; }
+.place-top strong { font-size: 14px; }
+.place-type { font-size: 11px; padding: 1px 7px; border-radius: 999px; background: var(--surface); border: 1px solid var(--border); color: var(--muted); flex: none; }
+.place-type.restaurant { color: var(--accent-strong); border-color: var(--accent); }
+.place-menu { font-size: 12px; color: var(--muted); margin: 4px 0 8px; }
+.place-btns { display: flex; flex-wrap: wrap; gap: 6px; }
+.info-btn {
+  font-size: 12px; padding: 4px 9px; border-radius: 7px; border: 1px solid var(--border);
+  background: var(--surface); color: var(--text); text-decoration: none;
+}
+.info-btn:hover { border-color: var(--accent); }
+.info-btn.primary { background: var(--accent); border-color: var(--accent); color: #fff; }
+.info-note { font-size: 11px; color: var(--muted); margin: 8px 0 0; }
+.aff-row { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 8px; }
+.aff-btn {
+  display: flex; flex-direction: column; gap: 2px; padding: 10px 12px; border-radius: 10px;
+  border: 1px solid var(--border); background: var(--bg); color: var(--text); text-decoration: none;
+}
+.aff-btn:hover { border-color: var(--accent); }
+.aff-btn strong { font-size: 14px; }
+.aff-btn span { font-size: 12px; color: var(--muted); }
+
 @media (max-width: 860px) {
   .topbar { padding: 10px 16px; }
   .layout { grid-template-columns: 1fr; padding: 16px; gap: 16px; }
@@ -150,5 +190,7 @@ dialog::backdrop { background: rgba(0,0,0,.6); }
   .lang span { display: none; }
   #search { max-width: none; }
   .show-chips { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 4px; }
+  .region-info { padding: 14px; }
+  .info-cols { grid-template-columns: 1fr; }
   .grid { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 12px; }
 }

@@ -8,6 +8,7 @@
     cat: "all",
     q: "",
     show: "all", // "all" | "none"(유튜버 영상) | SHOWS key
+    infoOpen: true,
   };
   readUrlState();
 
@@ -189,6 +190,106 @@
     }
   }
 
+  // ---------- 지역 여행 정보 ----------
+  function el(tag, cls, text) {
+    const e = document.createElement(tag);
+    if (cls) e.className = cls;
+    if (text != null) e.textContent = text;
+    return e;
+  }
+  function linkBtn(href, text, cls = "info-btn") {
+    const a = el("a", cls, text);
+    a.href = href; a.target = "_blank"; a.rel = "noopener sponsored";
+    return a;
+  }
+  const mapLinks = (q) => ({
+    naver: `https://map.naver.com/p/search/${encodeURIComponent(q)}`,
+    google: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(q)}`,
+  });
+
+  function renderRegionInfo() {
+    const box = $("regionInfo");
+    const r = REGIONS.find((x) => x.key === state.region);
+    const info = r && window.REGION_INFO && REGION_INFO[r.key];
+    box.hidden = !info;
+    box.innerHTML = "";
+    if (!info) return;
+    const L = state.lang === "ko" ? info.ko : info.en;
+    const ko = state.lang === "ko";
+
+    const head = el("div", "info-head");
+    head.appendChild(el("h2", null, t("travelInfo", { r: regionName(r) })));
+    const toggle = el("button", "info-toggle", state.infoOpen ? t("hideInfo") : t("showInfo"));
+    toggle.onclick = () => { state.infoOpen = !state.infoOpen; renderRegionInfo(); };
+    head.appendChild(toggle);
+    box.appendChild(head);
+    if (!state.infoOpen) return;
+
+    box.appendChild(el("p", "info-intro", L.intro));
+
+    const cols = el("div", "info-cols");
+    for (const [key, items, linkable] of [["foods", L.foods, false], ["spots", L.spots, true]]) {
+      const col = el("div", "info-col");
+      col.appendChild(el("h3", null, t(key)));
+      const list = el("div", "info-tags");
+      for (const it of items) {
+        if (linkable) {
+          list.appendChild(linkBtn(mapLinks(`${it} ${r.en}`).google, it, "info-tag link"));
+        } else {
+          list.appendChild(el("span", "info-tag", it));
+        }
+      }
+      col.appendChild(list);
+      cols.appendChild(col);
+    }
+    box.appendChild(cols);
+
+    // 영상에 나온 맛집·장소
+    const places = (window.PLACES || []).filter((p) => p.region === r.key);
+    if (places.length) {
+      box.appendChild(el("h3", null, t("places")));
+      const list = el("div", "place-list");
+      for (const p of places) {
+        const item = el("div", "place");
+        const top = el("div", "place-top");
+        top.appendChild(el("span", `place-type ${p.type}`, t(`t_${p.type}`)));
+        top.appendChild(el("strong", null, ko ? p.ko : p.en));
+        item.appendChild(top);
+        item.appendChild(el("div", "place-menu", ko ? p.menu_ko : p.menu_en));
+        const btns = el("div", "place-btns");
+        const vids = p.videos.map((id) => VIDEOS.find((v) => v.id === id)).filter(Boolean);
+        if (vids.length) {
+          const b = el("button", "info-btn primary", `▶ ${t("watch")}${vids.length > 1 ? ` (${vids.length})` : ""}`);
+          b.onclick = () => openPlayer(vids[0]);
+          btns.appendChild(b);
+        }
+        const m = mapLinks(p.q);
+        btns.appendChild(linkBtn(m.naver, t("naverMap")));
+        btns.appendChild(linkBtn(m.google, t("googleMap")));
+        item.appendChild(btns);
+        list.appendChild(item);
+      }
+      box.appendChild(list);
+      box.appendChild(el("p", "info-note", t("placeNote")));
+    }
+
+    // 여행 예약 (제휴)
+    const affs = window.AFFILIATES || [];
+    if (affs.length) {
+      box.appendChild(el("h3", null, t("book")));
+      const row = el("div", "aff-row");
+      const q = encodeURIComponent(`${r.en.split("·")[0]}, Korea`);
+      for (const a of affs) {
+        const link = linkBtn(a.url.replace("{q}", q), "", "aff-btn");
+        link.appendChild(el("strong", null, a.name));
+        link.appendChild(el("span", null, ko ? a.kind_ko : a.kind_en));
+        row.appendChild(link);
+      }
+      box.appendChild(row);
+      if (affs.some((a) => a.tracked)) box.appendChild(el("p", "info-note", t("affNote")));
+    }
+  }
+
   function renderStatic() {
     document.documentElement.lang = state.lang;
     document.querySelectorAll("[data-i18n]").forEach((el) => { el.textContent = t(el.dataset.i18n); });
@@ -201,6 +302,7 @@
     renderChips();
     renderShowChips();
     renderMap();
+    renderRegionInfo();
     renderGrid();
     writeUrlState();
   }
