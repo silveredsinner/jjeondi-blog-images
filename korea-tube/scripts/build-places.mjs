@@ -39,6 +39,22 @@ export function buildHiddenJs() {
   return { hidden: hidden.length };
 }
 
+// data/auto/videos-auto.json → data/videos-auto.js (discover.mjs 가 찾은 영상을 사이트 영상 목록에 더함)
+export function buildVideosJs() {
+  let store = [];
+  try { store = JSON.parse(fs.readFileSync(path.join(SITE, "data/auto/videos-auto.json"), "utf8")); } catch (e) {
+    if (fs.existsSync(path.join(SITE, "data/auto/videos-auto.json"))) throw new Error(`data/auto/videos-auto.json 형식이 깨졌어요 (쉼표·따옴표를 확인하세요): ${e.message}`);
+  }
+  const pub = store.map(({ id, region, cats, title }) => ({ id, region, cats, title }));
+  fs.writeFileSync(
+    path.join(SITE, "data/videos-auto.js"),
+    `// 자동 생성 파일: data/auto/videos-auto.json 에서 scripts/build-places.mjs 가 만듦. 직접 고치지 마세요.\n` +
+    `// 영상을 빼려면 data/auto/videos-auto.json 에서 그 항목을 지우세요.\n` +
+    `window.VIDEOS.push(...${JSON.stringify(pub, null, 2)});\n`,
+  );
+  return { videos: pub.length };
+}
+
 // data/auto/availability.json → data/video-views.js (영상별 조회수, 목록을 조회수 순으로 정렬할 때 씀)
 export function buildViewsJs() {
   let avail = {};
@@ -72,5 +88,6 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
   const h = buildHiddenJs();
   const sb = buildSubsJs();
   const vw = buildViewsJs();
-  console.log(`places-auto.js: ${r.published}/${r.total}곳 공개, hidden-videos.js: ${h.hidden}개 숨김, video-subs.js: ${sb.videos}개 영상, video-views.js: ${vw.videos}개 영상`);
+  const va = buildVideosJs();
+  console.log(`places-auto.js: ${r.published}/${r.total}곳 공개, hidden-videos.js: ${h.hidden}개 숨김, video-subs.js: ${sb.videos}개 영상, video-views.js: ${vw.videos}개 영상, videos-auto.js: ${va.videos}개 영상`);
 }

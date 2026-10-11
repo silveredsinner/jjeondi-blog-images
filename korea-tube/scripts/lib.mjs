@@ -16,7 +16,7 @@ const FAVICON = `<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://
 export function loadSiteData() {
   const window = {};
   const ctx = vm.createContext({ window });
-  for (const f of ["data/videos.js", "data/places.js", "data/places-auto.js", "data/i18n-content.js"]) {
+  for (const f of ["data/videos.js", "data/videos-auto.js", "data/places.js", "data/places-auto.js", "data/i18n-content.js"]) {
     if (fs.existsSync(p(f))) vm.runInContext(fs.readFileSync(p(f), "utf8"), ctx, { filename: f });
   }
   window.PLACES_AUTO ||= [];
