@@ -27,3 +27,5 @@
 .bp-empty { color: var(--muted); }
 @media (max-width: 600px) { .bp-item a { grid-template-columns: 1fr; } }
 @media (max-width: 400px) { .bp-nav { gap: 6px; } .bp-nav a, .bp-switch { padding: 6px 7px; font-size: 13px; } }
+.bp-kk ins { display: block; min-height: 120px; }
+.bp-kk iframe { max-width: 100%; }
