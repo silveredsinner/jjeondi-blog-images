@@ -1,4 +1,8 @@
 (() => {
+  // 유튜브에서 삭제·비공개·퍼가기 금지된 영상은 처음부터 빼고 시작 (data/hidden-videos.js)
+  const hiddenVideos = new Set(window.HIDDEN_VIDEOS || []);
+  window.VIDEOS = window.VIDEOS.filter((v) => !hiddenVideos.has(v.id));
+
   const CATS = ["all", "food", "travel", "culture"];
   const $ = (id) => document.getElementById(id);
 
