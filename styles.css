@@ -161,6 +161,7 @@ dialog::backdrop { background: rgba(0,0,0,.6); }
 .place-top strong { font-size: 14px; }
 .place-type { font-size: 11px; padding: 1px 7px; border-radius: 999px; background: var(--surface); border: 1px solid var(--border); color: var(--muted); flex: none; }
 .place-type.restaurant { color: var(--accent-strong); border-color: var(--accent); }
+.place-ko { font-size: 12px; color: var(--muted); margin-top: 2px; }
 .place-menu { font-size: 12px; color: var(--muted); margin: 4px 0 8px; }
 .place-btns { display: flex; flex-wrap: wrap; gap: 6px; }
 .info-btn {
