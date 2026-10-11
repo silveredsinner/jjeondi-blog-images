@@ -9,8 +9,9 @@ window.AFFILIATES = [
   { key: "klook", name: "Klook", kind: "k_tours",
     url: "https://affiliate.klook.com/redirect?aid=138702&aff_adid=1494114&k_site={site}",
     site: "https://www.klook.com/search/result/?query={q}", tracked: true },
+  // KKday 제휴 사이트 번호(cid) 27380
   { key: "kkday", name: "KKday", kind: "k_exp",
-    url: "https://www.kkday.com/en/product/productlist?keyword={q}", tracked: false },
+    url: "https://www.kkday.com/en/product/productlist?keyword={q}&cid=27380", cityOnly: true, tracked: true },
   { key: "agoda", name: "Agoda", kind: "k_hotels",
     url: "https://www.agoda.com/search?textToSearch={q}", tracked: false },
   { key: "booking", name: "Booking.com", kind: "k_hotels",
