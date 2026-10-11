@@ -14,8 +14,23 @@ window.AFFILIATES = [
     url: "https://www.kkday.com/en/product/productlist?keyword={q}&cid=27380", cityOnly: true, tracked: true },
   { key: "agoda", name: "Agoda", kind: "k_hotels",
     url: "https://www.agoda.com/search?textToSearch={q}", tracked: false },
-  { key: "booking", name: "Booking.com", kind: "k_hotels",
-    url: "https://www.booking.com/searchresults.html?ss={q}", tracked: false },
+  // Klook 호텔: 지역마다 클룩 호텔 목록 페이지 (sites). 지역 key 가 없으면 버튼이 안 나와요.
+  { key: "klookhotel", name: "Klook", kind: "k_hotels",
+    url: "https://affiliate.klook.com/redirect?aid=138702&k_site={site}",
+    sites: {
+      seoul: "https://www.klook.com/hotels/city/13-seoul-hotels/?aid=138702",
+      gyeonggi: "https://www.klook.com/hotels/city/158-incheon-hotels/?aid=138702",
+      gangwon: "https://www.klook.com/destination/c156-gangwon-do/3-hotel/?aid=138702",
+      chungcheong: "https://www.klook.com/hotels/city/6268-daejeon-hotels/?aid=138702",
+      jeonbuk: "https://www.klook.com/destination/p50001575-jeonju-hanok-village/3-hotel/?aid=138702",
+      jeonnam: "https://www.klook.com/destination/c703649-yeosu/3-hotel/?aid=138702",
+      gyeongbuk: "https://www.klook.com/hotels/city/8928-gyeongju-hotels/?aid=138702",
+      daegu: "https://www.klook.com/hotels/city/545-daegu-hotels/?aid=138702",
+      gyeongnam: "https://www.klook.com/destination/p60018709-tongyeong-chungryeolsa-temple/3-hotel/?aid=138702",
+      busan: "https://www.klook.com/hotels/city/46-busan-hotels/?aid=138702",
+      jeju: "https://www.klook.com/hotels/city/20544-jeju-hotels/?aid=138702",
+    },
+    tracked: true },
 ];
 
 // KKday 상품 카드 위젯 (KKday 파트너 → Tools → Dynamic Product Ads 에서 만든 코드의 data-oid 값).
