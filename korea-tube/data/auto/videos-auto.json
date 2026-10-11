@@ -1,1 +1,379 @@
-[]
+[
+  {
+    "id": "ljf8yxDQ1d0",
+    "region": "seoul",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "Traditional Korean Street Food Tour at Gwangjang Market in Seoul!",
+    "channel": "Best Ever Food Review Show",
+    "views": 9080072,
+    "evidence": "Gwangjang Market in Seoul",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "VjKhhZoaZRE",
+    "region": "jeju",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "British Highschoolers Shocked by Korean Seafood FEAST on Jeju island!!",
+    "channel": "영국남자 Korean Englishman",
+    "views": 8068495,
+    "evidence": "Jeju Gwanghae",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "e5gBtcN5ogE",
+    "region": "jeju",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "British Highschoolers try Jeju Black Pork: the ULTIMATE Korean BBQ.",
+    "channel": "영국남자 Korean Englishman",
+    "views": 6638004,
+    "evidence": "돈사돈 중문점",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "4OeGMFTVssA",
+    "region": "seoul",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "$100 Korean Street Food Challenge!! Seoul's Bizarre Bites!!",
+    "channel": "More Best Ever Food Review Show",
+    "views": 5952470,
+    "evidence": "Seoul, SOUTH KOREA",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "zPuLGkluoTY",
+    "region": "seoul",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "Eating the BEST KOREAN STREET FOOD in SEOUL",
+    "channel": "Doobydobap",
+    "views": 3588273,
+    "evidence": "gwangjang market",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "qsA0YfKQ4Uo",
+    "region": "jeju",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "Jeju Island Korean Seafood Tour!! (From $1 to $350)",
+    "channel": "More Best Ever Food Review Show",
+    "views": 3064062,
+    "evidence": "Dongmun Fish Market",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "hrX8Uzy8GfE",
+    "region": "jeju",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "Korean Street Food After Dark!! (Jeju Fire and Ash)",
+    "channel": "More Best Ever Food Review Show",
+    "views": 2957685,
+    "evidence": "Dongmun Market",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "4OoeIddpJis",
+    "region": "daegu",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "Mukbang | 대구 서문시장에서 이것저것 먹방 | 신서문김밥, 어묵, 만두, 냄비우동, 서문카스테라",
+    "channel": "까니짱 [ KANI, 蟹ちゃん]",
+    "views": 2687648,
+    "evidence": "대구 서문시장",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "wftv9ZjZk7g",
+    "region": "seoul",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "Best Korean Food!! HUGE BONE HOTPOT + 5 Must Eat Foods in Seoul!",
+    "channel": "Mark Wiens",
+    "views": 2526810,
+    "evidence": "Must Eat Foods in Seoul",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "fEQQTTmiF5E",
+    "region": "daegu",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "Mukbang | 대구 김민경의 섹시한 떡볶이 먹방 | Tteokbokki, Mini Kimbap, Skewered Sundae!",
+    "channel": "까니짱 [ KANI, 蟹ちゃん]",
+    "views": 2480444,
+    "evidence": "대구 서문시장",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "-RqaB36PZJ0",
+    "region": "seoul",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "Must Try Before You Die!! Korea's Seoul Street Food!!",
+    "channel": "More Best Ever Food Review Show",
+    "views": 2282942,
+    "evidence": "Korea's Seoul Street Food",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "1JIOAUEPYLQ",
+    "region": "busan",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "Korean Street Food - EXTREME SEAFOOD + Must Eat Food in Busan, South Korea!! 🇰🇷",
+    "channel": "Mark Wiens",
+    "views": 2206752,
+    "evidence": "Jagalchi Market, Busan",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "vZKkx9d85Tw",
+    "region": "gyeonggi",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "리얼먹방:) 소머리국밥, 붕어찜, 만두, 케밥 MUKBANG ★ ft.경안전통시장,귤농장,도자체험ㅣGwangju-si, Gyeonggi-doㅣREAL SOUNDㅣ",
+    "channel": "[햄지]Hamzy",
+    "views": 2183732,
+    "evidence": "Gwangju-si, Gyeonggi-do",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "70rijjnK5GQ",
+    "region": "seoul",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "MY GUIDE to SEOUL (what to eat & see for 72hrs)",
+    "channel": "Doobydobap",
+    "views": 1690285,
+    "evidence": "Gwangjang Market",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "QIRSoRaVeiU",
+    "region": "jeju",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "Every Korean Noodle on Jeju Island!!",
+    "channel": "More Best Ever Food Review Show",
+    "views": 1621876,
+    "evidence": "Jeju Island",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "WdEJWfrSgVo",
+    "region": "jeju",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "Korea's STRANGEST Food is on Jeju Island!!",
+    "channel": "More Best Ever Food Review Show",
+    "views": 1587962,
+    "evidence": "Jeju Island",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "QEFNqozmQUE",
+    "region": "seoul",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "The Chui Show: FILIPINO tries BEST KOREAN Street Food of SEOUL! 100 Hours of EATING in KOREA",
+    "channel": "The Chui Show",
+    "views": 1516921,
+    "evidence": "Gwangjang Market",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "G65C-mqL3ho",
+    "region": "busan",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "24hr KOREAN STREET FOOD in BUSAN",
+    "channel": "Doobydobap",
+    "views": 1462186,
+    "evidence": "BUSAN",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "tdrv1YMOvRQ",
+    "region": "jeju",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "I Ate the Best KOREAN FOOD in Jeju Island for 24 Hours!!",
+    "channel": "Mark Wiens",
+    "views": 1313807,
+    "evidence": "Jeju Island",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "210INFhkofE",
+    "region": "jeju",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "Korean Street Food at Night!! (Best Food at Jeju Night Market)",
+    "channel": "Mark Wiens Abroad",
+    "views": 1299591,
+    "evidence": "Dongmun Night Market is located in Jeju City",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "6rPJmq0Aj9c",
+    "region": "seoul",
+    "cats": [
+      "culture",
+      "beauty"
+    ],
+    "title": "KOREA VLOG: shopping in myeongdong, what i eat on the plane ride, exploring seoul, new hair & more",
+    "channel": "saranghoe",
+    "views": 1405910,
+    "evidence": "shopping in myeongdong",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "WilLRgODzUk",
+    "region": "seoul",
+    "cats": [
+      "culture",
+      "beauty"
+    ],
+    "title": "3 days in seoul | shopping, getting my makeup done by a k-beauty artist & trying korean snacks ♡",
+    "channel": "Samantha Harvey",
+    "views": 771827,
+    "evidence": "3 days in seoul",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "5WbOn6ht3JU",
+    "region": "seoul",
+    "cats": [
+      "culture",
+      "beauty"
+    ],
+    "title": "Everyone Uses THESE in Korea👌 What Koreans ACTUALLY buy!",
+    "channel": "Beauty Within",
+    "views": 550473,
+    "evidence": "Seongsu-dong",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "t14NZn6te6c",
+    "region": "jeju",
+    "cats": [
+      "culture",
+      "beauty"
+    ],
+    "title": "SELF CARE vlog in korea🫧: skin treatements, healing jeju brand trip, massages, getting makeup done",
+    "channel": "saranghoe",
+    "views": 342510,
+    "evidence": "healing jeju brand trip",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "EyQTc8y0lO4",
+    "region": "seoul",
+    "cats": [
+      "culture",
+      "beauty"
+    ],
+    "title": "I tried $8000 SKIN TREATMENTS in KOREA! 👀 *I’ve got thoughts...*",
+    "channel": "Beauty Within",
+    "views": 229202,
+    "evidence": "Onlif Clinic in Gangnam",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "JIzs5z_bOxw",
+    "region": "seoul",
+    "cats": [
+      "culture",
+      "beauty"
+    ],
+    "title": "What Koreans ACTUALLY Buy at Olive Young | Shopping at Olive young Myeongdong | Korean skincare",
+    "channel": "ask your Unnie",
+    "views": 189146,
+    "evidence": "Olive young Myeongdong",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "5DjXp4kAhEY",
+    "region": "seoul",
+    "cats": [
+      "culture",
+      "beauty"
+    ],
+    "title": "I spent $$$ in Korea so you don't have to 🇰🇷 the skin treatments that were worth it",
+    "channel": "Christine Le",
+    "views": 69894,
+    "evidence": "all in Seoul",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "F9dcgEy8aSE",
+    "region": "seoul",
+    "cats": [
+      "culture",
+      "beauty"
+    ],
+    "title": "I Spent over $1000 on Beauty Treatments in Korea. Is it worth it?",
+    "channel": "well with monia",
+    "views": 38394,
+    "evidence": "Korean beauty treatments in Seoul",
+    "added": "2026-10-11"
+  },
+  {
+    "id": "HHRwEBB8vo8",
+    "region": "seoul",
+    "cats": [
+      "culture",
+      "beauty"
+    ],
+    "title": "I traveled to South Korea for LASER SKIN treatments | La Miche Dermatology",
+    "channel": "Chloe Jade Travels",
+    "views": 37947,
+    "evidence": "La Miche in Gangnam, Seoul",
+    "added": "2026-10-11"
+  }
+]
