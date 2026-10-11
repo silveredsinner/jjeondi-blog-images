@@ -2,6 +2,7 @@
 // 의존성 없음. 배포 워크플로가 매번 실행해서 최신 데이터·숨김 영상을 반영한다.
 // 선택 환경변수: SITE_URL (도메인을 바꾸면 여기만 바꾸면 됨)
 import fs from "node:fs";
+import crypto from "node:crypto";
 import path from "node:path";
 import vm from "node:vm";
 import { fileURLToPath } from "node:url";
@@ -164,6 +165,13 @@ for (const x of posts) urls.push(`${SITE_URL}/blog/posts/${x.slug}.html`);
     <nav class="region-links">${window.REGIONS.map((r) => `<a href="r/${r.key}.html">${esc(r.ko)} · ${esc(r.en)}</a>`).join(" · ")}</nav>
     <!--regions:end-->`;
   html = html.replace(/<!--seo:start-->[\s\S]*?<!--seo:end-->/, seo).replace(/<!--regions:start-->[\s\S]*?<!--regions:end-->/, links);
+  // 캐시 무효화: 사이트 파일(app.js, styles.css, data/*.js …) 주소에 내용 해시(?v=)를 붙여서
+  // 배포 후 브라우저가 옛 파일과 새 파일을 섞어 쓰지 않게 한다.
+  html = html.replace(/(src|href)="((?:data\/)?[\w.-]+\.(?:js|css))(?:\?v=\w+)?"/g, (m, attr, f) => {
+    if (!fs.existsSync(p(f))) return m;
+    const v = crypto.createHash("sha1").update(fs.readFileSync(p(f))).digest("hex").slice(0, 8);
+    return `${attr}="${f}?v=${v}"`;
+  });
   fs.writeFileSync(p("index.html"), html);
 }
 
