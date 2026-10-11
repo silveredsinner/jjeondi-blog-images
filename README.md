@@ -71,6 +71,14 @@ GitHub Pages, Netlify, Vercel 등에 이 폴더를 그대로 올리면 됩니다
 2. `scripts/blog.mjs` — 새 장소가 2곳 이상 모인 지역마다 한국어·영어 블로그 글 초안을 씁니다. 결과: `blog/posts/*.html`
 3. 결과를 **PR로 올립니다.** 확인 후 병합하면 `korea-tube-deploy.yml` 이 사이트에 자동 배포합니다.
 
+### 근거 출처와 "확인 필요"
+스크립트가 근거 문장이 **어디에 있는지**를 직접 확인해서 `source` 를 붙입니다.
+- `description`(설명란), `owner_comment`(채널 주인 댓글) → 병합하면 바로 공개
+- `viewer_comment`(시청자 댓글만) → `"needs_check": true` 가 붙고 **사이트·블로그에 공개되지 않음**.
+  PR 본문 맨 위에 검색 링크와 함께 정리됩니다. 맞으면 `data/auto/places-auto.json` 에서
+  그 항목의 `"needs_check": true,` 한 줄을 지우고, 틀리면 항목을 지운 뒤 병합하세요.
+- 사이트가 읽는 `data/places-auto.js` 는 배포 때 `scripts/build-places.mjs` 가 json 에서 다시 만들므로 json 만 고치면 됩니다.
+
 ### 처음 한 번 설정
 - 저장소 **Settings → Secrets and variables → Actions** 에 추가
   - `YOUTUBE_API_KEY`: Google Cloud Console → YouTube Data API v3 사용 설정 → API 키 (무료 할당량)
