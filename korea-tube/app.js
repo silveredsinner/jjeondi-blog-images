@@ -26,6 +26,7 @@
     return s;
   }
   // region 은 "busan" 처럼 하나 또는 ["seoul", "gangwon"] 처럼 여러 개
+  const matchShow = (v, show) => show === "all" || (show === "none" ? !v.show : v.show === show);
   const regionsOf = (v) => (Array.isArray(v.region) ? v.region : [v.region]);
   function showName(v) {
     const s = v.show && window.SHOWS && SHOWS[v.show];
@@ -79,8 +80,7 @@
   }
 
   function countFor(regionKey) {
-    return VIDEOS.filter((v) => regionsOf(v).includes(regionKey) && (state.cat === "all" || v.cats.includes(state.cat)) &&
-      (state.show === "all" || (state.show === "none" ? !v.show : v.show === state.show))).length;
+    return VIDEOS.filter((v) => regionsOf(v).includes(regionKey) && (state.cat === "all" || v.cats.includes(state.cat)) && matchShow(v, state.show)).length;
   }
 
   function cssVar(name) {
@@ -159,7 +159,7 @@
     return VIDEOS.filter((v) =>
       (!state.region || regionsOf(v).includes(state.region)) &&
       (state.cat === "all" || v.cats.includes(state.cat)) &&
-      (state.show === "all" || (state.show === "none" ? !v.show : v.show === state.show)) &&
+      matchShow(v, state.show) &&
       (!q || `${v.title} ${showName(v)}`.toLowerCase().includes(q))
     );
   }
@@ -193,13 +193,13 @@
     document.documentElement.lang = state.lang;
     document.querySelectorAll("[data-i18n]").forEach((el) => { el.textContent = t(el.dataset.i18n); });
     $("search").placeholder = t("search");
-    renderShowSelect();
   }
 
   function renderAll() {
     renderStatic();
     renderTabs();
     renderChips();
+    renderShowChips();
     renderMap();
     renderGrid();
     writeUrlState();
@@ -219,18 +219,21 @@
     renderAll();
     if (player) applyCaptions(true);
   };
-  function renderShowSelect() {
-    const el = $("showSelect");
+  // 프로그램 카테고리: SHOWS 에 프로그램을 추가하면 버튼이 자동으로 생김
+  function renderShowChips() {
+    const el = $("showChips");
+    const base = VIDEOS.filter((v) =>
+      (!state.region || regionsOf(v).includes(state.region)) &&
+      (state.cat === "all" || v.cats.includes(state.cat)));
     const opts = [["all", t("allShows")], ...Object.keys(SHOWS).map((k) => [k, state.lang === "ko" ? SHOWS[k].ko : SHOWS[k].en]), ["none", t("creators")]];
     el.innerHTML = "";
-    for (const [v, label] of opts) {
-      const o = document.createElement("option");
-      o.value = v; o.textContent = label;
-      el.appendChild(o);
+    for (const [key, label] of opts) {
+      const n = base.filter((v) => matchShow(v, key)).length;
+      const b = chip(`${label} ${n}`, state.show === key, () => { state.show = key; renderAll(); });
+      if (key !== "all" && key !== "none") b.classList.add("program");
+      el.appendChild(b);
     }
-    el.value = state.show;
   }
-  $("showSelect").onchange = (e) => { state.show = e.target.value; renderAll(); };
   $("search").oninput = (e) => { state.q = e.target.value; renderGrid(); };
 
   // ---------- 플레이어 + 자동 자막 ----------
