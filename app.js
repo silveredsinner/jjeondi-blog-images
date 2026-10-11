@@ -24,6 +24,12 @@
     if (vars) for (const k in vars) s = s.replace(`{${k}}`, vars[k]);
     return s;
   }
+  // region 은 "busan" 처럼 하나 또는 ["seoul", "gangwon"] 처럼 여러 개
+  const regionsOf = (v) => (Array.isArray(v.region) ? v.region : [v.region]);
+  function showName(v) {
+    const s = v.show && window.SHOWS && SHOWS[v.show];
+    return s ? (state.lang === "ko" ? s.ko : s.en) : "";
+  }
   function regionName(r) {
     return state.lang === "ko" ? r.ko : r.en;
   }
@@ -70,7 +76,7 @@
   }
 
   function countFor(regionKey) {
-    return VIDEOS.filter((v) => v.region === regionKey && (state.cat === "all" || v.cats.includes(state.cat))).length;
+    return VIDEOS.filter((v) => regionsOf(v).includes(regionKey) && (state.cat === "all" || v.cats.includes(state.cat))).length;
   }
 
   function cssVar(name) {
@@ -147,9 +153,9 @@
   function filtered() {
     const q = state.q.trim().toLowerCase();
     return VIDEOS.filter((v) =>
-      (!state.region || v.region === state.region) &&
+      (!state.region || regionsOf(v).includes(state.region)) &&
       (state.cat === "all" || v.cats.includes(state.cat)) &&
-      (!q || v.title.toLowerCase().includes(q))
+      (!q || `${v.title} ${showName(v)}`.toLowerCase().includes(q))
     );
   }
 
@@ -159,17 +165,20 @@
     const grid = $("grid");
     grid.innerHTML = "";
     for (const v of list) {
-      const r = REGIONS.find((x) => x.key === v.region);
       const card = document.createElement("button");
       card.className = "card";
       card.innerHTML = `
         <div class="thumb"><img loading="lazy" alt="" src="https://i.ytimg.com/vi/${v.id}/hqdefault.jpg"><span class="play">▶</span></div>
         <div class="meta">
           <div class="title"></div>
-          <div class="tags"><span class="tag region"></span>${v.cats.map((c) => `<span class="tag">${t(c)}</span>`).join("")}</div>
+          <div class="show"></div>
+          <div class="tags">${regionsOf(v).map(() => '<span class="tag region"></span>').join("")}${v.cats.map((c) => `<span class="tag">${t(c)}</span>`).join("")}</div>
         </div>`;
       card.querySelector(".title").textContent = v.title;
-      card.querySelector(".tag.region").textContent = regionName(r);
+      card.querySelector(".show").textContent = showName(v);
+      card.querySelectorAll(".tag.region").forEach((el, i) => {
+        el.textContent = regionName(REGIONS.find((x) => x.key === regionsOf(v)[i]));
+      });
       card.onclick = () => openPlayer(v);
       grid.appendChild(card);
     }
