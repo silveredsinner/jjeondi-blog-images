@@ -31,10 +31,17 @@
   const regionsOf = (v) => (Array.isArray(v.region) ? v.region : [v.region]);
   function showName(v) {
     const s = v.show && window.SHOWS && SHOWS[v.show];
-    return s ? (state.lang === "ko" ? s.ko : s.en) : "";
+    return s ? showLabel(v.show) : "";
+  }
+  // ko·en 은 원본 데이터, 그 밖의 언어는 data/i18n-content.js (없으면 영어)
+  function showLabel(key) {
+    const s = SHOWS[key];
+    if (state.lang === "ko") return s.ko;
+    return (window.SHOW_NAMES && SHOW_NAMES[key] && SHOW_NAMES[key][state.lang]) || s.en;
   }
   function regionName(r) {
-    return state.lang === "ko" ? r.ko : r.en;
+    if (state.lang === "ko") return r.ko;
+    return (window.REGION_NAMES && REGION_NAMES[r.key] && REGION_NAMES[r.key][state.lang]) || r.en;
   }
   function langLabel(code) {
     return (LANGS.find((l) => l.code === code) || {}).label || code;
@@ -214,7 +221,8 @@
     box.hidden = !info;
     box.innerHTML = "";
     if (!info) return;
-    const L = state.lang === "ko" ? info.ko : info.en;
+    const extra = window.REGION_INFO_I18N && REGION_INFO_I18N[r.key] && REGION_INFO_I18N[r.key][state.lang];
+    const L = state.lang === "ko" ? info.ko : { ...info.en, ...extra };
     const ko = state.lang === "ko";
 
     const head = el("div", "info-head");
@@ -253,9 +261,12 @@
         const item = el("div", "place");
         const top = el("div", "place-top");
         top.appendChild(el("span", `place-type ${p.type}`, t(`t_${p.type}`)));
-        top.appendChild(el("strong", null, ko ? p.ko : p.en));
+        const tr = window.PLACE_I18N && PLACE_I18N[p.ko] && PLACE_I18N[p.ko][state.lang];
+        top.appendChild(el("strong", null, ko ? p.ko : tr ? tr[0] : p.en));
         item.appendChild(top);
-        item.appendChild(el("div", "place-menu", ko ? p.menu_ko : p.menu_en));
+        // 외국인 방문자에게는 현지에서 보여주거나 검색할 수 있게 한국어 이름도 표시
+        if (!ko) item.appendChild(el("div", "place-ko", p.ko));
+        item.appendChild(el("div", "place-menu", ko ? p.menu_ko : tr ? tr[1] : p.menu_en));
         const btns = el("div", "place-btns");
         const vids = p.videos.map((id) => VIDEOS.find((v) => v.id === id)).filter(Boolean);
         if (vids.length) {
@@ -282,7 +293,7 @@
       for (const a of affs) {
         const link = linkBtn(a.url.replace("{q}", q), "", "aff-btn");
         link.appendChild(el("strong", null, a.name));
-        link.appendChild(el("span", null, ko ? a.kind_ko : a.kind_en));
+        link.appendChild(el("span", null, t(a.kind)));
         row.appendChild(link);
       }
       box.appendChild(row);
@@ -327,7 +338,7 @@
     const base = VIDEOS.filter((v) =>
       (!state.region || regionsOf(v).includes(state.region)) &&
       (state.cat === "all" || v.cats.includes(state.cat)));
-    const opts = [["all", t("allShows")], ...Object.keys(SHOWS).map((k) => [k, state.lang === "ko" ? SHOWS[k].ko : SHOWS[k].en]), ["none", t("creators")]];
+    const opts = [["all", t("allShows")], ...Object.keys(SHOWS).map((k) => [k, showLabel(k)]), ["none", t("creators")]];
     el.innerHTML = "";
     for (const [key, label] of opts) {
       const n = base.filter((v) => matchShow(v, key)).length;
