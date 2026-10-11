@@ -14,11 +14,14 @@ const p = (...xs) => path.join(SITE, ...xs);
 // 사이트 데이터 읽기 (브라우저용 data/*.js 를 그대로 실행)
 const window = {};
 const ctx = vm.createContext({ window });
-for (const f of ["data/videos.js", "data/hidden-videos.js", "data/places.js", "data/places-auto.js", "data/i18n-content.js", "data/affiliates.js"]) {
+for (const f of ["data/videos.js", "data/hidden-videos.js", "data/video-views.js", "data/places.js", "data/places-auto.js", "data/i18n-content.js", "data/affiliates.js"]) {
   if (fs.existsSync(p(f))) vm.runInContext(fs.readFileSync(p(f), "utf8"), ctx);
 }
 const hidden = new Set(window.HIDDEN_VIDEOS || []);
-const VIDEOS = window.VIDEOS.filter((v) => !hidden.has(v.id));
+const VIEWS = window.VIDEO_VIEWS || {};
+const views = (v) => (v.id in VIEWS ? VIEWS[v.id] : -1);
+// 조회수 많은 순 (메인 화면과 같게)
+const VIDEOS = window.VIDEOS.filter((v) => !hidden.has(v.id)).sort((a, b) => views(b) - views(a));
 const PLACES = [...window.PLACES, ...(window.PLACES_AUTO || [])];
 const posts = fs.existsSync(p("blog/posts.json")) ? JSON.parse(fs.readFileSync(p("blog/posts.json"), "utf8")) : [];
 const regionsOf = (v) => (Array.isArray(v.region) ? v.region : [v.region]);

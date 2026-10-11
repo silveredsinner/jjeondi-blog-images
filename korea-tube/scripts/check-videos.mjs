@@ -1,9 +1,9 @@
 // 사이트의 모든 영상이 아직 볼 수 있는지 확인한다 (삭제·비공개·퍼가기 금지).
-// 결과: data/auto/availability.json, data/hidden-videos.js (사이트가 숨길 영상 목록)
+// 결과: data/auto/availability.json, data/hidden-videos.js (사이트가 숨길 영상 목록), data/video-views.js (조회수)
 // 필요한 환경변수: YOUTUBE_API_KEY.  선택: REVIEW_FILE (PR 본문에 결과 추가)
 import fs from "node:fs";
 import { loadSiteData, readJson, writeJson } from "./lib.mjs";
-import { buildHiddenJs, buildSubsJs } from "./build-places.mjs";
+import { buildHiddenJs, buildSubsJs, buildViewsJs } from "./build-places.mjs";
 
 const KEY = process.env.YOUTUBE_API_KEY;
 if (!KEY) throw new Error("YOUTUBE_API_KEY 가 없어요");
@@ -16,20 +16,22 @@ const result = {};
 const ids = site.VIDEOS.map((v) => v.id);
 for (let i = 0; i < ids.length; i += 50) {
   const url = new URL("https://www.googleapis.com/youtube/v3/videos");
-  url.search = new URLSearchParams({ part: "status", id: ids.slice(i, i + 50).join(","), key: KEY });
+  url.search = new URLSearchParams({ part: "status,statistics", id: ids.slice(i, i + 50).join(","), key: KEY });
   const res = await fetch(url);
   if (!res.ok) throw new Error(`YouTube videos ${res.status}: ${(await res.text()).slice(0, 200)}`);
-  const found = Object.fromEntries(((await res.json()).items || []).map((it) => [it.id, it.status]));
+  const items = Object.fromEntries(((await res.json()).items || []).map((it) => [it.id, it]));
   for (const id of ids.slice(i, i + 50)) {
-    const st = found[id];
+    const st = items[id]?.status;
     // 목록에 없으면 삭제 또는 비공개, private 이면 비공개, embeddable=false 면 사이트에서 재생 불가
     const status = !st ? "gone" : st.privacyStatus === "private" ? "private" : st.embeddable === false ? "no_embed" : "ok";
-    result[id] = { status, checked: today };
+    const views = Number(items[id]?.statistics?.viewCount);
+    result[id] = { status, checked: today, ...(Number.isFinite(views) ? { views } : {}) };
   }
 }
 
 writeJson("data/auto/availability.json", result);
 const { hidden } = buildHiddenJs();
+buildViewsJs();
 
 // ---------- 영상별 자막 언어 (captions.list, 영상당 할당량 50) ----------
 // 새 영상이나 30일 지난 기록만 확인. API 키로 허용되지 않으면(401/403) 한 번만 시도하고 건너뛴다.
