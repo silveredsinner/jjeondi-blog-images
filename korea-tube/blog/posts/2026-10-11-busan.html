@@ -38,16 +38,18 @@
           <a href="https://www.google.com/maps/search/?api=1&query=%EB%B6%80%EC%82%B0%20%EC%A1%B1%EB%B0%9C%EA%B3%A8%EB%AA%A9" target="_blank" rel="noopener">구글 지도</a>
         </li></ul>
       <p class="bp-note">영업시간·위치는 바뀔 수 있으니 방문 전 지도에서 확인하세요.</p>
-      <h2>관련 영상</h2>
-      <div class="bp-videos">
-        <a class="bp-video" href="../../index.html?v=ZJWdoRyWpRM">
+      <section class="bp-videos-wrap">
+        <h2>관련 영상</h2>
+        <div class="bp-videos">
+        <a class="bp-video" data-video="ZJWdoRyWpRM" href="../../index.html?v=ZJWdoRyWpRM">
           <img loading="lazy" alt="" src="https://i.ytimg.com/vi/ZJWdoRyWpRM/hqdefault.jpg">
           <span>친구 찾아 부산행 – 해동용궁사 (EP.287)</span>
         </a>
-        <a class="bp-video" href="../../index.html?v=5ThiIY-Kg60">
+        <a class="bp-video" data-video="5ThiIY-Kg60" href="../../index.html?v=5ThiIY-Kg60">
           <img loading="lazy" alt="" src="https://i.ytimg.com/vi/5ThiIY-Kg60/hqdefault.jpg">
           <span>[하이라이트] 부산 족발거리 – 족발, 불족발, 냉채족발, 막국수</span>
         </a></div>
+      </section>
     </article>
     <article class="bp-lang" lang="en" data-lang="en">
       <h1>Busan on Screen: Jokbal Street and the Hwangnyeongsan Night View</h1>
@@ -69,20 +71,31 @@
           <a href="https://www.google.com/maps/search/?api=1&query=%EB%B6%80%EC%82%B0%20%EC%A1%B1%EB%B0%9C%EA%B3%A8%EB%AA%A9" target="_blank" rel="noopener">Google Maps</a>
         </li></ul>
       <p class="bp-note">Hours and locations change — check the map before you go.</p>
-      <h2>Related videos</h2>
-      <div class="bp-videos">
-        <a class="bp-video" href="../../index.html?v=ZJWdoRyWpRM">
+      <section class="bp-videos-wrap">
+        <h2>Related videos</h2>
+        <div class="bp-videos">
+        <a class="bp-video" data-video="ZJWdoRyWpRM" href="../../index.html?v=ZJWdoRyWpRM">
           <img loading="lazy" alt="" src="https://i.ytimg.com/vi/ZJWdoRyWpRM/hqdefault.jpg">
           <span>친구 찾아 부산행 – 해동용궁사 (EP.287)</span>
         </a>
-        <a class="bp-video" href="../../index.html?v=5ThiIY-Kg60">
+        <a class="bp-video" data-video="5ThiIY-Kg60" href="../../index.html?v=5ThiIY-Kg60">
           <img loading="lazy" alt="" src="https://i.ytimg.com/vi/5ThiIY-Kg60/hqdefault.jpg">
           <span>[하이라이트] 부산 족발거리 – 족발, 불족발, 냉채족발, 막국수</span>
         </a></div>
+      </section>
     </article>
   </main>
+  <script src="../../data/hidden-videos.js"></script>
   <script>
     (function () {
+      // 유튜브에서 삭제·비공개된 영상은 관련 영상에서 빼고, 하나도 안 남으면 칸째 숨김
+      var hidden = window.HIDDEN_VIDEOS || [];
+      document.querySelectorAll(".bp-video").forEach(function (a) {
+        if (hidden.indexOf(a.dataset.video) !== -1) a.remove();
+      });
+      document.querySelectorAll(".bp-videos-wrap").forEach(function (w) {
+        if (!w.querySelector(".bp-video")) w.remove();
+      });
       var saved; try { saved = localStorage.getItem("kt.lang"); } catch (e) {}
       var q = new URLSearchParams(location.search).get("lang");
       function show(l) {

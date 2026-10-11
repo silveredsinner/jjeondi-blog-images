@@ -92,7 +92,7 @@ export function renderPost(post) {
           <a href="${gmapUrl(pl.q)}" target="_blank" rel="noopener">${lang === "ko" ? "구글 지도" : "Google Maps"}</a>
         </li>`).join("");
   const videos = post.videos.map((v) => `
-        <a class="bp-video" href="../../index.html?v=${esc(v.id)}">
+        <a class="bp-video" data-video="${esc(v.id)}" href="../../index.html?v=${esc(v.id)}">
           <img loading="lazy" alt="" src="https://i.ytimg.com/vi/${esc(v.id)}/hqdefault.jpg">
           <span>${esc(v.title)}</span>
         </a>`).join("");
@@ -105,8 +105,10 @@ export function renderPost(post) {
       <h2>${lang === "ko" ? "소개한 가게·장소" : "Places in this post"}</h2>
       <ul class="bp-places">${placeList(lang)}</ul>
       <p class="bp-note">${lang === "ko" ? "영업시간·위치는 바뀔 수 있으니 방문 전 지도에서 확인하세요." : "Hours and locations change — check the map before you go."}</p>
-      <h2>${lang === "ko" ? "관련 영상" : "Related videos"}</h2>
-      <div class="bp-videos">${videos}</div>
+      <section class="bp-videos-wrap">
+        <h2>${lang === "ko" ? "관련 영상" : "Related videos"}</h2>
+        <div class="bp-videos">${videos}</div>
+      </section>
     </article>`;
   return `<!doctype html>
 <html lang="ko">
@@ -129,8 +131,17 @@ export function renderPost(post) {
   </header>
   <main class="bp-main">${section("ko")}${section("en")}
   </main>
+  <script src="../../data/hidden-videos.js"></script>
   <script>
     (function () {
+      // 유튜브에서 삭제·비공개된 영상은 관련 영상에서 빼고, 하나도 안 남으면 칸째 숨김
+      var hidden = window.HIDDEN_VIDEOS || [];
+      document.querySelectorAll(".bp-video").forEach(function (a) {
+        if (hidden.indexOf(a.dataset.video) !== -1) a.remove();
+      });
+      document.querySelectorAll(".bp-videos-wrap").forEach(function (w) {
+        if (!w.querySelector(".bp-video")) w.remove();
+      });
       var saved; try { saved = localStorage.getItem("kt.lang"); } catch (e) {}
       var q = new URLSearchParams(location.search).get("lang");
       function show(l) {
@@ -151,8 +162,23 @@ export function savePost(post) {
   fs.mkdirSync(p("blog/posts"), { recursive: true });
   fs.writeFileSync(p(`blog/posts/${post.slug}.html`), renderPost(post));
   const index = readJson("blog/posts.json", []).filter((x) => x.slug !== post.slug);
-  index.unshift({ slug: post.slug, date: post.date, region: post.region, title: post.title, summary: post.summary, cover: post.videos[0]?.id || null });
+  index.unshift(indexEntry(post));
   index.sort((a, b) => (a.date < b.date ? 1 : -1));
   writeJson("blog/posts.json", index);
   writeJson(`blog/src/${post.slug}.json`, post); // 원본 데이터 (다시 렌더링할 때 사용)
+}
+
+// 목록용 요약. videos 는 블로그 목록이 숨김 영상이 아닌 표지를 고를 때 쓴다.
+function indexEntry(post) {
+  const videos = post.videos.map((v) => v.id);
+  return { slug: post.slug, date: post.date, region: post.region, title: post.title, summary: post.summary, cover: videos[0] || null, videos };
+}
+
+// blog/src/*.json 으로 모든 글과 목록을 다시 만든다 (글 템플릿을 바꿨을 때)
+export function rebuildBlog() {
+  const dir = p("blog/src");
+  const posts = fs.existsSync(dir) ? fs.readdirSync(dir).filter((f) => f.endsWith(".json")).map((f) => readJson(`blog/src/${f}`)) : [];
+  for (const post of posts) fs.writeFileSync(p(`blog/posts/${post.slug}.html`), renderPost(post));
+  writeJson("blog/posts.json", posts.map(indexEntry).sort((a, b) => (a.date < b.date ? 1 : -1)));
+  return posts.length;
 }

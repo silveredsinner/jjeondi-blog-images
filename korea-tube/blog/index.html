@@ -20,8 +20,16 @@
     <h1 id="heading">블로그</h1>
     <ul id="list" class="bp-list"></ul>
   </main>
+  <script src="../data/hidden-videos.js"></script>
   <script>
     (function () {
+      var hidden = window.HIDDEN_VIDEOS || [];
+      // 표지: 글의 영상 중 삭제·비공개되지 않은 첫 영상
+      function coverOf(p) {
+        var ids = p.videos || (p.cover ? [p.cover] : []);
+        for (var i = 0; i < ids.length; i++) if (hidden.indexOf(ids[i]) === -1) return ids[i];
+        return null;
+      }
       var lang; try { lang = localStorage.getItem("kt.lang"); } catch (e) {}
       lang = lang === "ko" || !lang ? "ko" : "en";
       var posts = [];
@@ -40,7 +48,8 @@
           var li = document.createElement("li"); li.className = "bp-item";
           var a = document.createElement("a"); a.href = "posts/" + p.slug + ".html?lang=" + lang;
           var img = document.createElement("img"); img.alt = ""; img.loading = "lazy";
-          if (p.cover) img.src = "https://i.ytimg.com/vi/" + p.cover + "/hqdefault.jpg";
+          var cover = coverOf(p);
+          if (cover) img.src = "https://i.ytimg.com/vi/" + cover + "/hqdefault.jpg";
           var box = document.createElement("div");
           var h = document.createElement("h2"); h.textContent = p.title[lang];
           var s = document.createElement("p"); s.textContent = p.date + " · " + p.summary[lang];
