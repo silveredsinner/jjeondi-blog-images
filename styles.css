@@ -189,6 +189,10 @@ dialog::backdrop { background: rgba(0,0,0,.6); }
 .info-btn:hover { border-color: var(--accent); }
 .info-btn.primary { background: var(--accent); border-color: var(--accent); color: #fff; }
 .info-note { font-size: 11px; color: var(--muted); margin: 8px 0 0; }
+.kk-widget { margin-top: -8px; }
+.kk-widget h3 { margin-top: 0; }
+.kk-widget ins { display: block; min-height: 120px; }
+.kk-widget iframe { max-width: 100%; }
 .aff-row { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: 8px; }
 .aff-btn {
   display: flex; flex-direction: column; gap: 2px; padding: 10px 12px; border-radius: 10px;
