@@ -1,5 +1,5 @@
-// 자동 생성 파일: scripts/enrich.mjs 가 영상 설명란·댓글에서 뽑은 장소 (data/auto/places-auto.json 에서 만들어짐)
-// 직접 고치려면 data/auto/places-auto.json 을 고친 뒤 다시 생성하거나, 확정된 항목은 data/places.js 로 옮기세요.
+// 자동 생성 파일: data/auto/places-auto.json 에서 scripts/build-places.mjs 가 만듦. 직접 고치지 마세요.
+// 장소를 고치거나 지우려면 data/auto/places-auto.json 을 고치세요. "needs_check": true 인 항목은 공개되지 않습니다.
 window.PLACES_AUTO = [
   {
     "region": "seoul",

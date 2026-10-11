@@ -19,6 +19,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: 자동 추출 장소 반영 (확인 필요 항목 제외)
+        run: node korea-tube/scripts/build-places.mjs
       - name: 사이트에 필요 없는 자동화 파일 빼기
         run: rm -rf korea-tube/scripts korea-tube/data/auto korea-tube/blog/src && touch korea-tube/.nojekyll
       - uses: JamesIves/github-pages-deploy-action@v4
