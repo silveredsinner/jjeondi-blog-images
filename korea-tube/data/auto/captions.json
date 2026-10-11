@@ -1438,5 +1438,111 @@
       "en"
     ],
     "checked": "2026-10-11"
+  },
+  "IBLMgsUv894": {
+    "langs": [
+      "en"
+    ],
+    "asr": [
+      "ko"
+    ],
+    "checked": "2026-10-11"
+  },
+  "g7rCpK6mXI0": {
+    "langs": [],
+    "asr": [
+      "ko"
+    ],
+    "checked": "2026-10-11"
+  },
+  "zrLdC7aYy64": {
+    "langs": [
+      "en",
+      "ko"
+    ],
+    "asr": [
+      "ko"
+    ],
+    "checked": "2026-10-11"
+  },
+  "HAMf-G6GXIQ": {
+    "langs": [
+      "en",
+      "ko"
+    ],
+    "asr": [
+      "ko"
+    ],
+    "checked": "2026-10-11"
+  },
+  "kRcxpbN4hCg": {
+    "langs": [
+      "en",
+      "ko"
+    ],
+    "asr": [
+      "ko"
+    ],
+    "checked": "2026-10-11"
+  },
+  "5ruq2d2RYew": {
+    "langs": [
+      "en",
+      "ko"
+    ],
+    "asr": [
+      "ko"
+    ],
+    "checked": "2026-10-11"
+  },
+  "9Ptp1lvcD9U": {
+    "langs": [
+      "en",
+      "es",
+      "id",
+      "ja",
+      "ms",
+      "pt",
+      "th",
+      "vi",
+      "zh-Hans",
+      "zh-Hant"
+    ],
+    "asr": [
+      "ko"
+    ],
+    "checked": "2026-10-11"
+  },
+  "8KZrrZWoRDc": {
+    "langs": [],
+    "asr": [
+      "ko"
+    ],
+    "checked": "2026-10-11"
+  },
+  "z8_61ZpSAzI": {
+    "langs": [
+      "en",
+      "ko"
+    ],
+    "asr": [
+      "ko"
+    ],
+    "checked": "2026-10-11"
+  },
+  "cGhoGXfAVS4": {
+    "langs": [
+      "en",
+      "id",
+      "ja",
+      "ko",
+      "th",
+      "vi",
+      "zh-TW"
+    ],
+    "asr": [
+      "ko"
+    ],
+    "checked": "2026-10-11"
   }
 }
