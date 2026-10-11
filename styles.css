@@ -85,11 +85,14 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .chip.active { background: var(--accent); border-color: var(--accent); color: #fff; }
 
 .region-label {
-  background: var(--surface); color: var(--text); border: 1px solid var(--border);
-  font-weight: 600; font-size: 12px; padding: 2px 7px; box-shadow: var(--shadow);
+  background: color-mix(in srgb, var(--surface) 88%, transparent); color: var(--text);
+  border: 1px solid var(--border); border-radius: 6px; box-shadow: none;
+  font-weight: 600; font-size: 12px; padding: 1px 6px; cursor: pointer; white-space: nowrap;
 }
+.region-label b { color: var(--accent-strong); font-weight: 700; margin-left: 2px; }
 .region-label::before { display: none; }
 .region-label.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+.region-label.active b { color: #fff; }
 .leaflet-container { font: inherit; }
 .leaflet-interactive { cursor: pointer; }
 
