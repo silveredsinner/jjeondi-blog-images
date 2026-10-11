@@ -78,5 +78,83 @@ window.PLACES_AUTO = [
       "ZJWdoRyWpRM"
     ],
     "auto": true
+  },
+  {
+    "region": "jeonnam",
+    "type": "restaurant",
+    "ko": "돌집식당",
+    "en": "Doljip Sikdang (Korean set meal restaurant in Mokpo)",
+    "q": "목포 돌집식당",
+    "menu_ko": "백반 (반찬 17가지), 갈치조림",
+    "menu_en": "Baekban set meal with 17 side dishes, braised hairtail",
+    "videos": [
+      "ZoCVb-0NxR8"
+    ],
+    "auto": true
+  },
+  {
+    "region": "gyeongnam",
+    "type": "restaurant",
+    "ko": "한일식당",
+    "en": "Hanil Sikdang",
+    "q": "진주 한일식당",
+    "menu_ko": "육회비빔밥",
+    "menu_en": "Yukhoe bibimbap (beef tartare bibimbap)",
+    "videos": [
+      "vARBHI7t4y0"
+    ],
+    "auto": true
+  },
+  {
+    "region": "gyeongnam",
+    "type": "market",
+    "ko": "통영 서호시장",
+    "en": "Seoho Market, Tongyeong",
+    "q": "통영 서호시장",
+    "menu_ko": "시장 안 시락국집의 시락국 백반 (6천 원)",
+    "menu_en": "Siraegi (dried radish greens) soup set meal at a market eatery (6,000 won)",
+    "videos": [
+      "prxvrdsZbZw"
+    ],
+    "auto": true
+  },
+  {
+    "region": "daegu",
+    "type": "restaurant",
+    "ko": "송림식당",
+    "en": "Songnim Sikdang (Daegu raw beef restaurant)",
+    "q": "대구 송림식당",
+    "menu_ko": "뭉티기(생고기)",
+    "menu_en": "Mungtigi (Daegu-style raw beef)",
+    "videos": [
+      "39J-3yy4dDg"
+    ],
+    "auto": true
+  },
+  {
+    "region": "busan",
+    "type": "restaurant",
+    "ko": "내호냉면",
+    "en": "Naeho Naengmyeon",
+    "q": "부산 내호냉면",
+    "menu_ko": "4대째 100년 전통 밀면",
+    "menu_en": "Milmyeon (wheat noodles in cold broth), a 100-year, four-generation family tradition",
+    "videos": [
+      "WUBkecmzEs8"
+    ],
+    "auto": true
+  },
+  {
+    "region": "jeonnam",
+    "type": "market",
+    "ko": "석곡 전통 시장",
+    "en": "Seokgok Traditional Market",
+    "q": "곡성 석곡시장",
+    "menu_ko": "옛 모습을 간직한 곡성의 전통 시장",
+    "menu_en": "Traditional market in Gokseong that preserves its old-time character",
+    "videos": [
+      "2n2pcobA6DI"
+    ],
+    "auto": true
   }
 ];

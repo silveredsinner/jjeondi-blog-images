@@ -2,93 +2,93 @@
   "date": "2026-10-11",
   "added": [
     {
-      "region": "seoul",
-      "type": "spot",
-      "ko": "국립민속박물관",
-      "en": "National Folk Museum of Korea",
-      "q": "서울 국립민속박물관",
-      "menu_ko": "박물관 관람",
-      "menu_en": "Museum tour",
-      "videos": [
-        "XwCqH_8hGZ0"
-      ],
-      "auto": true,
-      "evidence": "국립민속박물관 관람 후 KTX 타고 강릉으로 순간 이동~",
-      "added": "2026-10-11"
-    },
-    {
-      "region": "gangwon",
-      "type": "spot",
-      "ko": "BTS 정류장",
-      "en": "BTS Bus Stop (BTS album photo spot)",
-      "q": "강릉 BTS 정류장",
-      "menu_ko": "BTS 앨범 촬영지, 인증샷 명소",
-      "menu_en": "BTS album photo spot, popular for souvenir photos",
-      "videos": [
-        "3v4YvmiZFzw"
-      ],
-      "auto": true,
-      "evidence": "09:15 케이팝 광팬 미아를 위한 BTS 정류장으로~",
-      "added": "2026-10-11"
-    },
-    {
-      "region": "gyeonggi",
-      "type": "spot",
-      "ko": "문학 경기장",
-      "en": "Munhak Stadium (Incheon)",
-      "q": "인천 문학경기장",
-      "menu_ko": "SSG 랜더스(구 SK 와이번스) 홈구장",
-      "menu_en": "Home ballpark of the SSG Landers (formerly SK Wyverns)",
-      "videos": [
-        "U5_MLHWltKw"
-      ],
-      "auto": true,
-      "evidence": "18:32 1754일 만에 돌아온 문학 경기장! 로맥이 추억에 잠긴 순간",
-      "added": "2026-10-11"
-    },
-    {
-      "region": "gyeonggi",
+      "region": "jeonnam",
       "type": "restaurant",
-      "ko": "랜더스 펍",
-      "en": "Landers Pub",
-      "q": "인천 문학 랜더스 펍",
-      "menu_ko": "SSG 랜더스 테마 펍, 맥주",
-      "menu_en": "SSG Landers-themed pub, beer",
+      "ko": "돌집식당",
+      "en": "Doljip Sikdang (Korean set meal restaurant in Mokpo)",
+      "q": "목포 돌집식당",
+      "menu_ko": "백반 (반찬 17가지), 갈치조림",
+      "menu_en": "Baekban set meal with 17 side dishes, braised hairtail",
       "videos": [
-        "U5_MLHWltKw"
+        "ZoCVb-0NxR8"
       ],
       "auto": true,
-      "evidence": "26:18 '로맥이다!' 랜더스 펍에 등장하자 팬들 떼창 폭발!",
+      "evidence": "방송보고 가는거 아니다.\n돌집식당 진짜 대실망.\n불친절하고 음식도 심하게 짜고..\n방송 나온 반찬 별로 없었슴",
       "added": "2026-10-11"
     },
     {
-      "region": "jeonbuk",
-      "type": "spot",
-      "ko": "경기전",
-      "en": "Gyeonggijeon Shrine",
-      "q": "전주 경기전",
-      "menu_ko": "조선 태조 어진을 모신 역사 유적",
-      "menu_en": "Joseon-era historic shrine",
+      "region": "gyeongnam",
+      "type": "restaurant",
+      "ko": "한일식당",
+      "en": "Hanil Sikdang",
+      "q": "진주 한일식당",
+      "menu_ko": "육회비빔밥",
+      "menu_en": "Yukhoe bibimbap (beef tartare bibimbap)",
       "videos": [
-        "2e02jJ6kBBI"
+        "vARBHI7t4y0"
       ],
       "auto": true,
-      "evidence": "08:35 경기전에서 마주한 조선의 역사",
+      "evidence": "한일식당이네요",
+      "added": "2026-10-11"
+    },
+    {
+      "region": "gyeongnam",
+      "type": "market",
+      "ko": "통영 서호시장",
+      "en": "Seoho Market, Tongyeong",
+      "q": "통영 서호시장",
+      "menu_ko": "시장 안 시락국집의 시락국 백반 (6천 원)",
+      "menu_en": "Siraegi (dried radish greens) soup set meal at a market eatery (6,000 won)",
+      "videos": [
+        "prxvrdsZbZw"
+      ],
+      "auto": true,
+      "evidence": "통영 서호시장의 시락국집 중에 지금까지 알려진 여러 시락국집이 있지만, 솔직히 저기가 진국이다.",
+      "added": "2026-10-11"
+    },
+    {
+      "region": "daegu",
+      "type": "restaurant",
+      "ko": "송림식당",
+      "en": "Songnim Sikdang (Daegu raw beef restaurant)",
+      "q": "대구 송림식당",
+      "menu_ko": "뭉티기(생고기)",
+      "menu_en": "Mungtigi (Daegu-style raw beef)",
+      "videos": [
+        "39J-3yy4dDg"
+      ],
+      "auto": true,
+      "evidence": "대구 송림식당",
       "added": "2026-10-11"
     },
     {
       "region": "busan",
-      "type": "spot",
-      "ko": "황령산 정상",
-      "en": "Hwangnyeongsan Mountain Summit",
-      "q": "부산 황령산 정상",
-      "menu_ko": "부산 최고 야경 명소",
-      "menu_en": "Best night view spot of Busan",
+      "type": "restaurant",
+      "ko": "내호냉면",
+      "en": "Naeho Naengmyeon",
+      "q": "부산 내호냉면",
+      "menu_ko": "4대째 100년 전통 밀면",
+      "menu_en": "Milmyeon (wheat noodles in cold broth), a 100-year, four-generation family tradition",
       "videos": [
-        "ZJWdoRyWpRM"
+        "WUBkecmzEs8"
       ],
       "auto": true,
-      "evidence": "황령산 정상에서 보는 부산 뷰 멋지죠.",
+      "evidence": "부산 내호냉면 이네요~~ 이제 슬슬 밀면의 계절이 돌아오고 있네요 넘 맛있어 보입니다!",
+      "added": "2026-10-11"
+    },
+    {
+      "region": "jeonnam",
+      "type": "market",
+      "ko": "석곡 전통 시장",
+      "en": "Seokgok Traditional Market",
+      "q": "곡성 석곡시장",
+      "menu_ko": "옛 모습을 간직한 곡성의 전통 시장",
+      "menu_en": "Traditional market in Gokseong that preserves its old-time character",
+      "videos": [
+        "2n2pcobA6DI"
+      ],
+      "auto": true,
+      "evidence": "오늘 곡성에 있는 석곡 전통 시장에 왔어유~",
       "added": "2026-10-11"
     }
   ]
