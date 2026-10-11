@@ -31,5 +31,6 @@ window.KKDAY_WIDGETS = {
   daegu: "14086",
   gyeongnam: "14087",
   busan: "14077",
+  jeju: "14088",
 };
 window.KKDAY_WIDGET_JS = "https://kkpartners.kkday.com/iframe.init.1.0.js";
