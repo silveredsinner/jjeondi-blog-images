@@ -1,37 +1,80 @@
 [
   {
-    "slug": "2026-10-11-jeonnam",
+    "slug": "2026-10-11-daegu",
     "date": "2026-10-11",
-    "region": "jeonnam",
+    "region": "daegu",
     "title": {
-      "ko": "전남 영상 속 맛집·명소: 목포 돌집식당과 곡성 석곡 전통 시장",
-      "en": "Jeonnam on Screen: Doljip Sikdang in Mokpo and Seokgok Traditional Market in Gokseong"
+      "ko": "대구 영상 속 맛집·명소: 서문시장, 할매묵집, 팔공산 소원바위",
+      "en": "Daegu Food and Sights from the Videos: Seomun Market, Halmae Mukjip, and Palgongsan Wishing Rock"
     },
     "summary": {
-      "ko": "허영만의 백반기행에 나온 목포 돌집식당의 반찬 17가지 백반, 백종원의 님아 그 시장을 가오 첫 회 배경이 된 곡성 석곡 전통 시장을 소개합니다.",
-      "en": "A look at Doljip Sikdang in Mokpo, known for its 17-side-dish baekban from Heo Young-man's food show, and Seokgok Traditional Market in Gokseong, featured in the first episode of Baek Jong-won's market series."
+      "ko": "'대구 10미'로 알려진 미식 도시 대구에서 방송과 여행 영상에 나온 서문시장, 할매묵집, 팔공산 소원바위를 소개합니다.",
+      "en": "A guide to three places in Daegu, a city known for its local dishes, that appeared in TV shows and travel videos: Seomun Market, Halmae Mukjip, and the Wishing Rock on Palgongsan."
     },
-    "cover": "ZoCVb-0NxR8",
+    "cover": "tthpIMyA1n8",
     "videos": [
-      "ZoCVb-0NxR8",
-      "2n2pcobA6DI"
+      "tthpIMyA1n8",
+      "ncRLdVWQ9lY",
+      "dX8ys4uD9tY",
+      "8ul9Ntb1A-k"
     ]
   },
   {
-    "slug": "2026-10-11-gyeonggi",
+    "slug": "2026-10-11-jeonbuk",
     "date": "2026-10-11",
-    "region": "gyeonggi",
+    "region": "jeonbuk",
     "title": {
-      "ko": "경기·인천 영상 속 맛집·명소: 제이미 로맥과 함께 걷는 인천 문학경기장과 랜더스 펍",
-      "en": "Gyeonggi·Incheon on Screen: Munhak Stadium and Landers Pub from Jamie Romak's KBO Memory Trip"
+      "ko": "전북 영상 속 맛집·명소: 전주 한옥마을, 경기전, 진안 시골순대",
+      "en": "Jeonbuk on Screen: Jeonju Hanok Village, Gyeonggijeon Shrine, and Sigol Sundae in Jinan"
     },
     "summary": {
-      "ko": "'어서와 한국은 처음이지' EP.444에서 제이미 로맥이 다시 찾은 인천 문학경기장과 SSG 랜더스 테마 펍을 소개합니다. 야구와 치맥을 함께 즐기는 인천 당일치기 코스입니다.",
-      "en": "Revisit the Incheon spots from Jamie Romak's KBO memory trip on 'Welcome, First Time in Korea?' EP.444: Munhak Stadium, home of the SSG Landers, and a Landers-themed pub for a post-game beer."
+      "ko": "유네스코 음식창의도시 전주의 한옥마을과 경기전, 그리고 하루 3시간 남짓만 문을 여는 진안의 순대국밥집까지, 여행·예능 영상에 나온 전북의 장소를 정리했습니다.",
+      "en": "From Jeonju's Hanok Village and Gyeonggijeon Shrine to a sundae gukbap spot in Jinan that opens for only about three hours a day, here are the Jeonbuk places featured in travel and TV videos."
     },
-    "cover": "U5_MLHWltKw",
+    "cover": "YGWFWpd0AjY",
     "videos": [
-      "U5_MLHWltKw"
+      "YGWFWpd0AjY",
+      "1JqvLe8gGS0",
+      "2e02jJ6kBBI",
+      "SVz1zNuyOyA"
+    ]
+  },
+  {
+    "slug": "2026-10-11-jeju",
+    "date": "2026-10-11",
+    "region": "jeju",
+    "title": {
+      "ko": "제주 영상 속 맛집·명소: 흑돼지부터 성산일출봉까지",
+      "en": "Jeju Eats and Sights from the Videos: From Black Pork to Sunrise Peak"
+    },
+    "summary": {
+      "ko": "여행 영상에 나온 제주의 흑돼지 구잇집과 동문시장, 협재 바다, 용두암, 천제연폭포, 성산일출봉 등을 정리했습니다. 화산섬의 자연과 흑돼지를 함께 즐기는 동선 팁도 담았습니다.",
+      "en": "A roundup of the Jeju spots featured in travel videos, from black pork BBQ and Dongmun Market to Hyeopjae Beach, Yongduam Rock, Cheonjeyeon Waterfall and Seongsan Ilchulbong, plus tips for planning your route."
+    },
+    "cover": "stUKYEYBXfU",
+    "videos": [
+      "stUKYEYBXfU",
+      "w12hNrPkBxQ",
+      "uxGWG4hMsm4",
+      "mwblwy0tp7k"
+    ]
+  },
+  {
+    "slug": "2026-10-11-busan",
+    "date": "2026-10-11",
+    "region": "busan",
+    "title": {
+      "ko": "부산 영상 속 맛집·명소: 족발거리와 황령산 야경",
+      "en": "Busan on Screen: Jokbal Street and the Hwangnyeongsan Night View"
+    },
+    "summary": {
+      "ko": "'어서와 한국은 처음이지' 부산 편에 나온 부산 족발거리와 야경 명소로 알려진 황령산 정상을 소개합니다. 저녁은 족발로, 밤은 산 위에서 도시 불빛과 함께 보내는 코스입니다.",
+      "en": "Two Busan stops linked to the show 'Welcome, First Time in Korea?': Jokbal Street for braised pig's trotters and the Hwangnyeongsan summit, known for its night view. Dinner first, city lights after."
+    },
+    "cover": "ZJWdoRyWpRM",
+    "videos": [
+      "ZJWdoRyWpRM",
+      "5ThiIY-Kg60"
     ]
   },
   {
@@ -59,21 +102,136 @@
     ]
   },
   {
-    "slug": "2026-10-11-busan",
+    "slug": "2026-10-11-gyeonggi",
     "date": "2026-10-11",
-    "region": "busan",
+    "region": "gyeonggi",
     "title": {
-      "ko": "부산 영상 속 맛집·명소: 족발거리와 황령산 야경",
-      "en": "Busan on Screen: Jokbal Street and the Hwangnyeongsan Night View"
+      "ko": "경기·인천 영상 속 맛집·명소: 제이미 로맥과 함께 걷는 인천 문학경기장과 랜더스 펍",
+      "en": "Gyeonggi·Incheon on Screen: Munhak Stadium and Landers Pub from Jamie Romak's KBO Memory Trip"
     },
     "summary": {
-      "ko": "'어서와 한국은 처음이지' 부산 편에 나온 부산 족발거리와 야경 명소로 알려진 황령산 정상을 소개합니다. 저녁은 족발로, 밤은 산 위에서 도시 불빛과 함께 보내는 코스입니다.",
-      "en": "Two Busan stops linked to the show 'Welcome, First Time in Korea?': Jokbal Street for braised pig's trotters and the Hwangnyeongsan summit, known for its night view. Dinner first, city lights after."
+      "ko": "'어서와 한국은 처음이지' EP.444에서 제이미 로맥이 다시 찾은 인천 문학경기장과 SSG 랜더스 테마 펍을 소개합니다. 야구와 치맥을 함께 즐기는 인천 당일치기 코스입니다.",
+      "en": "Revisit the Incheon spots from Jamie Romak's KBO memory trip on 'Welcome, First Time in Korea?' EP.444: Munhak Stadium, home of the SSG Landers, and a Landers-themed pub for a post-game beer."
     },
-    "cover": "ZJWdoRyWpRM",
+    "cover": "U5_MLHWltKw",
     "videos": [
-      "ZJWdoRyWpRM",
-      "5ThiIY-Kg60"
+      "U5_MLHWltKw"
+    ]
+  },
+  {
+    "slug": "2026-10-11-jeonnam",
+    "date": "2026-10-11",
+    "region": "jeonnam",
+    "title": {
+      "ko": "전남 영상 속 맛집·명소: 목포 돌집식당과 곡성 석곡 전통 시장",
+      "en": "Jeonnam on Screen: Doljip Sikdang in Mokpo and Seokgok Traditional Market in Gokseong"
+    },
+    "summary": {
+      "ko": "허영만의 백반기행에 나온 목포 돌집식당의 반찬 17가지 백반, 백종원의 님아 그 시장을 가오 첫 회 배경이 된 곡성 석곡 전통 시장을 소개합니다.",
+      "en": "A look at Doljip Sikdang in Mokpo, known for its 17-side-dish baekban from Heo Young-man's food show, and Seokgok Traditional Market in Gokseong, featured in the first episode of Baek Jong-won's market series."
+    },
+    "cover": "ZoCVb-0NxR8",
+    "videos": [
+      "ZoCVb-0NxR8",
+      "2n2pcobA6DI"
+    ]
+  },
+  {
+    "slug": "2026-10-11-seoul",
+    "date": "2026-10-11",
+    "region": "seoul",
+    "title": {
+      "ko": "서울 영상 속 맛집·명소: 광장시장부터 남산서울타워까지",
+      "en": "Seoul on Screen: Food Spots and Sights from Gwangjang Market to N Seoul Tower"
+    },
+    "summary": {
+      "ko": "광장시장의 빈대떡과 육회, 노량진수산시장의 모듬회와 해물라면, 경복궁·남산서울타워·봉은사·국립민속박물관까지 여행 영상과 '어서와 한국은 처음이지'에 나온 서울의 장소를 정리했습니다.",
+      "en": "From bindaetteok and yukhoe at Gwangjang Market to sashimi and seafood ramyeon at Noryangjin, plus Gyeongbokgung, N Seoul Tower, Bongeunsa and the National Folk Museum: Seoul places featured in travel videos and the Korean show 'Welcome, First Time in Korea?'"
+    },
+    "cover": "2rz-TU7154k",
+    "videos": [
+      "2rz-TU7154k",
+      "kCxQIHYQQqs",
+      "Fi9S3woogeA",
+      "ou1ZkytFIUg",
+      "A7xvIScoliA",
+      "qrXIsDyHuKg",
+      "25Mc2ccrvdA",
+      "5EHAnSu08e4",
+      "TQ5Qvhl7hsY",
+      "X7SP3-UYob8",
+      "-EpYVDdr28U",
+      "XwCqH_8hGZ0"
+    ]
+  },
+  {
+    "slug": "2026-10-11-gangwon",
+    "date": "2026-10-11",
+    "region": "gangwon",
+    "title": {
+      "ko": "강원 영상 속 맛집·명소: 속초 시장부터 춘천 닭갈비, 철원 물회까지",
+      "en": "Gangwon on Screen: Food and Sights from Sokcho Market to Chuncheon Dakgalbi"
+    },
+    "summary": {
+      "ko": "속초관광수산시장, 춘천 닭갈비와 남이섬, 원주·철원·양구의 시장 맛집까지 여행 영상과 방송에 나온 강원의 장소를 정리했습니다.",
+      "en": "A guide to Gangwon places featured in travel videos and Korean TV shows: Sokcho's seafood market, Chuncheon dakgalbi with Nami Island, and local eateries in Wonju, Cheorwon and Yanggu."
+    },
+    "cover": "JhhFYZWjybg",
+    "videos": [
+      "JhhFYZWjybg",
+      "pUFen3b4yYo",
+      "DEFlTHLG5RU",
+      "4XSsFNsQstA",
+      "QMHjjtCd7Zc",
+      "9qXUA5p7Ge0",
+      "-LgE9gMN4Rs",
+      "iPLW-aOdq6I",
+      "3v4YvmiZFzw"
+    ]
+  },
+  {
+    "slug": "2026-10-11-gyeongbuk",
+    "date": "2026-10-11",
+    "region": "gyeongbuk",
+    "title": {
+      "ko": "경북 영상 속 맛집·명소: 경주 신라 유적부터 시장 돼지찌개까지",
+      "en": "Gyeongbuk on Screen: Silla Heritage, Hahoe Village and Market Stews"
+    },
+    "summary": {
+      "ko": "천년 신라의 수도 경주와 안동 하회마을, 그리고 경산·구미·포항의 시장 식당까지, 영상에 소개된 경북의 명소와 맛집을 정리했습니다.",
+      "en": "A guide to Gyeongbuk places seen on video, from Silla-era Gyeongju and Andong's Hahoe Village to market eateries in Gyeongsan, Gumi and Pohang."
+    },
+    "cover": "EvKxDH6sIpg",
+    "videos": [
+      "EvKxDH6sIpg",
+      "bZ0CTEahxpY",
+      "gHJ1wy5nrwg",
+      "3_lbDaSgKnk",
+      "d8OciP6j7qc",
+      "rEhi5E11hT4",
+      "Kj3iNd_RmQ0"
+    ]
+  },
+  {
+    "slug": "2026-10-11-gyeongnam",
+    "date": "2026-10-11",
+    "region": "gyeongnam",
+    "title": {
+      "ko": "경남 영상 속 맛집·명소: 진주냉면부터 진해 벚꽃, 통영 서호시장까지",
+      "en": "Gyeongnam on Screen: Jinju Naengmyeon, Jinhae Cherry Blossoms, Seoho Market and More"
+    },
+    "summary": {
+      "ko": "영상에 소개된 경남의 맛집과 명소 다섯 곳을 정리했습니다. 진주냉면, 함양 대구뽈찜, 통영 서호시장 시락국 백반, 그리고 해인사 템플스테이와 진해 군항제까지 담았습니다.",
+      "en": "Five Gyeongnam restaurants and sights that appeared in videos: Jinju-style cold noodles, braised cod cheeks in Hamyang, a siraegi soup set meal at Tongyeong's Seoho Market, a Haeinsa templestay, and the Jinhae Cherry Blossom Festival."
+    },
+    "cover": "VTksE8CVpW0",
+    "videos": [
+      "VTksE8CVpW0",
+      "P9qpZ_5m1dY",
+      "qSK6yJ5XM6U",
+      "7Dz3rR8_CFY",
+      "o8wHu_bjGnQ",
+      "prxvrdsZbZw"
     ]
   }
 ]
