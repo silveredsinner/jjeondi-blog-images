@@ -3,7 +3,7 @@
   const hiddenVideos = new Set(window.HIDDEN_VIDEOS || []);
   window.VIDEOS = window.VIDEOS.filter((v) => !hiddenVideos.has(v.id));
 
-  const CATS = ["all", "food", "travel", "culture"];
+  const CATS = ["all", "food", "travel", "culture", "mukbang", "beauty"];
   const $ = (id) => document.getElementById(id);
 
   const state = {

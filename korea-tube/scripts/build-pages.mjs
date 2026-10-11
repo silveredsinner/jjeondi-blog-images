@@ -14,7 +14,7 @@ const p = (...xs) => path.join(SITE, ...xs);
 // 사이트 데이터 읽기 (브라우저용 data/*.js 를 그대로 실행)
 const window = {};
 const ctx = vm.createContext({ window });
-for (const f of ["data/videos.js", "data/hidden-videos.js", "data/video-views.js", "data/places.js", "data/places-auto.js", "data/i18n-content.js", "data/affiliates.js"]) {
+for (const f of ["data/videos.js", "data/videos-auto.js", "data/hidden-videos.js", "data/video-views.js", "data/places.js", "data/places-auto.js", "data/i18n-content.js", "data/affiliates.js"]) {
   if (fs.existsSync(p(f))) vm.runInContext(fs.readFileSync(p(f), "utf8"), ctx);
 }
 const hidden = new Set(window.HIDDEN_VIDEOS || []);
