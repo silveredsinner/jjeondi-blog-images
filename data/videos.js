@@ -196,4 +196,20 @@ window.VIDEOS = [
   // 전남 (여수)
   { show: "hello1stkorea", id: "lOhVxViwHIY", region: "jeonnam", cats: ["travel", "food"], title: "독일 친구들의 여수 여행 – 집라인, 돌게장, 여수 밤바다 불꽃놀이 (EP.252)" },
   { show: "hello1stkorea", id: "_QKj8dcPqis", region: "jeonnam", cats: ["food", "travel"], title: "헝가리 셰프들의 여수 바다낚시와 두 번째 한국 여행 (EP.352)" },
+  // 서울
+  { show: "hello1stkorea", id: "Fi9S3woogeA", region: "seoul", cats: ["food"], title: "K-먹방의 성지 광장시장 – 멕시코 3인방의 산낙지 도전 (EP.2-3)" },
+  { show: "hello1stkorea", id: "ou1ZkytFIUg", region: "seoul", cats: ["food"], title: "[하이라이트] 미슐랭 셰프들도 K-라면 홀릭 – 노량진 수산시장 새벽 해물라면" },
+  { show: "hello1stkorea", id: "A7xvIScoliA", region: "seoul", cats: ["food"], title: "네덜란드 셰프들이 노량진에 떴다! 싱싱한 모듬회" },
+  { show: "hello1stkorea", id: "qrXIsDyHuKg", region: "seoul", cats: ["food", "culture"], title: "노량진 수산시장에서 멘붕 온 외국인들 모음" },
+  { show: "hello1stkorea", id: "HRmmssvPlsQ", region: "seoul", cats: ["travel"], title: "초고층 롯데타워에서 즐기는 액티비티 – 지상 541m (EP.186-3)" },
+  { show: "hello1stkorea", id: "X7SP3-UYob8", region: "seoul", cats: ["travel"], title: "남산타워에 놀러 간 친구들 – 자물쇠 자판기에 멘붕 (EP.238-3)" },
+  { show: "hello1stkorea", id: "wr-aNkV_KzQ", region: "seoul", cats: ["culture"], title: "캐나다 친구들, 전쟁기념관에서 마주한 분단의 현실 (EP.95-3)" },
+  // 경기·인천
+  { show: "hello1stkorea", id: "alWSFTtWpuk", region: "gyeonggi", cats: ["travel", "food"], title: "스웨덴 친구들의 강화도 루지 체험 – 적석사, 장어구이 (EP.276)" },
+  { show: "hello1stkorea", id: "i4o2Bfp0nrM", region: "gyeonggi", cats: ["travel"], title: "네덜란드 친구들의 짜릿한 양평 패러글라이딩 (EP.93-3)" },
+  // 경남
+  { show: "hello1stkorea", id: "2B3dQAwuy7c", region: "gyeongnam", cats: ["travel"], title: "덴마크 친구들의 거제 바다 피크닉과 자전거 국토종주 마무리 (EP.405)" },
+  { show: "hello1stkorea", id: "WiYtJv2v8Ro", region: "gyeongnam", cats: ["travel", "food"], title: "미슐랭 셰프들이 김해 도착하자마자 간 곳은? (EP.438)" },
+  // 전남
+  { show: "hello1stkorea", id: "0ksxWiHD-sM", region: "jeonnam", cats: ["travel"], title: "독일 세 친구들의 우당탕탕 여수 여행 시작 (EP.251)" },
 ];
