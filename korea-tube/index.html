@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Korea Tube</title>
+  <meta name="description" content="한국 여행·음식·문화 유튜브를 지역별로 모아 보고, 원하는 언어 자막으로 시청하세요.">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="topbar">
+    <div class="brand">
+      <span class="logo" aria-hidden="true">▶</span>
+      <div>
+        <h1>Korea Tube</h1>
+        <p class="tagline" data-i18n="tagline"></p>
+      </div>
+    </div>
+    <a class="blog-link" href="blog/index.html" data-i18n="blog"></a>
+    <label class="lang">
+      <span data-i18n="subtitleLang"></span>
+      <select id="langSelect"></select>
+    </label>
+  </header>
+
+  <main class="layout">
+    <section class="map-panel">
+      <h2 data-i18n="pickRegion"></h2>
+      <div id="map" role="application" aria-label="Korea map"></div>
+      <div id="regionChips" class="chips"></div>
+    </section>
+
+    <section class="list-panel">
+      <div class="filters">
+        <div id="catTabs" class="tabs" role="tablist"></div>
+        <input id="search" type="search" autocomplete="off">
+      </div>
+      <div id="showChips" class="chips show-chips" aria-label="program"></div>
+      <section id="regionInfo" class="region-info" hidden></section>
+      <p id="resultInfo" class="result-info"></p>
+      <div id="grid" class="grid"></div>
+    </section>
+  </main>
+
+  <footer class="foot">
+    <p data-i18n="captionNote"></p>
+  </footer>
+
+  <dialog id="playerDialog">
+    <div class="dialog-head">
+      <h3 id="playerTitle"></h3>
+      <button id="closeBtn" class="icon-btn" aria-label="close">✕</button>
+    </div>
+    <div class="player-wrap"><div id="player"></div></div>
+    <p id="captionStatus" class="caption-status"></p>
+  </dialog>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+  <script src="data/videos.js"></script>
+  <script src="data/places.js"></script>
+  <script src="data/places-auto.js"></script>
+  <script src="data/affiliates.js"></script>
+  <script src="data/i18n-content.js"></script>
+  <script src="i18n.js"></script>
+  <script src="app.js"></script>
+  <script src="https://www.youtube.com/iframe_api"></script>
+</body>
+</html>

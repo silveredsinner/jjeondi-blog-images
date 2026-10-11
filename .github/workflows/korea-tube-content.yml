@@ -1,0 +1,71 @@
+# Korea Tube: 영상 설명란·댓글에서 맛집을 뽑고 블로그 글 초안을 만들어 PR 로 올린다.
+# 필요한 저장소 Secrets: YOUTUBE_API_KEY, ANTHROPIC_API_KEY
+# 필요한 설정: Settings → Actions → General → "Allow GitHub Actions to create and approve pull requests" 체크
+name: Korea Tube content
+
+on:
+  schedule:
+    - cron: "17 0 * * 1" # 매주 월요일 09:17 (한국 시간)
+  workflow_dispatch:
+    inputs:
+      max_videos:
+        description: "한 번에 처리할 영상 수"
+        default: "15"
+      only_shows:
+        description: "방송 프로그램 영상만 처리 (1 = 예)"
+        default: "0"
+      blog_region:
+        description: "이 지역 글을 강제로 쓰기 (예: busan). 비우면 새 장소가 모인 지역만"
+        default: ""
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: korea-tube-content
+  cancel-in-progress: false
+
+jobs:
+  enrich:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: korea-tube/scripts
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: korea-tube/scripts/package-lock.json
+      - run: npm ci
+      - name: 영상 설명란·댓글에서 맛집 찾기
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          MAX_VIDEOS: ${{ inputs.max_videos || '15' }}
+          ONLY_SHOWS: ${{ inputs.only_shows || '0' }}
+        run: node enrich.mjs
+      - name: 블로그 글 초안 쓰기
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          BLOG_REGION: ${{ inputs.blog_region }}
+        run: node blog.mjs
+      - name: 확인용 PR 만들기
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: korea-tube/auto-content
+          delete-branch: true
+          add-paths: |
+            korea-tube/data/places-auto.js
+            korea-tube/data/auto/**
+            korea-tube/blog/**
+          commit-message: "Korea Tube: 영상 속 맛집 자동 추출 + 블로그 초안"
+          title: "Korea Tube 자동 업데이트: 맛집 정보·블로그 초안"
+          body: |
+            영상 설명란과 댓글에서 자동으로 찾은 맛집과, 그걸로 쓴 블로그 글 초안이에요.
+            병합하기 전에 확인해 주세요:
+            - `korea-tube/data/auto/places-auto.json` 의 `evidence` (근거 문장)가 실제로 그 가게를 가리키는지
+            - `korea-tube/blog/posts/` 의 글 내용에 틀린 정보가 없는지
+            틀린 항목은 이 PR 에서 지우거나 고친 뒤 병합하면 사이트에 자동 배포돼요.

@@ -1,0 +1,28 @@
+/* 블로그 목록·글 공통 스타일 (사이트 styles.css 의 색상 토큰 사용) */
+.topbar .brand { text-decoration: none; color: inherit; }
+.bp-nav { display: flex; align-items: center; gap: 8px; font-size: 14px; }
+.bp-nav a { color: var(--text); text-decoration: none; padding: 6px 10px; border-radius: 8px; border: 1px solid var(--border); background: var(--surface); }
+.bp-switch { border: 1px solid var(--border); background: var(--surface); border-radius: 8px; padding: 6px 10px; font-size: 13px; }
+.bp-main { max-width: 760px; margin: 0 auto; padding: 24px 16px 48px; }
+.bp-main h1 { font-size: 26px; line-height: 1.3; margin: 0 0 6px; }
+.bp-main h2 { font-size: 19px; margin: 28px 0 10px; }
+.bp-main h3 { font-size: 16px; margin: 20px 0 6px; }
+.bp-meta { color: var(--muted); font-size: 13px; margin: 0 0 14px; }
+.bp-summary { font-size: 16px; color: var(--muted); border-left: 3px solid var(--accent); padding-left: 12px; }
+.bp-body p, .bp-body li { font-size: 15px; line-height: 1.75; }
+.bp-places { list-style: none; padding: 0; display: grid; gap: 8px; }
+.bp-place { display: flex; flex-wrap: wrap; align-items: center; gap: 6px 10px; padding: 10px 12px; border: 1px solid var(--border); border-radius: 10px; background: var(--surface); }
+.bp-place span { color: var(--muted); font-size: 13px; flex: 1 1 160px; }
+.bp-place a { font-size: 12px; color: var(--accent-strong); }
+.bp-note { font-size: 12px; color: var(--muted); }
+.bp-videos { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 12px; }
+.bp-video { display: block; text-decoration: none; color: var(--text); border: 1px solid var(--border); border-radius: 10px; overflow: hidden; background: var(--surface); }
+.bp-video img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; display: block; background: var(--border); }
+.bp-video span { display: block; padding: 8px 10px; font-size: 13px; }
+.bp-list { list-style: none; padding: 0; display: grid; gap: 14px; }
+.bp-item a { display: grid; grid-template-columns: 160px 1fr; gap: 14px; text-decoration: none; color: var(--text); padding: 10px; border: 1px solid var(--border); border-radius: 12px; background: var(--surface); }
+.bp-item img { width: 100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius: 8px; background: var(--border); }
+.bp-item h2 { font-size: 17px; margin: 0 0 6px; }
+.bp-item p { margin: 0; font-size: 13px; color: var(--muted); }
+.bp-empty { color: var(--muted); }
+@media (max-width: 600px) { .bp-item a { grid-template-columns: 1fr; } }
