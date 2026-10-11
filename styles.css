@@ -55,7 +55,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
 }
 .brand h1 { margin: 0; font-size: 18px; line-height: 1.2; }
 .tagline { margin: 0; font-size: 13px; color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.blog-link { margin-left: auto; font-size: 14px; color: var(--text); text-decoration: none; padding: 6px 10px; border: 1px solid var(--border); border-radius: 8px; background: var(--surface); }
+.blog-link { margin-left: auto; white-space: nowrap; flex: none; font-size: 14px; color: var(--text); text-decoration: none; padding: 6px 10px; border: 1px solid var(--border); border-radius: 8px; background: var(--surface); }
 .blog-link:hover { border-color: var(--accent); }
 .lang { display: flex; align-items: center; gap: 8px; font-size: 13px; color: var(--muted); flex: none; }
 .lang select {
@@ -207,9 +207,18 @@ dialog::backdrop { background: rgba(0,0,0,.6); }
   .chip { flex: none; }
   .tagline { display: none; }
   .lang span { display: none; }
+  .brand h1 { font-size: 16px; white-space: nowrap; }
+  .topbar { gap: 8px; }
   #search { max-width: none; }
   .show-chips { flex-wrap: nowrap; overflow-x: auto; padding-bottom: 4px; }
   .region-info { padding: 14px; }
   .info-cols { grid-template-columns: 1fr; }
   .grid { grid-template-columns: repeat(auto-fill, minmax(160px, 1fr)); gap: 12px; }
+}
+
+@media (max-width: 400px) {
+  .logo { display: none; }
+  .brand h1 { font-size: 15px; }
+  .blog-link { padding: 6px 8px; font-size: 13px; }
+  .lang select { max-width: 112px; padding: 6px 4px; }
 }

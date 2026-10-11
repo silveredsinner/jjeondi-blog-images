@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://silveredsinner.github.io/jjeondi-blog-images/sitemap.xml
+Sitemap: https://letsvisitkorea.com/sitemap.xml
