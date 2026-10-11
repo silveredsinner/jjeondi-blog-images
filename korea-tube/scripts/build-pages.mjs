@@ -13,7 +13,7 @@ const p = (...xs) => path.join(SITE, ...xs);
 // 사이트 데이터 읽기 (브라우저용 data/*.js 를 그대로 실행)
 const window = {};
 const ctx = vm.createContext({ window });
-for (const f of ["data/videos.js", "data/hidden-videos.js", "data/places.js", "data/places-auto.js", "data/i18n-content.js"]) {
+for (const f of ["data/videos.js", "data/hidden-videos.js", "data/places.js", "data/places-auto.js", "data/i18n-content.js", "data/affiliates.js"]) {
   if (fs.existsSync(p(f))) vm.runInContext(fs.readFileSync(p(f), "utf8"), ctx);
 }
 const hidden = new Set(window.HIDDEN_VIDEOS || []);
@@ -84,6 +84,19 @@ function page({ rel, title, desc, image, url, body }) {
 // ---------- 지역 페이지 ----------
 fs.mkdirSync(p("r"), { recursive: true });
 const urls = [`${SITE_URL}/`, `${SITE_URL}/blog/index.html`, `${SITE_URL}/about.html`, `${SITE_URL}/privacy.html`];
+// KKday 상품 카드 위젯 (data/affiliates.js 의 KKDAY_WIDGETS 에 oid 가 있는 지역만). 한/영 글 아래에 하나만 둔다.
+function kkWidget(r) {
+  const oid = (window.KKDAY_WIDGETS || {})[r.key];
+  if (!oid) return "";
+  return `
+    <section class="bp-kk">
+      <h2><span class="bp-lang" data-lang="ko">${esc(r.ko)} 투어·체험 추천</span><span class="bp-lang" data-lang="en" hidden>Recommended tours &amp; activities in ${esc(r.en)}</span></h2>
+      <ins class="kkday-product-media" data-oid="${oid}" data-amount="4" data-origin="https://kkpartners.kkday.com"></ins>
+      <script src="${window.KKDAY_WIDGET_JS}" async></script>
+      <p class="bp-note"><span class="bp-lang" data-lang="ko">제휴 링크예요. 예약하시면 사이트 운영에 도움이 되는 수수료가 지급될 수 있어요(가격은 같아요).</span><span class="bp-lang" data-lang="en" hidden>Affiliate links: if you book, this site may earn a commission at no extra cost to you.</span></p>
+    </section>`;
+}
+
 for (const r of window.REGIONS) {
   const info = window.REGION_INFO[r.key];
   const vids = VIDEOS.filter((v) => regionsOf(v).includes(r.key));
@@ -126,7 +139,7 @@ for (const r of window.REGIONS) {
     desc: `${info.ko.intro} ${r.ko} 영상 ${vids.length}개와 영상에 나온 맛집 ${places.length}곳. ${info.en.intro}`,
     image: vids[0] ? thumb(vids[0].id) : null,
     url,
-    body: section("ko") + section("en"),
+    body: section("ko") + section("en") + kkWidget(r),
   }));
   urls.push(url);
 }

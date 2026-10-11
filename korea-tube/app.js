@@ -261,7 +261,36 @@
     google: `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(q)}`,
   });
 
+  // KKday 상품 카드 위젯: #regionInfo 와 따로 두어서, 검색·필터로 다시 그릴 때 위젯이 새로 로딩되지 않게 한다.
+  // 지역이 바뀔 때만 새로 만들고, 정보 접기/언어 변경은 숨김·제목만 바꾼다.
+  let kkKey = null;
+  function renderKkWidget() {
+    const box = $("kkWidget");
+    if (!box) return;
+    const r = REGIONS.find((x) => x.key === state.region);
+    const oid = r && (window.KKDAY_WIDGETS || {})[r.key];
+    box.hidden = !oid || !state.infoOpen;
+    if (!oid) { if (kkKey) { box.innerHTML = ""; kkKey = null; } return; }
+    if (kkKey !== r.key) {
+      kkKey = r.key;
+      box.innerHTML = "";
+      box.appendChild(el("h3", "kk-title"));
+      const ins = document.createElement("ins");
+      ins.className = "kkday-product-media";
+      ins.dataset.oid = oid; ins.dataset.amount = "4"; ins.dataset.origin = "https://kkpartners.kkday.com";
+      box.appendChild(ins);
+      // 위젯 스크립트가 페이지의 <ins> 를 찾아 채운다 → 지역이 바뀔 때마다 새로 실행
+      const sc = document.createElement("script");
+      sc.src = window.KKDAY_WIDGET_JS; sc.async = true;
+      box.appendChild(sc);
+      box.appendChild(el("p", "info-note kk-note"));
+    }
+    box.querySelector(".kk-title").textContent = t("kkTours", { r: regionName(r) });
+    box.querySelector(".kk-note").textContent = t("affNote");
+  }
+
   function renderRegionInfo() {
+    renderKkWidget();
     const box = $("regionInfo");
     const r = REGIONS.find((x) => x.key === state.region);
     const info = r && window.REGION_INFO && REGION_INFO[r.key];
@@ -348,8 +377,9 @@
         row.appendChild(link);
       }
       box.appendChild(row);
-      if (affs.some((a) => a.tracked)) box.appendChild(el("p", "info-note", t("affNote")));
     }
+
+    if (affs.some((a) => a.tracked)) box.appendChild(el("p", "info-note", t("affNote")));
   }
 
   function renderStatic() {
