@@ -253,7 +253,7 @@
     box.appendChild(cols);
 
     // 영상에 나온 맛집·장소
-    const places = (window.PLACES || []).filter((p) => p.region === r.key);
+    const places = [...(window.PLACES || []), ...(window.PLACES_AUTO || [])].filter((p) => p.region === r.key);
     if (places.length) {
       box.appendChild(el("h3", null, t("places")));
       const list = el("div", "place-list");
@@ -442,5 +442,10 @@
   dialog.addEventListener("click", (e) => { if (e.target === dialog) closePlayer(); });
 
   matchMedia("(prefers-color-scheme: dark)").addEventListener("change", renderMap);
+  // 블로그 글에서 ?v=영상ID 로 들어오면 그 영상을 바로 연다 (renderAll 이 주소를 다시 쓰기 전에 읽어 둠)
+  const deepLink = new URLSearchParams(location.search).get("v");
+  const deepVideo = deepLink && VIDEOS.find((v) => v.id === deepLink);
+
   renderAll();
+  if (deepVideo) openPlayer(deepVideo);
 })();

@@ -55,6 +55,8 @@ button { font: inherit; color: inherit; cursor: pointer; }
 }
 .brand h1 { margin: 0; font-size: 18px; line-height: 1.2; }
 .tagline { margin: 0; font-size: 13px; color: var(--muted); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.blog-link { margin-left: auto; font-size: 14px; color: var(--text); text-decoration: none; padding: 6px 10px; border: 1px solid var(--border); border-radius: 8px; background: var(--surface); }
+.blog-link:hover { border-color: var(--accent); }
 .lang { display: flex; align-items: center; gap: 8px; font-size: 13px; color: var(--muted); flex: none; }
 .lang select {
   font: inherit; color: var(--text); background: var(--surface);

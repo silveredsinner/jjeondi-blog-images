@@ -61,3 +61,25 @@ GitHub Pages, Netlify, Vercel 등에 이 폴더를 그대로 올리면 됩니다
   - 지역 소개 문장은 12개 언어, 대표 음식·가볼 곳·맛집 이름은 한국어·영어·일본어·중국어(간체/번체)
   - 번역이 없는 항목은 영어로 표시되고, 외국어 화면에서는 맛집 한국어 이름도 함께 보입니다.
 - 영상 제목은 유튜브 원래 제목 그대로 표시합니다.
+
+## 자동화: 영상 속 맛집 찾기 + 블로그 초안 (GitHub Actions)
+`.github/workflows/korea-tube-content.yml` 이 매주 월요일(또는 Actions 탭에서 수동 실행) 아래를 실행합니다.
+
+1. `scripts/enrich.mjs` — 아직 처리하지 않은 영상의 **설명란과 인기 댓글**을 YouTube Data API로 가져와,
+   Claude가 가게·장소를 뽑습니다. **근거 문장이 실제 설명란/댓글에 있는 것만** 남기고(지어낸 가게 차단),
+   이미 있는 가게는 영상만 연결합니다. 결과: `data/auto/places-auto.json`, `data/places-auto.js`
+2. `scripts/blog.mjs` — 새 장소가 2곳 이상 모인 지역마다 한국어·영어 블로그 글 초안을 씁니다. 결과: `blog/posts/*.html`
+3. 결과를 **PR로 올립니다.** 확인 후 병합하면 `korea-tube-deploy.yml` 이 사이트에 자동 배포합니다.
+
+### 처음 한 번 설정
+- 저장소 **Settings → Secrets and variables → Actions** 에 추가
+  - `YOUTUBE_API_KEY`: Google Cloud Console → YouTube Data API v3 사용 설정 → API 키 (무료 할당량)
+  - `ANTHROPIC_API_KEY`: console.anthropic.com 에서 발급
+- **Settings → Actions → General → Workflow permissions** 에서 "Read and write" 와
+  "Allow GitHub Actions to create and approve pull requests" 체크
+- 워크플로 파일이 **기본 브랜치(main)에 있어야** 예약 실행됩니다.
+
+### 수동 실행 옵션 (Actions → Korea Tube content → Run workflow)
+- `max_videos`: 한 번에 처리할 영상 수 (기본 15)
+- `only_shows`: `1` 이면 방송 프로그램 영상만
+- `blog_region`: 지역 key 를 넣으면 그 지역 글을 새로 씀 (예: `busan`)
