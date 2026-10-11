@@ -16,10 +16,14 @@ const site = loadSiteData();
 const processed = readJson("data/auto/processed.json", {});
 const store = readJson("data/auto/places-auto.json", []);
 
-const known = new Set([...site.PLACES, ...store].map((x) => normName(x.ko)));
+// 가게 정보가 설명란에 잘 적혀 있는 맛집 프로그램부터 처리
+const PRIORITY = { baekban: 0, paikmarket: 1 };
+const rank = (v) => (v.show ? PRIORITY[v.show] ?? 2 : 3);
 const todo = ONLY_IDS.length
   ? site.VIDEOS.filter((v) => ONLY_IDS.includes(v.id))
-  : site.VIDEOS.filter((v) => !processed[v.id] && (!ONLY_SHOWS || v.show)).slice(0, MAX);
+  : site.VIDEOS.filter((v) => !processed[v.id] && (!ONLY_SHOWS || v.show))
+      .map((v, i) => [v, i]).sort((a, b) => rank(a[0]) - rank(b[0]) || a[1] - b[1]).map(([v]) => v)
+      .slice(0, MAX);
 console.log(`처리할 영상 ${todo.length}개 (남은 영상 ${site.VIDEOS.filter((v) => !processed[v.id]).length}개)`);
 
 async function yt(endpoint, params) {
@@ -74,6 +78,8 @@ const SYSTEM = `너는 한국 여행·음식 영상의 설명란과 댓글에서
 - 근거(evidence)에는 원문 문장을 그대로 옮겨.
 - 협찬·광고 링크, 채널 홍보, 다른 영상 소개는 제외해.
 - 영상과 관계없는 댓글 속 추천 가게는 제외하고, 영상에 나온 곳이라고 판단되는 것만 넣어.
+- 출연자가 실제로 가거나 먹거나 체험한 곳만 넣어. 역사·주제로 이름만 언급된 동네·행정구역(예: "여의도의 역사")은 제외해.
+- [이미 등록된 장소] 목록에 있는 곳과 같은 장소라면 name_ko 에 그 목록의 이름을 글자 그대로 써. (예: "남산타워" → 목록의 "남산서울타워")
 - 하나도 없으면 빈 배열을 돌려줘.`;
 
 const added = [];
@@ -91,9 +97,13 @@ for (const v of todo) {
     .join("\n");
   const regions = regionsOf(v).map((r) => `${r} (${site.REGIONS.find((x) => x.key === r)?.ko})`).join(", ");
 
+  const registered = [...site.PLACES, ...store].filter((x) => regionsOf(v).includes(x.region)).map((x) => `- ${x.ko}`).join("\n");
   const prompt = `영상 제목: ${sn.title}
 채널: ${sn.channelTitle}
 이 영상의 지역 key: ${regions}
+
+[이미 등록된 장소]
+${registered || "(없음)"}
 
 [설명란]
 ${sn.description || "(없음)"}
@@ -118,7 +128,7 @@ ${commentText || "(없음)"}`;
   let n = 0;
   for (const x of found) {
     const key = normName(x.name_ko);
-    const existing = [...site.PLACES, ...store].find((y) => normName(y.ko) === key);
+    const existing = [...site.PLACES, ...store].find((y) => sameName(y.ko, key));
     if (existing) {
       // 이미 있는 가게면 영상만 연결
       if (!existing.videos.includes(v.id) && store.includes(existing)) existing.videos.push(v.id);
@@ -130,7 +140,6 @@ ${commentText || "(없음)"}`;
       auto: true, evidence: x.evidence, added: today(),
     };
     store.push(place);
-    known.add(key);
     added.push(place);
     n++;
   }
@@ -149,5 +158,10 @@ fs.writeFileSync(
 );
 console.log(`\n새로 찾은 장소 ${added.length}곳`);
 
+// 같은 장소 판정: 정규화한 이름이 같거나, 3글자 이상에서 한쪽이 다른 쪽을 포함
+function sameName(existingKo, key) {
+  const a = normName(existingKo);
+  return a === key || (a.length >= 3 && key.length >= 3 && (a.includes(key) || key.includes(a)));
+}
 function squash(s) { return String(s || "").replace(/\s+/g, " ").trim(); }
 function today() { return new Date().toISOString().slice(0, 10); }
