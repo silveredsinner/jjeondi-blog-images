@@ -27,6 +27,7 @@ window.KKDAY_WIDGETS = {
   chungcheong: "14081",
   jeonbuk: "14083",
   jeonnam: "14084",
+  gyeongbuk: "14085",
   busan: "14077",
 };
 window.KKDAY_WIDGET_JS = "https://kkpartners.kkday.com/iframe.init.1.0.js";
