@@ -20,6 +20,9 @@ on:
       discover:
         description: "유튜브에서 새 영상 찾기: mukbang, beauty (쉼표로 여러 개). 비우면 안 찾음"
         default: ""
+      discover_regions:
+        description: "새 먹방 찾기를 이 지역만 (예: busan,gangwon,jeonbuk). 비우면 전국"
+        default: ""
       only_check:
         description: "영상 점검(삭제 영상 숨기기·조회수·자막)만 하기 (1 = 예, Claude API 안 씀)"
         default: "0"
@@ -68,6 +71,7 @@ jobs:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           DISCOVER: ${{ inputs.discover }}
+          DISCOVER_REGIONS: ${{ inputs.discover_regions }}
           REVIEW_FILE: ${{ runner.temp }}/review.md
         run: node discover.mjs
       - name: 영상 상태 점검 (삭제·비공개 영상 숨기기, 조회수)
