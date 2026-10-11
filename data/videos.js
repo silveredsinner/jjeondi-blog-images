@@ -3,7 +3,8 @@
 //   id     : 유튜브 영상 ID (youtube.com/watch?v=XXXX 의 XXXX)
 //   region : 아래 REGIONS 의 key. 여러 지역이 나오면 ["seoul", "gangwon"] 처럼 배열
 //   show   : (선택) 방송 프로그램 key — 아래 SHOWS 참고
-//   cats   : "food" | "travel" | "culture" 중 하나 이상
+//   cats   : "food" | "travel" | "culture" | "mukbang"(먹방) | "beauty"(K-뷰티) 중 하나 이상
+// 자동으로 찾은 영상(먹방·K-뷰티 등)은 data/auto/videos-auto.json → data/videos-auto.js 에 따로 있어요.
 
 window.REGIONS = [
   { key: "seoul",     ko: "서울",       en: "Seoul",            lat: 37.5665, lng: 126.978 },
