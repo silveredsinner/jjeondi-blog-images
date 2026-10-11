@@ -68,7 +68,7 @@ window.PLACES = [
   // 충청·대전
   { region: "chungcheong", type: "restaurant", ko: "성심당", en: "Sungsimdang Bakery", q: "성심당 본점", menu_ko: "튀김소보로 등 빵", menu_en: "Fried soboro bread and more", videos: ["FQGLz3pzM2w", "qP4V8QnY_WE", "pT0PfB24lVI"] },
   { region: "chungcheong", type: "restaurant", ko: "행복분식 (대전)", en: "Haengbok Bunsik (Daejeon)", q: "대전 행복분식", menu_ko: "쫄면, 만두", menu_en: "Jjolmyeon, dumplings", videos: ["MnEdGm6bp7A"] },
-  { region: "chungcheong", type: "market", ko: "감곡시장 (음성)", en: "Gamgok Market (Eumseong)", q: "음성 감곡시장", menu_ko: "4000원 돼지국밥", menu_en: "Pork soup with rice", videos: ["xZOgnxlWMSE"] },
+  { region: "chungcheong", type: "restaurant", ko: "토종마을 (음성 감곡시장)", en: "Tojong Maeul (Eumseong)", q: "음성 감곡 토종마을", menu_ko: "4000원 돼지국밥", menu_en: "Pork soup with rice", videos: ["xZOgnxlWMSE"] },
   { region: "chungcheong", type: "spot", ko: "백제문화단지 (부여)", en: "Baekje Cultural Land (Buyeo)", q: "백제문화단지", menu_ko: "백제 왕궁 재현", menu_en: "Reconstructed Baekje palace", videos: ["O6TiJrfHIr0", "lvJ1P-Z-AGQ"] },
   // 전북
   { region: "jeonbuk", type: "spot", ko: "전주 한옥마을", en: "Jeonju Hanok Village", q: "전주한옥마을", menu_ko: "비빔밥, 길거리 음식, 한복 체험", menu_en: "Bibimbap, street food, hanbok", videos: ["YGWFWpd0AjY", "1JqvLe8gGS0", "2e02jJ6kBBI"] },
@@ -95,4 +95,21 @@ window.PLACES = [
   // 제주
   { region: "jeju", type: "restaurant", ko: "늘봄흑돼지", en: "Neulbom Heukdwaeji", q: "늘봄흑돼지", menu_ko: "흑돼지 구이", menu_en: "Grilled black pork", videos: ["stUKYEYBXfU"] },
   { region: "jeju", type: "market", ko: "동문시장 · 흑돼지거리", en: "Dongmun Market & Black Pork Street", q: "제주 동문시장", menu_ko: "흑돼지, 길거리 음식", menu_en: "Black pork, street food", videos: ["w12hNrPkBxQ"] },
+
+  // ---- 백종원의 님아 그 시장을 가오: 웹 검색으로 가게 이름을 확인한 편 ----
+  // 출처: 블로그·기사 정리글(편 번호·지역·가게명이 영상 제목과 일치하는 것만). 청도·동해·속초·논산·충주·인천 편은 확인 못 해 제외.
+  { region: "jeonnam", type: "restaurant", ko: "청보석 (곡성)", en: "Cheongboseok (Gokseong)", q: "곡성 청보석", menu_ko: "직접 농사지은 콩으로 만든 콩국수", menu_en: "Kongguksu (cold soybean noodles)", videos: ["2n2pcobA6DI"] },
+  { region: "gyeongbuk", type: "restaurant", ko: "진량돼지찌개 (경산)", en: "Jinryang Dwaeji Jjigae (Gyeongsan)", q: "경산 진량돼지찌개", menu_ko: "돼지찌개", menu_en: "Pork stew", videos: ["d8OciP6j7qc"] },
+  { region: "daegu", type: "restaurant", ko: "할매묵집 (대구 달서구)", en: "Halmae Mukjip (Daegu)", q: "대구 달서구 할매묵집", menu_ko: "메밀묵채, 도토리묵채", menu_en: "Buckwheat & acorn jelly soup", videos: ["dX8ys4uD9tY"] },
+  { region: "jeonbuk", type: "restaurant", ko: "시골순대 (진안)", en: "Sigol Sundae (Jinan)", q: "진안 시골순대", menu_ko: "순대국밥 (하루 3시간 영업)", menu_en: "Sundae gukbap (open ~3 hrs a day)", videos: ["SVz1zNuyOyA"] },
+  { region: "gangwon", type: "restaurant", ko: "고향보리밥 (원주)", en: "Gohyang Boribap (Wonju)", q: "원주 고향보리밥", menu_ko: "쌈밥정식, 삼겹살", menu_en: "Ssambap set, pork belly", videos: ["9qXUA5p7Ge0"] },
+  { region: "gangwon", type: "restaurant", ko: "성환식당 (철원)", en: "Seonghwan Sikdang (Cheorwon)", q: "철원 성환식당", menu_ko: "오징어 물회", menu_en: "Squid mulhoe", videos: ["-LgE9gMN4Rs"] },
+  { region: "gangwon", type: "restaurant", ko: "파로호국밥 (양구)", en: "Paroho Gukbap (Yanggu)", q: "양구 파로호국밥", menu_ko: "육개장, 국밥", menu_en: "Yukgaejang, gukbap", videos: ["iPLW-aOdq6I"] },
+  { region: "chungcheong", type: "restaurant", ko: "할매묵은지지짐이 (천안)", en: "Halmae Mugeunji Jijimi (Cheonan)", q: "천안 할매묵은지지짐이", menu_ko: "묵은지 지짐이", menu_en: "Braised aged kimchi", videos: ["hvbh9EnL6Ww"] },
+  { region: "chungcheong", type: "restaurant", ko: "우암설렁탕 (청주)", en: "Uam Seolleongtang (Cheongju)", q: "청주 우암설렁탕", menu_ko: "수육 (하루 4접시 한정), 설렁탕", menu_en: "Suyuk (4 plates a day), seolleongtang", videos: ["A4xPw4IXb-g"] },
+  { region: "chungcheong", type: "restaurant", ko: "월성집 (제천)", en: "Wolseongjip (Jecheon)", q: "제천 월성집", menu_ko: "매운 오징어무침", menu_en: "Spicy squid salad", videos: ["S74RkwHeFUY"] },
+  { region: "jeonnam", type: "restaurant", ko: "신성식당 (고흥 녹동)", en: "Sinseong Sikdang (Goheung)", q: "고흥 녹동 신성식당", menu_ko: "문어 요리 (문어코는 계절 한정)", menu_en: "Octopus dishes (seasonal)", videos: ["uX07TFcxKnY"] },
+  { region: "gyeongbuk", type: "restaurant", ko: "도산식육식당 (구미)", en: "Dosan Sigyuk Sikdang (Gumi)", q: "구미 도산식육식당", menu_ko: "마늘 듬뿍 돼지찌개", menu_en: "Garlicky pork stew", videos: ["rEhi5E11hT4"] },
+  { region: "gyeongnam", type: "restaurant", ko: "달동네식당 (함양)", en: "Daldongne Sikdang (Hamyang)", q: "함양 달동네식당", menu_ko: "대구뽈찜", menu_en: "Braised cod cheeks", videos: ["o8wHu_bjGnQ"] },
+  { region: "gyeongbuk", type: "restaurant", ko: "우현해물찜 (포항)", en: "Uhyeon Haemuljjim (Pohang)", q: "포항 우현해물찜", menu_ko: "아귀찜", menu_en: "Braised monkfish", videos: ["Kj3iNd_RmQ0"] },
 ];

@@ -17,6 +17,7 @@ window.LANGS = [
 
 window.I18N = {
   ko: {
+    blog: "블로그",
     k_tours: "투어·입장권", k_exp: "투어·체험", k_hotels: "숙소",
     travelInfo: "{r} 여행 정보", foods: "대표 음식", spots: "가볼 곳", places: "영상에 나온 맛집·장소", book: "여행 예약", watch: "영상 보기", naverMap: "네이버 지도", googleMap: "구글 지도", t_restaurant: "맛집", t_market: "시장", t_spot: "명소", affNote: "일부 링크는 제휴 링크예요. 예약하시면 사이트 운영에 도움이 되는 수수료가 지급될 수 있어요(가격은 같아요).", placeNote: "위치·영업시간은 바뀔 수 있으니 지도에서 꼭 확인하세요.", hideInfo: "접기", showInfo: "여행 정보 보기",
     allShows: "전체 프로그램", creators: "유튜버 영상",
@@ -33,6 +34,7 @@ window.I18N = {
     capNone: "이 영상에는 자막 트랙이 없어 번역 자막을 켤 수 없어요.",
   },
   en: {
+    blog: "Blog",
     k_tours: "Tours & tickets", k_exp: "Tours & experiences", k_hotels: "Hotels",
     travelInfo: "{r} travel guide", foods: "Must-eat", spots: "Must-see", places: "Places from the videos", book: "Book your trip", watch: "Watch", naverMap: "Naver Map", googleMap: "Google Maps", t_restaurant: "Restaurant", t_market: "Market", t_spot: "Sight", affNote: "Some links are affiliate links. If you book, this site may earn a commission at no extra cost to you.", placeNote: "Locations and hours change — please check the map before you go.", hideInfo: "Hide", showInfo: "Show travel guide",
     allShows: "All programs", creators: "YouTube creators",
@@ -49,6 +51,7 @@ window.I18N = {
     capNone: "This video has no caption track, so translated subtitles aren't available.",
   },
   ja: {
+    blog: "ブログ",
     k_tours: "ツアー・入場券", k_exp: "ツアー・体験", k_hotels: "ホテル",
     travelInfo: "{r} 旅行ガイド", foods: "名物グルメ", spots: "観光スポット", places: "動画に登場したお店・スポット", book: "旅行の予約", watch: "動画を見る", naverMap: "NAVER地図", googleMap: "Googleマップ", t_restaurant: "飲食店", t_market: "市場", t_spot: "名所", affNote: "一部のリンクはアフィリエイトリンクです。予約すると当サイトに手数料が入る場合があります（料金は変わりません）。", placeNote: "場所や営業時間は変わることがあります。地図で確認してください。", hideInfo: "閉じる", showInfo: "旅行ガイドを見る",
     allShows: "すべての番組", creators: "YouTuber動画",
@@ -65,6 +68,7 @@ window.I18N = {
     capNone: "この動画には字幕トラックがないため、翻訳字幕を表示できません。",
   },
   "zh-Hans": {
+    blog: "博客",
     k_tours: "门票·一日游", k_exp: "旅游·体验", k_hotels: "酒店",
     travelInfo: "{r} 旅游指南", foods: "必吃美食", spots: "必去景点", places: "视频中出现的餐厅·景点", book: "预订行程", watch: "看视频", naverMap: "Naver 地图", googleMap: "谷歌地图", t_restaurant: "餐厅", t_market: "市场", t_spot: "景点", affNote: "部分链接为联盟链接，您预订后本站可能获得佣金（价格不变）。", placeNote: "位置和营业时间可能变动，请出发前在地图上确认。", hideInfo: "收起", showInfo: "查看旅游指南",
     allShows: "全部节目", creators: "YouTuber 视频",
@@ -81,6 +85,7 @@ window.I18N = {
     capNone: "该视频没有字幕轨道，无法显示翻译字幕。",
   },
   "zh-Hant": {
+    blog: "部落格",
     k_tours: "門票·一日遊", k_exp: "旅遊·體驗", k_hotels: "飯店",
     travelInfo: "{r} 旅遊指南", foods: "必吃美食", spots: "必去景點", places: "影片中出現的餐廳·景點", book: "預訂行程", watch: "看影片", naverMap: "Naver 地圖", googleMap: "Google 地圖", t_restaurant: "餐廳", t_market: "市場", t_spot: "景點", affNote: "部分連結為聯盟連結，您預訂後本站可能獲得佣金（價格不變）。", placeNote: "位置與營業時間可能變動，請出發前在地圖上確認。", hideInfo: "收合", showInfo: "查看旅遊指南",
     allShows: "全部節目", creators: "YouTuber 影片",
@@ -97,6 +102,7 @@ window.I18N = {
     capNone: "此影片沒有字幕軌，無法顯示翻譯字幕。",
   },
   es: {
+    blog: "Blog",
     travelInfo: "Guía de viaje: {r}", foods: "Qué comer", spots: "Qué ver", places: "Lugares de los videos", book: "Reserva tu viaje", watch: "Ver", naverMap: "Naver Map", googleMap: "Google Maps", t_restaurant: "Restaurante", t_market: "Mercado", t_spot: "Lugar", affNote: "Algunos enlaces son de afiliados. Si reservas, este sitio puede recibir una comisión sin coste extra para ti.", placeNote: "Ubicaciones y horarios pueden cambiar: consulta el mapa antes de ir.", hideInfo: "Ocultar", showInfo: "Ver guía de viaje",
     k_tours: "Tours y entradas", k_exp: "Tours y experiencias", k_hotels: "Hoteles",
     allShows: "Todos los programas", creators: "Creadores de YouTube",
@@ -113,6 +119,7 @@ window.I18N = {
     capNone: "Este video no tiene subtítulos, así que no se pueden traducir.",
   },
   fr: {
+    blog: "Blog",
     travelInfo: "Guide de voyage : {r}", foods: "À goûter", spots: "À voir", places: "Lieux vus dans les vidéos", book: "Réserver", watch: "Regarder", naverMap: "Naver Map", googleMap: "Google Maps", t_restaurant: "Restaurant", t_market: "Marché", t_spot: "Site", affNote: "Certains liens sont affiliés. Si vous réservez, ce site peut toucher une commission sans surcoût pour vous.", placeNote: "Adresses et horaires peuvent changer : vérifiez sur la carte avant d’y aller.", hideInfo: "Masquer", showInfo: "Voir le guide",
     k_tours: "Visites & billets", k_exp: "Activités", k_hotels: "Hôtels",
     allShows: "Toutes les émissions", creators: "Créateurs YouTube",
@@ -129,6 +136,7 @@ window.I18N = {
     capNone: "Cette vidéo n'a pas de sous-titres à traduire.",
   },
   de: {
+    blog: "Blog",
     travelInfo: "Reiseführer: {r}", foods: "Probieren", spots: "Sehenswert", places: "Orte aus den Videos", book: "Reise buchen", watch: "Ansehen", naverMap: "Naver Map", googleMap: "Google Maps", t_restaurant: "Restaurant", t_market: "Markt", t_spot: "Sehenswürdigkeit", affNote: "Einige Links sind Affiliate-Links. Wenn du buchst, erhält diese Seite ggf. eine Provision – ohne Mehrkosten für dich.", placeNote: "Orte und Öffnungszeiten können sich ändern – bitte vorher auf der Karte prüfen.", hideInfo: "Ausblenden", showInfo: "Reiseführer anzeigen",
     k_tours: "Touren & Tickets", k_exp: "Erlebnisse", k_hotels: "Hotels",
     allShows: "Alle Sendungen", creators: "YouTube-Creator",
@@ -145,6 +153,7 @@ window.I18N = {
     capNone: "Dieses Video hat keine Untertitel zum Übersetzen.",
   },
   vi: {
+    blog: "Blog",
     travelInfo: "Cẩm nang du lịch {r}", foods: "Món nên thử", spots: "Điểm nên đến", places: "Quán ăn & địa điểm trong video", book: "Đặt chuyến đi", watch: "Xem", naverMap: "Naver Map", googleMap: "Google Maps", t_restaurant: "Quán ăn", t_market: "Chợ", t_spot: "Địa điểm", affNote: "Một số liên kết là liên kết tiếp thị. Khi bạn đặt, trang có thể nhận hoa hồng mà bạn không mất thêm phí.", placeNote: "Vị trí và giờ mở cửa có thể thay đổi, hãy kiểm tra bản đồ trước khi đi.", hideInfo: "Thu gọn", showInfo: "Xem cẩm nang",
     k_tours: "Tour & vé", k_exp: "Tour & trải nghiệm", k_hotels: "Khách sạn",
     allShows: "Tất cả chương trình", creators: "Nhà sáng tạo YouTube",
@@ -161,6 +170,7 @@ window.I18N = {
     capNone: "Video này không có phụ đề để dịch.",
   },
   th: {
+    blog: "บล็อก",
     travelInfo: "คู่มือเที่ยว{r}", foods: "ของกินห้ามพลาด", spots: "ที่เที่ยวห้ามพลาด", places: "ร้านและสถานที่ในวิดีโอ", book: "จองทริป", watch: "ดูวิดีโอ", naverMap: "Naver Map", googleMap: "Google Maps", t_restaurant: "ร้านอาหาร", t_market: "ตลาด", t_spot: "สถานที่", affNote: "บางลิงก์เป็นลิงก์พันธมิตร หากคุณจอง เว็บไซต์อาจได้รับค่าคอมมิชชัน โดยคุณไม่ต้องจ่ายเพิ่ม", placeNote: "ที่ตั้งและเวลาเปิดอาจเปลี่ยนแปลง โปรดตรวจสอบแผนที่ก่อนไป", hideInfo: "ซ่อน", showInfo: "ดูคู่มือเที่ยว",
     k_tours: "ทัวร์ & ตั๋ว", k_exp: "ทัวร์ & กิจกรรม", k_hotels: "ที่พัก",
     allShows: "ทุกรายการ", creators: "ครีเอเตอร์ YouTube",
@@ -177,6 +187,7 @@ window.I18N = {
     capNone: "วิดีโอนี้ไม่มีคำบรรยายให้แปล",
   },
   id: {
+    blog: "Blog",
     travelInfo: "Panduan wisata {r}", foods: "Wajib dicoba", spots: "Wajib dikunjungi", places: "Tempat di video", book: "Pesan perjalanan", watch: "Tonton", naverMap: "Naver Map", googleMap: "Google Maps", t_restaurant: "Restoran", t_market: "Pasar", t_spot: "Tempat wisata", affNote: "Beberapa tautan adalah tautan afiliasi. Jika kamu memesan, situs ini bisa mendapat komisi tanpa biaya tambahan untukmu.", placeNote: "Lokasi dan jam buka bisa berubah, cek peta sebelum berangkat.", hideInfo: "Sembunyikan", showInfo: "Lihat panduan",
     k_tours: "Tur & tiket", k_exp: "Tur & pengalaman", k_hotels: "Hotel",
     allShows: "Semua program", creators: "Kreator YouTube",
@@ -193,6 +204,7 @@ window.I18N = {
     capNone: "Video ini tidak punya teks untuk diterjemahkan.",
   },
   ru: {
+    blog: "Блог",
     travelInfo: "Путеводитель: {r}", foods: "Что попробовать", spots: "Что посмотреть", places: "Места из видео", book: "Бронирование", watch: "Смотреть", naverMap: "Naver Map", googleMap: "Google Maps", t_restaurant: "Ресторан", t_market: "Рынок", t_spot: "Достопримечательность", affNote: "Некоторые ссылки партнёрские. При бронировании сайт может получить комиссию без доплаты с вашей стороны.", placeNote: "Адреса и часы работы могут меняться — проверьте карту перед поездкой.", hideInfo: "Скрыть", showInfo: "Показать путеводитель",
     k_tours: "Экскурсии и билеты", k_exp: "Впечатления", k_hotels: "Отели",
     allShows: "Все программы", creators: "Авторы YouTube",

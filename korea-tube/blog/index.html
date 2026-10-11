@@ -1,0 +1,57 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Korea Tube Blog</title>
+  <meta name="description" content="한국 지역별 영상 속 맛집·명소 소개 글">
+  <link rel="stylesheet" href="../styles.css">
+  <link rel="stylesheet" href="blog.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="../index.html"><span class="logo" aria-hidden="true">▶</span><h1>Korea Tube</h1></a>
+    <nav class="bp-nav">
+      <button class="bp-switch" data-to="ko">한국어</button>
+      <button class="bp-switch" data-to="en">English</button>
+    </nav>
+  </header>
+  <main class="bp-main">
+    <h1 id="heading">블로그</h1>
+    <ul id="list" class="bp-list"></ul>
+  </main>
+  <script>
+    (function () {
+      var lang; try { lang = localStorage.getItem("kt.lang"); } catch (e) {}
+      lang = lang === "ko" || !lang ? "ko" : "en";
+      var posts = [];
+      function render() {
+        document.documentElement.lang = lang;
+        document.getElementById("heading").textContent = lang === "ko" ? "블로그" : "Blog";
+        var ul = document.getElementById("list");
+        ul.innerHTML = "";
+        if (!posts.length) {
+          var e = document.createElement("li");
+          e.className = "bp-empty";
+          e.textContent = lang === "ko" ? "아직 글이 없어요." : "No posts yet.";
+          ul.appendChild(e);
+        }
+        posts.forEach(function (p) {
+          var li = document.createElement("li"); li.className = "bp-item";
+          var a = document.createElement("a"); a.href = "posts/" + p.slug + ".html?lang=" + lang;
+          var img = document.createElement("img"); img.alt = ""; img.loading = "lazy";
+          if (p.cover) img.src = "https://i.ytimg.com/vi/" + p.cover + "/hqdefault.jpg";
+          var box = document.createElement("div");
+          var h = document.createElement("h2"); h.textContent = p.title[lang];
+          var s = document.createElement("p"); s.textContent = p.date + " · " + p.summary[lang];
+          box.appendChild(h); box.appendChild(s); a.appendChild(img); a.appendChild(box); li.appendChild(a); ul.appendChild(li);
+        });
+      }
+      document.querySelectorAll(".bp-switch").forEach(function (b) {
+        b.onclick = function () { lang = b.dataset.to; try { localStorage.setItem("kt.lang", lang); } catch (e) {} render(); };
+      });
+      fetch("posts.json").then(function (r) { return r.json(); }).then(function (x) { posts = x; render(); }).catch(render);
+    })();
+  </script>
+</body>
+</html>

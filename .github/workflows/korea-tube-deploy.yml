@@ -1,0 +1,27 @@
+# Korea Tube: main 의 korea-tube 폴더가 바뀌면 gh-pages 브랜치로 자동 배포
+name: Korea Tube deploy
+
+on:
+  push:
+    branches: [main]
+    paths: ["korea-tube/**"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: korea-tube-deploy
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: 사이트에 필요 없는 자동화 파일 빼기
+        run: rm -rf korea-tube/scripts korea-tube/data/auto korea-tube/blog/src && touch korea-tube/.nojekyll
+      - uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          folder: korea-tube
+          branch: gh-pages

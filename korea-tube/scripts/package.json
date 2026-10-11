@@ -1,0 +1,13 @@
+{
+  "name": "korea-tube-scripts",
+  "private": true,
+  "type": "module",
+  "description": "영상 설명란에서 맛집 정보를 뽑고 블로그 글 초안을 만드는 자동화 스크립트",
+  "scripts": {
+    "enrich": "node enrich.mjs",
+    "blog": "node blog.mjs"
+  },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.133.0"
+  }
+}
