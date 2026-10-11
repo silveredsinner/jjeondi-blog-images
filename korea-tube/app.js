@@ -7,6 +7,7 @@
     region: null,
     cat: "all",
     q: "",
+    show: "all", // "all" | "none"(유튜버 영상) | SHOWS key
   };
   readUrlState();
 
@@ -45,12 +46,14 @@
     if (p.get("lang") && I18N[p.get("lang")]) state.lang = p.get("lang");
     if (REGIONS.some((r) => r.key === p.get("region"))) state.region = p.get("region");
     if (CATS.includes(p.get("cat"))) state.cat = p.get("cat");
+    if (p.get("show") === "none" || (window.SHOWS && SHOWS[p.get("show")])) state.show = p.get("show");
   }
   function writeUrlState() {
     const p = new URLSearchParams();
     p.set("lang", state.lang);
     if (state.region) p.set("region", state.region);
     if (state.cat !== "all") p.set("cat", state.cat);
+    if (state.show !== "all") p.set("show", state.show);
     history.replaceState(null, "", `${location.pathname}?${p}`);
   }
 
@@ -76,7 +79,8 @@
   }
 
   function countFor(regionKey) {
-    return VIDEOS.filter((v) => regionsOf(v).includes(regionKey) && (state.cat === "all" || v.cats.includes(state.cat))).length;
+    return VIDEOS.filter((v) => regionsOf(v).includes(regionKey) && (state.cat === "all" || v.cats.includes(state.cat)) &&
+      (state.show === "all" || (state.show === "none" ? !v.show : v.show === state.show))).length;
   }
 
   function cssVar(name) {
@@ -155,6 +159,7 @@
     return VIDEOS.filter((v) =>
       (!state.region || regionsOf(v).includes(state.region)) &&
       (state.cat === "all" || v.cats.includes(state.cat)) &&
+      (state.show === "all" || (state.show === "none" ? !v.show : v.show === state.show)) &&
       (!q || `${v.title} ${showName(v)}`.toLowerCase().includes(q))
     );
   }
@@ -188,6 +193,7 @@
     document.documentElement.lang = state.lang;
     document.querySelectorAll("[data-i18n]").forEach((el) => { el.textContent = t(el.dataset.i18n); });
     $("search").placeholder = t("search");
+    renderShowSelect();
   }
 
   function renderAll() {
@@ -213,6 +219,18 @@
     renderAll();
     if (player) applyCaptions(true);
   };
+  function renderShowSelect() {
+    const el = $("showSelect");
+    const opts = [["all", t("allShows")], ...Object.keys(SHOWS).map((k) => [k, state.lang === "ko" ? SHOWS[k].ko : SHOWS[k].en]), ["none", t("creators")]];
+    el.innerHTML = "";
+    for (const [v, label] of opts) {
+      const o = document.createElement("option");
+      o.value = v; o.textContent = label;
+      el.appendChild(o);
+    }
+    el.value = state.show;
+  }
+  $("showSelect").onchange = (e) => { state.show = e.target.value; renderAll(); };
   $("search").oninput = (e) => { state.q = e.target.value; renderGrid(); };
 
   // ---------- 플레이어 + 자동 자막 ----------
