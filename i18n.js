@@ -17,6 +17,7 @@ window.LANGS = [
 
 window.I18N = {
   ko: {
+    allShows: "전체 프로그램", creators: "유튜버 영상",
     tagline: "한국 여행·음식·문화 유튜브를 지역별로",
     subtitleLang: "자막 언어",
     pickRegion: "지도에서 지역을 선택하세요",
@@ -30,6 +31,7 @@ window.I18N = {
     capNone: "이 영상에는 자막 트랙이 없어 번역 자막을 켤 수 없어요.",
   },
   en: {
+    allShows: "All programs", creators: "YouTube creators",
     tagline: "Korean travel, food & culture videos by region",
     subtitleLang: "Subtitles",
     pickRegion: "Pick a region on the map",
@@ -43,6 +45,7 @@ window.I18N = {
     capNone: "This video has no caption track, so translated subtitles aren't available.",
   },
   ja: {
+    allShows: "すべての番組", creators: "YouTuber動画",
     tagline: "韓国の旅・グルメ・文化の動画を地域別に",
     subtitleLang: "字幕",
     pickRegion: "地図で地域を選んでください",
@@ -56,6 +59,7 @@ window.I18N = {
     capNone: "この動画には字幕トラックがないため、翻訳字幕を表示できません。",
   },
   "zh-Hans": {
+    allShows: "全部节目", creators: "YouTuber 视频",
     tagline: "按地区浏览韩国旅行·美食·文化视频",
     subtitleLang: "字幕",
     pickRegion: "在地图上选择地区",
@@ -69,6 +73,7 @@ window.I18N = {
     capNone: "该视频没有字幕轨道，无法显示翻译字幕。",
   },
   "zh-Hant": {
+    allShows: "全部節目", creators: "YouTuber 影片",
     tagline: "依地區瀏覽韓國旅遊·美食·文化影片",
     subtitleLang: "字幕",
     pickRegion: "在地圖上選擇地區",
@@ -82,6 +87,7 @@ window.I18N = {
     capNone: "此影片沒有字幕軌，無法顯示翻譯字幕。",
   },
   es: {
+    allShows: "Todos los programas", creators: "Creadores de YouTube",
     tagline: "Videos de viajes, comida y cultura de Corea por región",
     subtitleLang: "Subtítulos",
     pickRegion: "Elige una región en el mapa",
@@ -95,6 +101,7 @@ window.I18N = {
     capNone: "Este video no tiene subtítulos, así que no se pueden traducir.",
   },
   fr: {
+    allShows: "Toutes les émissions", creators: "Créateurs YouTube",
     tagline: "Vidéos voyage, cuisine et culture coréennes par région",
     subtitleLang: "Sous-titres",
     pickRegion: "Choisissez une région sur la carte",
@@ -108,6 +115,7 @@ window.I18N = {
     capNone: "Cette vidéo n'a pas de sous-titres à traduire.",
   },
   de: {
+    allShows: "Alle Sendungen", creators: "YouTube-Creator",
     tagline: "Koreanische Reise-, Food- & Kulturvideos nach Region",
     subtitleLang: "Untertitel",
     pickRegion: "Region auf der Karte wählen",
@@ -121,6 +129,7 @@ window.I18N = {
     capNone: "Dieses Video hat keine Untertitel zum Übersetzen.",
   },
   vi: {
+    allShows: "Tất cả chương trình", creators: "Nhà sáng tạo YouTube",
     tagline: "Video du lịch, ẩm thực, văn hóa Hàn Quốc theo vùng",
     subtitleLang: "Phụ đề",
     pickRegion: "Chọn vùng trên bản đồ",
@@ -134,6 +143,7 @@ window.I18N = {
     capNone: "Video này không có phụ đề để dịch.",
   },
   th: {
+    allShows: "ทุกรายการ", creators: "ครีเอเตอร์ YouTube",
     tagline: "วิดีโอท่องเที่ยว อาหาร วัฒนธรรมเกาหลีตามภูมิภาค",
     subtitleLang: "คำบรรยาย",
     pickRegion: "เลือกภูมิภาคบนแผนที่",
@@ -147,6 +157,7 @@ window.I18N = {
     capNone: "วิดีโอนี้ไม่มีคำบรรยายให้แปล",
   },
   id: {
+    allShows: "Semua program", creators: "Kreator YouTube",
     tagline: "Video wisata, kuliner & budaya Korea per wilayah",
     subtitleLang: "Subtitle",
     pickRegion: "Pilih wilayah di peta",
@@ -160,6 +171,7 @@ window.I18N = {
     capNone: "Video ini tidak punya teks untuk diterjemahkan.",
   },
   ru: {
+    allShows: "Все программы", creators: "Авторы YouTube",
     tagline: "Видео о путешествиях, еде и культуре Кореи по регионам",
     subtitleLang: "Субтитры",
     pickRegion: "Выберите регион на карте",

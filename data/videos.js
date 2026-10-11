@@ -21,6 +21,8 @@ window.REGIONS = [
 
 window.SHOWS = {
   hello1stkorea: { ko: "어서와 한국은 처음이지", en: "Welcome, First Time in Korea? (MBC every1)" },
+  paikmarket: { ko: "백종원의 님아 그 시장을 가오", en: "Paik Jong-won's Market Tour" },
+  baekban: { ko: "허영만의 백반기행", en: "Huh Young-man's Food Travel (TV CHOSUN)" },
 };
 
 window.VIDEOS = [
@@ -212,4 +214,43 @@ window.VIDEOS = [
   { show: "hello1stkorea", id: "WiYtJv2v8Ro", region: "gyeongnam", cats: ["travel", "food"], title: "미슐랭 셰프들이 김해 도착하자마자 간 곳은? (EP.438)" },
   // 전남
   { show: "hello1stkorea", id: "0ksxWiHD-sM", region: "jeonnam", cats: ["travel"], title: "독일 세 친구들의 우당탕탕 여수 여행 시작 (EP.251)" },
+
+  // ---- 백종원의 님아 그 시장을 가오 ----
+  { show: "paikmarket", id: "2n2pcobA6DI", region: "jeonnam", cats: ["food"], title: "[EP.01 곡성] 백종원을 모르는 사장님의 찐한 콩국수집" },
+  { show: "paikmarket", id: "oTJXvv6x7mQ", region: "gyeongbuk", cats: ["food"], title: "[EP.03 청도] 국밥 없는 국밥집" },
+  { show: "paikmarket", id: "xZOgnxlWMSE", region: "chungcheong", cats: ["food"], title: "[EP.04 음성] 감곡시장 단돈 4000원 돼지국밥집" },
+  { show: "paikmarket", id: "d8OciP6j7qc", region: "gyeongbuk", cats: ["food"], title: "[EP.05 경산] 국자는 사장님만 만질 수 있는 돼지찌개집" },
+  { show: "paikmarket", id: "X-hXvN5MQRI", region: "gangwon", cats: ["food"], title: "[EP.07 동해] 음식 지적 좀 해주세요! 꽃게 요리집" },
+  { show: "paikmarket", id: "dX8ys4uD9tY", region: "daegu", cats: ["food"], title: "[EP.10 대구] 테이블 하나 없이 56년 장사한 묵집" },
+  { show: "paikmarket", id: "SVz1zNuyOyA", region: "jeonbuk", cats: ["food"], title: "[EP.14 진안] 하루 딱 3시간만 영업하는 순대국밥집" },
+  { show: "paikmarket", id: "9qXUA5p7Ge0", region: "gangwon", cats: ["food"], title: "[EP.15 원주] 삼겹살은 역시 쌈! 쌈밥과 우리 술" },
+  { show: "paikmarket", id: "zGsqGy5fZ8s", region: "gangwon", cats: ["food"], title: "[EP.18 속초] 회 밑에 국수가 깔린 회국수집" },
+  { show: "paikmarket", id: "aK3ijuftswc", region: "chungcheong", cats: ["food"], title: "[EP.19 논산] 왼손에 술잔, 오른손에 고기" },
+  { show: "paikmarket", id: "-LgE9gMN4Rs", region: "gangwon", cats: ["food"], title: "[EP.21 철원] 이게 물회예요? 철원 물회집" },
+  { show: "paikmarket", id: "hvbh9EnL6Ww", region: "chungcheong", cats: ["food"], title: "[EP.22 천안] 이것보다 맛있으면 반칙! 묵은지 지짐이" },
+  { show: "paikmarket", id: "iPLW-aOdq6I", region: "gangwon", cats: ["food"], title: "[EP.25 양구] 산더미처럼 퍼주는 육개장집" },
+  { show: "paikmarket", id: "uX07TFcxKnY", region: "jeonnam", cats: ["food"], title: "[EP.27 고흥] 고흥 스페셜 한정판 문어코" },
+  { show: "paikmarket", id: "rEhi5E11hT4", region: "gyeongbuk", cats: ["food"], title: "[EP.29 구미] 고기 반 마늘 반 돼지찌개" },
+  { show: "paikmarket", id: "o8wHu_bjGnQ", region: "gyeongnam", cats: ["food"], title: "[EP.30 함양] 백종원도 당황한 비주얼의 대구뽈찜집" },
+  { show: "paikmarket", id: "IBKaevIroGs", region: "chungcheong", cats: ["food"], title: "[EP.33 충주] 33년 막창구이집" },
+  { show: "paikmarket", id: "A4xPw4IXb-g", region: "chungcheong", cats: ["food"], title: "[EP.38 청주] 하루에 4접시만 파는 수육집" },
+  { show: "paikmarket", id: "S74RkwHeFUY", region: "chungcheong", cats: ["food"], title: "[EP.39 제천] 눈물 콧물 빼는 매운 오징어무침" },
+  { show: "paikmarket", id: "MnEdGm6bp7A", region: "chungcheong", cats: ["food"], title: "[EP.41 대전] 행복분식집 쫄면과 만두" },
+  { show: "paikmarket", id: "Kj3iNd_RmQ0", region: "gyeongbuk", cats: ["food"], title: "[EP.43 포항] 내 동생 진이가 알려준 바로 그것" },
+  { show: "paikmarket", id: "or2TgTRjPq8", region: "gyeonggi", cats: ["food"], title: "[EP.45 인천] 못 먹으면 한 될까봐 다 시킨 중식집" },
+
+  // ---- 허영만의 백반기행 (TV CHOSUN) ----
+  { show: "baekban", id: "ZoCVb-0NxR8", region: "jeonnam", cats: ["food"], title: "목포 – 반찬 17가지 백반 한 상 (8회)" },
+  { show: "baekban", id: "VKXiyaKPRMM", region: "jeonnam", cats: ["food"], title: "목포 중국집의 낯선 메뉴 '중깐'" },
+  { show: "baekban", id: "u285VXiefgo", region: "jeonnam", cats: ["food"], title: "푸짐한 전라남도 인심 (143회)" },
+  { show: "baekban", id: "zj_y6fI4P2g", region: "gyeonggi", cats: ["food"], title: "딱 5팀만! 봄을 옮겨놓은 양평 산나물 한 상" },
+  { show: "baekban", id: "vARBHI7t4y0", region: "gyeongnam", cats: ["food"], title: "허영만의 진주 단골집 – 육회비빔밥" },
+  { show: "baekban", id: "prxvrdsZbZw", region: "gyeongnam", cats: ["food"], title: "단돈 6천 원, 가성비 넘치는 통영 반찬" },
+  { show: "baekban", id: "39J-3yy4dDg", region: "daegu", cats: ["food"], title: "전국적으로 이름 높은 대구 뭉티기 (142회)" },
+  { show: "baekban", id: "WUBkecmzEs8", region: "busan", cats: ["food"], title: "4대째 100년 전통 부산 밀면 (145회)" },
+  { show: "baekban", id: "YP-SCqkcut0", region: "busan", cats: ["food"], title: "맑게 우려낸 부산 돼지국밥" },
+  { show: "baekban", id: "NOqk6VvuQno", region: "jeju", cats: ["food"], title: "제주 자리돔 코스와 제주식 물회 (113회)" },
+  { show: "baekban", id: "DEFlTHLG5RU", region: "gangwon", cats: ["food", "travel"], title: "시장 가판대에서 대게 파는 속초 클래스 (159회)" },
+  { show: "baekban", id: "q2LhzF2EV8c", region: "gangwon", cats: ["food"], title: "속초 60년 단일메뉴 숯불 생선구이 (75회)" },
+  { show: "baekban", id: "Q_FPqZK7h70", region: "gangwon", cats: ["food"], title: "강원도 산간에서 즐기는 산나물 밥상 (141회)" },
 ];
