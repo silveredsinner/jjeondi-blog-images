@@ -184,4 +184,16 @@ window.VIDEOS = [
   { show: "hello1stkorea", id: "uxGWG4hMsm4", region: "jeju", cats: ["travel", "food"], title: "제주 해산물 아침, 협재 오션뷰 카페, 흑돼지 (EP.303)" },
   { show: "hello1stkorea", id: "gwkq82E6M7k", region: "jeju", cats: ["travel"], title: "어서와 한국은 두 번째지? 제주에서 다시 만난 친구들 (EP.29-1)" },
   { show: "hello1stkorea", id: "mwblwy0tp7k", region: "jeju", cats: ["travel", "food"], title: "(4시간) 여름 분위기 낭낭한 제주도 여행 모음" },
+  // 경북 (경주·영덕)
+  { show: "hello1stkorea", id: "EvKxDH6sIpg", region: "gyeongbuk", cats: ["travel", "culture"], title: "[요약] 왔나~ 경주는 처음이제? 국립경주박물관 금관부터 신라의 달밤까지" },
+  { show: "hello1stkorea", id: "DCmaXnAeqvo", region: "gyeongbuk", cats: ["travel"], title: "[연말특집] 외국인도 빠진 일출 맛집 영덕" },
+  // 대구 (빌푸의 대구 10미)
+  { show: "hello1stkorea", id: "8ul9Ntb1A-k", region: "daegu", cats: ["food"], title: "부디 대구 10미를 꼭 먹게 해주시길.. – 빌푸 (EP.173)" },
+  { show: "hello1stkorea", id: "JwPTxmCxLyw", region: "daegu", cats: ["food"], title: "식감 최고! 대구 뭉티기에 빠진 빌푸 (EP.174-2)" },
+  { show: "hello1stkorea", id: "d0FOaKHwetA", region: "daegu", cats: ["food"], title: "대구 10미 – 뭉티기와 찜갈비에 푹 빠진 빌푸 (EP.174-5)" },
+  { show: "hello1stkorea", id: "tthpIMyA1n8", region: "daegu", cats: ["food", "travel"], title: "빌푸의 대구 서문시장 정복기 – 납작만두, 떡볶이, 누른국수" },
+  { show: "hello1stkorea", id: "SWn6GyTHBOo", region: "daegu", cats: ["food"], title: "빌푸의 대구 맛집 투어 모음zip – 육개장, 무침회, 막창" },
+  // 전남 (여수)
+  { show: "hello1stkorea", id: "lOhVxViwHIY", region: "jeonnam", cats: ["travel", "food"], title: "독일 친구들의 여수 여행 – 집라인, 돌게장, 여수 밤바다 불꽃놀이 (EP.252)" },
+  { show: "hello1stkorea", id: "_QKj8dcPqis", region: "jeonnam", cats: ["food", "travel"], title: "헝가리 셰프들의 여수 바다낚시와 두 번째 한국 여행 (EP.352)" },
 ];
