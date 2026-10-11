@@ -148,5 +148,165 @@
     "auto": true,
     "evidence": "오늘 곡성에 있는 석곡 전통 시장에 왔어유~",
     "added": "2026-10-11"
+  },
+  {
+    "region": "jeju",
+    "type": "spot",
+    "ko": "협재 바다",
+    "en": "Hyeopjae Beach",
+    "q": "제주 협재해수욕장",
+    "menu_ko": "오션뷰 카페에서 바다 보며 물멍 힐링",
+    "menu_en": "Relaxing and gazing at the sea from an ocean-view cafe",
+    "videos": [
+      "uxGWG4hMsm4"
+    ],
+    "auto": true,
+    "source": "description",
+    "evidence": "▶ 협재 바다에 취해~ 오션뷰 카페에 누워 ‘물멍’ 힐링 타임",
+    "added": "2026-10-11"
+  },
+  {
+    "region": "jeju",
+    "type": "spot",
+    "ko": "용두암",
+    "en": "Yongduam Rock (Dragon Head Rock)",
+    "q": "제주 용두암",
+    "menu_ko": "제주 설화를 품은 바위 명소",
+    "menu_en": "Rock formation tied to Jeju folklore",
+    "videos": [
+      "mwblwy0tp7k"
+    ],
+    "auto": true,
+    "source": "description",
+    "evidence": "00:52:02 제주 설화를 품은 용두암 l EP.302",
+    "added": "2026-10-11"
+  },
+  {
+    "region": "jeju",
+    "type": "spot",
+    "ko": "용연구름다리",
+    "en": "Yongyeon Cloud Bridge",
+    "q": "제주 용연구름다리",
+    "menu_ko": "제주 자연과 어우러진 구름다리",
+    "menu_en": "Suspension bridge in harmony with Jeju nature",
+    "videos": [
+      "mwblwy0tp7k"
+    ],
+    "auto": true,
+    "source": "description",
+    "evidence": "00:57:34 제주 자연과 조화를 이루는 용연구름다리 l EP.302",
+    "added": "2026-10-11"
+  },
+  {
+    "region": "jeju",
+    "type": "spot",
+    "ko": "천제연폭포",
+    "en": "Cheonjeyeon Waterfall",
+    "q": "서귀포 천제연폭포",
+    "menu_ko": "폭포 산책",
+    "menu_en": "Waterfall walk",
+    "videos": [
+      "mwblwy0tp7k"
+    ],
+    "auto": true,
+    "source": "description",
+    "evidence": "02:40:49 제주 명소 천제연폭포 산책하기 l EP.304",
+    "added": "2026-10-11"
+  },
+  {
+    "region": "jeju",
+    "type": "spot",
+    "ko": "성산일출봉",
+    "en": "Seongsan Ilchulbong (Sunrise Peak)",
+    "q": "제주 성산일출봉",
+    "menu_ko": "성산일출봉 등반",
+    "menu_en": "Hiking Sunrise Peak",
+    "videos": [
+      "mwblwy0tp7k"
+    ],
+    "auto": true,
+    "source": "description",
+    "evidence": "03:30:39 날씨까지 최고! 아름다운 성산일출봉 등반🏞 l EP.305",
+    "added": "2026-10-11"
+  },
+  {
+    "region": "gyeongbuk",
+    "type": "spot",
+    "ko": "불국사",
+    "en": "Bulguksa Temple",
+    "q": "경주 불국사",
+    "menu_ko": "석가탑과 다보탑",
+    "menu_en": "Seokgatap and Dabotap pagodas",
+    "videos": [
+      "EvKxDH6sIpg"
+    ],
+    "auto": true,
+    "source": "description",
+    "evidence": "15:40 경주하면 빼놓을 수 없는 필수 코스! 불국사에서 시작한 자만 투어의 서막!",
+    "added": "2026-10-11"
+  },
+  {
+    "region": "gyeongbuk",
+    "type": "spot",
+    "ko": "첨성대",
+    "en": "Cheomseongdae Observatory",
+    "q": "경주 첨성대",
+    "menu_ko": "신라의 달밤 야경",
+    "menu_en": "Silla night views",
+    "videos": [
+      "EvKxDH6sIpg"
+    ],
+    "auto": true,
+    "source": "description",
+    "evidence": "54:55 첨성대부터 동궁과 월지까지! 경북 투어 패스로 즐기는 신라의 달밤 절경에 빠지다♥",
+    "added": "2026-10-11"
+  },
+  {
+    "region": "gyeongbuk",
+    "type": "spot",
+    "ko": "동궁과 월지",
+    "en": "Donggung Palace and Wolji Pond",
+    "q": "경주 동궁과 월지",
+    "menu_ko": "야경 명소",
+    "menu_en": "Night view spot",
+    "videos": [
+      "EvKxDH6sIpg"
+    ],
+    "auto": true,
+    "source": "description",
+    "evidence": "54:55 첨성대부터 동궁과 월지까지! 경북 투어 패스로 즐기는 신라의 달밤 절경에 빠지다♥",
+    "added": "2026-10-11"
+  },
+  {
+    "region": "gyeongbuk",
+    "type": "restaurant",
+    "ko": "황남빵",
+    "en": "Hwangnam Bread (Gyeongju bakery)",
+    "q": "경주 황남빵",
+    "menu_ko": "황남빵",
+    "menu_en": "Hwangnam red bean bread",
+    "videos": [
+      "EvKxDH6sIpg"
+    ],
+    "auto": true,
+    "source": "description",
+    "evidence": "45:29 암행어사 출두요~ 명예 관광서비스 누리살핌단이 된 파비앙X피터! 황남빵과 스며든 알란까지?!",
+    "added": "2026-10-11"
+  },
+  {
+    "region": "daegu",
+    "type": "spot",
+    "ko": "팔공산 소원바위",
+    "en": "Palgongsan Sowon Bawi (Wishing Rock)",
+    "q": "대구 팔공산 소원바위",
+    "menu_ko": "소원을 비는 바위",
+    "menu_en": "Wishing rock where visitors make a wish",
+    "videos": [
+      "8ul9Ntb1A-k"
+    ],
+    "auto": true,
+    "source": "description",
+    "evidence": "▶ ＂비나이다 비나이다＂ 팔공산 소원바위 앞에서 간절히 바란 소원은?",
+    "added": "2026-10-11"
   }
 ]
