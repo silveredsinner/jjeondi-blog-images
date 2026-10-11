@@ -23,6 +23,7 @@ window.AFFILIATES = [
 window.KKDAY_WIDGETS = {
   seoul: "14078",
   gyeonggi: "14079",
+  chungcheong: "14081",
   busan: "14077",
 };
 window.KKDAY_WIDGET_JS = "https://kkpartners.kkday.com/iframe.init.1.0.js";
