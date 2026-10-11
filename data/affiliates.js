@@ -21,6 +21,7 @@ window.AFFILIATES = [
 // KKday 상품 카드 위젯 (KKday 파트너 → Tools → Dynamic Product Ads 에서 만든 코드의 data-oid 값).
 // 지역 key → oid. 지역마다 Product City 를 골라 코드를 만들고 여기에 oid 를 추가하세요. 없는 지역은 위젯이 안 나와요.
 window.KKDAY_WIDGETS = {
+  seoul: "14078",
   busan: "14077",
 };
 window.KKDAY_WIDGET_JS = "https://kkpartners.kkday.com/iframe.init.1.0.js";
