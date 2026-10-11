@@ -39,6 +39,20 @@ export function buildHiddenJs() {
   return { hidden: hidden.length };
 }
 
+// data/auto/availability.json → data/video-views.js (영상별 조회수, 목록을 조회수 순으로 정렬할 때 씀)
+export function buildViewsJs() {
+  let avail = {};
+  try { avail = JSON.parse(fs.readFileSync(path.join(SITE, "data/auto/availability.json"), "utf8")); } catch {}
+  const views = Object.fromEntries(Object.entries(avail).filter(([, v]) => Number.isFinite(v.views)).map(([id, v]) => [id, v.views]));
+  fs.writeFileSync(
+    path.join(SITE, "data/video-views.js"),
+    `// 자동 생성 파일: data/auto/availability.json 에서 scripts/build-places.mjs 가 만듦. 직접 고치지 마세요.\n` +
+    `// 영상별 유튜브 조회수 (매주 영상 점검 때 갱신). 없는 영상은 목록 뒤쪽에 나온다.\n` +
+    `window.VIDEO_VIEWS = ${JSON.stringify(views)};\n`,
+  );
+  return { videos: Object.keys(views).length };
+}
+
 // data/auto/captions.json → data/video-subs.js (영상별로 사람이 만든 자막 언어 목록)
 export function buildSubsJs() {
   let subs = {};
@@ -57,5 +71,6 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
   const r = buildPlacesJs();
   const h = buildHiddenJs();
   const sb = buildSubsJs();
-  console.log(`places-auto.js: ${r.published}/${r.total}곳 공개, hidden-videos.js: ${h.hidden}개 숨김, video-subs.js: ${sb.videos}개 영상`);
+  const vw = buildViewsJs();
+  console.log(`places-auto.js: ${r.published}/${r.total}곳 공개, hidden-videos.js: ${h.hidden}개 숨김, video-subs.js: ${sb.videos}개 영상, video-views.js: ${vw.videos}개 영상`);
 }

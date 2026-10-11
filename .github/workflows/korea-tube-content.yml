@@ -17,6 +17,9 @@ on:
       blog_region:
         description: "이 지역 글을 강제로 쓰기 (예: busan). 비우면 새 장소가 모인 지역만"
         default: ""
+      only_check:
+        description: "영상 점검(삭제 영상 숨기기·조회수·자막)만 하기 (1 = 예, Claude API 안 씀)"
+        default: "0"
 
 permissions:
   contents: write
@@ -41,6 +44,7 @@ jobs:
           cache-dependency-path: korea-tube/scripts/package-lock.json
       - run: npm ci
       - name: 영상 설명란·댓글에서 맛집 찾기
+        if: inputs.only_check != '1'
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
@@ -49,12 +53,13 @@ jobs:
           REVIEW_FILE: ${{ runner.temp }}/review.md
         run: node enrich.mjs
       - name: 블로그 글 초안 쓰기
+        if: inputs.only_check != '1'
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           BLOG_REGION: ${{ inputs.blog_region }}
           REVIEW_FILE: ${{ runner.temp }}/review.md
         run: node blog.mjs
-      - name: 영상 상태 점검 (삭제·비공개 영상 숨기기)
+      - name: 영상 상태 점검 (삭제·비공개 영상 숨기기, 조회수)
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           REVIEW_FILE: ${{ runner.temp }}/review.md
@@ -68,6 +73,7 @@ jobs:
             korea-tube/data/places-auto.js
             korea-tube/data/hidden-videos.js
             korea-tube/data/video-subs.js
+            korea-tube/data/video-views.js
             korea-tube/data/auto/**
             korea-tube/blog/**
           commit-message: "Korea Tube: 영상 속 맛집 자동 추출 + 블로그 초안"
