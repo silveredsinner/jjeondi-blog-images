@@ -206,6 +206,10 @@
   const hasMySubs = (v) => (SUBS[v.id] || []).some((c) => sameLang(c, state.lang));
   const subsFilterOn = () => state.subsOnly && state.lang !== "ko" && hasSubsData();
 
+  // 조회수 많은 순 (조회수 정보가 없는 영상은 뒤로, 같으면 원래 순서)
+  const VIEWS = window.VIDEO_VIEWS || {};
+  const views = (v) => (v.id in VIEWS ? VIEWS[v.id] : -1);
+
   function filtered() {
     const q = state.q.trim().toLowerCase();
     return VIDEOS.filter((v) =>
@@ -214,7 +218,7 @@
       matchShow(v, state.show) &&
       (!subsFilterOn() || hasMySubs(v)) &&
       (!q || `${v.title} ${showName(v)}`.toLowerCase().includes(q))
-    );
+    ).sort((a, b) => views(b) - views(a));
   }
 
   function renderGrid() {
