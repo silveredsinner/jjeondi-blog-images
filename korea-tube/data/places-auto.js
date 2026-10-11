@@ -4,45 +4,6 @@ window.PLACES_AUTO = [
   {
     "region": "seoul",
     "type": "spot",
-    "ko": "남산타워 (N서울타워)",
-    "en": "Namsan Tower (N Seoul Tower)",
-    "q": "서울 남산타워",
-    "menu_ko": "꿈에 그리던 남산타워 방문",
-    "menu_en": "Visit to the dreamed-of Namsan Tower",
-    "videos": [
-      "TQ5Qvhl7hsY"
-    ],
-    "auto": true
-  },
-  {
-    "region": "seoul",
-    "type": "spot",
-    "ko": "난지도",
-    "en": "Nanjido",
-    "q": "서울 난지도",
-    "menu_ko": "서울 역사 소개",
-    "menu_en": "Seoul history introduction",
-    "videos": [
-      "YQns4VAN7r8"
-    ],
-    "auto": true
-  },
-  {
-    "region": "seoul",
-    "type": "spot",
-    "ko": "여의도",
-    "en": "Yeouido",
-    "q": "서울 여의도",
-    "menu_ko": "서울 역사 소개",
-    "menu_en": "Seoul history introduction",
-    "videos": [
-      "YQns4VAN7r8"
-    ],
-    "auto": true
-  },
-  {
-    "region": "seoul",
-    "type": "spot",
     "ko": "국립민속박물관",
     "en": "National Folk Museum of Korea",
     "q": "서울 국립민속박물관",
@@ -115,19 +76,6 @@ window.PLACES_AUTO = [
     "menu_en": "Best night view spot of Busan",
     "videos": [
       "ZJWdoRyWpRM"
-    ],
-    "auto": true
-  },
-  {
-    "region": "busan",
-    "type": "spot",
-    "ko": "부산 족발 거리",
-    "en": "Busan Jokbal Street (Pig's Trotters Street)",
-    "q": "부산 족발골목",
-    "menu_ko": "족발, 불족발, 냉채족발, 막국수, 매생이국",
-    "menu_en": "Jokbal (braised pig's trotters), spicy jokbal, cold jokbal salad, makguksu (buckwheat noodles), seaweed fulvescens soup",
-    "videos": [
-      "5ThiIY-Kg60"
     ],
     "auto": true
   }
