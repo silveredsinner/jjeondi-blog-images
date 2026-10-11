@@ -1,6 +1,6 @@
 // 이번 실행에서 새로 찾은 장소(data/auto/last-run.json)로 지역별 블로그 글 초안을 만든다.
 // 필요한 환경변수: ANTHROPIC_API_KEY
-// 선택: BLOG_REGION=busan  → 새 장소와 상관없이 그 지역의 모든 장소로 글 쓰기
+// 선택: BLOG_REGION=busan  → 새 장소와 상관없이 그 지역의 모든 장소로 글 쓰기 (쉼표로 여러 지역: seoul,jeju)
 //       MIN_PLACES=2       → 새 장소가 이 수 이상인 지역만 글 쓰기 (기본 2)
 import fs from "node:fs";
 import { loadSiteData, readJson, askJson, savePost } from "./lib.mjs";
@@ -13,8 +13,11 @@ const today = new Date().toISOString().slice(0, 10);
 const allPlaces = [...site.PLACES, ...site.PLACES_AUTO];
 let groups = {};
 if (process.env.BLOG_REGION) {
-  const r = process.env.BLOG_REGION;
-  groups[r] = allPlaces.filter((x) => x.region === r);
+  for (const r of process.env.BLOG_REGION.split(",").map((s) => s.trim()).filter(Boolean)) {
+    const xs = allPlaces.filter((x) => x.region === r);
+    if (xs.length) groups[r] = xs;
+    else console.log(`- ${r}: 소개할 장소가 없어 건너뜀`);
+  }
 } else {
   for (const x of readJson("data/auto/last-run.json", { added: [] }).added) if (!x.needs_check) (groups[x.region] ||= []).push(x);
   groups = Object.fromEntries(Object.entries(groups).filter(([, xs]) => xs.length >= MIN));

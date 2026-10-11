@@ -15,7 +15,7 @@ on:
         description: "방송 프로그램 영상만 처리 (1 = 예)"
         default: "0"
       blog_region:
-        description: "이 지역 글을 강제로 쓰기 (예: busan). 비우면 새 장소가 모인 지역만"
+        description: "이 지역 글을 강제로 쓰기 (예: busan, 여러 지역은 seoul,jeju). 비우면 새 장소가 모인 지역만"
         default: ""
       discover:
         description: "유튜브에서 새 영상 찾기: mukbang, beauty (쉼표로 여러 개). 비우면 안 찾음"
