@@ -251,9 +251,9 @@
     if (text != null) e.textContent = text;
     return e;
   }
-  function linkBtn(href, text, cls = "info-btn") {
+  function linkBtn(href, text, cls = "info-btn", sponsored = false) {
     const a = el("a", cls, text);
-    a.href = href; a.target = "_blank"; a.rel = "noopener sponsored";
+    a.href = href; a.target = "_blank"; a.rel = sponsored ? "noopener sponsored" : "noopener";
     return a;
   }
   const mapLinks = (q) => ({
@@ -338,7 +338,9 @@
       const row = el("div", "aff-row");
       const q = encodeURIComponent(`${r.en.split("·")[0]}, Korea`);
       for (const a of affs) {
-        const link = linkBtn(a.url.replace("{q}", q), "", "aff-btn");
+        // site 가 있으면 제휴 리다이렉트 주소의 {site} 자리에 (검색어를 넣은) 목적지 주소를 인코딩해서 넣는다
+        const href = a.site ? a.url.replace("{site}", encodeURIComponent(a.site.replace("{q}", q))) : a.url.replace("{q}", q);
+        const link = linkBtn(href, "", "aff-btn", a.tracked);
         link.appendChild(el("strong", null, a.name));
         link.appendChild(el("span", null, t(a.kind)));
         row.appendChild(link);
