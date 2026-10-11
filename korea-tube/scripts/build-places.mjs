@@ -39,8 +39,23 @@ export function buildHiddenJs() {
   return { hidden: hidden.length };
 }
 
+// data/auto/captions.json → data/video-subs.js (영상별로 사람이 만든 자막 언어 목록)
+export function buildSubsJs() {
+  let subs = {};
+  try { subs = JSON.parse(fs.readFileSync(path.join(SITE, "data/auto/captions.json"), "utf8")); } catch {}
+  const out = Object.fromEntries(Object.entries(subs).map(([id, x]) => [id, x.langs || []]));
+  fs.writeFileSync(
+    path.join(SITE, "data/video-subs.js"),
+    `// 자동 생성 파일: data/auto/captions.json 에서 scripts/build-places.mjs 가 만듦. 직접 고치지 마세요.\n` +
+    `// 영상별 자막 언어 (자동 생성 자막 제외). 비어 있으면 아직 확인 전.\n` +
+    `window.VIDEO_SUBS = ${JSON.stringify(out)};\n`,
+  );
+  return { videos: Object.keys(out).length };
+}
+
 if (process.argv[1] === fileURLToPath(import.meta.url)) {
   const r = buildPlacesJs();
   const h = buildHiddenJs();
-  console.log(`places-auto.js: ${r.published}/${r.total}곳 공개, hidden-videos.js: ${h.hidden}개 숨김`);
+  const sb = buildSubsJs();
+  console.log(`places-auto.js: ${r.published}/${r.total}곳 공개, hidden-videos.js: ${h.hidden}개 숨김, video-subs.js: ${sb.videos}개 영상`);
 }
