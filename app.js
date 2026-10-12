@@ -398,6 +398,12 @@
     // 블로그 링크: 번역된 글이 있는 언어면 그 언어 블로그로
     const blogHref = (window.BLOG_LANGS || []).includes(state.lang) ? `blog/${state.lang}/index.html` : `blog/index.html?lang=${state.lang === "ko" ? "ko" : "en"}`;
     document.querySelectorAll('a[href^="blog/"]').forEach((a) => { a.href = blogHref; });
+    // 아래쪽 지역 페이지 링크: 다른 언어면 그 언어 지역 페이지로
+    const more = ["ja", "zh-Hans", "zh-Hant", "es", "fr", "de", "vi", "th", "id", "ru"].includes(state.lang);
+    document.querySelectorAll('a[href^="r/"]').forEach((a) => {
+      const key = (/([\w-]+)\.html/.exec(a.getAttribute("href")) || [])[1];
+      if (key) a.setAttribute("href", more ? `r/${state.lang}/${key}.html` : `r/${key}.html${state.lang === "en" ? "?lang=en" : ""}`);
+    });
   }
 
   function renderAll() {
