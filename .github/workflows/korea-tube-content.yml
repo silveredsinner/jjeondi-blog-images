@@ -23,6 +23,9 @@ on:
       discover_regions:
         description: "새 먹방 찾기를 이 지역만 (예: busan,gangwon,jeonbuk). 비우면 전국"
         default: ""
+      blog_topics:
+        description: "주제별 블로그 글 쓰기 (1 = 예, 아직 안 쓴 주제만)"
+        default: "0"
       translate_blog:
         description: "블로그 글을 10개 언어로 번역 (1 = 예). 매주 실행 때는 새 글만 자동 번역"
         default: "0"
@@ -68,6 +71,13 @@ jobs:
           BLOG_REGION: ${{ inputs.blog_region }}
           REVIEW_FILE: ${{ runner.temp }}/review.md
         run: node blog.mjs
+      - name: 주제별 블로그 글 (서울 길거리 음식, K-뷰티 등)
+        if: inputs.blog_topics == '1'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          REVIEW_FILE: ${{ runner.temp }}/review.md
+        run: node blog-topics.mjs
       - name: 블로그 글 번역 (일본어·중국어 등 10개 언어, 새 글만)
         if: inputs.only_check != '1' || inputs.translate_blog == '1'
         env:

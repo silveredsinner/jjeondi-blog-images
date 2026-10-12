@@ -104,9 +104,9 @@ export function renderPost(post) {
       <p class="bp-meta">${esc(post.date)}</p>
       <p class="bp-summary">${esc(post.summary[lang])}</p>
       <div class="bp-body">${sanitize(post.body[lang])}</div>
-      <h2>${lang === "ko" ? "소개한 가게·장소" : "Places in this post"}</h2>
+      ${post.places.length ? `<h2>${lang === "ko" ? "소개한 가게·장소" : "Places in this post"}</h2>
       <ul class="bp-places">${placeList(lang)}</ul>
-      <p class="bp-note">${lang === "ko" ? "영업시간·위치는 바뀔 수 있으니 방문 전 지도에서 확인하세요." : "Hours and locations change — check the map before you go."}</p>
+      <p class="bp-note">${lang === "ko" ? "영업시간·위치는 바뀔 수 있으니 방문 전 지도에서 확인하세요." : "Hours and locations change — check the map before you go."}</p>` : ""}
       <section class="bp-videos-wrap">
         <h2>${lang === "ko" ? "관련 영상" : "Related videos"}</h2>
         <div class="bp-videos">${videos}</div>
