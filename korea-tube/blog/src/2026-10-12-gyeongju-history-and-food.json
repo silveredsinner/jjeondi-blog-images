@@ -5,15 +5,45 @@
   "topic": "gyeongju-history-and-food",
   "title": {
     "ko": "경주·경북 여행 가이드: 신라 유적과 영상 속 현지 음식",
-    "en": "Gyeongju & Gyeongbuk Travel Guide: Silla History Sights, Andong, Pohang and Local Food"
+    "en": "Gyeongju & Gyeongbuk Travel Guide: Silla History Sights, Andong, Pohang and Local Food",
+    "ja": "慶州・慶尚北道旅行ガイド：新羅の史跡、安東、浦項とご当地グルメ",
+    "zh-Hans": "庆州·庆北旅行指南：新罗历史景点、安东、浦项与当地美食",
+    "zh-Hant": "慶州與慶北旅遊指南：新羅歷史景點、安東、浦項與在地美食",
+    "es": "Guía de viaje a Gyeongju y Gyeongbuk: lugares de la historia de Silla, Andong, Pohang y comida local",
+    "fr": "Guide de Gyeongju et du Gyeongsang-du Nord : sites de l'époque Silla, Andong, Pohang et cuisine locale",
+    "de": "Gyeongju & Gyeongbuk Reiseführer: Silla-Geschichte, Andong, Pohang und lokales Essen",
+    "vi": "Hướng dẫn du lịch Gyeongju & Gyeongbuk: Di tích Silla, Andong, Pohang và ẩm thực địa phương",
+    "th": "คู่มือเที่ยวกyeongju และ กยองซังบุก: สถานที่ประวัติศาสตร์ซิลลา อันดง โพฮัง และอาหารท้องถิ่น",
+    "id": "Panduan Perjalanan Gyeongju & Gyeongbuk: Situs Sejarah Silla, Andong, Pohang dan Kuliner Lokal",
+    "ru": "Гёнджу и Кёнбук: путеводитель по Гёнджу, Андону и Почхону — памятники Силла и местная еда"
   },
   "summary": {
     "ko": "국립경주박물관의 금관, 불국사의 석가탑과 다보탑, 첨성대와 동궁과 월지의 야경, 골굴사 선무도까지. 경주를 중심으로 안동 하회마을과 포항 회센터를 여행 영상 속 장면과 음식으로 정리했습니다.",
-    "en": "A video-based guide to Gyeongju and Gyeongsangbuk-do: Silla gold crowns at Gyeongju National Museum, Bulguksa's pagodas, night views at Cheomseongdae and Wolji Pond, Golgulsa's Sunmudo, plus Andong's Hahoe Village and Pohang seafood."
+    "en": "A video-based guide to Gyeongju and Gyeongsangbuk-do: Silla gold crowns at Gyeongju National Museum, Bulguksa's pagodas, night views at Cheomseongdae and Wolji Pond, Golgulsa's Sunmudo, plus Andong's Hahoe Village and Pohang seafood.",
+    "ja": "慶州と慶尚北道の旅行動画をもとにしたガイド。国立慶州博物館の新羅の金冠、仏国寺の石塔、瞻星台と雁鴨池の夜景、掘窟寺の禅武道（ソンムド）、そして安東の河回村と浦項の海鮮を紹介します。",
+    "zh-Hans": "以视频内容为线索的庆州与庆尚北道指南：国立庆州博物馆的新罗金冠、佛国寺的双塔、瞻星台与月池的夜景、金刚寺的禅武道，以及安东河回村和浦项海鲜。",
+    "zh-Hant": "以影片為基礎的慶州與慶尚北道旅遊指南：慶州國立博物館的新羅金冠、佛國寺雙塔、瞻星臺與月池的夜景、統一寺禪武道，以及安東河回村和浦項海鮮。",
+    "es": "Una guía basada en vídeos de viaje sobre Gyeongju y Gyeongsangbuk-do: las coronas de oro de Silla en el Museo Nacional de Gyeongju, las pagodas de Bulguksa, las vistas nocturnas de Cheomseongdae y el estanque Wolji, el Sunmudo de Golgulsa, además de la aldea de Hahoe en Andong y el marisco de Pohang.",
+    "fr": "Un guide tiré de vidéos de voyage sur Gyeongju et le Gyeongsang-du Nord (Gyeongbuk) : couronnes d'or Silla au Musée national de Gyeongju, pagodes de Bulguksa, vues nocturnes à Cheomseongdae et à l'étang de Wolji, Sunmudo à Golgulsa, ainsi que le village de Hahoe à Andong et les fruits de mer de Pohang.",
+    "de": "Ein videobasierter Leitfaden zu Gyeongju und der Provinz Gyeongsangbuk-do: die Goldkronen der Silla im Nationalmuseum Gyeongju, die Pagoden des Bulguksa, Nachtansichten an Cheomseongdae und dem Wolji-Teich, Sunmudo im Golgulsa sowie das Hahoe-Dorf in Andong und Meeresfrüchte in Pohang.",
+    "vi": "Hướng dẫn dựa trên video về Gyeongju và tỉnh Gyeongsangbuk: vương miện vàng Silla tại Bảo tàng Quốc gia Gyeongju, các tháp chùa Bulguksa, cảnh đêm ở Cheomseongdae và Hồ Wolji, môn võ Sunmudo ở Golgulsa, cùng làng Hahoe ở Andong và hải sản Pohang.",
+    "th": "คู่มือจากวิดีโอท่องเที่ยวเรื่องกyeongju และจังหวัดกยองซังบุก ตั้งแต่มงกุฎทองซิลลาที่พิพิธภัณฑ์แห่งชาติกyeongju วัดบุลกุกซา ภาพกลางคืนที่ชอมซองแดและบ่อวอลจี ซอนมูโดที่วัดกลกุลซา รวมถึงหมู่บ้านฮาฮเวและอาหารทะเลที่โพฮัง",
+    "id": "Panduan berbasis video tentang Gyeongju dan Gyeongsangbuk-do: mahkota emas Silla di Museum Nasional Gyeongju, pagoda Bulguksa, pemandangan malam di Cheomseongdae dan Danau Wolji, Sunmudo di Golgulsa, serta Desa Hahoe di Andong dan hidangan laut di Pohang.",
+    "ru": "Видеоформат о Гёнджу и провинции Кёнсан-Пукто: золотые короны Силла в Национальном музее Кёнджу, пагоды Пульгуксы, вечерние виды Чхомсончхэ и пруда Вольджи, Сунмудо в храме Голгуксы, а также деревня Хахве в Андоне и морепродукты Почхона."
   },
   "body": {
     "ko": "<p>경주는 천 년 동안 신라의 수도였던 도시로, 한 여행 영상에서는 '지붕 없는 박물관'이라고 소개합니다. 이 글은 경주와 경상북도를 다룬 여러 영상에 나온 유적지와 음식을 모아 정리한 것입니다. 경주를 중심에 두고 안동 하회마을, 포항의 해산물까지 함께 살펴봅니다.</p><h2>경주의 신라 유적</h2><h3>국립경주박물관: 신라 금관</h3><p>MBC every1의 '왔나~ 경상도는 처음이제?'에서는 파비앙과 피터가 외국인 여행자들과 국립경주박물관을 찾아 신라 금관을 관람합니다. 출연진이 \"서양에는 이런 거 없잖아\"라고 말하며, 서양의 왕관과는 확연히 다른 금관의 모습에 주목하는 장면이 담겨 있습니다.</p><h3>불국사와 석굴암</h3><p>같은 방송은 불국사에서 본격적인 투어를 시작하는데, 통일신라 시대 기술력의 정점으로 소개되는 석가탑과 다보탑 앞에서 외국인들이 감동하는 모습이 나옵니다. 대사 없이 음악과 풍경만으로 구성된 경주 브이로그에서도 유네스코 세계유산인 불국사와 석굴암을 함께 둘러봅니다.</p><h3>첨성대, 동궁과 월지, 월정교: 신라의 달밤</h3><p>경주는 밤에 둘러보기에도 좋은 도시입니다. '왔나~ 경상도는 처음이제?'에서는 경북 투어 패스를 이용해 첨성대에서 동궁과 월지까지 야경을 즐기고, 경주 브이로그는 조명이 켜진 월정교로 마무리됩니다. 서울에서 KTX를 타고 경주에 온 2일 여행 가이드 영상 역시 동궁과 월지, 대릉원, 첨성대, 불국사를 주요 코스로 다루며 벚꽃 시즌의 풍경도 함께 보여줍니다.</p><h3>대릉원과 고분, 월성 일대</h3><p>부산에서 출발한 48시간 경주 브이로그는 관광지를 바쁘게 도는 대신 쉬어 가는 여행에 초점을 맞춥니다. 월성 터와 경주 시내를 걷고, 대릉원에서 한 블록 떨어진 금관총도 찾아갑니다.</p><h3>골굴사: 선무도와 템플스테이</h3><p>골굴사는 선(禪) 무술인 선무도를 수련하는 무예승들로 알려진 사찰입니다. 이곳 템플스테이를 다룬 영상에서는 사찰에 머물며 스님들의 일과를 그대로 따라 해 보는 경험과 선무도 시연을 보여줍니다.</p><h2>경주에서 먹은 것들</h2><ul><li><strong>한정식과 불고기 전골</strong>: '왔나~ 경상도는 처음이제?'에서는 연잎밥, 누룽지, 석쇠불고기, 불고기 전골에 간장게장과 육회까지 올라간 한정식 한 상을 먹습니다. 경주 브이로그에도 반찬을 넉넉히 곁들인 불고기 전골이 나옵니다.</li><li><strong>황남빵</strong>: 같은 방송에서 경주의 대표 빵인 황남빵을 맛보는 장면이 나옵니다.</li><li><strong>카페와 디저트</strong>: 48시간 브이로그에는 식당 도와당, 말차 디저트 가게 오마모리 경주, 카페 1984가 등장하고, 경주 브이로그에서는 정원이 있는 카페에 들릅니다.</li><li><strong>한옥 숙박</strong>: 여러 영상이 한옥 숙소에서 묵는 장면을 보여줍니다. 48시간 브이로그의 한옥은 에어비앤비로 예약한 '사다함'이고, 교촌마을의 한옥 거리도 영상에 나옵니다.</li></ul><h2>안동: 하회마을과 찜닭</h2><p>안동 하회마을은 유네스코 세계유산으로 지정된 민속마을입니다. 'Travelling Bears'의 에이비와 매티는 KTX를 타고 안동에 가서 600년 된 골목과 서낭당, 오래된 느티나무를 둘러보고, 한옥에서 하룻밤을 묵으며 영상 5도의 아침에 소박한 한식 아침상을 받습니다. Full Belly Travels의 영상은 안동을 찜닭과 품질 좋은 한우, 그리고 한국에서 가장 독한 소주가 만들어지는 곳으로 소개합니다.</p><h2>포항과 그 밖의 경북 맛집</h2><p>포항에서는 물회가 유명합니다. 해산물 손질 영상에서는 송도 활어회센터에서 오징어 등을 섞은 모둠회를 다루며, 죽도시장을 국내에서 손꼽히는 큰 시장으로 소개합니다. 영상 자료에 등장한 경북의 식당으로는 포항 우현해물찜(아귀찜), 경산 진량돼지찌개, 마늘을 넉넉히 넣은 돼지찌개를 내는 구미 도산식육식당도 있습니다.</p><h2>여행 계획 팁</h2><ul><li><strong>이동</strong>: 영상 속 여행자들은 서울에서 KTX를 타고 경주에 왔고, 부산에서 출발한 경우도 있었습니다. 영상에서는 경주가 서울에서 KTX로 당일치기도 가능한 곳으로 소개됩니다.</li><li><strong>낮과 밤 나누기</strong>: 낮에는 국립경주박물관과 불국사·석굴암을 보고, 해가 지면 첨성대에서 동궁과 월지, 월정교로 이어지는 야경 코스를 걷는 구성이 영상들에서 반복해서 나옵니다.</li><li><strong>시내 산책 코스</strong>: 대릉원, 금관총, 월성 터, 교촌마을은 한 영상 안에서 함께 둘러본 곳들입니다. 황남빵이나 카페를 중간중간 끼워 넣기 좋습니다.</li><li><strong>하루 더 머문다면</strong>: 골굴사 템플스테이, 안동 하회마을 한옥 숙박, 포항 송도 활어회센터나 죽도시장을 일정에 더하는 방법이 있습니다.</li></ul>",
-    "en": "<p>Gyeongju was the capital of the Silla kingdom for a thousand years, and one travel video calls it a \"museum without walls.\" This guide brings together the sights and food shown in travel videos about Gyeongju and Gyeongsangbuk-do (Gyeongbuk). Gyeongju is the focus, with side trips to Andong's Hahoe Village and Pohang's seafood markets.</p><h2>Silla History Sights in Gyeongju</h2><h3>Gyeongju National Museum: Silla Gold Crowns</h3><p>In MBC every1's spin-off series \"Welcome, First Time in Gyeongsang-do?\", hosts Fabien and Peter take a group of foreign travelers to Gyeongju National Museum to see the Silla gold crowns. The episode focuses on how different these crowns look from European ones, with one line in the show noting \"there's nothing like this in the West.\"</p><h3>Bulguksa Temple and Seokguram Grotto</h3><p>The same episode moves on to Bulguksa Temple, where the group admires the Seokgatap and Dabotap pagodas. The show presents the pair as the peak of Unified Silla craftsmanship. A no-talking, cinematic Gyeongju vlog also visits Bulguksa, a UNESCO World Heritage site, along with the famous Seokguram Grotto.</p><h3>Cheomseongdae, Donggung Palace and Wolji Pond, Woljeonggyo Bridge at Night</h3><p>Gyeongju is also worth exploring after dark. On the MBC show, the group uses the Gyeongbuk Tour Pass for a \"Silla moonlit night\" route from Cheomseongdae Observatory to Donggung Palace and Wolji Pond. The cinematic vlog ends at Woljeonggyo Bridge, lit up at night. \"A Perfect 2 Days in Gyeongju,\" which starts with the bullet train from Seoul, covers Donggung Palace and Wolji Pond, the Daereungwon Tomb Complex, Bulguksa and Cheomseongdae. It also shows the city during cherry blossom season.</p><h3>Daereungwon Tombs and the Wolseong Area</h3><p>\"48 Hours in Gyeongju,\" a trip that starts from Busan, skips the rushed sightseeing and focuses on the relaxing side of the city. The creator visits the Wolseong Palace site, walks around Gyeongju town, and stops at Geumgwanchong tomb, a street away from Daereungwon.</p><h3>Golgulsa Temple: Sunmudo and Templestay</h3><p>Golgulsa is known for its warrior monks, who practice the Zen martial art of Sunmudo. A templestay video filmed there shows what it is like to stay at a Buddhist temple and follow the monks' daily routine. The video also includes a Sunmudo demonstration.</p><h2>What to Eat in Gyeongju</h2><ul><li><strong>Hanjeongsik and bulgogi jeongol</strong>: On the MBC show, the group eats a full Korean set meal with lotus-leaf rice, nurungji (scorched rice), grilled bulgogi and bulgogi hot pot, plus soy-marinated crab (ganjang gejang) and yukhoe. The cinematic vlog also features bulgogi jeongol with a large spread of side dishes.</li><li><strong>Hwangnam bread</strong>: The MBC episode includes a stop for Gyeongju's red bean bread.</li><li><strong>Cafes and desserts</strong>: \"48 Hours in Gyeongju\" lists the restaurant Dowadang, the matcha dessert spot Omamori Gyeongju and cafe 1984. The cinematic vlog visits a cafe with a garden.</li><li><strong>Hanok stays</strong>: Several videos show stays in traditional hanok houses. The 48-hour vlog's hanok, Sadaham, was booked on Airbnb, and Gyochon Village's hanok houses also appear.</li></ul><h2>Andong: Hahoe Village and Jjimdak</h2><p>Andong Hahoe Village is a UNESCO-listed folk village. In their Andong vlog, the Travelling Bears (Eivie and Matty) take the KTX to Andong and walk through Hahoe's 600-year-old lanes, shrines and its well-known zelkova tree. They also stay overnight in a hanok and have a simple Korean breakfast on a 5-degree morning. Full Belly Travels describes Andong as a city known for jjimdak (braised chicken), high-quality hanwoo beef and the strongest soju in South Korea.</p><h2>Pohang and Other Gyeongbuk Food Stops</h2><p>Pohang is known for mulhoe, a chilled raw fish dish. One seafood video prepares an assorted sashimi platter, including squid, from Songdo Raw Fish Center and describes Jukdo Market as one of the largest markets in Korea. Other Gyeongbuk restaurants in the video material include:</p><ul><li><strong>Uhyeon Haemuljjim (Pohang)</strong>: braised monkfish</li><li><strong>Jinryang Dwaeji Jjigae (Gyeongsan)</strong>: pork stew</li><li><strong>Dosan Sigyuk Sikdang (Gumi)</strong>: garlicky pork stew</li></ul><h2>Planning Tips</h2><ul><li><strong>Getting there</strong>: The travelers in these videos reached Gyeongju by KTX from Seoul or came from Busan. The videos present Gyeongju as doable even as a day trip from Seoul by high-speed train.</li><li><strong>Split your day</strong>: A pattern that repeats across the videos is to spend the day at Gyeongju National Museum and Bulguksa/Seokguram, then walk the evening route from Cheomseongdae to Donggung Palace and Wolji Pond and Woljeonggyo Bridge.</li><li><strong>Town walk</strong>: Daereungwon, Geumgwanchong, the Wolseong site and Gyochon Village all appear together in a single video. Hwangnam bread and cafe stops fit easily in between.</li><li><strong>With extra days</strong>: You could add a templestay at Golgulsa, an overnight hanok stay in Andong's Hahoe Village, or a seafood meal at Pohang's Songdo Raw Fish Center or Jukdo Market.</li></ul>"
+    "en": "<p>Gyeongju was the capital of the Silla kingdom for a thousand years, and one travel video calls it a \"museum without walls.\" This guide brings together the sights and food shown in travel videos about Gyeongju and Gyeongsangbuk-do (Gyeongbuk). Gyeongju is the focus, with side trips to Andong's Hahoe Village and Pohang's seafood markets.</p><h2>Silla History Sights in Gyeongju</h2><h3>Gyeongju National Museum: Silla Gold Crowns</h3><p>In MBC every1's spin-off series \"Welcome, First Time in Gyeongsang-do?\", hosts Fabien and Peter take a group of foreign travelers to Gyeongju National Museum to see the Silla gold crowns. The episode focuses on how different these crowns look from European ones, with one line in the show noting \"there's nothing like this in the West.\"</p><h3>Bulguksa Temple and Seokguram Grotto</h3><p>The same episode moves on to Bulguksa Temple, where the group admires the Seokgatap and Dabotap pagodas. The show presents the pair as the peak of Unified Silla craftsmanship. A no-talking, cinematic Gyeongju vlog also visits Bulguksa, a UNESCO World Heritage site, along with the famous Seokguram Grotto.</p><h3>Cheomseongdae, Donggung Palace and Wolji Pond, Woljeonggyo Bridge at Night</h3><p>Gyeongju is also worth exploring after dark. On the MBC show, the group uses the Gyeongbuk Tour Pass for a \"Silla moonlit night\" route from Cheomseongdae Observatory to Donggung Palace and Wolji Pond. The cinematic vlog ends at Woljeonggyo Bridge, lit up at night. \"A Perfect 2 Days in Gyeongju,\" which starts with the bullet train from Seoul, covers Donggung Palace and Wolji Pond, the Daereungwon Tomb Complex, Bulguksa and Cheomseongdae. It also shows the city during cherry blossom season.</p><h3>Daereungwon Tombs and the Wolseong Area</h3><p>\"48 Hours in Gyeongju,\" a trip that starts from Busan, skips the rushed sightseeing and focuses on the relaxing side of the city. The creator visits the Wolseong Palace site, walks around Gyeongju town, and stops at Geumgwanchong tomb, a street away from Daereungwon.</p><h3>Golgulsa Temple: Sunmudo and Templestay</h3><p>Golgulsa is known for its warrior monks, who practice the Zen martial art of Sunmudo. A templestay video filmed there shows what it is like to stay at a Buddhist temple and follow the monks' daily routine. The video also includes a Sunmudo demonstration.</p><h2>What to Eat in Gyeongju</h2><ul><li><strong>Hanjeongsik and bulgogi jeongol</strong>: On the MBC show, the group eats a full Korean set meal with lotus-leaf rice, nurungji (scorched rice), grilled bulgogi and bulgogi hot pot, plus soy-marinated crab (ganjang gejang) and yukhoe. The cinematic vlog also features bulgogi jeongol with a large spread of side dishes.</li><li><strong>Hwangnam bread</strong>: The MBC episode includes a stop for Gyeongju's red bean bread.</li><li><strong>Cafes and desserts</strong>: \"48 Hours in Gyeongju\" lists the restaurant Dowadang, the matcha dessert spot Omamori Gyeongju and cafe 1984. The cinematic vlog visits a cafe with a garden.</li><li><strong>Hanok stays</strong>: Several videos show stays in traditional hanok houses. The 48-hour vlog's hanok, Sadaham, was booked on Airbnb, and Gyochon Village's hanok houses also appear.</li></ul><h2>Andong: Hahoe Village and Jjimdak</h2><p>Andong Hahoe Village is a UNESCO-listed folk village. In their Andong vlog, the Travelling Bears (Eivie and Matty) take the KTX to Andong and walk through Hahoe's 600-year-old lanes, shrines and its well-known zelkova tree. They also stay overnight in a hanok and have a simple Korean breakfast on a 5-degree morning. Full Belly Travels describes Andong as a city known for jjimdak (braised chicken), high-quality hanwoo beef and the strongest soju in South Korea.</p><h2>Pohang and Other Gyeongbuk Food Stops</h2><p>Pohang is known for mulhoe, a chilled raw fish dish. One seafood video prepares an assorted sashimi platter, including squid, from Songdo Raw Fish Center and describes Jukdo Market as one of the largest markets in Korea. Other Gyeongbuk restaurants in the video material include:</p><ul><li><strong>Uhyeon Haemuljjim (Pohang)</strong>: braised monkfish</li><li><strong>Jinryang Dwaeji Jjigae (Gyeongsan)</strong>: pork stew</li><li><strong>Dosan Sigyuk Sikdang (Gumi)</strong>: garlicky pork stew</li></ul><h2>Planning Tips</h2><ul><li><strong>Getting there</strong>: The travelers in these videos reached Gyeongju by KTX from Seoul or came from Busan. The videos present Gyeongju as doable even as a day trip from Seoul by high-speed train.</li><li><strong>Split your day</strong>: A pattern that repeats across the videos is to spend the day at Gyeongju National Museum and Bulguksa/Seokguram, then walk the evening route from Cheomseongdae to Donggung Palace and Wolji Pond and Woljeonggyo Bridge.</li><li><strong>Town walk</strong>: Daereungwon, Geumgwanchong, the Wolseong site and Gyochon Village all appear together in a single video. Hwangnam bread and cafe stops fit easily in between.</li><li><strong>With extra days</strong>: You could add a templestay at Golgulsa, an overnight hanok stay in Andong's Hahoe Village, or a seafood meal at Pohang's Songdo Raw Fish Center or Jukdo Market.</li></ul>",
+    "ja": "<p>慶州は千年にわたって新羅の都でした。ある旅行動画では「壁のない博物館」と呼ばれています。このガイドは、慶州と慶尚北道（慶北）の旅行動画で紹介されている観光地とグルメをまとめたものです。中心は慶州で、安東の河回村と浦項の海鮮市場にも足を延ばせます。</p><h2>慶州の新羅史跡</h2><h3>国立慶州博物館：新羅の金冠</h3><p>MBC every1のスピンオフ番組「慶尚道に初めて来た？」では、ファビアンとピーターが外国人旅行者のグループを国立慶州博物館に案内し、新羅の金冠を見学します。番組では、これらの冠がヨーロッパのものとどれほど違って見えるかが取り上げられ、「西洋にはこんなものはない」という一言も出てきます。</p><h3>仏国寺と石窟庵</h3><p>同じ回では仏国寺に移動し、一行は石家塔と多宝塔を鑑賞します。番組はこの二つの塔を統一新羅の職人技の頂点として紹介しています。また、会話のないシネマティックな慶州のvlogでも、世界遺産に登録されている仏国寺と、有名な石窟庵が訪れられています。</p><h3>瞻星台、東宮と月池、夜の竹葉橋</h3><p>慶州は夜も歩く価値があります。MBCの番組では、慶北ツアーパスを使い、瞻星台から東宮と月池までの「新羅の月夜」コースをたどります。シネマティックなvlogは、夜にライトアップされた竹葉橋で締めくくられます。「慶州で完璧な2日間」は、ソウルからの高速鉄道で始まり、東宮と月池、大陵苑古墳群、仏国寺、瞻星台を巡ります。桜の季節の街の様子も紹介されています。</p><h3>大陵苑の古墳と月城エリア</h3><p>釜山から出発する「慶州で48時間」は、慌ただしい観光を避け、街のゆったりとした一面に焦点を当てています。制作者は月城の遺跡を訪れ、慶州の街を歩き、大陵苑から一本通り離れた金鈴塚にも立ち寄ります。</p><h3>掘窟寺：ソンムドとテンプルステイ</h3><p>掘窟寺は、禅の武術ソンムドを修行する武僧で知られています。そこで撮影されたテンプルステイの動画では、寺院に泊まり、僧侶の日課に従う様子が紹介されています。動画にはソンムドの実演も含まれています。</p><h2>慶州で食べたいもの</h2><ul><li><strong>韓定食とプルコギ・チョンゴル</strong>：MBCの番組では、ハスの葉で包んだご飯、ヌルンジ（おこげ）、焼きプルコギ、プルコギ鍋などがそろった韓国の定食を味わいます。さらに醤油漬けのカニ（カンジャンケジャン）とユッケも登場します。シネマティックなvlogには、たくさんの副菜が並んだプルコギ・チョンゴルも出てきます。</li><li><strong>黄南パン</strong>：MBCの回では、慶州名物の小豆パンを買うために立ち寄ります。</li><li><strong>カフェとデザート</strong>：「慶州で48時間」では、レストランのドワダン、抹茶デザートの店オマモリ慶州、カフェ1984が挙げられています。シネマティックなvlogでは、庭のあるカフェを訪れています。</li><li><strong>韓屋宿泊</strong>：複数の動画で伝統的な韓屋への宿泊が紹介されています。48時間のvlogの韓屋サダハムはAirbnbで予約されたもので、校洞村の韓屋も登場します。</li></ul><h2>安東：河回村とチムダク</h2><p>安東の河回村は、ユネスコに登録された伝統的な村です。安東のvlogでは、Travelling Bears（EivieとMatty）がKTXで安東へ向かい、河回の600年の歴史を持つ路地、祠、そして有名なケヤキの木を歩きます。さらに韓屋に泊まり、気温5度の朝に簡素な韓国式朝食をとります。Full Belly Travelsは、安東をチムダク（甘辛く煮た鶏料理）、高品質な韓牛、そして韓国で最も度数の高い焼酎で知られる街として紹介しています。</p><h2>浦項とその他の慶北グルメ</h2><p>浦項はムルフェ（冷たく仕立てた生魚料理）で知られています。ある海鮮動画では、松道（ソンド）生魚センターのイカを含む盛り合わせの刺身を用意し、竹島市場は韓国最大級の市場の一つとして紹介されています。動画素材に登場する他の慶北の店は次のとおりです。</p><ul><li><strong>宇賢海物鍋（浦項）</strong>：アンコウの煮込み</li><li><strong>鎮良豚チゲ（慶山）</strong>：豚肉のチゲ</li><li><strong>道山食肉食堂（亀尾）</strong>：ニンニクの効いた豚肉の煮込み</li></ul><h2>旅行のヒント</h2><ul><li><strong>行き方</strong>：これらの動画の旅行者は、ソウルからKTXで慶州に向かうか、釜山から来ています。動画では、ソウルからの高速鉄道を使えば日帰りでも慶州を訪れられると紹介されています。</li><li><strong>一日を分ける</strong>：動画に共通するパターンは、昼に国立慶州博物館と仏国寺・石窟庵を巡り、夕方に瞻星台から東宮と月池、竹葉橋までを歩くというものです。</li><li><strong>街歩き</strong>：大陵苑、金鈴塚、月城遺跡、校洞村は一本の動画にまとめて登場します。その合間に黄南パンやカフェにも立ち寄りやすいです。</li><li><strong>日数に余裕があれば</strong>：掘窟寺でのテンプルステイ、安東の河回村での韓屋宿泊、浦項の松道生魚センターや竹島市場での海鮮料理を加えるのもおすすめです。</li></ul>",
+    "zh-Hans": "<p>庆州曾是新罗王国的首都长达一千年，有旅游视频称它为“没有围墙的博物馆”。本指南汇集了庆州和庆尚北道（庆北）旅游视频中出现的景点与美食。以庆州为重点，并顺路前往安东的河回村和浦项的海鲜市场。</p><h2>庆州的新罗历史景点</h2><h3>国立庆州博物馆：新罗金冠</h3><p>在MBC every1的衍生节目《欢迎第一次来庆尚道？》中，主持人Fabien和Peter带着一组外国游客来到国立庆州博物馆，观赏新罗金冠。这一集重点讲述这些金冠与欧洲样式有多么不同，节目中还有一句台词提到“西方没有这样的东西”。</p><h3>佛国寺与石窟庵</h3><p>同一集接着来到佛国寺，一行人欣赏了释迦塔和多宝塔。节目将这两座塔视为统一新罗工艺的巅峰。另有一段无对白、带电影感的庆州视频也去了佛国寺，并参观了著名的石窟庵。佛国寺是联合国教科文组织世界遗产。</p><h3>瞻星台、东宫与月池，以及夜晚的雁鸭桥</h3><p>庆州也值得在夜间探访。在MBC节目中，一行人使用庆北旅游通票，走了一条“新罗月夜”路线，从瞻星台出发，经过东宫与月池。这段电影感视频最后来到夜晚灯光亮起的雁鸭桥。另一部《庆州完美两日游》从首尔乘坐高速列车出发，介绍了东宫与月池、大陵苑古墓群、佛国寺和瞻星台，并展示了樱花季的城市风貌。</p><h3>大陵苑古墓与月城一带</h3><p>《庆州48小时》从釜山出发，不赶景点，着重体验城市悠闲的一面。创作者参观了月城遗址，漫步庆州市区，并在大陵苑旁一条街之隔的金冠冢停留。</p><h3>金刚寺：禅武道与寺院住宿体验</h3><p>金刚寺以武僧闻名，僧人修习禅武道“善武道”。一段在寺内拍摄的寺院住宿视频展示了住在佛寺、跟随僧人日常作息的体验，视频中也包括一段善武道表演。</p><h2>庆州美食</h2><ul><li><strong>韩定食与烤牛肉火锅</strong>：在MBC节目中，一行人品尝了完整的韩式套餐，有荷叶饭、锅巴、烤牛肉与牛肉火锅，还有酱油腌蟹和生牛肉片。这段电影感视频也展示了配有大量小菜的烤牛肉火锅。</li><li><strong>皇南面包</strong>：MBC节目中包含一站去吃庆州的红豆面包。</li><li><strong>咖啡馆与甜点</strong>：《庆州48小时》提到餐厅Dowadang、抹茶甜点店Omamori Gyeongju和咖啡馆1984。电影感视频则去了一家带花园的咖啡馆。</li><li><strong>韩屋住宿</strong>：多个视频展示了住在传统韩屋的经历。《48小时》视频中的韩屋Sadaham是通过Airbnb预订的，九铜村的韩屋也有出现。</li></ul><h2>安东：河回村与炖鸡</h2><p>安东河回村是联合国教科文组织列入名录的民俗村落。在安东的视频中，Travelling Bears（Eivie和Matty）乘坐KTX前往安东，走过河回村约600年历史的小巷、祠堂，以及著名的朴树。他们还在韩屋过夜，并在5度的清晨吃了简单的韩式早餐。Full Belly Travels将安东描述为以炖鸡（安东炖鸡，jjimdak）、优质韩牛和韩国最烈的烧酒而闻名的城市。</p><h2>浦项与庆北其他美食</h2><p>浦项以“mulhoe”闻名，这是一道冰镇生鱼料理。一段海鲜视频在松道生鱼中心准备了拼盘生鱼片，包括鱿鱼，并介绍竹岛市场是韩国最大的市场之一。视频中出现的其他庆北餐厅包括：</p><ul><li><strong>牛贤海鲜炖（浦项）</strong>：炖安康鱼</li><li><strong>镇良猪肉锅（庆山）</strong>：猪肉汤锅</li><li><strong>道山食肉食堂（龟尾）</strong>：蒜香猪肉汤锅</li></ul><h2>行程建议</h2><ul><li><strong>交通</strong>：这些视频中的旅行者乘坐KTX从首尔或釜山前往庆州。视频显示，即使从首尔搭乘高速列车当天往返，去庆州也是可行的。</li><li><strong>分段安排</strong>：多部视频的共同安排是白天游览国立庆州博物馆和佛国寺/石窟庵，傍晚沿瞻星台、东宫与月池、雁鸭桥的路线散步。</li><li><strong>市区步行</strong>：大陵苑、金冠冢、月城遗址和九铜村同时出现在一部视频中。皇南面包和咖啡馆可以轻松穿插其间。</li><li><strong>如有额外时间</strong>：可以加入金刚寺的寺院住宿、在安东河回村过夜住韩屋，或在浦项松道生鱼中心或竹岛市场吃海鲜。</li></ul>",
+    "zh-Hant": "<p>慶州曾是新羅王國的首都長達一千年，有旅遊影片稱它為「沒有圍牆的博物館」。本指南彙整了幾支慶州與慶尚北道（慶北）旅遊影片中介紹的景點與美食。以慶州為主，另外安排前往安東河回村與浦項海鮮市場的行程。</p><h2>慶州的新羅歷史景點</h2><h3>慶州國立博物館：新羅金冠</h3><p>在MBC every1的衍生節目《歡迎第一次來慶尚道？》中，主持人Fabien與Peter帶著一群外國旅客前往慶州國立博物館參觀新羅金冠。這一集著重於這些金冠與歐洲王冠的不同之處，節目中有一句話提到「西方沒有這樣的東西」。</p><h3>佛國寺與石窟庵</h3><p>同一集接著前往佛國寺，眾人欣賞釋迦塔與多寶塔。節目將這兩座塔視為統一新羅工藝的巔峰。另一支不說話、風格電影感的慶州影片也造訪了佛國寺（聯合國教科文組織世界遺產）以及知名的石窟庵。</p><h3>瞻星臺、東宮與月池，以及夜間的鳳凰臺橋</h3><p>慶州入夜後同樣值得一探。在MBC節目中，一行人使用慶北旅遊通行證，走了一條「新羅月夜」路線，從瞻星臺出發，經過東宮與月池。這支電影感影片的結尾則是夜間點燈的鳳凰臺橋。《慶州兩天完美行程》從首爾搭乘高速鐵路出發，涵蓋東宮與月池、大陵苑古墳群、佛國寺與瞻星臺，也展示了櫻花季時的城市風貌。</p><h3>大陵苑古墳與月城地區</h3><p>《慶州48小時》的行程從釜山出發，不趕行程，著重於城市悠閒的一面。創作者造訪月城遺址，漫步慶州市區，並在離大陵苑只有一條街的金冠塚停留。</p><h3>骨窟寺：禪武道與寺院住宿</h3><p>骨窟寺以武僧聞名，他們修習禪武道「善武道」。一支在當地拍攝的寺院住宿影片，展示了入住佛寺並跟隨僧人作息的情形，影片中也包含善武道的示範。</p><h2>慶州的美食</h2><ul><li><strong>韓定食與牛肉鍋（bulgogi jeongol）</strong>：MBC節目中，一行人品嚐了完整的韓式套餐，包括荷葉飯、鍋巴飯、烤牛肉與牛肉火鍋，還有醬油醃蟹（ganjang gejang）與生拌牛肉（yukhoe）。電影感影片中也出現了附上大量小菜的牛肉鍋。</li><li><strong>皇南麵包</strong>：MBC節目中有一站是慶州的紅豆麵包。</li><li><strong>咖啡廳與甜點</strong>：《慶州48小時》介紹了餐廳Dowadang、抹茶甜點店Omamori Gyeongju，以及咖啡廳1984。電影感影片則造訪一家有庭院的咖啡廳。</li><li><strong>韓屋住宿</strong>：多支影片介紹了傳統韓屋住宿。《慶州48小時》中的韓屋Sadaham是透過Airbnb預訂的，影片也出現了校村村的韓屋。</li></ul><h2>安東：河回村與燉雞</h2><p>安東河回村是聯合國教科文組織認定的民俗村落。在安東影片中，旅行熊（Eivie與Matty）搭乘KTX前往安東，走過河回村約600年歷史的巷弄、祠堂，以及著名的櫸樹。他們也在韓屋過夜，並在氣溫5度的早晨吃了簡單的韓式早餐。另一位旅遊創作者則介紹安東是以燉雞（jjimdak）、高品質韓牛與韓國最烈的燒酒聞名的城市。</p><h2>浦項與其他慶北美食據點</h2><p>浦項以生魚凍湯「物回」（mulhoe）聞名。一支海鮮影片中，店家準備了綜合生魚片拼盤（包括魷魚），食材來自松塘生魚中心，影片也介紹竹島市場是韓國最大的市場之一。影片中其他慶北餐廳包括：</p><ul><li><strong>禹賢海鮮燉煮（浦項）</strong>：燉鮟鱇魚</li><li><strong>進良豬肉鍋（慶山）</strong>：豬肉燉鍋</li><li><strong>道山食肉食堂（龜尾）</strong>：蒜味豬肉燉鍋</li></ul><h2>行程規劃建議</h2><ul><li><strong>交通方式</strong>：影片中的旅客多半搭乘KTX從首爾或釜山抵達慶州。影片顯示，即使從首爾搭乘高速列車當天往返，也是可行的。</li><li><strong>白天與夜晚分開安排</strong>：多支影片的共同模式是白天參觀慶州國立博物館與佛國寺／石窟庵，傍晚再走一趟從瞻星臺到東宮與月池、鳳凰臺橋的路線。</li><li><strong>市區散步</strong>：大陵苑、金冠塚、月城遺址與校村村同時出現在一支影片中。中間可以輕鬆加入皇南麵包與咖啡廳。</li><li><strong>若有額外天數</strong>：可以加入骨窟寺的寺院住宿、安東河回村的韓屋過夜，或是在浦項的松塘生魚中心或竹島市場享用海鮮。</li></ul>",
+    "es": "<p>Gyeongju fue la capital del reino de Silla durante mil años, y un vídeo de viaje lo describe como un \"museo sin muros\". Esta guía reúne los lugares y la comida que aparecen en vídeos de viaje sobre Gyeongju y la provincia de Gyeongsangbuk (Gyeongbuk). El centro es Gyeongju, con escapadas a la aldea de Hahoe en Andong y a los mercados de marisco de Pohang.</p><h2>Lugares de la historia de Silla en Gyeongju</h2><h3>Museo Nacional de Gyeongju: las coronas de oro de Silla</h3><p>En el programa derivado de MBC every1 \"¿Bienvenido, primera vez en Gyeongsang-do?\", los presentadores Fabien y Peter llevan a un grupo de viajeros extranjeros al Museo Nacional de Gyeongju para ver las coronas de oro de Silla. El episodio se centra en lo distintas que son estas coronas de las europeas, y en el programa se oye la frase \"no hay nada parecido en Occidente\".</p><h3>Templo de Bulguksa y Gruta de Seokguram</h3><p>El mismo episodio continúa en el templo de Bulguksa, donde el grupo admira las pagodas Seokgatap y Dabotap. El programa presenta el par como el punto más alto de la artesanía del Silla unificado. Un vlog cinematográfico de Gyeongju, sin diálogos, también visita Bulguksa, Patrimonio de la Humanidad por la UNESCO, junto con la famosa Gruta de Seokguram.</p><h3>Cheomseongdae, Palacio Donggung y estanque Wolji, puente Woljeonggyo de noche</h3><p>Gyeongju también merece la pena después del anochecer. En el programa de MBC, el grupo usa el Gyeongbuk Tour Pass para una ruta de \"noche de luna de Silla\" desde el observatorio Cheomseongdae hasta el Palacio Donggung y el estanque Wolji. El vlog cinematográfico termina en el puente Woljeonggyo, iluminado de noche. \"Dos días perfectos en Gyeongju\", que comienza con el tren bala desde Seúl, recorre el Palacio Donggung y el estanque Wolji, el complejo de tumbas Daereungwon, Bulguksa y Cheomseongdae. También muestra la ciudad en la temporada de los cerezos en flor.</p><h3>Tumbas de Daereungwon y la zona de Wolseong</h3><p>\"48 horas en Gyeongju\", un viaje que parte de Busan, deja de lado las visitas apresuradas y se centra en el lado más relajado de la ciudad. La creadora visita el yacimiento del palacio de Wolseong, pasea por el centro de Gyeongju y se detiene en la tumba Geumgwanchong, a una calle de Daereungwon.</p><h3>Templo de Golgulsa: Sunmudo y estancia en templo</h3><p>Golgulsa es conocido por sus monjes guerreros, que practican Sunmudo, un arte marcial zen. Un vídeo de estancia en templo grabado allí muestra cómo es dormir en un templo budista y seguir la rutina diaria de los monjes. El vídeo también incluye una demostración de Sunmudo.</p><h2>Qué comer en Gyeongju</h2><ul><li><strong>Hanjeongsik y bulgogi jeongol</strong>: En el programa de MBC, el grupo come un menú coreano completo con arroz envuelto en hoja de loto, nurungji (arroz tostado), bulgogi a la parrilla y bulgogi en cazuela, además de cangrejo marinado en salsa de soja (ganjang gejang) y yukhoe. El vlog cinematográfico también presenta bulgogi jeongol con una amplia variedad de acompañamientos.</li><li><strong>Pan Hwangnam</strong>: El episodio de MBC incluye una parada para probar el pan de judías rojas de Gyeongju.</li><li><strong>Cafeterías y postres</strong>: \"48 horas en Gyeongju\" menciona el restaurante Dowadang, el local de postres de té matcha Omamori Gyeongju y la cafetería 1984. El vlog cinematográfico visita una cafetería con jardín.</li><li><strong>Alojamiento en hanok</strong>: Varios vídeos muestran estancias en casas tradicionales hanok. El hanok del vlog de 48 horas, Sadaham, se reservó a través de Airbnb, y también aparecen las casas hanok de la aldea de Gyochon.</li></ul><h2>Andong: aldea de Hahoe y jjimdak</h2><p>La aldea folclórica de Hahoe, en Andong, está incluida en la lista de la UNESCO. En su vlog de Andong, los Travelling Bears (Eivie y Matty) toman el KTX hasta Andong y recorren los callejones de Hahoe, de unos 600 años, sus santuarios y su conocido olmo zelkova. También pasan la noche en un hanok y desayunan algo sencillo a la coreana en una mañana de 5 grados. Full Belly Travels describe Andong como una ciudad conocida por el jjimdak (pollo estofado), la carne de res hanwoo de alta calidad y el soju más fuerte de Corea del Sur.</p><h2>Pohang y otras paradas gastronómicas de Gyeongbuk</h2><p>Pohang es conocido por el mulhoe, un plato de pescado crudo servido frío. Un vídeo sobre marisco prepara una tabla variada de sashimi, con calamar, del centro Songdo Raw Fish, y describe el mercado Jukdo como uno de los más grandes de Corea. Otros restaurantes de Gyeongbuk que aparecen en el material de vídeo son:</p><ul><li><strong>Uhyeon Haemuljjim (Pohang)</strong>: rape estofado</li><li><strong>Jinryang Dwaeji Jjigae (Gyeongsan)</strong>: estofado de cerdo</li><li><strong>Dosan Sigyuk Sikdang (Gumi)</strong>: estofado de cerdo con mucho ajo</li></ul><h2>Consejos para planificar</h2><ul><li><strong>Cómo llegar</strong>: Los viajeros de estos vídeos llegaron a Gyeongju en KTX desde Seúl o desde Busan. Los vídeos presentan Gyeongju como una excursión factible desde Seúl en tren de alta velocidad.</li><li><strong>Divide el día</strong>: Un patrón que se repite en los vídeos es dedicar el día al Museo Nacional de Gyeongju y a Bulguksa/Seokguram, y luego hacer por la noche la ruta de Cheomseongdae al Palacio Donggung, el estanque Wolji y el puente Woljeonggyo.</li><li><strong>Paseo por el centro</strong>: Daereungwon, Geumgwanchong, el yacimiento de Wolseong y la aldea de Gyochon aparecen juntos en un mismo vídeo. El pan Hwangnam y las paradas en cafeterías encajan fácilmente entre medias.</li><li><strong>Con días extra</strong>: Podrías añadir una estancia en templo en Golgulsa, una noche en un hanok en la aldea de Hahoe de Andong, o una comida de marisco en el centro Songdo Raw Fish o en el mercado Jukdo de Pohang.</li></ul>",
+    "fr": "<p>Gyeongju a été la capitale du royaume de Silla pendant mille ans, et une vidéo de voyage le décrit comme un « musée sans murs ». Ce guide rassemble les lieux et les plats présentés dans des vidéos de voyage sur Gyeongju et le Gyeongsang-du Nord (Gyeongbuk). Gyeongju est au centre, avec des escapades vers le village de Hahoe à Andong et les marchés de fruits de mer de Pohang.</p><h2>Les sites de l'époque Silla à Gyeongju</h2><h3>Musée national de Gyeongju : les couronnes d'or Silla</h3><p>Dans l'émission dérivée « Welcome, First Time in Gyeongsang-do? » de MBC every1, les animateurs Fabien et Peter emmènent un groupe de voyageurs étrangers au Musée national de Gyeongju pour voir les couronnes d'or de Silla. L'épisode met en avant à quel point ces couronnes diffèrent de celles d'Europe, une réplique de l'émission affirmant qu'« il n'existe rien de tel en Occident ».</p><h3>Temple de Bulguksa et grotte de Seokguram</h3><p>Le même épisode se rend ensuite au temple de Bulguksa, où le groupe admire les pagodes Seokgatap et Dabotap. L'émission présente cette paire comme le sommet de l'artisanat de la période du Silla unifié. Un vlog cinématographique sans paroles sur Gyeongju passe aussi par Bulguksa, site du patrimoine mondial de l'UNESCO, ainsi que par la célèbre grotte de Seokguram.</p><h3>Cheomseongdae, palais Donggung et étang de Wolji, pont Woljeonggyo la nuit</h3><p>Gyeongju mérite aussi d'être découverte après la tombée de la nuit. Dans l'émission de MBC, le groupe utilise le Gyeongbuk Tour Pass pour un parcours « nuit de lune de Silla », de l'observatoire Cheomseongdae au palais Donggung et à l'étang de Wolji. Le vlog cinématographique se termine au pont Woljeonggyo, illuminé la nuit. « A Perfect 2 Days in Gyeongju », qui commence par le train à grande vitesse depuis Séoul, couvre le palais Donggung et l'étang de Wolji, le complexe de tombes Daereungwon, Bulguksa et Cheomseongdae. Il montre aussi la ville pendant la saison des cerisiers en fleurs.</p><h3>Tombes de Daereungwon et quartier de Wolseong</h3><p>« 48 Hours in Gyeongju », un voyage qui part de Busan, délaisse les visites précipitées pour se concentrer sur le côté détendu de la ville. La créatrice visite le site du palais de Wolseong, flâne dans le centre de Gyeongju et s'arrête à la tombe Geumgwanchong, à une rue de Daereungwon.</p><h3>Temple de Golgulsa : Sunmudo et séjour monastique</h3><p>Golgulsa est connu pour ses moines guerriers, qui pratiquent le Sunmudo, un art martial zen. Une vidéo de séjour monastique tournée sur place montre ce que l'on vit en séjournant dans un temple bouddhiste et en suivant le quotidien des moines. La vidéo comprend aussi une démonstration de Sunmudo.</p><h2>Que manger à Gyeongju</h2><ul><li><strong>Hanjeongsik et bulgogi jeongol</strong> : dans l'émission de MBC, le groupe déguste un repas coréen complet avec du riz enveloppé de feuille de lotus, du nurungji (riz grillé et croustillant), du bulgogi grillé et du bulgogi en marmite, ainsi que du crabe mariné à la sauce de soja (ganjang gejang) et du yukhoe. Le vlog cinématographique présente aussi un bulgogi jeongol accompagné d'une grande variété de banchan.</li><li><strong>Pain Hwangnam</strong> : l'épisode de MBC comprend un arrêt pour le pain rouge à la pâte de haricots azuki, spécialité de Gyeongju.</li><li><strong>Cafés et desserts</strong> : « 48 Hours in Gyeongju » cite le restaurant Dowadang, le lieu de desserts au matcha Omamori Gyeongju et le café 1984. Le vlog cinématographique visite un café avec un jardin.</li><li><strong>Séjours en hanok</strong> : plusieurs vidéos montrent des séjours dans des maisons traditionnelles hanok. Le hanok du vlog de 48 heures, Sadaham, a été réservé sur Airbnb, et les maisons hanok du village de Gyochon apparaissent aussi.</li></ul><h2>Andong : village de Hahoe et jjimdak</h2><p>Le village folklorique de Hahoe, à Andong, est inscrit au patrimoine mondial de l'UNESCO. Dans leur vlog sur Andong, les Travelling Bears (Eivie et Matty) prennent le KTX jusqu'à Andong et parcourent les ruelles de Hahoe, vieilles de 600 ans, ses sanctuaires et son célèbre orme zelkova. Ils passent aussi une nuit dans un hanok et prennent un petit-déjeuner coréen simple par une matinée à 5 degrés. Full Belly Travels décrit Andong comme une ville connue pour son jjimdak (poulet braisé), son bœuf hanwoo de grande qualité et le soju le plus fort de Corée du Sud.</p><h2>Pohang et autres étapes gastronomiques du Gyeongbuk</h2><p>Pohang est connue pour le mulhoe, un plat de poisson cru servi froid. Une vidéo sur les fruits de mer prépare un plateau de sashimis variés, dont du calamar, au centre de poissons crus de Songdo, et décrit le marché de Jukdo comme l'un des plus grands marchés de Corée. Les autres restaurants du Gyeongbuk présents dans les vidéos sont :</p><ul><li><strong>Uhyeon Haemuljjim (Pohang)</strong> : lotte braisée</li><li><strong>Jinryang Dwaeji Jjigae (Gyeongsan)</strong> : ragoût de porc</li><li><strong>Dosan Sigyuk Sikdang (Gumi)</strong> : ragoût de porc à l'ail</li></ul><h2>Conseils pratiques</h2><ul><li><strong>Accès</strong> : les voyageurs de ces vidéos ont rejoint Gyeongju en KTX depuis Séoul ou sont venus de Busan. Les vidéos présentent Gyeongju comme faisable en excursion d'une journée depuis Séoul en train à grande vitesse.</li><li><strong>Répartir la journée</strong> : une organisation revient dans les vidéos : passer la journée au Musée national de Gyeongju et à Bulguksa/Seokguram, puis faire le parcours du soir de Cheomseongdae au palais Donggung, à l'étang de Wolji et au pont Woljeonggyo.</li><li><strong>Balade en ville</strong> : Daereungwon, Geumgwanchong, le site de Wolseong et le village de Gyochon apparaissent tous dans une même vidéo. Le pain Hwangnam et les pauses café se glissent facilement entre les visites.</li><li><strong>Avec des jours supplémentaires</strong> : vous pourriez ajouter un séjour monastique à Golgulsa, une nuit dans un hanok au village de Hahoe à Andong, ou un repas de fruits de mer au marché de Songdo à Pohang ou au marché de Jukdo.</li></ul>",
+    "de": "<p>Gyeongju war tausend Jahre lang die Hauptstadt des Königreichs Silla, und ein Reisevideo nennt die Stadt ein \"Museum ohne Mauern\". Dieser Leitfaden fasst die Sehenswürdigkeiten und das Essen zusammen, die in Reisevideos über Gyeongju und die Provinz Gyeongsangbuk-do (Gyeongbuk) gezeigt werden. Im Mittelpunkt steht Gyeongju, dazu kommen Abstecher zum Hahoe-Dorf in Andong und zu den Fischmärkten von Pohang.</p><h2>Geschichtliche Sehenswürdigkeiten in Gyeongju</h2><h3>Nationalmuseum Gyeongju: Die goldenen Kronen der Silla</h3><p>In der Spin-off-Serie \"Welcome, First Time in Gyeongsang-do?\" des Senders MBC every1 führen die Gastgeber Fabien und Peter eine Gruppe ausländischer Reisender ins Nationalmuseum Gyeongju, um die goldenen Kronen der Silla zu sehen. Die Folge betont, wie anders diese Kronen im Vergleich zu europäischen aussehen, und die Sendung sagt dazu sinngemäß: \"So etwas gibt es im Westen nicht.\"</p><h3>Bulguksa-Tempel und Seokguram-Grotte</h3><p>In derselben Folge geht es weiter zum Bulguksa-Tempel, wo die Gruppe die Pagoden Seokgatap und Dabotap bewundert. Die Sendung stellt das Paar als Höhepunkt des Handwerks der Vereinigten Silla dar. Ein filmischer Gyeongju-Vlog ganz ohne Kommentar besucht ebenfalls den Bulguksa, der Welterbe der UNESCO ist, sowie die berühmte Seokguram-Grotte.</p><h3>Cheomseongdae, Donggung-Palast und Wolji-Teich, Woljeonggyo-Brücke bei Nacht</h3><p>Gyeongju lohnt auch nach Einbruch der Dunkelheit einen Besuch. In der MBC-Sendung nutzt die Gruppe den Gyeongbuk Tour Pass für eine nächtliche Route \"Silla im Mondlicht\" vom Sternwarte Cheomseongdae zum Donggung-Palast und zum Wolji-Teich. Der filmische Vlog endet an der nachts beleuchteten Woljeonggyo-Brücke. \"A Perfect 2 Days in Gyeongju\", das mit dem Schnellzug ab Seoul beginnt, führt zum Donggung-Palast und Wolji-Teich, zum Grabkomplex Daereungwon, zum Bulguksa und zu Cheomseongdae. Gezeigt wird außerdem die Stadt zur Kirschblütenzeit.</p><h3>Daereungwon-Gräber und das Gebiet Wolseong</h3><p>\"48 Hours in Gyeongju\", eine Reise ab Busan, verzichtet auf hektisches Sightseeing und konzentriert sich auf die entspannte Seite der Stadt. Die Macherin besucht die Stätte des Wolseong-Palasts, spaziert durch die Altstadt von Gyeongju und hält am Grab Geumgwanchong, eine Straße von Daereungwon entfernt.</p><h3>Golgulsa-Tempel: Sunmudo und Tempelübernachtung</h3><p>Golgulsa ist für seine kämpfenden Mönche bekannt, die Sunmudo üben, eine Zen-Kampfkunst. Ein dort gedrehtes Video zur Tempelübernachtung zeigt, wie es ist, in einem buddhistischen Tempel zu übernachten und dem Tagesablauf der Mönche zu folgen. Das Video enthält außerdem eine Sunmudo-Vorführung.</p><h2>Was man in Gyeongju essen kann</h2><ul><li><strong>Hanjeongsik und Bulgogi-Jeongol</strong>: In der MBC-Sendung isst die Gruppe ein vollständiges koreanisches Menü mit Lotusblatt-Reis, Nurungji (angebrannter Reis), gegrilltem Bulgogi und Bulgogi-Eintopf, dazu marinierte Krabben in Sojasauce (Ganjang Gejang) und Yukhoe. Der filmische Vlog zeigt außerdem Bulgogi-Jeongol mit einer großen Auswahl an Beilagen.</li><li><strong>Hwangnam-Brot</strong>: Die MBC-Folge macht Halt bei Gyeongjus rotem Bohnenbrot.</li><li><strong>Cafés und Desserts</strong>: \"48 Hours in Gyeongju\" nennt das Restaurant Dowadang, das Matcha-Dessertlokal Omamori Gyeongju und das Café 1984. Der filmische Vlog besucht ein Café mit Garten.</li><li><strong>Hanok-Übernachtungen</strong>: Mehrere Videos zeigen Aufenthalte in traditionellen Hanok-Häusern. Das Hanok aus dem 48-Stunden-Vlog, Sadaham, wurde über Airbnb gebucht, außerdem tauchen die Hanok-Häuser des Dorfes Gyochon auf.</li></ul><h2>Andong: Hahoe-Dorf und Jjimdak</h2><p>Das Hahoe-Dorf in Andong ist ein Volksdorf auf der Welterbeliste der UNESCO. In ihrem Andong-Vlog fahren die Travelling Bears (Eivie und Matty) mit dem KTX nach Andong und gehen durch die 600 Jahre alten Gassen von Hahoe, vorbei an Schreinen und dem bekannten Zelkova-Baum. Außerdem übernachten sie in einem Hanok und frühstücken an einem 5 Grad kalten Morgen einfach koreanisch. Full Belly Travels beschreibt Andong als Stadt, die für Jjimdak (geschmorte Hähnchen), hochwertiges Hanwoo-Rindfleisch und den stärksten Soju Südkoreas bekannt ist.</p><h2>Pohang und weitere Essensstopps in Gyeongbuk</h2><p>Pohang ist für Mulhoe bekannt, ein gekühltes Rohfischgericht. In einem Meeresfrüchte-Video wird eine gemischte Sashimi-Platte mit Tintenfisch zubereitet, und zwar aus dem Songdo Raw Fish Center. Der Markt Jukdo wird als einer der größten Märkte Koreas beschrieben. Weitere Restaurants in Gyeongbuk, die im Videomaterial vorkommen, sind:</p><ul><li><strong>Uhyeon Haemuljjim (Pohang)</strong>: geschmorter Seeteufel</li><li><strong>Jinryang Dwaeji Jjigae (Gyeongsan)</strong>: Schweinefleisch-Eintopf</li><li><strong>Dosan Sigyuk Sikdang (Gumi)</strong>: Schweinefleisch-Eintopf mit viel Knoblauch</li></ul><h2>Planungstipps</h2><ul><li><strong>Anreise</strong>: Die Reisenden in diesen Videos kamen mit dem KTX aus Seoul nach Gyeongju oder aus Busan. Die Videos zeigen Gyeongju als machbaren Tagesausflug von Seoul mit dem Hochgeschwindigkeitszug.</li><li><strong>Den Tag aufteilen</strong>: Ein Muster, das in den Videos immer wieder auftaucht: Der Tag gehört dem Nationalmuseum Gyeongju und dem Bulguksa/Seokguram, abends folgt man dann der Route von Cheomseongdae über den Donggung-Palast und den Wolji-Teich zur Woljeonggyo-Brücke.</li><li><strong>Stadtspaziergang</strong>: Daereungwon, Geumgwanchong, das Gelände Wolseong und das Dorf Gyochon erscheinen alle in einem einzigen Video. Hwangnam-Brot und Café-Stopps passen problemlos dazwischen.</li><li><strong>Mit zusätzlichen Tagen</strong>: Möglich wären eine Tempelübernachtung im Golgulsa, eine Hanok-Übernachtung im Hahoe-Dorf in Andong oder ein Meeresfrüchteessen im Songdo Raw Fish Center oder auf dem Markt Jukdo in Pohang.</li></ul>",
+    "vi": "<p>Gyeongju từng là kinh đô của vương quốc Silla suốt một nghìn năm, và có một video du lịch gọi thành phố này là \"bảo tàng không có tường\". Hướng dẫn này tổng hợp các điểm tham quan và món ăn được giới thiệu trong các video du lịch về Gyeongju và tỉnh Gyeongsangbuk (Gyeongbuk). Trọng tâm là Gyeongju, kèm theo các chuyến đi ngắn đến làng Hahoe ở Andong và các chợ hải sản ở Pohang.</p><h2>Di tích lịch sử Silla ở Gyeongju</h2><h3>Bảo tàng Quốc gia Gyeongju: Vương miện vàng Silla</h3><p>Trong chương trình \"Welcome, First Time in Gyeongsang-do?\" phần phụ của MBC every1, hai người dẫn Fabien và Peter đưa một nhóm du khách nước ngoài đến Bảo tàng Quốc gia Gyeongju để xem các vương miện vàng Silla. Tập phim tập trung vào sự khác biệt giữa những chiếc vương miện này và vương miện châu Âu, với một câu thoại trong chương trình nói rằng \"ở phương Tây không có gì tương tự\".</p><h3>Chùa Bulguksa và Động Seokguram</h3><p>Cũng trong tập phim đó, nhóm đi đến chùa Bulguksa, nơi họ chiêm ngưỡng hai tháp Seokgatap và Dabotap. Chương trình giới thiệu cặp tháp này như đỉnh cao của nghệ thuật thủ công thời統一 Silla. Một video vlog Gyeongju không lời, mang phong cách điện ảnh, cũng ghé thăm Bulguksa, di sản thế giới UNESCO, cùng với Động Seokguram nổi tiếng.</p><h3>Cheomseongdae, Cung Donggung, Hồ Wolji và Cầu Woljeonggyo về đêm</h3><p>Gyeongju cũng đáng khám phá sau khi trời tối. Trong chương trình của MBC, nhóm sử dụng Gyeongbuk Tour Pass để đi theo lộ trình \"đêm trăng Silla\" từ đài quan sát Cheomseongdae đến cung Donggung và Hồ Wolji. Vlog điện ảnh kết thúc ở Cầu Woljeonggyo, được thắp sáng vào ban đêm. Video \"A Perfect 2 Days in Gyeongju\", bắt đầu bằng tàu cao tốc từ Seoul, đề cập đến cung Donggung và Hồ Wolji, khu lăng mộ Daereungwon, Bulguksa và Cheomseongdae. Video cũng cho thấy thành phố vào mùa hoa anh đào nở.</p><h3>Các lăng mộ Daereungwon và khu vực Wolseong</h3><p>\"48 Hours in Gyeongju\", chuyến đi bắt đầu từ Busan, bỏ qua lịch trình tham quan vội vã và tập trung vào nhịp sống thong thả của thành phố. Người làm video ghé khu di tích cung Wolseong, đi bộ quanh trung tâm Gyeongju và dừng ở lăng Geumgwanchong, cách Daereungwon một con phố.</p><h3>Chùa Golgulsa: Sunmudo và lưu trú chùa</h3><p>Golgulsa nổi tiếng với các tăng lữ võ sĩ, những người luyện tập Sunmudo, một môn võ thuật theo tinh thần Thiền. Một video lưu trú tại chùa được quay ở đây cho thấy cảm giác ở lại một ngôi chùa Phật giáo và theo sinh hoạt hằng ngày của các tăng lữ. Video cũng có phần trình diễn Sunmudo.</p><h2>Món ăn nên thử ở Gyeongju</h2><ul><li><strong>Hanjeongsik và bulgogi jeongol</strong>: Trong chương trình của MBC, nhóm dùng một bữa cơm Hàn Quốc đầy đủ với cơm lá sen, nurungji (cơm cháy), thịt bò bulgogi nướng và lẩu bulgogi, cùng cua ngâm nước tương (ganjang gejang) và yukhoe. Vlog điện ảnh cũng có bulgogi jeongol với nhiều món ăn kèm.</li><li><strong>Bánh Hwangnam</strong>: Tập phim của MBC có một điểm dừng để thưởng thức bánh đậu đỏ nổi tiếng của Gyeongju.</li><li><strong>Quán cà phê và món tráng miệng</strong>: \"48 Hours in Gyeongju\" giới thiệu nhà hàng Dowadang, quán tráng miệng matcha Omamori Gyeongju và quán cà phê 1984. Vlog điện ảnh ghé một quán cà phê có khu vườn.</li><li><strong>Lưu trú nhà hanok</strong>: Nhiều video giới thiệu việc ở trong nhà hanok truyền thống. Nhà hanok Sadaham trong vlog 48 giờ được đặt qua Airbnb, và làng Gyochon cũng xuất hiện với các nhà hanok.</li></ul><h2>Andong: Làng Hahoe và Jjimdak</h2><p>Làng dân gian Hahoe ở Andong nằm trong danh sách UNESCO. Trong vlog về Andong, cặp đôi Travelling Bears (Eivie và Matty) đi tàu KTX đến Andong và đi bộ qua các con hẻm 600 năm tuổi, đền thờ và cây du nổi tiếng của Hahoe. Họ cũng ngủ đêm trong nhà hanok và ăn sáng kiểu Hàn Quốc đơn giản vào một buổi sáng 5 độ C. Full Belly Travels mô tả Andong là thành phố nổi tiếng với jjimdak (gà hầm), thịt bò hanwoo chất lượng cao và loại soju mạnh nhất Hàn Quốc.</p><h2>Pohang và các điểm ăn uống khác ở Gyeongbuk</h2><p>Pohang nổi tiếng với mulhoe, món cá sống ăn lạnh. Một video về hải sản chế biến đĩa sashimi tổng hợp, gồm cả mực, từ Trung tâm cá sống Songdo, và mô tả chợ Jukdo là một trong những chợ lớn nhất Hàn Quốc. Các nhà hàng khác ở Gyeongbuk trong video gồm:</p><ul><li><strong>Uhyeon Haemuljjim (Pohang)</strong>: cá mũi hếch hầm</li><li><strong>Jinryang Dwaeji Jjigae (Gyeongsan)</strong>: canh thịt heo</li><li><strong>Dosan Sigyuk Sikdang (Gumi)</strong>: canh thịt heo nhiều tỏi</li></ul><h2>Gợi ý lên kế hoạch</h2><ul><li><strong>Di chuyển</strong>: Những du khách trong các video này đến Gyeongju bằng tàu KTX từ Seoul hoặc đi từ Busan. Các video cho thấy Gyeongju có thể đi trong ngày từ Seoul bằng tàu cao tốc.</li><li><strong>Chia lịch trình trong ngày</strong>: Một cách sắp xếp lặp lại trong các video là dành buổi ngày cho Bảo tàng Quốc gia Gyeongju và Bulguksa/Seokguram, rồi đi tuyến buổi tối từ Cheomseongdae đến cung Donggung, Hồ Wolji và Cầu Woljeonggyo.</li><li><strong>Đi bộ trong thành phố</strong>: Daereungwon, Geumgwanchong, khu Wolseong và làng Gyochon đều xuất hiện trong cùng một video. Bánh Hwangnam và các quán cà phê rất dễ ghé giữa các điểm.</li><li><strong>Nếu có thêm ngày</strong>: Bạn có thể thêm một đêm lưu trú chùa ở Golgulsa, một đêm ở nhà hanok tại làng Hahoe ở Andong, hoặc một bữa hải sản tại Trung tâm cá sống Songdo hoặc chợ Jukdo ở Pohang.</li></ul>",
+    "th": "<p>กyeongju เคยเป็นเมืองหลวงของอาณาจักรซิลลาเป็นเวลาพันปี และวิดีโอท่องเที่ยวเรื่องหนึ่งเรียกเมืองนี้ว่า \"พิพิธภัณฑ์ที่ไม่มีกำแพง\" คู่มือนี้รวบรวมสถานที่และอาหารที่ปรากฏในวิดีโอท่องเที่ยวเกี่ยวกับกyeongju และจังหวัดกยองซังบุก (กยองบุก) โดยมีกyeongju เป็นจุดหลัก และมีทริปเสริมไปหมู่บ้านฮาฮเวที่อันดง และตลาดอาหารทะเลที่โพฮัง</p><h2>สถานที่ประวัติศาสตร์ซิลลาในกyeongju</h2><h3>พิพิธภัณฑ์แห่งชาติกyeongju: มงกุฎทองซิลลา</h3><p>ในรายการ \"Welcome, First Time in Gyeongsang-do?\" ของ MBC every1 ฟาบีเอนและปีเตอร์พาคณะนักท่องเที่ยวต่างชาติไปพิพิธภัณฑ์แห่งชาติกyeongju เพื่อชมมงกุฎทองซิลลา ตอนนี้เน้นให้เห็นว่ามงกุฎเหล่านี้ต่างจากมงกุฎยุโรปอย่างไร โดยมีประโยคในรายการว่า \"ไม่มีอะไรแบบนี้ในโลกตะวันตก\"</p><h3>วัดบุลกุกซาและถ้ำซอกกูรัม</h3><p>ตอนเดียวกันพาไปวัดบุลกุกซา ซึ่งคณะชื่นชมเจดีย์ซอกกาทาปและดาโบทาปที่รายการนำเสนอว่าเป็นจุดสูงสุดของฝีมือช่างในยุคซิลลารวม วิดีโอท่องเที่ยวกyeongju แบบภาพยนตร์ที่ไม่มีบทพูดก็ไปวัดบุลกุกซาพร้อมถ้ำซอกกูรัมที่มีชื่อเสียง ซึ่งเป็นมรดกโลกขององค์การยูเนสโก</p><h3>ชอมซองแด วังดงกุง และบ่อวอลจี สะพานวอลจองเคียวยามค่ำคืน</h3><p>กyeongju ก็น่าเที่ยวหลังพระอาทิตย์ตกเช่นกัน ในรายการของ MBC คณะใช้ Gyeongbuk Tour Pass เดินเส้นทาง \"คืนจันทร์ซิลลา\" จากหอดูดาวชอมซองแดไปวังดงกุงและบ่อวอลจี วิดีโอแบบภาพยนตร์จบที่สะพานวอลจองเคียวซึ่งส่องสว่างในยามค่ำคืน \"2 วันที่สมบูรณ์แบบในกyeongju\" เริ่มต้นด้วยรถไฟความเร็วสูงจากโซล ครอบคลุมวังดงกุงและบ่อวอลจี กลุ่มสุสานแดรึงวอน บุลกุกซา และชอมซองแด และยังแสดงให้เห็นเมืองในช่วงฤดูดอกซากุระบาน</p><h3>สุสานแดรึงวอนและบริเวณวอลซอง</h3><p>\"48 ชั่วโมงในกyeongju\" ซึ่งเริ่มต้นจากปูซาน ไม่เร่งรีบไปชมสถานที่ต่าง ๆ แต่เน้นด้านที่ผ่อนคลายของเมือง ผู้จัดทำไปที่แหล่งพระราชวังวอลซอง เดินเที่ยวในตัวเมืองกyeongju และแวะที่สุสานกึมกวันชองซึ่งอยู่ห่างจากแดรึงวอนเพียงหนึ่งช่วงถนน</p><h3>วัดกลกุลซา: ซอนมูโดและการพักในวัด</h3><p>กลกุลซาขึ้นชื่อเรื่องพระนักรบที่ฝึกซอนมูโด ศิลปะการต่อสู้แบบเซน วิดีโอการพักในวัดที่ถ่ายทำที่นี่แสดงให้เห็นการพักค้างคืนในวัดพุทธและการใช้ชีวิตตามตารางประจำวันของพระ วิดีโอยังมีการสาธิตซอนมูโดด้วย</p><h2>อาหารที่ควรลองในกyeongju</h2><ul><li><strong>ฮันจองซิกและบุลโกกิจองกล</strong>: ในรายการ MBC คณะกินชุดอาหารเกาหลีเต็มรูปแบบ มีข้าวใบบัว นูรุงจี (ข้าวเกรียม) บุลโกกิย่าง และหม้อไฟบุลโกกิ พร้อมปูดองซีอิ๊ว (คันจังเกจัง) และยุกเฮ วิดีโอแบบภาพยนตร์ก็มีบุลโกกิจองกลพร้อมกับกับข้าวจำนวนมาก</li><li><strong>ขนมปังฮวางนัม</strong>: ตอนของ MBC แวะชิมขนมปังไส้ถั่วแดงของกyeongju</li><li><strong>คาเฟ่และของหวาน</strong>: \"48 ชั่วโมงในกyeongju\" แนะนำร้านอาหารโดวาดัง ร้านของหวานชาเขียว Omamori Gyeongju และคาเฟ่ 1984 วิดีโอแบบภาพยนตร์ไปคาเฟ่ที่มีสวน</li><li><strong>ที่พักฮันอก</strong>: หลายวิดีโอแสดงการพักในบ้านฮันอกแบบดั้งเดิม ฮันอกของวล็อก 48 ชั่วโมงชื่อซาดาฮัมจองผ่าน Airbnb และบ้านฮันอกในหมู่บ้านกyochon ก็ปรากฏด้วย</li></ul><h2>อันดง: หมู่บ้านฮาฮเวและจิมดัก</h2><p>หมู่บ้านฮาฮเวของอันดงเป็นหมู่บ้านพื้นบ้านที่ได้รับการขึ้นทะเบียนโดยยูเนสโก ในวิดีโอเที่ยวอันดงของ Travelling Bears (Eivie และ Matty) นั่งรถไฟ KTX ไปอันดงและเดินชมซอยอายุ 600 ปี ศาลเจ้า และต้นเซลโคว่าที่มีชื่อเสียงของหมู่บ้านฮาฮเว พวกเขายังพักค้างคืนในฮันอกและทานอาหารเช้าเกาหลีเรียบง่ายในเช้าที่อากาศ 5 องศา Full Belly Travels บรรยายอันดงว่าเป็นเมืองที่รู้จักจากจิมดัก (ไก่ตุ๋นซอส) เนื้อฮันวูคุณภาพสูง และโซจูที่แรงที่สุดในเกาหลีใต้</p><h2>โพฮังและจุดแวะกินอื่น ๆ ในกยองบุก</h2><p>โพฮังขึ้นชื่อเรื่องมุลโฮเออ ซึ่งเป็นอาหารปลาดิบแช่เย็น วิดีโอทะเลแห่งหนึ่งเตรียมซาชิมิรวมจากศูนย์ปลาดิบซงโดรวมถึงปลาหมึก และบรรยายตลาดจุกโดว่าเป็นหนึ่งในตลาดที่ใหญ่ที่สุดในเกาหลี ร้านอาหารอื่นในกยองบุกที่ปรากฏในวิดีโอได้แก่:</p><ul><li><strong>อูฮยอนแฮมุลจิม (โพฮัง)</strong>: ปลาแองเกลอร์ตุ๋น</li><li><strong>จินรยังแดจีจิเก (กยองซาน)</strong>: แกงหมูเผ็ด</li><li><strong>โดซานชิกยุกซิกดัง (กูมี)</strong>: แกงหมูกระเทียม</li></ul><h2>เคล็ดลับการวางแผน</h2><ul><li><strong>การเดินทาง</strong>: นักท่องเที่ยวในวิดีโอเหล่านี้เดินทางไปกyeongju ด้วย KTX จากโซลหรือมาจากปูซาน วิดีโอแสดงให้เห็นว่ากyeongju เที่ยวแบบไปเช้าเย็นกลับจากโซลด้วยรถไฟความเร็วสูงก็ทำได้</li><li><strong>แบ่งวันของคุณ</strong>: รูปแบบที่ซ้ำกันในวิดีโอคือใช้เวลากลางวันที่พิพิธภัณฑ์แห่งชาติกyeongju และบุลกุกซา/ซอกกูรัม จากนั้นเดินเส้นทางยามเย็นจากชอมซองแดไปวังดงกุงและบ่อวอลจี และสะพานวอลจองเคียว</li><li><strong>เดินชมตัวเมือง</strong>: แดรึงวอน กึมกวันชอง บริเวณวอลซอง และหมู่บ้านกyochon ปรากฏรวมกันในวิดีโอเดียว ขนมปังฮวางนัมและการแวะคาเฟ่พอดีกับช่วงระหว่างนั้นได้ง่าย</li><li><strong>ถ้ามีเวลาเพิ่ม</strong>: คุณอาจเพิ่มการพักในวัดที่กลกุลซา การพักค้างคืนในฮันอกที่หมู่บ้านฮาฮเวของอันดง หรือมื้ออาหารทะเลที่ศูนย์ปลาดิบซงโดของโพฮังหรือตลาดจุกโด</li></ul>",
+    "id": "<p>Gyeongju pernah menjadi ibu kota Kerajaan Silla selama seribu tahun, dan salah satu video perjalanan menyebutnya \"museum tanpa dinding\". Panduan ini merangkum tempat wisata dan makanan yang ditampilkan dalam video perjalanan tentang Gyeongju dan Gyeongsangbuk-do (Gyeongbuk). Fokus utamanya adalah Gyeongju, dengan perjalanan singkat ke Desa Hahoe di Andong dan pasar hasil laut di Pohang.</p><h2>Situs Sejarah Silla di Gyeongju</h2><h3>Museum Nasional Gyeongju: Mahkota Emas Silla</h3><p>Dalam serial spin-off MBC every1 \"Welcome, First Time in Gyeongsang-do?\", pembawa acara Fabien dan Peter membawa sekelompok turis asing ke Museum Nasional Gyeongju untuk melihat mahkota emas Silla. Episode ini menyoroti betapa berbedanya mahkota tersebut dibandingkan mahkota Eropa, dengan satu kalimat dalam acara yang menyebutkan \"tidak ada yang seperti ini di Barat\".</p><h3>Kuil Bulguksa dan Gua Seokguram</h3><p>Episode yang sama berlanjut ke Kuil Bulguksa, tempat rombongan mengagumi pagoda Seokgatap dan Dabotap. Acara ini menyajikan keduanya sebagai puncak keahlian Silla Bersatu. Sebuah vlog Gyeongju bersinematik tanpa narasi juga mengunjungi Bulguksa, situs Warisan Dunia UNESCO, beserta Gua Seokguram yang terkenal.</p><h3>Cheomseongdae, Istana Donggung dan Danau Wolji, Jembatan Woljeonggyo di Malam Hari</h3><p>Gyeongju juga layak dijelajahi setelah gelap. Dalam acara MBC, rombongan menggunakan Gyeongbuk Tour Pass untuk rute \"malam bulan Silla\" dari Observatorium Cheomseongdae ke Istana Donggung dan Danau Wolji. Vlog bersinematik itu berakhir di Jembatan Woljeonggyo yang diterangi lampu di malam hari. \"A Perfect 2 Days in Gyeongju\", yang dimulai dengan kereta peluru dari Seoul, membahas Istana Donggung dan Danau Wolji, Kompleks Makam Daereungwon, Bulguksa, dan Cheomseongdae. Video ini juga menampilkan kota saat musim bunga sakura.</p><h3>Makam Daereungwon dan Kawasan Wolseong</h3><p>\"48 Hours in Gyeongju\", perjalanan yang dimulai dari Busan, melewatkan wisata yang terburu-buru dan berfokus pada sisi kota yang lebih santai. Kreator mengunjungi situs Istana Wolseong, berjalan di pusat kota Gyeongju, dan singgah di makam Geumgwanchong, hanya selang satu jalan dari Daereungwon.</p><h3>Kuil Golgulsa: Sunmudo dan Templestay</h3><p>Golgulsa dikenal dengan biksu prajuritnya, yang mempraktikkan seni bela diri Zen bernama Sunmudo. Video templestay yang direkam di sana memperlihatkan bagaimana rasanya menginap di kuil Buddha dan mengikuti rutinitas harian para biksu. Video ini juga menyertakan demonstrasi Sunmudo.</p><h2>Makanan di Gyeongju</h2><ul><li><strong>Hanjeongsik dan bulgogi jeongol</strong>: Dalam acara MBC, rombongan menikmati set makanan Korea lengkap dengan nasi daun teratai, nurungji (nasi gosong), bulgogi panggang dan bulgogi hot pot, serta kepiting marinasi kecap (ganjang gejang) dan yukhoe. Vlog bersinematik itu juga menampilkan bulgogi jeongol dengan banyak lauk pendamping.</li><li><strong>Roti Hwangnam</strong>: Episode MBC mencakup singgah di roti kacang merah khas Gyeongju.</li><li><strong>Kafe dan dessert</strong>: \"48 Hours in Gyeongju\" mencantumkan restoran Dowadang, tempat dessert matcha Omamori Gyeongju, dan kafe 1984. Vlog bersinematik mengunjungi kafe dengan taman.</li><li><strong>Penginapan hanok</strong>: Beberapa video menampilkan menginap di rumah hanok tradisional. Hanok dalam vlog 48 jam, Sadaham, dipesan melalui Airbnb, dan rumah hanok di Desa Gyochon juga muncul.</li></ul><h2>Andong: Desa Hahoe dan Jjimdak</h2><p>Desa Hahoe di Andong adalah desa rakyat yang terdaftar di UNESCO. Dalam vlog Andong mereka, The Travelling Bears (Eivie dan Matty) naik KTX ke Andong dan berjalan melewati gang-gang Hahoe yang berusia 600 tahun, kuil, serta pohon zelkova yang terkenal. Mereka juga menginap semalam di hanok dan menikmati sarapan Korea sederhana pada pagi bersuhu 5 derajat. Full Belly Travels menggambarkan Andong sebagai kota yang dikenal dengan jjimdak (ayam rebus bumbu), daging sapi hanwoo berkualitas tinggi, serta soju terkuat di Korea Selatan.</p><h2>Pohang dan Pemberhentian Kuliner Gyeongbuk Lainnya</h2><p>Pohang dikenal dengan mulhoe, hidangan ikan mentah dingin. Salah satu video makanan laut menyiapkan sashimi campur, termasuk cumi, dari Songdo Raw Fish Center, dan menyebut Pasar Jukdo sebagai salah satu pasar terbesar di Korea. Restoran Gyeongbuk lain dalam materi video meliputi:</p><ul><li><strong>Uhyeon Haemuljjim (Pohang)</strong>: ikan monkfish rebus</li><li><strong>Jinryang Dwaeji Jjigae (Gyeongsan)</strong>: sup daging babi</li><li><strong>Dosan Sigyuk Sikdang (Gumi)</strong>: sup daging babi dengan banyak bawang putih</li></ul><h2>Tips Perencanaan</h2><ul><li><strong>Cara ke sana</strong>: Para pelancong dalam video ini mencapai Gyeongju dengan KTX dari Seoul atau datang dari Busan. Video-video tersebut menunjukkan Gyeongju bisa dijadikan perjalanan sehari dari Seoul dengan kereta cepat.</li><li><strong>Bagi waktu harian</strong>: Pola yang berulang di berbagai video adalah menghabiskan hari di Museum Nasional Gyeongju dan Bulguksa/Seokguram, lalu berjalan di rute malam dari Cheomseongdae ke Istana Donggung, Danau Wolji, dan Jembatan Woljeonggyo.</li><li><strong>Jalan kaki di pusat kota</strong>: Daereungwon, Geumgwanchong, situs Wolseong, dan Desa Gyochon semuanya muncul dalam satu video. Roti Hwangnam dan singgah di kafe mudah disisipkan di antaranya.</li><li><strong>Dengan tambahan hari</strong>: Anda bisa menambahkan templestay di Golgulsa, menginap di hanok Desa Hahoe di Andong, atau makan hidangan laut di Songdo Raw Fish Center Pohang atau Pasar Jukdo.</li></ul>",
+    "ru": "<p>Гёнджу был столицей государства Силла на протяжении тысячи лет, и одно из туристических видео называет его «музеем без стен». Этот путеводитель собирает достопримечательности и еду, которые показаны в видео о Гёнджу и провинции Кёнсан-Пукто (Кёнбук). Основное внимание уделено Гёнджу, а также поездкам в деревню Хахве в Андоне и на рынки морепродуктов в Почхоне.</p><h2>Памятники Силла в Гёнджу</h2><h3>Национальный музей Кёнджу: золотые короны Силла</h3><p>В спин-оффе шоу «Welcome, First Time in Gyeongsang-do?» от MBC every1 ведущие Фабьен и Питер приводят группу иностранных путешественников в Национальный музей Кёнджу, чтобы увидеть золотые короны Силла. Эпизод сосредоточен на том, насколько эти короны отличаются от европейских, и в одной из реплик шоу прозвучало: «На Западе ничего подобного нет».</p><h3>Храм Пульгукса и грот Соккурам</h3><p>В том же эпизоде группа переходит к храму Пульгукса, где гости любуются пагодами Соккатап и Тапотап. По словам шоу, эта пара считается вершиной мастерства объединённого Силла. Кинематографичный влог о Гёнджу без диалогов также посещает Пульгуксу, объект всемирного наследия ЮНЕСКО, и знаменитый грот Соккурам.</p><h3>Чхомсончхэ, дворец Тонгung и пруд Вольджи, мост Вольджонгё ночью</h3><p>Гёнджу стоит посмотреть и после наступления темноты. В шоу MBC группа использует Gyeongbuk Tour Pass для ночного маршрута «лунная ночь Силла» от обсерватории Чхомсончхэ до дворца Тонгун и пруда Вольджи. Кинематографичный влог заканчивается у моста Вольджонгё, который красиво подсвечен ночью. Видео «A Perfect 2 Days in Gyeongju», начинающееся с скоростного поезда из Сеула, рассказывает о дворце Тонгун и пруде Вольджи, комплексе гробниц Тэреунвон, Пульгуксе и Чхомсончхэ. Там также показан город в сезон цветения сакуры.</p><h3>Гробницы Тэреунвон и район Вольсон</h3><p>«48 Hours in Gyeongju» начинается из Пусана и обходится без спешки: автор предлагает расслабленный способ знакомства с городом. Автор посещает территорию дворца Вольсон, гуляет по центру Гёнджу и останавливается у гробницы Кымгванчхон, в одном квартале от Тэреунвона.</p><h3>Храм Голгуксы: Сунмудо и темплстей</h3><p>Голгуксы известен своими монахами-воинами, которые практикуют дзен-боевое искусство Сунмудо. Видео о темплстее, снятое там, показывает, как живётся в буддийском храме и как устроен распорядок дня монахов. В видео также есть демонстрация Сунмудо.</p><h2>Что поесть в Гёнджу</h2><ul><li><strong>Ханчонсик и пульгоги чонголь</strong>: в шоу MBC группа ест полноценный корейский набор: рис в лотосовом листе, нурунджи (подгоревший рис), жареное пульгоги и пульгоги в горячем котле, а также крабы в соевом маринаде (ганджан кэджан) и юкхве. В кинематографичном влоге тоже есть пульгоги чонголь с большим набором закусок.</li><li><strong>Хвангнам-пан</strong>: в эпизоде MBC есть остановка у красной булочки с бобовой начинкой, фирменного угощения Гёнджу.</li><li><strong>Кафе и десерты</strong>: в «48 Hours in Gyeongju» упоминаются ресторан Dowadang, кафе с матча-десертами Omamori Gyeongju и кафе 1984. В кинематографичном влоге есть кафе с садом.</li><li><strong>Ночёвка в ханоке</strong>: в нескольких видео показаны остановки в традиционных домах ханок. Ханок из 48-часового влога, Sadaham, был забронирован через Airbnb, а также появляются ханоки в деревне Кёнчон.</li></ul><h2>Андон: деревня Хахве и чимдак</h2><p>Деревня Хахве в Андоне — народная деревня, входящая в список ЮНЕСКО. В андонском влоге путешественники Travelling Bears (Eivie и Matty) едут на KTX в Андон и гуляют по 600-летним переулкам Хахве, святилищам и знаменитому дереву зельковы. Они также ночуют в ханоке и завтракают простой корейской едой в пятиградусное утро. Full Belly Travels описывает Андон как город, известный чимдаком (тушёной курицей), качественной говядиной ханукван и самым крепким соджу в Южной Корее.</p><h2>Почхон и другие остановки на еду в Кёнбуке</h2><p>Почхон известен мульхве, охлаждённым блюдом из сырой рыбы. В одном видео о морепродуктах готовится ассорти из сашими, включая кальмара, из центра сырой рыбы Сонгдо, а рынок Чукто описан как один из крупнейших рынков Кореи. Другие рестораны Кёнбука, упомянутые в материалах видео:</p><ul><li><strong>Уххён хэмуль-чжим (Почхон)</strong>: тушёный морской чёрт</li><li><strong>Чинрян дводжи чиге (Кёнсан)</strong>: свиная похлёбка</li><li><strong>Тосан сикюк сиктан (Кумми)</strong>: свиная похлёбка с чесноком</li></ul><h2>Советы по планированию</h2><ul><li><strong>Как добраться</strong>: путешественники в этих видео добирались до Гёнджу на KTX из Сеула или приезжали из Пусана. По видео, Гёнджу можно осмотреть и за один день из Сеула на скоростном поезде.</li><li><strong>Разделите день</strong>: в видео повторяется одна схема: днём музей Кёнджу и Пульгукса/Соккурам, а вечером маршрут от Чхомсончхэ до дворца Тонгун, пруда Вольджи и моста Вольджонгё.</li><li><strong>Прогулка по городу</strong>: Тэреунвон, Кымгванчхон, территория Вольсон и деревня Кёнчон вместе показаны в одном видео. Между ними легко вписать хвангнам-пан и остановки в кафе.</li><li><strong>Если есть дополнительные дни</strong>: можно добавить темплстей в Голгуксе, ночёвку в ханоке в деревне Хахве в Андоне или морепродукты в центре Сонгдо или на рынке Чукто в Почхоне.</li></ul>"
   },
   "places": [
     {
@@ -120,5 +150,427 @@
       "id": "Khf_He-Q_Mw",
       "title": "Assorted Seafood Sashimi Songdo Fish Market Pohang Korea 포항 송도 활어회센터 해물모듬회 24 squid etc"
     }
-  ]
+  ],
+  "placesI18n": {
+    "ja": [
+      {
+        "name": "国立慶州博物館",
+        "menu": "新羅の金冠"
+      },
+      {
+        "name": "安東河回村",
+        "menu": "ユネスコ登録の伝統村"
+      },
+      {
+        "name": "掘窟寺",
+        "menu": "ソンムドとテンプルステイ"
+      },
+      {
+        "name": "鎮良豚チゲ（慶山）",
+        "menu": "豚肉のチゲ"
+      },
+      {
+        "name": "道山食肉食堂（亀尾）",
+        "menu": "ニンニクの効いた豚肉の煮込み"
+      },
+      {
+        "name": "宇賢海物鍋（浦項）",
+        "menu": "アンコウの煮込み"
+      },
+      {
+        "name": "仏国寺",
+        "menu": "石家塔と多宝塔"
+      },
+      {
+        "name": "瞻星台",
+        "menu": "新羅の夜景"
+      },
+      {
+        "name": "東宮と月池",
+        "menu": "夜景スポット"
+      },
+      {
+        "name": "黄南パン",
+        "menu": "小豆のパン"
+      }
+    ],
+    "zh-Hans": [
+      {
+        "name": "国立庆州博物馆",
+        "menu": "新罗金冠"
+      },
+      {
+        "name": "安东河回村",
+        "menu": "联合国教科文组织民俗村落"
+      },
+      {
+        "name": "金刚寺",
+        "menu": "善武道与寺院住宿"
+      },
+      {
+        "name": "镇良猪肉锅（庆山）",
+        "menu": "猪肉汤锅"
+      },
+      {
+        "name": "道山食肉食堂（龟尾）",
+        "menu": "蒜香猪肉汤锅"
+      },
+      {
+        "name": "牛贤海鲜炖（浦项）",
+        "menu": "炖安康鱼"
+      },
+      {
+        "name": "佛国寺",
+        "menu": "释迦塔与多宝塔"
+      },
+      {
+        "name": "瞻星台",
+        "menu": "新罗夜景"
+      },
+      {
+        "name": "东宫与月池",
+        "menu": "夜景观赏地"
+      },
+      {
+        "name": "皇南面包",
+        "menu": "皇南红豆面包"
+      }
+    ],
+    "zh-Hant": [
+      {
+        "name": "慶州國立博物館",
+        "menu": "新羅金冠"
+      },
+      {
+        "name": "安東河回村",
+        "menu": "聯合國教科文組織認定的民俗村落"
+      },
+      {
+        "name": "骨窟寺",
+        "menu": "善武道與寺院住宿"
+      },
+      {
+        "name": "進良豬肉鍋（慶山）",
+        "menu": "豬肉燉鍋"
+      },
+      {
+        "name": "道山食肉食堂（龜尾）",
+        "menu": "蒜味豬肉燉鍋"
+      },
+      {
+        "name": "禹賢海鮮燉煮（浦項）",
+        "menu": "燉鮟鱇魚"
+      },
+      {
+        "name": "佛國寺",
+        "menu": "釋迦塔與多寶塔"
+      },
+      {
+        "name": "瞻星臺",
+        "menu": "新羅夜景"
+      },
+      {
+        "name": "東宮與月池",
+        "menu": "夜景景點"
+      },
+      {
+        "name": "皇南麵包",
+        "menu": "皇南紅豆麵包"
+      }
+    ],
+    "es": [
+      {
+        "name": "Museo Nacional de Gyeongju",
+        "menu": "Coronas de oro de Silla"
+      },
+      {
+        "name": "Aldea de Hahoe, Andong",
+        "menu": "Aldea folclórica incluida por la UNESCO"
+      },
+      {
+        "name": "Templo de Golgulsa",
+        "menu": "Sunmudo y estancia en templo"
+      },
+      {
+        "name": "Jinryang Dwaeji Jjigae (Gyeongsan)",
+        "menu": "Estofado de cerdo"
+      },
+      {
+        "name": "Dosan Sigyuk Sikdang (Gumi)",
+        "menu": "Estofado de cerdo con mucho ajo"
+      },
+      {
+        "name": "Uhyeon Haemuljjim (Pohang)",
+        "menu": "Rape estofado"
+      },
+      {
+        "name": "Templo de Bulguksa",
+        "menu": "Pagodas Seokgatap y Dabotap"
+      },
+      {
+        "name": "Observatorio Cheomseongdae",
+        "menu": "Vistas nocturnas de la época de Silla"
+      },
+      {
+        "name": "Palacio Donggung y estanque Wolji",
+        "menu": "Punto para ver la noche"
+      },
+      {
+        "name": "Pan Hwangnam",
+        "menu": "Pan de judías rojas Hwangnam"
+      }
+    ],
+    "fr": [
+      {
+        "name": "Musée national de Gyeongju",
+        "menu": "Couronnes d'or Silla"
+      },
+      {
+        "name": "Village de Hahoe, Andong",
+        "menu": "Village folklorique inscrit à l'UNESCO"
+      },
+      {
+        "name": "Temple de Golgulsa",
+        "menu": "Sunmudo et séjour monastique"
+      },
+      {
+        "name": "Jinryang Dwaeji Jjigae (Gyeongsan)",
+        "menu": "Ragoût de porc"
+      },
+      {
+        "name": "Dosan Sigyuk Sikdang (Gumi)",
+        "menu": "Ragoût de porc à l'ail"
+      },
+      {
+        "name": "Uhyeon Haemuljjim (Pohang)",
+        "menu": "Lotte braisée"
+      },
+      {
+        "name": "Temple de Bulguksa",
+        "menu": "Pagodes Seokgatap et Dabotap"
+      },
+      {
+        "name": "Observatoire Cheomseongdae",
+        "menu": "Vues nocturnes de l'époque Silla"
+      },
+      {
+        "name": "Donggung et étang de Wolji",
+        "menu": "Lieu de vue nocturne"
+      },
+      {
+        "name": "Pain Hwangnam",
+        "menu": "Pain rouge à la pâte de haricots azuki, spécialité de Gyeongju"
+      }
+    ],
+    "de": [
+      {
+        "name": "Nationalmuseum Gyeongju",
+        "menu": "Goldkronen der Silla"
+      },
+      {
+        "name": "Hahoe-Dorf Andong",
+        "menu": "Volksdorf der UNESCO"
+      },
+      {
+        "name": "Golgulsa-Tempel",
+        "menu": "Sunmudo und Tempelübernachtung"
+      },
+      {
+        "name": "Jinryang Dwaeji Jjigae (Gyeongsan)",
+        "menu": "Schweinefleisch-Eintopf"
+      },
+      {
+        "name": "Dosan Sigyuk Sikdang (Gumi)",
+        "menu": "Schweinefleisch-Eintopf mit viel Knoblauch"
+      },
+      {
+        "name": "Uhyeon Haemuljjim (Pohang)",
+        "menu": "Geschmorter Seeteufel"
+      },
+      {
+        "name": "Bulguksa-Tempel",
+        "menu": "Pagoden Seokgatap und Dabotap"
+      },
+      {
+        "name": "Cheomseongdae Sternwarte",
+        "menu": "Silla bei Nacht"
+      },
+      {
+        "name": "Donggung-Palast und Wolji-Teich",
+        "menu": "Nachtansicht"
+      },
+      {
+        "name": "Hwangnam-Brot",
+        "menu": "Rotes Bohnenbrot aus Gyeongju"
+      }
+    ],
+    "vi": [
+      {
+        "name": "Bảo tàng Quốc gia Gyeongju",
+        "menu": "Vương miện vàng Silla"
+      },
+      {
+        "name": "Làng Hahoe, Andong",
+        "menu": "Làng dân gian UNESCO"
+      },
+      {
+        "name": "Chùa Golgulsa",
+        "menu": "Sunmudo và lưu trú chùa"
+      },
+      {
+        "name": "Jinryang Dwaeji Jjigae (Gyeongsan)",
+        "menu": "Canh thịt heo"
+      },
+      {
+        "name": "Dosan Sigyuk Sikdang (Gumi)",
+        "menu": "Canh thịt heo nhiều tỏi"
+      },
+      {
+        "name": "Uhyeon Haemuljjim (Pohang)",
+        "menu": "Cá mũi hếch hầm"
+      },
+      {
+        "name": "Chùa Bulguksa",
+        "menu": "Tháp Seokgatap và Dabotap"
+      },
+      {
+        "name": "Đài quan sát Cheomseongdae",
+        "menu": "Cảnh đêm Silla"
+      },
+      {
+        "name": "Cung Donggung và Hồ Wolji",
+        "menu": "Điểm ngắm cảnh đêm"
+      },
+      {
+        "name": "Bánh Hwangnam",
+        "menu": "Bánh đậu đỏ Hwangnam"
+      }
+    ],
+    "th": [
+      {
+        "name": "พิพิธภัณฑ์แห่งชาติกyeongju",
+        "menu": "มงกุฎทองซิลลา"
+      },
+      {
+        "name": "หมู่บ้านพื้นบ้านฮาฮเว อันดง",
+        "menu": "หมู่บ้านพื้นบ้านที่ได้รับการขึ้นทะเบียนโดยยูเนสโก"
+      },
+      {
+        "name": "วัดกลกุลซา",
+        "menu": "ซอนมูโดและการพักในวัด"
+      },
+      {
+        "name": "จินรยังแดจีจิเก (กยองซาน)",
+        "menu": "แกงหมู"
+      },
+      {
+        "name": "โดซานชิกยุกซิกดัง (กูมี)",
+        "menu": "แกงหมูกระเทียม"
+      },
+      {
+        "name": "อูฮยอนแฮมุลจิม (โพฮัง)",
+        "menu": "ปลาแองเกลอร์ตุ๋น"
+      },
+      {
+        "name": "วัดบุลกุกซา",
+        "menu": "เจดีย์ซอกกาทาปและดาโบทาป"
+      },
+      {
+        "name": "หอดูดาวชอมซองแด",
+        "menu": "วิวกลางคืนของซิลลา"
+      },
+      {
+        "name": "วังดงกุงและบ่อวอลจี",
+        "menu": "จุดชมวิวยามค่ำคืน"
+      },
+      {
+        "name": "ขนมปังฮวางนัม (ร้านเบเกอรี่กyeongju)",
+        "menu": "ขนมปังไส้ถั่วแดงฮวางนัม"
+      }
+    ],
+    "id": [
+      {
+        "name": "Museum Nasional Gyeongju",
+        "menu": "Mahkota emas Silla"
+      },
+      {
+        "name": "Desa Hahoe Andong",
+        "menu": "Desa rakyat UNESCO"
+      },
+      {
+        "name": "Kuil Golgulsa",
+        "menu": "Sunmudo dan templestay"
+      },
+      {
+        "name": "Jinryang Dwaeji Jjigae (Gyeongsan)",
+        "menu": "Sup daging babi"
+      },
+      {
+        "name": "Dosan Sigyuk Sikdang (Gumi)",
+        "menu": "Sup daging babi dengan banyak bawang putih"
+      },
+      {
+        "name": "Uhyeon Haemuljjim (Pohang)",
+        "menu": "Ikan monkfish rebus"
+      },
+      {
+        "name": "Kuil Bulguksa",
+        "menu": "Pagoda Seokgatap dan Dabotap"
+      },
+      {
+        "name": "Observatorium Cheomseongdae",
+        "menu": "Pemandangan malam khas Silla"
+      },
+      {
+        "name": "Istana Donggung dan Danau Wolji",
+        "menu": "Lokasi pemandangan malam"
+      },
+      {
+        "name": "Roti Hwangnam",
+        "menu": "Roti kacang merah khas Gyeongju"
+      }
+    ],
+    "ru": [
+      {
+        "name": "Национальный музей Кёнджу",
+        "menu": "Золотые короны Силла"
+      },
+      {
+        "name": "Деревня Хахве в Андоне",
+        "menu": "Народная деревня, включённая в список ЮНЕСКО"
+      },
+      {
+        "name": "Храм Голгуксы",
+        "menu": "Сунмудо и темплстей"
+      },
+      {
+        "name": "Чинрян дводжи чиге (Кёнсан)",
+        "menu": "Свиная похлёбка"
+      },
+      {
+        "name": "Тосан сикюк сиктан (Кумми)",
+        "menu": "Свиная похлёбка с чесноком"
+      },
+      {
+        "name": "Уххён хэмуль-чжим (Почхон)",
+        "menu": "Тушёный морской чёрт"
+      },
+      {
+        "name": "Пульгукса",
+        "menu": "Пагоды Соккатап и Тапотап"
+      },
+      {
+        "name": "Обсерватория Чхомсончхэ",
+        "menu": "Ночные виды эпохи Силла"
+      },
+      {
+        "name": "Дворец Тонгун и пруд Вольджи",
+        "menu": "Место для ночных видов"
+      },
+      {
+        "name": "Хвангнам-пан (пекарня Гёнджу)",
+        "menu": "Красная булочка с бобовой начинкой"
+      }
+    ]
+  }
 }
