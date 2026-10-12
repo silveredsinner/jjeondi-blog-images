@@ -18,7 +18,17 @@ for (let i = 0; i < ids.length; i += 50) {
   const url = new URL("https://www.googleapis.com/youtube/v3/videos");
   url.search = new URLSearchParams({ part: "status,statistics", id: ids.slice(i, i + 50).join(","), key: KEY });
   const res = await fetch(url);
-  if (!res.ok) throw new Error(`YouTube videos ${res.status}: ${(await res.text()).slice(0, 200)}`);
+  if (!res.ok) {
+    const body = await res.text();
+    // 하루 할당량을 다 썼으면 이번 점검은 건너뛰고 지난 결과를 그대로 둔다 (작업 전체를 실패시키지 않음)
+    if (res.status === 403 && /quota/i.test(body)) {
+      const msg = "유튜브 API 하루 할당량을 다 써서 영상 점검을 다음 실행으로 미뤘어요 (지난 점검 결과 유지).";
+      console.log(msg);
+      if (process.env.REVIEW_FILE) fs.appendFileSync(process.env.REVIEW_FILE, `\n## 🎬 영상 상태 점검\n${msg}\n`);
+      process.exit(0);
+    }
+    throw new Error(`YouTube videos ${res.status}: ${body.slice(0, 200)}`);
+  }
   const items = Object.fromEntries(((await res.json()).items || []).map((it) => [it.id, it]));
   for (const id of ids.slice(i, i + 50)) {
     const st = items[id]?.status;
