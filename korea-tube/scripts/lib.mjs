@@ -39,7 +39,7 @@ export const normName = (s) => String(s || "").replace(/\(.*?\)/g, "").replace(/
 
 let client;
 function anthropic() {
-  client ||= new Anthropic(); // ANTHROPIC_API_KEY 환경변수 사용
+  client ||= new Anthropic({ maxRetries: 8 }); // ANTHROPIC_API_KEY 환경변수 사용. 요청 한도(429)·과부하(529)는 기다렸다가 다시 시도
   return client;
 }
 
