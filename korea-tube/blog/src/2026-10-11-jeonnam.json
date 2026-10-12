@@ -4,15 +4,45 @@
   "region": "jeonnam",
   "title": {
     "ko": "전남 영상 속 맛집·명소: 목포 돌집식당과 곡성 석곡 전통 시장",
-    "en": "Jeonnam on Screen: Doljip Sikdang in Mokpo and Seokgok Traditional Market in Gokseong"
+    "en": "Jeonnam on Screen: Doljip Sikdang in Mokpo and Seokgok Traditional Market in Gokseong",
+    "ja": "映像で巡る全羅南道：木浦「トルチプ食堂」と谷城「石谷伝統市場」",
+    "zh-Hans": "荧屏上的全南：木浦石屋食堂与谷城石谷传统市场",
+    "zh-Hant": "螢幕上的全南：木浦石屋食堂與谷城石谷傳統市場",
+    "es": "Jeonnam en pantalla: Doljip Sikdang en Mokpo y el Mercado Tradicional de Seokgok en Gokseong",
+    "fr": "Le Jeonnam à l'écran : Doljip Sikdang à Mokpo et le marché traditionnel de Seokgok à Gokseong",
+    "de": "Jeonnam im Fernsehen: Doljip Sikdang in Mokpo und der traditionelle Markt Seokgok in Gokseong",
+    "vi": "Jeonnam qua màn ảnh: Doljip Sikdang ở Mokpo và chợ truyền thống Seokgok ở Gokseong",
+    "th": "จอนนัมในจอทีวี: ร้านทลจิพชิกดัง เมืองมกโพ และตลาดดั้งเดิมซอกก๊ก เมืองก๊กซอง",
+    "id": "Jeonnam di Layar Kaca: Doljip Sikdang di Mokpo dan Pasar Tradisional Seokgok di Gokseong",
+    "ru": "Чолла-Намдо на экране: ресторан Тольчип Сиктан в Мокпхо и традиционный рынок Сокгок в Коксоне"
   },
   "summary": {
     "ko": "허영만의 백반기행에 나온 목포 돌집식당의 반찬 17가지 백반, 백종원의 님아 그 시장을 가오 첫 회 배경이 된 곡성 석곡 전통 시장을 소개합니다.",
-    "en": "A look at Doljip Sikdang in Mokpo, known for its 17-side-dish baekban from Heo Young-man's food show, and Seokgok Traditional Market in Gokseong, featured in the first episode of Baek Jong-won's market series."
+    "en": "A look at Doljip Sikdang in Mokpo, known for its 17-side-dish baekban from Heo Young-man's food show, and Seokgok Traditional Market in Gokseong, featured in the first episode of Baek Jong-won's market series.",
+    "ja": "ホ・ヨンマンのグルメ番組に登場した、おかず17品のペッパンで知られる木浦のトルチプ食堂と、ペク・ジョンウォンの市場シリーズ第1話の舞台となった谷城の石谷伝統市場を紹介します。",
+    "zh-Hans": "介绍因许英万美食节目而闻名、提供17道小菜白饭套餐的木浦石屋食堂（돌집식당），以及白钟元市场系列节目第一集取景地——谷城石谷传统市场。",
+    "zh-Hant": "介紹因許英萬美食節目而聞名、有17道小菜白飯套餐的木浦石屋食堂（돌집식당），以及白種元市場系列節目第一集的舞台——谷城石谷傳統市場。",
+    "es": "Un vistazo a Doljip Sikdang, en Mokpo, conocido por su baekban de 17 guarniciones que apareció en el programa gastronómico de Heo Young-man, y al Mercado Tradicional de Seokgok, en Gokseong, escenario del primer episodio de la serie sobre mercados de Baek Jong-won.",
+    "fr": "Zoom sur Doljip Sikdang à Mokpo, connu pour son baekban à 17 accompagnements vu dans l'émission culinaire de Heo Young-man, et sur le marché traditionnel de Seokgok à Gokseong, présenté dans le premier épisode de la série de Baek Jong-won consacrée aux marchés.",
+    "de": "Ein Blick auf das Doljip Sikdang in Mokpo, bekannt für sein Baekban mit 17 Beilagen aus der Food-Sendung von Heo Young-man, und den traditionellen Markt Seokgok in Gokseong, Schauplatz der ersten Folge von Baek Jong-wons Marktreihe.",
+    "vi": "Giới thiệu Doljip Sikdang ở Mokpo, nổi tiếng với mâm cơm baekban 17 món ăn kèm từng xuất hiện trong chương trình ẩm thực của Heo Young-man, và chợ truyền thống Seokgok ở Gokseong, bối cảnh tập đầu tiên trong series về chợ của Baek Jong-won.",
+    "th": "แนะนำร้านทลจิพชิกดังในมกโพ ที่ขึ้นชื่อเรื่องแพ็กบันพร้อมเครื่องเคียง 17 อย่างจากรายการอาหารของฮอยองมัน และตลาดดั้งเดิมซอกก๊กในก๊กซอง ซึ่งเป็นฉากของตอนแรกในรายการตลาดของแบคจงวอน",
+    "id": "Mengenal Doljip Sikdang di Mokpo, yang terkenal dengan baekban 17 lauk dari acara kuliner Heo Young-man, dan Pasar Tradisional Seokgok di Gokseong, yang tampil di episode pertama serial pasar Baek Jong-won.",
+    "ru": "Рассказываем о ресторане Тольчип Сиктан в Мокпхо, известном по кулинарной передаче Хо Ён Мана своим пэкпаном с 17 закусками, и о традиционном рынке Сокгок в Коксоне, где снимали первый выпуск рыночной программы Пэк Чон Вона."
   },
   "body": {
     "ko": "<h2>남도 한상의 고장, 전남</h2><p>전남은 여수 밤바다, 순천만, 담양 대나무숲으로 알려진 지역이자 남도 한상의 고장입니다. 여수 돌게장, 목포 중깐과 홍어, 담양 떡갈비, 남도 한정식처럼 지역마다 대표 음식이 뚜렷합니다. 이번 글에서는 TV 프로그램에 소개된 목포의 백반집과 곡성의 전통 시장을 함께 살펴봅니다.</p><h2>영상에 나온 곳</h2><h3>돌집식당 (목포)</h3><p>목포에 있는 한식 백반집입니다. <strong>반찬 17가지가 차려지는 백반</strong>이 주요 메뉴로, 한 상 가득 반찬이 깔리는 남도식 밥상을 경험할 수 있는 곳입니다.</p><p>허영만의 백반기행 8회 「목포 – 반찬 17가지 백반 한 상」 편에 소개되었습니다.</p><h3>석곡 전통 시장 (곡성)</h3><p>곡성에 있는 전통 시장으로, 옛 모습을 비교적 잘 간직하고 있는 곳입니다. 시장 특유의 분위기를 천천히 둘러보며 지역의 일상을 엿보기 좋습니다.</p><p>백종원의 님아 그 시장을 가오 첫 회 「[EP.01 곡성] 백종원을 모르는 사장님의 찐한 콩국수집」 편의 무대가 된 시장입니다.</p><h2>동선 팁</h2><p>목포는 전남 서남쪽 해안에, 곡성은 동북쪽 내륙에 자리해 있어 두 곳은 거리가 꽤 떨어져 있습니다. 하루에 모두 들르기보다는 목포 일정에 돌집식당을 넣고, 곡성은 순천만이나 담양 등 전남 동부·북부 여행과 묶어 별도로 계획하는 편이 여유롭습니다. 전통 시장은 장이 서는 날과 시간대에 따라 분위기가 달라질 수 있으니 방문 전에 미리 확인해 보시길 권합니다.</p>",
-    "en": "<h2>Jeonnam, Home of the Southern Korean Table</h2><p>Jeonnam (South Jeolla Province) is known for Yeosu's night sea, Suncheon Bay, and the bamboo forests of Damyang, and it has a long reputation for generous home-style feasts known as namdo hansang. Each area has its own specialties: soy-marinated stone crab in Yeosu, junggan noodles and fermented skate in Mokpo, grilled short-rib patties in Damyang, and full-course Korean set meals across the region. This post covers a set-meal restaurant in Mokpo and a traditional market in Gokseong, both featured on Korean TV.</p><h2>Places from the Videos</h2><h3>Doljip Sikdang (Mokpo)</h3><p>A Korean set-meal restaurant in Mokpo. The main draw is the <strong>baekban set meal with 17 side dishes</strong>. If you want to see what a table full of southern-style banchan looks like, this is a good place to try it.</p><p>It appeared in episode 8 of Heo Young-man's food travel show Baekban Gihaeng, titled \"Mokpo – A Baekban Table with 17 Side Dishes.\"</p><h3>Seokgok Traditional Market (Gokseong)</h3><p>A traditional market in Gokseong that still keeps much of its old-time character. It's a place to wander slowly and get a feel for everyday life in a small Jeonnam town.</p><p>The market was the setting for the first episode of Baek Jong-won's market series, \"[EP.01 Gokseong] A Rich Kongguksu Shop Whose Owner Doesn't Know Baek Jong-won\" (kongguksu is a chilled noodle dish in soybean broth).</p><h2>Getting Around</h2><p>Mokpo sits on Jeonnam's southwest coast, while Gokseong is inland in the northeast, so the two are quite far apart. Rather than trying to fit both into one day, consider adding Doljip Sikdang to a Mokpo itinerary and pairing Gokseong with a separate trip through the eastern or northern part of the province, such as Suncheon Bay or Damyang. Traditional markets can feel very different depending on the day and time, so it's worth checking market days before you go.</p>"
+    "en": "<h2>Jeonnam, Home of the Southern Korean Table</h2><p>Jeonnam (South Jeolla Province) is known for Yeosu's night sea, Suncheon Bay, and the bamboo forests of Damyang, and it has a long reputation for generous home-style feasts known as namdo hansang. Each area has its own specialties: soy-marinated stone crab in Yeosu, junggan noodles and fermented skate in Mokpo, grilled short-rib patties in Damyang, and full-course Korean set meals across the region. This post covers a set-meal restaurant in Mokpo and a traditional market in Gokseong, both featured on Korean TV.</p><h2>Places from the Videos</h2><h3>Doljip Sikdang (Mokpo)</h3><p>A Korean set-meal restaurant in Mokpo. The main draw is the <strong>baekban set meal with 17 side dishes</strong>. If you want to see what a table full of southern-style banchan looks like, this is a good place to try it.</p><p>It appeared in episode 8 of Heo Young-man's food travel show Baekban Gihaeng, titled \"Mokpo – A Baekban Table with 17 Side Dishes.\"</p><h3>Seokgok Traditional Market (Gokseong)</h3><p>A traditional market in Gokseong that still keeps much of its old-time character. It's a place to wander slowly and get a feel for everyday life in a small Jeonnam town.</p><p>The market was the setting for the first episode of Baek Jong-won's market series, \"[EP.01 Gokseong] A Rich Kongguksu Shop Whose Owner Doesn't Know Baek Jong-won\" (kongguksu is a chilled noodle dish in soybean broth).</p><h2>Getting Around</h2><p>Mokpo sits on Jeonnam's southwest coast, while Gokseong is inland in the northeast, so the two are quite far apart. Rather than trying to fit both into one day, consider adding Doljip Sikdang to a Mokpo itinerary and pairing Gokseong with a separate trip through the eastern or northern part of the province, such as Suncheon Bay or Damyang. Traditional markets can feel very different depending on the day and time, so it's worth checking market days before you go.</p>",
+    "ja": "<h2>南道の食卓のふるさと、全羅南道</h2><p>全羅南道（チョルラナムド）は、麗水の夜の海、順天湾、潭陽の竹林などで知られ、「南道韓定食（ナムド・ハンサン）」と呼ばれる品数豊富な家庭料理のもてなしでも古くから有名です。地域ごとに名物があり、麗水ではイシガニのカンジャンケジャン、木浦ではチュンガン麺やホンオ（ガンギエイの発酵料理）、潭陽ではトッカルビ、そして地域全体で韓定食が楽しめます。この記事では、韓国のテレビで紹介された木浦の定食店と谷城の伝統市場を取り上げます。</p><h2>映像に登場した場所</h2><h3>トルチプ食堂（木浦）</h3><p>木浦にある韓国式定食の店です。一番の目玉は<strong>おかず17品が並ぶペッパン（白飯定食）</strong>。南道式のパンチャンがずらりと並ぶ食卓を体験してみたい人にはおすすめです。</p><p>ホ・ヨンマンのグルメ紀行番組『白飯紀行』第8話「木浦 – おかず17品のペッパンの食卓」で紹介されました。</p><h3>石谷伝統市場（谷城）</h3><p>昔ながらの雰囲気を今もよく残している谷城の伝統市場です。ゆっくり歩きながら、全羅南道の小さな町の日常を感じられる場所です。</p><p>ペク・ジョンウォンの市場シリーズ第1話「[EP.01 谷城] ペク・ジョンウォンを知らない店主の濃厚コングクスの店」の舞台となりました（コングクスは豆乳スープで食べる冷たい麺料理です）。</p><h2>アクセスと回り方</h2><p>木浦は全羅南道の南西部の海沿い、谷城は北東部の内陸にあり、両者はかなり離れています。1日で両方を回ろうとするより、トルチプ食堂は木浦観光の旅程に組み込み、谷城は順天湾や潭陽など道の東部・北部を巡る別の旅と組み合わせるのがおすすめです。伝統市場は曜日や時間帯によって雰囲気が大きく変わるので、事前に市の立つ日を確認しておくとよいでしょう。</p>",
+    "zh-Hans": "<h2>全南：韩国南道餐桌的故乡</h2><p>全罗南道（全南）以丽水夜海、顺天湾和潭阳竹林闻名，自古以来就以丰盛的家常大餐“南道韩定食”著称。各地都有自己的特色美食：丽水的酱蟹（石蟹）、木浦的中间面和发酵斑鳐鱼、潭阳的烤牛排饼，以及遍布全区的韩式套餐。本文介绍两处曾在韩国电视节目中出现的地方：木浦的一家韩式套餐餐厅，以及谷城的一座传统市场。</p><h2>节目中出现的地方</h2><h3>石屋食堂（木浦）</h3><p>位于木浦的韩式套餐餐厅，招牌是<strong>配有17道小菜的白饭套餐</strong>。如果想亲眼看看摆满南道风味小菜的餐桌是什么样子，这里很值得一试。</p><p>这家店曾出现在许英万的美食旅行节目《白饭纪行》第8集，标题为“木浦——17道小菜的白饭餐桌”。</p><h3>石谷传统市场（谷城）</h3><p>谷城的一座传统市场，至今仍保留着不少旧时风貌。适合慢慢闲逛，感受全南小镇的日常生活。</p><p>这里是白钟元市场系列节目第一集的取景地，该集标题为“[EP.01 谷城] 不认识白钟元的浓郁豆浆面店”（豆浆面是一种以冰凉豆浆为汤底的面食）。</p><h2>交通与行程建议</h2><p>木浦位于全南西南沿海，而谷城位于东北部内陆，两地相距较远。与其在一天内同时安排两处，不如将石屋食堂纳入木浦行程，再把谷城与顺天湾、潭阳等全南东部或北部的行程搭配在一起。传统市场的氛围会因日期和时段而有很大不同，出发前最好先确认集市日。</p>",
+    "zh-Hant": "<h2>全南，韓國南道餐桌的故鄉</h2><p>全南（全羅南道）以麗水夜海、順天灣和潭陽竹林聞名，自古以來也以豐盛的家常宴席「南道韓定食」著稱。各地都有自己的特色美食：麗水的醬油醃石蟹、木浦的中間麵與發酵魟魚、潭陽的烤排骨肉餅，以及遍布全區的韓定食。本篇介紹兩個曾在韓國電視節目中出現的地方：木浦的一間韓定食餐廳，以及谷城的一座傳統市場。</p><h2>影片中出現的地方</h2><h3>石屋食堂（木浦）</h3><p>位於木浦的韓式套餐餐廳，主打<strong>附17道小菜的白飯套餐</strong>。如果想親眼看看滿桌南道風味小菜是什麼模樣，這裡是不錯的選擇。</p><p>曾登上許英萬的美食旅遊節目《白飯紀行》第8集「木浦－17道小菜的白飯餐桌」。</p><h3>石谷傳統市場（谷城）</h3><p>谷城的一座傳統市場，至今仍保留不少舊時風貌。適合慢慢閒逛，感受全南小鎮的日常生活。</p><p>這座市場是白種元市場系列節目第一集的拍攝地，該集標題為「[EP.01 谷城] 老闆不認識白種元的濃郁豆漿麵店」（豆漿麵是以黃豆湯為湯底的冷麵料理）。</p><h2>交通與行程安排</h2><p>木浦位於全南西南沿海，谷城則在東北部內陸，兩地相距頗遠。與其硬塞進同一天，不如把石屋食堂排進木浦行程，谷城則搭配順天灣或潭陽等全南東部、北部的另一趟旅程。傳統市場的氛圍會因日期和時段而大不相同，出發前最好先確認市集日。</p>",
+    "es": "<h2>Jeonnam, cuna de la mesa del sur de Corea</h2><p>Jeonnam (provincia de Jeolla del Sur) es conocida por el mar nocturno de Yeosu, la bahía de Suncheon y los bosques de bambú de Damyang, y tiene una larga fama de banquetes caseros abundantes, conocidos como namdo hansang. Cada zona tiene sus especialidades: cangrejo marinado en salsa de soja en Yeosu, fideos junggan y raya fermentada en Mokpo, hamburguesas de costilla a la parrilla en Damyang y menús coreanos completos por toda la región. En este artículo hablamos de un restaurante de menús en Mokpo y de un mercado tradicional en Gokseong, ambos aparecidos en la televisión coreana.</p><h2>Lugares de los vídeos</h2><h3>Doljip Sikdang (Mokpo)</h3><p>Un restaurante de menús coreanos en Mokpo. Su principal atractivo es el <strong>menú baekban con 17 guarniciones</strong>. Si quieres ver cómo es una mesa repleta de banchan al estilo del sur, es un buen sitio para probarlo.</p><p>Apareció en el episodio 8 del programa de viajes gastronómicos de Heo Young-man, Baekban Gihaeng, titulado «Mokpo – Una mesa de baekban con 17 guarniciones».</p><h3>Mercado Tradicional de Seokgok (Gokseong)</h3><p>Un mercado tradicional en Gokseong que todavía conserva buena parte de su carácter de antaño. Es un lugar para recorrer sin prisa y hacerse una idea de la vida cotidiana en un pueblo pequeño de Jeonnam.</p><p>El mercado fue el escenario del primer episodio de la serie sobre mercados de Baek Jong-won, «[EP.01 Gokseong] Un local de kongguksu contundente cuya dueña no conoce a Baek Jong-won» (el kongguksu es un plato de fideos fríos en caldo de soja).</p><h2>Cómo moverse</h2><p>Mokpo está en la costa suroeste de Jeonnam, mientras que Gokseong se encuentra en el interior, al noreste, así que ambos lugares quedan bastante lejos entre sí. En lugar de intentar visitar los dos en un mismo día, conviene incluir Doljip Sikdang en un itinerario por Mokpo y combinar Gokseong con otro viaje por el este o el norte de la provincia, por ejemplo a la bahía de Suncheon o a Damyang. Los mercados tradicionales pueden cambiar mucho según el día y la hora, así que vale la pena consultar los días de mercado antes de ir.</p>",
+    "fr": "<h2>Le Jeonnam, berceau de la table du sud de la Corée</h2><p>Le Jeonnam (province du Jeolla du Sud) est connu pour la mer nocturne de Yeosu, la baie de Suncheon et les forêts de bambous de Damyang. Il jouit aussi d'une longue réputation pour ses repas familiaux généreux, appelés namdo hansang. Chaque secteur a ses spécialités : crabe mariné à la sauce soja à Yeosu, nouilles junggan et raie fermentée à Mokpo, galettes de travers de bœuf grillées à Damyang, et repas coréens complets dans toute la région. Cet article présente un restaurant de repas coréens à Mokpo et un marché traditionnel à Gokseong, tous deux passés à la télévision coréenne.</p><h2>Les lieux vus dans les vidéos</h2><h3>Doljip Sikdang (Mokpo)</h3><p>Un restaurant de repas coréens à Mokpo. Son principal attrait : le <strong>baekban avec 17 accompagnements</strong>. Si vous voulez voir à quoi ressemble une table couverte de banchan à la mode du sud, c'est une bonne adresse pour essayer.</p><p>Il est apparu dans l'épisode 8 de Baekban Gihaeng, l'émission de voyage gastronomique de Heo Young-man, intitulé « Mokpo – Une table de baekban à 17 accompagnements ».</p><h3>Marché traditionnel de Seokgok (Gokseong)</h3><p>Un marché traditionnel de Gokseong qui a conservé une bonne part de son caractère d'antan. On s'y promène tranquillement pour sentir le quotidien d'une petite ville du Jeonnam.</p><p>Le marché a servi de cadre au premier épisode de la série de Baek Jong-won consacrée aux marchés, « [EP.01 Gokseong] Un restaurant de kongguksu onctueux dont la patronne ne connaît pas Baek Jong-won » (le kongguksu est un plat de nouilles froides dans un bouillon de soja).</p><h2>Se déplacer</h2><p>Mokpo se trouve sur la côte sud-ouest du Jeonnam, tandis que Gokseong est situé à l'intérieur des terres, au nord-est : les deux sont donc assez éloignés. Plutôt que de vouloir tout faire en une journée, intégrez Doljip Sikdang à un itinéraire à Mokpo et associez Gokseong à un autre voyage dans l'est ou le nord de la province, par exemple vers la baie de Suncheon ou Damyang. L'ambiance des marchés traditionnels peut beaucoup varier selon le jour et l'heure ; mieux vaut vérifier les jours de marché avant de partir.</p>",
+    "de": "<h2>Jeonnam – die Heimat der südkoreanischen Tafel</h2><p>Jeonnam (Provinz Süd-Jeolla) ist bekannt für das nächtliche Meer von Yeosu, die Suncheon-Bucht und die Bambuswälder von Damyang. Seit Langem genießt die Region zudem einen Ruf für üppige Hausmannskost-Festmahle, die als Namdo Hansang bezeichnet werden. Jede Gegend hat ihre eigenen Spezialitäten: in Sojasauce marinierte Steinkrabben in Yeosu, Junggan-Nudeln und fermentierter Rochen in Mokpo, gegrillte Rippchen-Patties in Damyang und vollständige koreanische Menüs in der ganzen Region. In diesem Beitrag geht es um ein Restaurant mit koreanischen Menüs in Mokpo und einen traditionellen Markt in Gokseong – beide waren im koreanischen Fernsehen zu sehen.</p><h2>Orte aus den Videos</h2><h3>Doljip Sikdang (Mokpo)</h3><p>Ein Restaurant für koreanische Menüs in Mokpo. Hauptattraktion ist das <strong>Baekban-Menü mit 17 Beilagen</strong>. Wer sehen möchte, wie ein Tisch voller Banchan nach südkoreanischer Art aussieht, ist hier gut aufgehoben.</p><p>Das Lokal war in Folge 8 von Heo Young-mans kulinarischer Reisesendung Baekban Gihaeng zu sehen, Titel: „Mokpo – Eine Baekban-Tafel mit 17 Beilagen“.</p><h3>Traditioneller Markt Seokgok (Gokseong)</h3><p>Ein traditioneller Markt in Gokseong, der vieles von seinem altmodischen Charakter bewahrt hat. Hier kann man gemächlich umherschlendern und einen Eindruck vom Alltag in einer kleinen Stadt in Jeonnam bekommen.</p><p>Der Markt war Schauplatz der ersten Folge von Baek Jong-wons Marktreihe: „[EP.01 Gokseong] Ein reicher Kongguksu-Laden, dessen Besitzerin Baek Jong-won nicht kennt“ (Kongguksu ist ein kaltes Nudelgericht in Sojabohnenbrühe).</p><h2>Unterwegs in der Region</h2><p>Mokpo liegt an der Südwestküste von Jeonnam, Gokseong dagegen im Landesinneren im Nordosten – die beiden Orte sind also recht weit voneinander entfernt. Statt beide an einem Tag unterbringen zu wollen, bietet es sich an, das Doljip Sikdang in eine Mokpo-Reise einzuplanen und Gokseong mit einem separaten Ausflug in den Osten oder Norden der Provinz zu verbinden, etwa zur Suncheon-Bucht oder nach Damyang. Traditionelle Märkte wirken je nach Tag und Uhrzeit sehr unterschiedlich, daher lohnt es sich, vorab die Markttage zu prüfen.</p>",
+    "vi": "<h2>Jeonnam – quê hương của mâm cơm miền Nam Hàn Quốc</h2><p>Jeonnam (tỉnh Jeolla Nam) nổi tiếng với biển đêm Yeosu, vịnh Suncheon và rừng tre Damyang, đồng thời từ lâu đã được biết đến với những mâm cơm gia đình thịnh soạn gọi là namdo hansang. Mỗi vùng có đặc sản riêng: cua đá ngâm tương ở Yeosu, mì junggan và cá đuối lên men ở Mokpo, chả sườn nướng ở Damyang, cùng các mâm cơm Hàn Quốc đầy đủ món trên khắp tỉnh. Bài viết này giới thiệu một quán cơm suất ở Mokpo và một khu chợ truyền thống ở Gokseong, cả hai đều từng lên truyền hình Hàn Quốc.</p><h2>Các địa điểm trong video</h2><h3>Doljip Sikdang (Mokpo)</h3><p>Quán cơm suất kiểu Hàn ở Mokpo. Điểm hút khách chính là <strong>mâm cơm baekban với 17 món ăn kèm</strong>. Nếu bạn muốn tận mắt thấy một mâm banchan đầy ắp kiểu miền Nam trông như thế nào, đây là nơi đáng để thử.</p><p>Quán từng xuất hiện trong tập 8 của chương trình du lịch ẩm thực Baekban Gihaeng của Heo Young-man, với tựa đề \"Mokpo – Mâm cơm baekban 17 món ăn kèm\".</p><h3>Chợ truyền thống Seokgok (Gokseong)</h3><p>Khu chợ truyền thống ở Gokseong vẫn giữ được nhiều nét xưa cũ. Đây là nơi để thong thả dạo bước và cảm nhận nhịp sống thường ngày của một thị trấn nhỏ ở Jeonnam.</p><p>Chợ là bối cảnh của tập đầu tiên trong series về chợ của Baek Jong-won, \"[EP.01 Gokseong] Quán kongguksu đậm đà mà chủ quán không biết Baek Jong-won là ai\" (kongguksu là món mì lạnh ăn với nước đậu nành).</p><h2>Di chuyển</h2><p>Mokpo nằm ở bờ biển tây nam của Jeonnam, còn Gokseong ở sâu trong đất liền phía đông bắc, nên hai nơi cách nhau khá xa. Thay vì cố gói cả hai vào một ngày, bạn nên đưa Doljip Sikdang vào lịch trình Mokpo, và ghép Gokseong vào một chuyến đi riêng qua phía đông hoặc phía bắc tỉnh, chẳng hạn vịnh Suncheon hay Damyang. Không khí chợ truyền thống có thể rất khác tùy ngày và giờ, nên hãy kiểm tra ngày họp chợ trước khi đi.</p>",
+    "th": "<h2>จอนนัม ถิ่นกำเนิดสำรับอาหารแดนใต้ของเกาหลี</h2><p>จอนนัม (จังหวัดช็อลลาใต้) เป็นที่รู้จักจากทะเลยามค่ำคืนของยอซู อ่าวซุนชอน และป่าไผ่ของทัมยาง อีกทั้งยังมีชื่อเสียงมายาวนานเรื่องสำรับอาหารแบบบ้านๆ ที่จัดเต็มอย่างใจกว้าง เรียกว่า \"นัมโดฮันซัง\" แต่ละพื้นที่มีของขึ้นชื่อเป็นของตัวเอง เช่น ปูดองซีอิ๊วที่ยอซู บะหมี่จุงกันและปลากระเบนหมักที่มกโพ ซี่โครงสับย่างแบบแพตตี้ที่ทัมยาง และอาหารเกาหลีแบบชุดเต็มสำรับที่หาได้ทั่วทั้งภูมิภาค โพสต์นี้จะพาไปรู้จักร้านอาหารชุดในมกโพ และตลาดดั้งเดิมในก๊กซอง ซึ่งทั้งสองแห่งเคยออกรายการทีวีเกาหลี</p><h2>สถานที่จากในคลิป</h2><h3>ทลจิพชิกดัง (มกโพ)</h3><p>ร้านอาหารเกาหลีแบบชุดในมกโพ จุดเด่นหลักคือ<strong>แพ็กบัน (ข้าวชุด) พร้อมเครื่องเคียง 17 อย่าง</strong> ถ้าอยากเห็นว่าโต๊ะที่เต็มไปด้วยบันชันสไตล์แดนใต้หน้าตาเป็นอย่างไร ที่นี่ก็เป็นตัวเลือกที่ดี</p><p>ร้านนี้เคยออกอากาศในตอนที่ 8 ของรายการท่องเที่ยวชิมอาหาร \"แพ็กบันกีแฮง\" ของฮอยองมัน ในตอนชื่อ \"มกโพ – สำรับแพ็กบันกับเครื่องเคียง 17 อย่าง\"</p><h3>ตลาดดั้งเดิมซอกก๊ก (ก๊กซอง)</h3><p>ตลาดดั้งเดิมในก๊กซองที่ยังคงบรรยากาศแบบสมัยก่อนไว้ได้มาก เหมาะกับการเดินเล่นช้าๆ และสัมผัสชีวิตประจำวันของเมืองเล็กๆ ในจอนนัม</p><p>ตลาดแห่งนี้เป็นฉากของตอนแรกในรายการตลาดของแบคจงวอน ชื่อตอน \"[EP.01 ก๊กซอง] ร้านคงกุกซูน้ำเข้มข้นที่เจ้าของไม่รู้จักแบคจงวอน\" (คงกุกซูคือบะหมี่เย็นในน้ำซุปถั่วเหลือง)</p><h2>การเดินทาง</h2><p>มกโพอยู่ริมชายฝั่งตะวันตกเฉียงใต้ของจอนนัม ส่วนก๊กซองอยู่ด้านในแผ่นดินทางตะวันออกเฉียงเหนือ ทั้งสองแห่งจึงอยู่ห่างกันพอสมควร แทนที่จะพยายามไปทั้งสองที่ในวันเดียว แนะนำให้ใส่ทลจิพชิกดังไว้ในแผนเที่ยวมกโพ แล้วจับคู่ก๊กซองกับทริปแยกที่เที่ยวฝั่งตะวันออกหรือฝั่งเหนือของจังหวัด เช่น อ่าวซุนชอนหรือทัมยาง ตลาดดั้งเดิมอาจให้บรรยากาศต่างกันมากตามวันและเวลา จึงควรเช็กวันตลาดนัดก่อนไป</p>",
+    "id": "<h2>Jeonnam, Rumah Hidangan Khas Korea Selatan</h2><p>Jeonnam (Provinsi Jeolla Selatan) dikenal dengan laut malam Yeosu, Teluk Suncheon, dan hutan bambu Damyang, serta sejak lama terkenal dengan jamuan rumahan yang melimpah, yang disebut namdo hansang. Setiap daerah punya hidangan khasnya sendiri: kepiting batu rendam kecap di Yeosu, mi junggan dan ikan pari fermentasi di Mokpo, patty iga sapi panggang di Damyang, serta set menu Korea lengkap di seluruh wilayah. Tulisan ini membahas sebuah restoran set menu di Mokpo dan sebuah pasar tradisional di Gokseong, yang keduanya pernah tampil di televisi Korea.</p><h2>Tempat-Tempat dari Video</h2><h3>Doljip Sikdang (Mokpo)</h3><p>Restoran set menu Korea di Mokpo. Daya tarik utamanya adalah <strong>set baekban dengan 17 lauk pendamping</strong>. Kalau Anda ingin melihat seperti apa meja yang penuh banchan ala selatan, tempat ini cocok untuk mencobanya.</p><p>Restoran ini muncul di episode 8 acara wisata kuliner Heo Young-man, Baekban Gihaeng, berjudul \"Mokpo – Meja Baekban dengan 17 Lauk\".</p><h3>Pasar Tradisional Seokgok (Gokseong)</h3><p>Pasar tradisional di Gokseong yang masih banyak mempertahankan suasana tempo dulu. Tempat ini enak dijelajahi pelan-pelan sambil merasakan kehidupan sehari-hari di kota kecil Jeonnam.</p><p>Pasar ini menjadi latar episode pertama serial pasar Baek Jong-won, \"[EP.01 Gokseong] Kedai Kongguksu Kental yang Pemiliknya Tidak Kenal Baek Jong-won\" (kongguksu adalah mi dingin dalam kuah kacang kedelai).</p><h2>Transportasi dan Rute</h2><p>Mokpo terletak di pesisir barat daya Jeonnam, sedangkan Gokseong berada di pedalaman bagian timur laut, sehingga jarak keduanya cukup jauh. Daripada memaksakan keduanya dalam satu hari, sebaiknya masukkan Doljip Sikdang ke rencana perjalanan di Mokpo, lalu gabungkan Gokseong dengan perjalanan terpisah ke wilayah timur atau utara provinsi, seperti Teluk Suncheon atau Damyang. Suasana pasar tradisional bisa sangat berbeda tergantung hari dan jamnya, jadi ada baiknya cek jadwal hari pasar sebelum berangkat.</p>",
+    "ru": "<h2>Чолла-Намдо — родина южнокорейского застолья</h2><p>Провинция Чолла-Намдо известна ночным морем Ёсу, заливом Сунчхон и бамбуковыми рощами Тамяна, а ещё издавна славится щедрыми домашними застольями — намдо хансан. У каждого района свои фирменные блюда: маринованные в соевом соусе каменные крабы в Ёсу, лапша чунган и ферментированный скат в Мокпхо, жареные котлеты из рёбрышек в Тамяне, а по всему региону — полноценные корейские комплексные обеды. В этой статье — ресторан комплексных обедов в Мокпхо и традиционный рынок в Коксоне, которые показывали по корейскому телевидению.</p><h2>Места из видео</h2><h3>Тольчип Сиктан (Мокпхо)</h3><p>Ресторан корейских комплексных обедов в Мокпхо. Главное, ради чего сюда идут, — <strong>пэкпан с 17 закусками</strong>. Если хотите увидеть, как выглядит стол, уставленный южными панчханами, это хорошее место, чтобы попробовать.</p><p>Ресторан появился в 8-м выпуске гастрономической передачи Хо Ён Мана «Пэкпан кихэн» под названием «Мокпхо — стол пэкпана с 17 закусками».</p><h3>Традиционный рынок Сокгок (Коксон)</h3><p>Традиционный рынок в Коксоне, во многом сохранивший атмосферу прежних времён. Здесь приятно неспешно побродить и почувствовать повседневную жизнь небольшого городка Чолла-Намдо.</p><p>Рынок стал местом съёмок первого выпуска рыночной программы Пэк Чон Вона — «[EP.01 Коксон] Лавка с насыщенным кхонгуксу, хозяйка которой не знает Пэк Чон Вона» (кхонгуксу — холодная лапша в бульоне из соевых бобов).</p><h2>Как передвигаться</h2><p>Мокпхо находится на юго-западном побережье Чолла-Намдо, а Коксон — в глубине провинции, на северо-востоке, так что расстояние между ними довольно большое. Вместо того чтобы пытаться успеть всё за один день, лучше включить Тольчип Сиктан в маршрут по Мокпхо, а Коксон посетить в рамках отдельной поездки по восточной или северной части провинции — например, вместе с заливом Сунчхон или Тамяном. Атмосфера традиционных рынков сильно зависит от дня и времени, поэтому перед поездкой стоит уточнить базарные дни.</p>"
   },
   "places": [
     {
@@ -39,5 +69,107 @@
       "id": "2n2pcobA6DI",
       "title": "[EP.01 곡성] 백종원을 모르는 사장님의 찐한 콩국수집"
     }
-  ]
+  ],
+  "placesI18n": {
+    "ja": [
+      {
+        "name": "トルチプ食堂（돌집식당）",
+        "menu": "おかず17品のペッパン（白飯定食）"
+      },
+      {
+        "name": "石谷伝統市場（석곡 전통 시장）",
+        "menu": "昔ながらの雰囲気を残す谷城の伝統市場"
+      }
+    ],
+    "zh-Hans": [
+      {
+        "name": "石屋食堂（돌집식당，木浦韩式套餐餐厅）",
+        "menu": "配有17道小菜的白饭套餐"
+      },
+      {
+        "name": "石谷传统市场（석곡 전통 시장）",
+        "menu": "保留旧时风貌的谷城传统市场"
+      }
+    ],
+    "zh-Hant": [
+      {
+        "name": "石屋食堂（돌집식당，木浦韓定食餐廳）",
+        "menu": "附17道小菜的白飯套餐"
+      },
+      {
+        "name": "石谷傳統市場（석곡 전통 시장）",
+        "menu": "保留舊時風貌的谷城傳統市場"
+      }
+    ],
+    "es": [
+      {
+        "name": "Doljip Sikdang (restaurante de menús coreanos en Mokpo)",
+        "menu": "Menú baekban con 17 guarniciones"
+      },
+      {
+        "name": "Mercado Tradicional de Seokgok",
+        "menu": "Mercado tradicional en Gokseong que conserva su carácter de antaño"
+      }
+    ],
+    "fr": [
+      {
+        "name": "Doljip Sikdang (돌집식당), Mokpo",
+        "menu": "Baekban avec 17 accompagnements"
+      },
+      {
+        "name": "Marché traditionnel de Seokgok (석곡 전통 시장)",
+        "menu": "Marché traditionnel de Gokseong qui a conservé son caractère d'antan"
+      }
+    ],
+    "de": [
+      {
+        "name": "Doljip Sikdang (Restaurant für koreanische Menüs in Mokpo)",
+        "menu": "Baekban-Menü mit 17 Beilagen"
+      },
+      {
+        "name": "Traditioneller Markt Seokgok",
+        "menu": "Traditioneller Markt in Gokseong, der seinen altmodischen Charakter bewahrt hat"
+      }
+    ],
+    "vi": [
+      {
+        "name": "Doljip Sikdang (돌집식당) – quán cơm suất Hàn Quốc ở Mokpo",
+        "menu": "Mâm cơm baekban với 17 món ăn kèm"
+      },
+      {
+        "name": "Chợ truyền thống Seokgok (석곡 전통 시장)",
+        "menu": "Chợ truyền thống ở Gokseong còn giữ nhiều nét xưa cũ"
+      }
+    ],
+    "th": [
+      {
+        "name": "ทลจิพชิกดัง (돌집식당) ร้านอาหารเกาหลีแบบชุดในมกโพ",
+        "menu": "แพ็กบัน (ข้าวชุด) พร้อมเครื่องเคียง 17 อย่าง"
+      },
+      {
+        "name": "ตลาดดั้งเดิมซอกก๊ก (석곡 전통 시장)",
+        "menu": "ตลาดดั้งเดิมในก๊กซองที่ยังคงบรรยากาศแบบสมัยก่อน"
+      }
+    ],
+    "id": [
+      {
+        "name": "Doljip Sikdang (restoran set menu Korea di Mokpo)",
+        "menu": "Set baekban dengan 17 lauk pendamping"
+      },
+      {
+        "name": "Pasar Tradisional Seokgok",
+        "menu": "Pasar tradisional di Gokseong yang mempertahankan suasana tempo dulu"
+      }
+    ],
+    "ru": [
+      {
+        "name": "Тольчип Сиктан (돌집식당)",
+        "menu": "Пэкпан — комплексный обед с 17 закусками"
+      },
+      {
+        "name": "Традиционный рынок Сокгок (석곡 전통 시장)",
+        "menu": "Традиционный рынок в Коксоне, сохранивший атмосферу прежних времён"
+      }
+    ]
+  }
 }

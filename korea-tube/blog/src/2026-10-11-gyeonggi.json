@@ -4,15 +4,45 @@
   "region": "gyeonggi",
   "title": {
     "ko": "경기·인천 영상 속 맛집·명소: 제이미 로맥과 함께 걷는 인천 문학경기장과 랜더스 펍",
-    "en": "Gyeonggi·Incheon on Screen: Munhak Stadium and Landers Pub from Jamie Romak's KBO Memory Trip"
+    "en": "Gyeonggi·Incheon on Screen: Munhak Stadium and Landers Pub from Jamie Romak's KBO Memory Trip",
+    "ja": "画面の中の京畿・仁川：ジェイミー・ロマックのKBO思い出旅に登場した文鶴競技場とランダース・パブ",
+    "zh-Hans": "荧幕上的京畿·仁川：跟着Jamie Romak的KBO回忆之旅走访文鹤体育场与Landers酒吧",
+    "zh-Hant": "京畿・仁川影像中的景點：跟著羅麥克的KBO回憶之旅，走訪文鶴球場與Landers Pub",
+    "es": "Gyeonggi e Incheon en pantalla: el estadio Munhak y el Landers Pub del viaje de recuerdos de Jamie Romak por la KBO",
+    "fr": "Gyeonggi et Incheon à l'écran : le stade de Munhak et le Landers Pub, sur les traces des souvenirs KBO de Jamie Romak",
+    "de": "Gyeonggi·Incheon aus dem Fernsehen: Munhak-Stadion und Landers Pub von Jamie Romaks KBO-Erinnerungsreise",
+    "vi": "Gyeonggi·Incheon trên màn ảnh: Sân vận động Munhak và Landers Pub trong chuyến hành trình hồi ức KBO của Jamie Romak",
+    "th": "เที่ยวคยองกี·อินชอนตามรอยรายการ: สนามมุนฮักและแลนเดอร์สพับ จากทริปย้อนความทรงจำ KBO ของเจมี โรแมก",
+    "id": "Gyeonggi·Incheon di Layar: Stadion Munhak dan Landers Pub dari Perjalanan Kenangan KBO Jamie Romak",
+    "ru": "Гёнгидо и Инчхон на экране: стадион Мунхак и Landers Pub из поездки Джейми Ромака по местам его карьеры в KBO"
   },
   "summary": {
     "ko": "'어서와 한국은 처음이지' EP.444에서 제이미 로맥이 다시 찾은 인천 문학경기장과 SSG 랜더스 테마 펍을 소개합니다. 야구와 치맥을 함께 즐기는 인천 당일치기 코스입니다.",
-    "en": "Revisit the Incheon spots from Jamie Romak's KBO memory trip on 'Welcome, First Time in Korea?' EP.444: Munhak Stadium, home of the SSG Landers, and a Landers-themed pub for a post-game beer."
+    "en": "Revisit the Incheon spots from Jamie Romak's KBO memory trip on 'Welcome, First Time in Korea?' EP.444: Munhak Stadium, home of the SSG Landers, and a Landers-themed pub for a post-game beer.",
+    "ja": "『ようこそ、韓国は初めてだよね？』EP.444で、元KBO選手ジェイミー・ロマックが思い出をたどった仁川のスポットを紹介。SSGランダースの本拠地・文鶴競技場と、試合後にビールを楽しめるランダースをテーマにしたパブです。",
+    "zh-Hans": "重温《你好，第一次来韩国吧？》EP.444中Jamie Romak的KBO回忆之旅里出现的仁川地点：SSG登陆者队主场文鹤体育场，以及赛后喝杯啤酒的登陆者主题酒吧。",
+    "zh-Hant": "重溫《歡迎來到韓國第一次吧？》EP.444中羅麥克（Jamie Romak）KBO回憶之旅的仁川景點：SSG登陸者隊主場文鶴球場，以及賽後喝杯啤酒的登陸者主題酒吧。",
+    "es": "Recorre los lugares de Incheon que visitó Jamie Romak en su viaje de recuerdos por la KBO en el episodio 444 de 'Welcome, First Time in Korea?': el estadio Munhak, casa de los SSG Landers, y un pub temático de los Landers para tomar una cerveza después del partido.",
+    "fr": "Retour sur les lieux d'Incheon visités par Jamie Romak dans l'épisode 444 de « Welcome, First Time in Korea? » : le stade de Munhak, antre des SSG Landers, et un pub aux couleurs des Landers pour une bière d'après-match.",
+    "de": "Auf den Spuren von Jamie Romaks KBO-Erinnerungsreise in „Welcome, First Time in Korea?“ EP.444 durch Incheon: das Munhak-Stadion, Heimat der SSG Landers, und ein Pub im Landers-Stil für das Bier nach dem Spiel.",
+    "vi": "Cùng ghé lại những địa điểm ở Incheon trong chuyến hành trình hồi ức KBO của Jamie Romak trên chương trình 'Welcome, First Time in Korea?' tập 444: Sân vận động Munhak, sân nhà của SSG Landers, và một quán pub theo chủ đề Landers để thưởng thức bia sau trận đấu.",
+    "th": "ตามรอยสถานที่ในอินชอนจากทริปย้อนความทรงจำ KBO ของเจมี โรแมก ในรายการ 'Welcome, First Time in Korea?' EP.444 ได้แก่ สนามมุนฮัก บ้านของทีม SSG Landers และผับธีมแลนเดอร์สสำหรับดื่มเบียร์หลังจบเกม",
+    "id": "Kunjungi kembali tempat-tempat di Incheon dari perjalanan kenangan KBO Jamie Romak di 'Welcome, First Time in Korea?' EP.444: Stadion Munhak, kandang SSG Landers, dan pub bertema Landers untuk minum bir setelah pertandingan.",
+    "ru": "Вспоминаем места в Инчхоне из 444-го выпуска шоу «Добро пожаловать, впервые в Корее?», где Джейми Ромак вернулся туда, где играл в KBO: стадион Мунхак — домашняя арена SSG Landers — и паб в стиле Landers, куда можно зайти на пиво после матча."
   },
   "body": {
     "ko": "<h2>서울 근교에서 즐기는 야구와 치맥</h2><p>경기·인천은 서울에서 당일치기로 다녀오기 좋은 지역입니다. 수원화성, 인천 차이나타운, 강화도처럼 잘 알려진 명소가 많고, 수원 왕갈비와 통닭, 인천 짜장면, 강화도 장어구이 같은 지역 음식도 다양합니다. 이번 글에서는 조금 다른 방향으로, 야구를 테마로 인천을 둘러보는 코스를 소개합니다.</p><p>소개할 두 곳은 <strong>'어서와 한국은 처음이지' EP.444</strong>에 나왔습니다. 이 회차에서는 KBO 리그에서 뛰었던 제이미 로맥이 인천 문학경기장을 다시 찾아 추억을 되짚고, 치킨과 맥주를 즐깁니다.</p><h2>소개할 장소</h2><h3>문학 경기장 (인천)</h3><p>SSG 랜더스의 홈구장으로, 구단이 SK 와이번스였던 시절부터 인천 야구의 중심이었던 곳입니다. 영상에서는 제이미 로맥이 이곳을 다시 찾아 KBO 시절을 떠올립니다. 경기가 있는 날에는 한국 프로야구 특유의 응원 문화를 가까이에서 느낄 수 있어, 야구팬이 아니더라도 한 번쯤 들러볼 만합니다.</p><h3>랜더스 펍</h3><p>SSG 랜더스를 테마로 꾸민 펍으로, 맥주를 즐길 수 있는 곳입니다. 구단 분위기를 경기장 밖에서도 이어가고 싶은 팬들에게 어울립니다. 같은 영상에서 소개되었으며, 야구 관람 전후로 '치맥'을 즐기는 한국식 야구 문화를 경험해 보기에 좋습니다.</p><h2>동선 팁</h2><p>두 곳 모두 SSG 랜더스와 연결된 장소라, 하루 일정으로 묶어 다니기 좋습니다. 경기 일정에 맞춰 문학경기장을 먼저 방문하고, 이후 랜더스 펍에서 맥주로 하루를 마무리하는 순서를 추천합니다. 시간 여유가 있다면 인천 차이나타운에서 짜장면을 먹는 일정을 앞에 넣어 인천 하루 코스로 확장해 볼 수도 있습니다. 방문 전 경기 일정과 각 장소의 운영 정보는 미리 확인하세요.</p>",
-    "en": "<h2>Baseball and Beer, a Day Trip from Seoul</h2><p>Gyeonggi and Incheon are easy day trips from Seoul, home to well-known sights like Suwon Hwaseong Fortress, Incheon Chinatown and Ganghwa Island. The food is just as varied: Suwon's galbi and fried chicken, Incheon's jjajangmyeon (black bean noodles) and grilled eel on Ganghwa Island. This time, though, we're taking a different angle and exploring Incheon through baseball.</p><p>Both places below appeared in <strong>EP.444 of 'Welcome, First Time in Korea?'</strong>, in which former KBO player Jamie Romak returns to Incheon's Munhak Stadium, looks back on his time in the league, and enjoys chimaek, the Korean pairing of fried chicken and beer.</p><h2>Places to Visit</h2><h3>Munhak Stadium (Incheon)</h3><p>The home ballpark of the SSG Landers, and the center of Incheon baseball since the team played as the SK Wyverns. In the episode, Jamie Romak comes back here and shares memories of his KBO days. On game days you can experience Korean baseball's famously lively cheering culture up close, which makes it worth a visit even if you're not a die-hard fan.</p><h3>Landers Pub</h3><p>A pub themed around the SSG Landers, serving beer. It's a natural stop for fans who want to keep the team spirit going outside the stadium. Featured in the same episode, it's a good place to try the Korean habit of pairing baseball with chimaek before or after a game.</p><h2>Getting Around</h2><p>Since both spots are tied to the SSG Landers, they fit neatly into a single day. Plan around the game schedule: head to Munhak Stadium first, then wind down with a beer at Landers Pub. If you have extra time, start the day with jjajangmyeon in Incheon Chinatown to round out a full Incheon itinerary. Be sure to check the game schedule and each venue's opening information before you go.</p>"
+    "en": "<h2>Baseball and Beer, a Day Trip from Seoul</h2><p>Gyeonggi and Incheon are easy day trips from Seoul, home to well-known sights like Suwon Hwaseong Fortress, Incheon Chinatown and Ganghwa Island. The food is just as varied: Suwon's galbi and fried chicken, Incheon's jjajangmyeon (black bean noodles) and grilled eel on Ganghwa Island. This time, though, we're taking a different angle and exploring Incheon through baseball.</p><p>Both places below appeared in <strong>EP.444 of 'Welcome, First Time in Korea?'</strong>, in which former KBO player Jamie Romak returns to Incheon's Munhak Stadium, looks back on his time in the league, and enjoys chimaek, the Korean pairing of fried chicken and beer.</p><h2>Places to Visit</h2><h3>Munhak Stadium (Incheon)</h3><p>The home ballpark of the SSG Landers, and the center of Incheon baseball since the team played as the SK Wyverns. In the episode, Jamie Romak comes back here and shares memories of his KBO days. On game days you can experience Korean baseball's famously lively cheering culture up close, which makes it worth a visit even if you're not a die-hard fan.</p><h3>Landers Pub</h3><p>A pub themed around the SSG Landers, serving beer. It's a natural stop for fans who want to keep the team spirit going outside the stadium. Featured in the same episode, it's a good place to try the Korean habit of pairing baseball with chimaek before or after a game.</p><h2>Getting Around</h2><p>Since both spots are tied to the SSG Landers, they fit neatly into a single day. Plan around the game schedule: head to Munhak Stadium first, then wind down with a beer at Landers Pub. If you have extra time, start the day with jjajangmyeon in Incheon Chinatown to round out a full Incheon itinerary. Be sure to check the game schedule and each venue's opening information before you go.</p>",
+    "ja": "<h2>野球とビールで楽しむ、ソウルからの日帰り旅</h2><p>京畿道と仁川はソウルから気軽に日帰りできるエリアで、水原華城や仁川チャイナタウン、江華島といった有名な見どころがそろっています。グルメも多彩で、水原のカルビやフライドチキン、仁川のチャジャンミョン（韓国式ジャージャー麺）、江華島のウナギの焼き物などが楽しめます。ただ今回は少し視点を変えて、野球を通して仁川を巡ってみます。</p><p>以下の2か所はどちらも<strong>『ようこそ、韓国は初めてだよね？』EP.444</strong>に登場した場所です。この回では、元KBO選手のジェイミー・ロマックが仁川の文鶴競技場を再訪し、リーグで過ごした日々を振り返りながら、フライドチキンとビールを合わせる韓国ならではの「チメク」を楽しみました。</p><h2>訪れたい場所</h2><h3>文鶴競技場（仁川）</h3><p>SSGランダースの本拠地で、SKワイバーンズ時代から仁川野球の中心となってきた球場です。番組ではジェイミー・ロマックがここを再び訪れ、KBO時代の思い出を語ります。試合のある日には、韓国野球ならではのにぎやかな応援文化を間近で体験でき、熱心なファンでなくても訪れる価値があります。</p><h3>ランダース・パブ</h3><p>SSGランダースをテーマにしたパブで、ビールが楽しめます。球場の外でもチームへの熱気を味わいたいファンにぴったりの立ち寄り先です。同じ回に登場した場所で、試合の前後に野球とチメクを合わせる韓国の楽しみ方を体験するのにおすすめです。</p><h2>巡り方</h2><p>どちらもSSGランダースにゆかりのある場所なので、1日でまとめて回りやすいです。試合日程に合わせて、まず文鶴競技場へ行き、その後ランダース・パブでビールを飲みながらひと息つくのがおすすめです。時間に余裕があれば、朝は仁川チャイナタウンでチャジャンミョンを食べて、仁川を満喫する1日にしてみてください。出かける前には、試合日程と各施設の営業情報を必ず確認しましょう。</p>",
+    "zh-Hans": "<h2>棒球与啤酒，从首尔出发的一日游</h2><p>京畿道和仁川都是从首尔出发就能轻松往返的一日游目的地，有水原华城、仁川中华街、江华岛等知名景点。美食同样丰富：水原的排骨和炸鸡、仁川的炸酱面，还有江华岛的烤鳗鱼。不过这一次，我们换个角度，通过棒球来探索仁川。</p><p>下面两个地点都出现在<strong>《你好，第一次来韩国吧？》（Welcome, First Time in Korea?）EP.444</strong>中。在这一集里，前KBO球员Jamie Romak（杰米·罗马克）重返仁川文鹤体育场，回顾自己在韩国职业棒球联赛的时光，并享受了韩国人最爱的“炸鸡配啤酒”组合——chimaek。</p><h2>推荐地点</h2><h3>文鹤体育场（仁川）</h3><p>SSG登陆者队的主场，从球队还叫SK飞龙队的时代起，这里就是仁川棒球的中心。节目中，Jamie Romak回到这里，分享了他在KBO的回忆。比赛日可以近距离感受韩国棒球以热烈著称的应援文化，即使不是铁杆球迷，也值得一去。</p><h3>Landers酒吧</h3><p>一家以SSG登陆者队为主题、供应啤酒的酒吧。对于想在球场外继续为球队加油的球迷来说，这里是顺理成章的一站。它同样出现在这一集中，适合在赛前或赛后体验韩国人“看棒球配炸鸡啤酒”的习惯。</p><h2>行程建议</h2><p>两个地点都与SSG登陆者队相关，很适合安排在同一天。建议根据比赛日程规划：先去文鹤体育场，再到Landers酒吧喝杯啤酒放松一下。如果时间充裕，可以先在仁川中华街吃一碗炸酱面，让仁川之旅更完整。出发前请务必确认比赛日程以及各场所的营业信息。</p>",
+    "zh-Hant": "<h2>棒球配啤酒，從首爾出發的一日遊</h2><p>京畿道與仁川都是從首爾出發就能輕鬆來回的一日遊地點，有水原華城、仁川中華街、江華島等知名景點。美食也同樣豐富：水原的排骨與炸雞、仁川的炸醬麵，還有江華島的烤鰻魚。不過這次我們換個角度，透過棒球來認識仁川。</p><p>以下兩個地點都出現在<strong>《歡迎來到韓國第一次吧？》（어서와 한국은 처음이지）EP.444</strong>。節目中，前KBO球員羅麥克（Jamie Romak）重返仁川文鶴球場，回顧自己在韓職的日子，並享受韓國人愛吃的炸雞配啤酒「chimaek（炸雞啤酒）」。</p><h2>推薦景點</h2><h3>文鶴球場（仁川）</h3><p>SSG登陸者隊的主場，從球隊還叫SK飛龍隊的時代起，就是仁川棒球的中心。節目中羅麥克重回這裡，分享他在KBO時期的回憶。比賽日可以近距離感受韓國職棒出了名的熱烈應援文化，就算不是死忠球迷也很值得一去。</p><h3>Landers Pub</h3><p>以SSG登陸者隊為主題的酒吧，提供啤酒。對想在球場外延續應援氣氛的球迷來說，是很自然的一站。這裡也出現在同一集節目中，很適合在賽前或賽後體驗韓國人看棒球配炸雞啤酒的習慣。</p><h2>行程安排</h2><p>兩個地點都和SSG登陸者隊有關，排在同一天剛剛好。建議配合賽程安排：先到文鶴球場看球，再到Landers Pub喝杯啤酒放鬆一下。如果時間充裕，可以早上先到仁川中華街吃碗炸醬麵，完成一趟完整的仁川行程。出發前請務必確認賽程及各場所的營業資訊。</p>",
+    "es": "<h2>Béisbol y cerveza: una excursión de un día desde Seúl</h2><p>Gyeonggi e Incheon son excursiones fáciles de un día desde Seúl, con lugares conocidos como la fortaleza Hwaseong de Suwon, el barrio chino de Incheon y la isla de Ganghwa. La comida es igual de variada: el galbi y el pollo frito de Suwon, el jjajangmyeon (fideos con salsa de soja negra) de Incheon y la anguila a la parrilla de la isla de Ganghwa. Esta vez, sin embargo, cambiamos de enfoque y exploramos Incheon a través del béisbol.</p><p>Los dos lugares que presentamos aparecieron en el <strong>episodio 444 de 'Welcome, First Time in Korea?'</strong>, en el que el exjugador de la KBO Jamie Romak regresa al estadio Munhak de Incheon, recuerda su etapa en la liga y disfruta del chimaek, la combinación coreana de pollo frito y cerveza.</p><h2>Lugares que visitar</h2><h3>Estadio Munhak (Incheon)</h3><p>Es el estadio de los SSG Landers y el centro del béisbol de Incheon desde los tiempos en que el equipo se llamaba SK Wyverns. En el episodio, Jamie Romak vuelve aquí y comparte recuerdos de sus años en la KBO. Los días de partido se puede vivir de cerca la famosa y animadísima cultura de animación del béisbol coreano, así que merece la pena la visita aunque no seas un gran aficionado.</p><h3>Landers Pub</h3><p>Un pub temático de los SSG Landers donde sirven cerveza. Es una parada lógica para los aficionados que quieren seguir apoyando al equipo fuera del estadio. Aparece en el mismo episodio y es un buen sitio para probar la costumbre coreana de acompañar el béisbol con chimaek antes o después del partido.</p><h2>Cómo organizar la visita</h2><p>Como ambos lugares están ligados a los SSG Landers, encajan bien en un mismo día. Organízate según el calendario de partidos: ve primero al estadio Munhak y luego relájate con una cerveza en el Landers Pub. Si tienes tiempo, empieza el día con un jjajangmyeon en el barrio chino de Incheon para completar un itinerario redondo por la ciudad. Antes de ir, consulta el calendario de partidos y los horarios de cada lugar.</p>",
+    "fr": "<h2>Baseball et bière, une excursion à la journée depuis Séoul</h2><p>Le Gyeonggi et Incheon se visitent facilement à la journée depuis Séoul, avec des sites connus comme la forteresse de Hwaseong à Suwon, le quartier chinois d'Incheon ou l'île de Ganghwa. La cuisine y est tout aussi variée : galbi et poulet frit de Suwon, jjajangmyeon (nouilles à la sauce de soja noire) d'Incheon, anguille grillée sur l'île de Ganghwa. Cette fois, pourtant, nous changeons d'angle et partons à la découverte d'Incheon par le baseball.</p><p>Les deux lieux ci-dessous apparaissent dans <strong>l'épisode 444 de « Welcome, First Time in Korea? »</strong>, où l'ancien joueur de KBO Jamie Romak retourne au stade de Munhak à Incheon, revient sur ses années dans le championnat et savoure un chimaek, l'association coréenne du poulet frit et de la bière.</p><h2>Lieux à visiter</h2><h3>Stade de Munhak (Incheon)</h3><p>Le stade des SSG Landers, cœur du baseball à Incheon depuis l'époque où l'équipe s'appelait SK Wyverns. Dans l'épisode, Jamie Romak y revient et partage ses souvenirs de la KBO. Les jours de match, vous pouvez vivre de près la culture d'encouragement très animée du baseball coréen, ce qui vaut le détour même si vous n'êtes pas un fan inconditionnel.</p><h3>Landers Pub</h3><p>Un pub consacré aux SSG Landers, qui sert de la bière. Une étape logique pour les supporters qui veulent prolonger l'ambiance en dehors du stade. Présenté dans le même épisode, c'est un bon endroit pour goûter à l'habitude coréenne d'associer baseball et chimaek, avant ou après un match.</p><h2>Organiser sa visite</h2><p>Les deux lieux étant liés aux SSG Landers, ils s'enchaînent facilement dans la même journée. Calez-vous sur le calendrier des matchs : rendez-vous d'abord au stade de Munhak, puis terminez par une bière au Landers Pub. Si vous avez du temps, commencez la journée par un jjajangmyeon dans le quartier chinois d'Incheon pour compléter l'itinéraire. Pensez à vérifier le calendrier des matchs et les horaires de chaque lieu avant de partir.</p>",
+    "de": "<h2>Baseball und Bier – ein Tagesausflug von Seoul</h2><p>Gyeonggi und Incheon lassen sich bequem als Tagesausflug von Seoul aus erkunden. Hier liegen bekannte Sehenswürdigkeiten wie die Festung Hwaseong in Suwon, Chinatown in Incheon und die Insel Ganghwa. Auch kulinarisch ist die Region vielfältig: Galbi und frittiertes Hähnchen in Suwon, Jjajangmyeon (Nudeln mit schwarzer Bohnensoße) in Incheon und gegrillter Aal auf Ganghwa. Diesmal wählen wir aber einen anderen Blickwinkel und entdecken Incheon über den Baseball.</p><p>Beide der folgenden Orte waren in <strong>Folge 444 von „Welcome, First Time in Korea?“</strong> zu sehen. Darin kehrt der ehemalige KBO-Spieler Jamie Romak ins Munhak-Stadion in Incheon zurück, blickt auf seine Zeit in der Liga zurück und genießt Chimaek – die koreanische Kombination aus frittiertem Hähnchen und Bier.</p><h2>Sehenswerte Orte</h2><h3>Munhak-Stadion (Incheon)</h3><p>Das Heimstadion der SSG Landers und schon seit den Zeiten, als das Team noch SK Wyverns hieß, das Zentrum des Baseballs in Incheon. In der Folge kommt Jamie Romak hierher zurück und erzählt von seinen Jahren in der KBO. An Spieltagen erlebt man die berühmt lebhafte Fankultur des koreanischen Baseballs hautnah – ein Besuch lohnt sich also auch, wenn man kein eingefleischter Fan ist.</p><h3>Landers Pub</h3><p>Ein Pub rund um die SSG Landers, in dem Bier ausgeschenkt wird. Für Fans, die die Teamstimmung auch außerhalb des Stadions weiterleben wollen, ist er die naheliegende Anlaufstelle. Der Pub kommt in derselben Folge vor und eignet sich gut, um vor oder nach dem Spiel die koreanische Gewohnheit auszuprobieren, Baseball mit Chimaek zu verbinden.</p><h2>Unterwegs vor Ort</h2><p>Da beide Orte mit den SSG Landers verbunden sind, lassen sie sich gut an einem Tag kombinieren. Richte die Planung nach dem Spielplan: Zuerst ins Munhak-Stadion, danach zum Ausklang ein Bier im Landers Pub. Wer mehr Zeit hat, startet den Tag mit Jjajangmyeon in Incheons Chinatown und macht die Incheon-Tour damit komplett. Prüfe vor dem Besuch unbedingt den Spielplan und die Öffnungsinformationen der einzelnen Orte.</p>",
+    "vi": "<h2>Bóng chày và bia, chuyến đi trong ngày từ Seoul</h2><p>Gyeonggi và Incheon là những điểm đến dễ dàng đi về trong ngày từ Seoul, nổi tiếng với các địa danh như pháo đài Hwaseong ở Suwon, khu phố Tàu Incheon và đảo Ganghwa. Ẩm thực ở đây cũng phong phú không kém: sườn nướng galbi và gà rán Suwon, mì tương đen jjajangmyeon của Incheon hay lươn nướng trên đảo Ganghwa. Tuy nhiên, lần này chúng ta sẽ khám phá Incheon từ một góc nhìn khác: qua bóng chày.</p><p>Cả hai địa điểm dưới đây đều xuất hiện trong <strong>tập 444 của chương trình 'Welcome, First Time in Korea?'</strong>, khi cựu cầu thủ KBO Jamie Romak quay lại Sân vận động Munhak ở Incheon, nhìn lại quãng thời gian thi đấu tại giải và thưởng thức chimaek, sự kết hợp kiểu Hàn giữa gà rán và bia.</p><h2>Địa điểm nên ghé</h2><h3>Sân vận động Munhak (Incheon)</h3><p>Sân nhà của SSG Landers, đồng thời là trung tâm bóng chày của Incheon từ thời đội còn mang tên SK Wyverns. Trong tập phát sóng, Jamie Romak trở lại nơi đây và chia sẻ những kỷ niệm thời còn thi đấu ở KBO. Vào ngày có trận, bạn có thể tận mắt trải nghiệm văn hóa cổ vũ sôi động nổi tiếng của bóng chày Hàn Quốc, nên dù không phải fan cuồng thì nơi này vẫn đáng để ghé thăm.</p><h3>Landers Pub</h3><p>Quán pub theo chủ đề SSG Landers, phục vụ bia. Đây là điểm dừng chân hợp lý cho những người hâm mộ muốn tiếp tục không khí cổ vũ đội nhà bên ngoài sân vận động. Cũng xuất hiện trong cùng tập phát sóng, đây là nơi thích hợp để thử thói quen của người Hàn: xem bóng chày kèm chimaek trước hoặc sau trận đấu.</p><h2>Gợi ý lịch trình</h2><p>Vì cả hai địa điểm đều gắn liền với SSG Landers nên có thể dễ dàng gộp vào một ngày. Hãy lên kế hoạch theo lịch thi đấu: đến Sân vận động Munhak trước, sau đó thư giãn với một ly bia tại Landers Pub. Nếu còn thời gian, hãy bắt đầu ngày mới bằng một bát jjajangmyeon ở khu phố Tàu Incheon để hoàn thiện lịch trình khám phá Incheon. Nhớ kiểm tra lịch thi đấu và thông tin giờ mở cửa của từng địa điểm trước khi đi.</p>",
+    "th": "<h2>เบสบอลกับเบียร์ ทริปไปกลับวันเดียวจากโซล</h2><p>คยองกีและอินชอนเป็นจุดหมายที่เดินทางไปกลับจากโซลได้ในวันเดียวอย่างสะดวก มีสถานที่ท่องเที่ยวชื่อดังอย่างป้อมฮวาซอง เมืองซูวอน ไชน่าทาวน์อินชอน และเกาะคังฮวา อาหารก็หลากหลายไม่แพ้กัน ทั้งคาลบีและไก่ทอดของซูวอน จาจังมยอน (บะหมี่ซอสถั่วดำ) ของอินชอน และปลาไหลย่างบนเกาะคังฮวา แต่ครั้งนี้เราจะลองมองอินชอนในมุมที่ต่างออกไป ผ่านกีฬาเบสบอล</p><p>สถานที่ทั้งสองแห่งด้านล่างปรากฏใน <strong>EP.444 ของรายการ 'Welcome, First Time in Korea?'</strong> ซึ่งเจมี โรแมก อดีตนักเบสบอล KBO กลับมาเยือนสนามมุนฮักในอินชอน ย้อนรำลึกถึงช่วงเวลาที่เล่นในลีก และเพลิดเพลินกับ \"ชีแม็ก\" หรือการกินไก่ทอดคู่กับเบียร์แบบเกาหลี</p><h2>สถานที่แนะนำ</h2><h3>สนามมุนฮัก (อินชอน)</h3><p>สนามเหย้าของทีม SSG Landers และเป็นศูนย์กลางของเบสบอลอินชอนมาตั้งแต่สมัยที่ทีมยังใช้ชื่อ SK Wyverns ในรายการ เจมี โรแมกกลับมาที่นี่และเล่าความทรงจำในช่วงที่เล่นใน KBO ในวันที่มีการแข่งขัน คุณจะได้สัมผัสวัฒนธรรมการเชียร์อันคึกคักซึ่งเป็นเอกลักษณ์ของเบสบอลเกาหลีอย่างใกล้ชิด จึงคุ้มค่าที่จะมาแม้ไม่ใช่แฟนเบสบอลตัวยงก็ตาม</p><h3>แลนเดอร์สพับ</h3><p>ผับธีม SSG Landers ที่มีเบียร์ให้บริการ เหมาะสำหรับแฟนๆ ที่อยากสนุกกับบรรยากาศเชียร์ทีมต่อนอกสนาม ร้านนี้ปรากฏในตอนเดียวกัน และเป็นที่ที่ดีในการลองวัฒนธรรมดูเบสบอลคู่กับชีแม็กแบบคนเกาหลี ทั้งก่อนหรือหลังเกม</p><h2>การเดินทาง</h2><p>เนื่องจากทั้งสองแห่งเกี่ยวข้องกับ SSG Landers จึงจัดเที่ยวรวมกันได้ภายในวันเดียว วางแผนตามตารางการแข่งขัน ไปสนามมุนฮักก่อน แล้วปิดท้ายวันด้วยเบียร์ที่แลนเดอร์สพับ หากมีเวลาเหลือ ลองเริ่มต้นวันด้วยจาจังมยอนที่ไชน่าทาวน์อินชอน เพื่อให้ทริปอินชอนครบถ้วนยิ่งขึ้น อย่าลืมตรวจสอบตารางการแข่งขันและข้อมูลเวลาเปิดทำการของแต่ละสถานที่ก่อนเดินทาง</p>",
+    "id": "<h2>Bisbol dan Bir, Perjalanan Sehari dari Seoul</h2><p>Gyeonggi dan Incheon mudah dijangkau untuk perjalanan sehari dari Seoul, dengan objek wisata terkenal seperti Benteng Hwaseong di Suwon, Pecinan Incheon, dan Pulau Ganghwa. Kulinernya pun beragam: galbi dan ayam goreng khas Suwon, jjajangmyeon (mi saus kacang hitam) khas Incheon, serta belut bakar di Pulau Ganghwa. Namun kali ini, kami mengambil sudut pandang berbeda dan menjelajahi Incheon lewat bisbol.</p><p>Kedua tempat di bawah ini muncul di <strong>EP.444 'Welcome, First Time in Korea?'</strong>, ketika mantan pemain KBO Jamie Romak kembali ke Stadion Munhak di Incheon, mengenang masa-masanya di liga, dan menikmati chimaek, perpaduan khas Korea antara ayam goreng dan bir.</p><h2>Tempat yang Bisa Dikunjungi</h2><h3>Stadion Munhak (Incheon)</h3><p>Stadion kandang SSG Landers, sekaligus pusat bisbol Incheon sejak tim ini masih bernama SK Wyverns. Dalam episode tersebut, Jamie Romak kembali ke sini dan berbagi kenangan tentang masa-masanya di KBO. Pada hari pertandingan, Anda bisa merasakan langsung budaya sorak-sorai bisbol Korea yang terkenal meriah, sehingga tempat ini layak dikunjungi meskipun Anda bukan penggemar berat.</p><h3>Landers Pub</h3><p>Pub bertema SSG Landers yang menyajikan bir. Tempat ini cocok untuk para penggemar yang ingin terus merasakan semangat tim di luar stadion. Masih ditampilkan dalam episode yang sama, pub ini tempat yang pas untuk mencoba kebiasaan orang Korea menikmati bisbol sambil makan chimaek sebelum atau sesudah pertandingan.</p><h2>Tips Rute</h2><p>Karena kedua tempat ini sama-sama berkaitan dengan SSG Landers, keduanya mudah digabungkan dalam satu hari. Sesuaikan rencana dengan jadwal pertandingan: datangi Stadion Munhak terlebih dahulu, lalu bersantai dengan segelas bir di Landers Pub. Jika masih punya waktu, awali hari dengan jjajangmyeon di Pecinan Incheon untuk melengkapi itinerary Incheon Anda. Pastikan untuk memeriksa jadwal pertandingan dan informasi jam buka masing-masing tempat sebelum berangkat.</p>",
+    "ru": "<h2>Бейсбол и пиво: поездка на день из Сеула</h2><p>Провинция Кёнгидо и Инчхон — удобные направления для однодневной поездки из Сеула. Здесь находятся такие известные достопримечательности, как крепость Хвасон в Сувоне, Чайна-таун в Инчхоне и остров Канхвадо. Не менее разнообразна и кухня: сувонские кальби и жареная курица, инчхонский чаджанмён (лапша с соусом из чёрных бобов), жареный угорь на Канхвадо. Но на этот раз мы посмотрим на Инчхон под другим углом — через бейсбол.</p><p>Оба места, о которых пойдёт речь ниже, появились в <strong>444-м выпуске шоу «Добро пожаловать, впервые в Корее?» (Welcome, First Time in Korea?)</strong>. В нём бывший игрок KBO Джейми Ромак возвращается на стадион Мунхак в Инчхоне, вспоминает годы, проведённые в лиге, и наслаждается чимэком — корейским сочетанием жареной курицы и пива.</p><h2>Что посетить</h2><h3>Стадион Мунхак (Инчхон)</h3><p>Домашний стадион SSG Landers и центр инчхонского бейсбола ещё с тех времён, когда команда называлась SK Wyverns. В выпуске Джейми Ромак возвращается сюда и делится воспоминаниями о своих годах в KBO. В дни матчей можно вблизи увидеть знаменитую своей энергией корейскую культуру боления — поэтому сюда стоит заглянуть, даже если вы не заядлый болельщик.</p><h3>Landers Pub</h3><p>Паб, оформленный в стиле SSG Landers, где подают пиво. Естественная остановка для фанатов, которые хотят продолжить болеть за команду и за пределами стадиона. Паб показали в том же выпуске, и это хорошее место, чтобы до или после матча попробовать корейскую традицию сочетать бейсбол с чимэком.</p><h2>Как спланировать маршрут</h2><p>Оба места связаны с SSG Landers, поэтому их легко объединить в один день. Ориентируйтесь на расписание матчей: сначала отправляйтесь на стадион Мунхак, а затем завершите день пивом в Landers Pub. Если останется время, начните утро с чаджанмёна в инчхонском Чайна-тауне — получится полноценный маршрут по Инчхону. Перед поездкой обязательно проверьте расписание игр и часы работы каждого места.</p>"
   },
   "places": [
     {
@@ -35,5 +65,107 @@
       "id": "U5_MLHWltKw",
       "title": "[요약] 제이미 로맥의 KBO 추억 여행 – 인천 문학경기장, 치맥 (EP.444)"
     }
-  ]
+  ],
+  "placesI18n": {
+    "ja": [
+      {
+        "name": "文鶴競技場（仁川）",
+        "menu": "SSGランダース（旧SKワイバーンズ）の本拠地球場"
+      },
+      {
+        "name": "ランダース・パブ",
+        "menu": "SSGランダースをテーマにしたパブ、ビール"
+      }
+    ],
+    "zh-Hans": [
+      {
+        "name": "文鹤体育场（仁川）",
+        "menu": "SSG登陆者队主场（前SK飞龙队）"
+      },
+      {
+        "name": "Landers酒吧（랜더스 펍）",
+        "menu": "SSG登陆者队主题酒吧，啤酒"
+      }
+    ],
+    "zh-Hant": [
+      {
+        "name": "文鶴球場（仁川）",
+        "menu": "SSG登陸者隊主場（前SK飛龍隊）"
+      },
+      {
+        "name": "Landers Pub（랜더스 펍）",
+        "menu": "SSG登陸者隊主題酒吧，啤酒"
+      }
+    ],
+    "es": [
+      {
+        "name": "Estadio Munhak (Incheon) (문학 경기장)",
+        "menu": "Estadio de los SSG Landers (antes SK Wyverns)"
+      },
+      {
+        "name": "Landers Pub (랜더스 펍)",
+        "menu": "Pub temático de los SSG Landers, cerveza"
+      }
+    ],
+    "fr": [
+      {
+        "name": "Stade de Munhak (Incheon) (문학 경기장)",
+        "menu": "Stade des SSG Landers (anciennement SK Wyverns)"
+      },
+      {
+        "name": "Landers Pub (랜더스 펍)",
+        "menu": "Pub aux couleurs des SSG Landers, bière"
+      }
+    ],
+    "de": [
+      {
+        "name": "Munhak-Stadion (Incheon)",
+        "menu": "Heimstadion der SSG Landers (ehemals SK Wyverns)"
+      },
+      {
+        "name": "Landers Pub",
+        "menu": "Pub im Stil der SSG Landers, Bier"
+      }
+    ],
+    "vi": [
+      {
+        "name": "Sân vận động Munhak (Incheon)",
+        "menu": "Sân nhà của SSG Landers (trước đây là SK Wyverns)"
+      },
+      {
+        "name": "Landers Pub",
+        "menu": "Quán pub theo chủ đề SSG Landers, bia"
+      }
+    ],
+    "th": [
+      {
+        "name": "สนามมุนฮัก (อินชอน) (문학 경기장)",
+        "menu": "สนามเหย้าของทีม SSG Landers (เดิมคือ SK Wyverns)"
+      },
+      {
+        "name": "แลนเดอร์สพับ (랜더스 펍)",
+        "menu": "ผับธีม SSG Landers, เบียร์"
+      }
+    ],
+    "id": [
+      {
+        "name": "Stadion Munhak (Incheon)",
+        "menu": "Stadion kandang SSG Landers (sebelumnya SK Wyverns)"
+      },
+      {
+        "name": "Landers Pub",
+        "menu": "Pub bertema SSG Landers, bir"
+      }
+    ],
+    "ru": [
+      {
+        "name": "Стадион Мунхак (Инчхон)",
+        "menu": "Домашний стадион SSG Landers (ранее SK Wyverns)"
+      },
+      {
+        "name": "Landers Pub (Лэндерс паб)",
+        "menu": "Паб в стиле SSG Landers, пиво"
+      }
+    ]
+  }
 }

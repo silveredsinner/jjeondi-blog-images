@@ -4,15 +4,45 @@
   "region": "jeonbuk",
   "title": {
     "ko": "전북 영상 속 맛집·명소: 전주 한옥마을, 경기전, 진안 시골순대",
-    "en": "Jeonbuk on Screen: Jeonju Hanok Village, Gyeonggijeon Shrine, and Sigol Sundae in Jinan"
+    "en": "Jeonbuk on Screen: Jeonju Hanok Village, Gyeonggijeon Shrine, and Sigol Sundae in Jinan",
+    "ja": "映像で巡る全北：全州韓屋村、慶基殿、鎮安のシゴルスンデ",
+    "zh-Hans": "影像中的全北：全州韩屋村、庆基殿与镇安乡村血肠汤饭",
+    "zh-Hant": "影片中的全北：全州韓屋村、慶基殿與鎮安「鄉村血腸」",
+    "es": "Jeonbuk en pantalla: la Aldea Hanok de Jeonju, el santuario Gyeonggijeon y Sigol Sundae en Jinan",
+    "fr": "Le Jeonbuk à l'écran : le village hanok de Jeonju, le sanctuaire Gyeonggijeon et Sigol Sundae à Jinan",
+    "de": "Jeonbuk im Video: Hanok-Dorf Jeonju, Gyeonggijeon-Schrein und Sigol Sundae in Jinan",
+    "vi": "Jeonbuk trên màn ảnh: Làng Hanok Jeonju, điện Gyeongijeon và quán Sigol Sundae ở Jinan",
+    "th": "จอนบุกในจอ: หมู่บ้านฮันอกจอนจู ศาลเจ้าคยองกีจอน และร้านชีกลซุนแดที่จินอัน",
+    "id": "Jeonbuk di Layar: Desa Hanok Jeonju, Kuil Gyeonggijeon, dan Sigol Sundae di Jinan",
+    "ru": "Чолла-Пукто на экране: ханок-деревня Чонджу, святилище Кёнгиджон и «Сиголь сундэ» в Чинане"
   },
   "summary": {
     "ko": "유네스코 음식창의도시 전주의 한옥마을과 경기전, 그리고 하루 3시간 남짓만 문을 여는 진안의 순대국밥집까지, 여행·예능 영상에 나온 전북의 장소를 정리했습니다.",
-    "en": "From Jeonju's Hanok Village and Gyeonggijeon Shrine to a sundae gukbap spot in Jinan that opens for only about three hours a day, here are the Jeonbuk places featured in travel and TV videos."
+    "en": "From Jeonju's Hanok Village and Gyeonggijeon Shrine to a sundae gukbap spot in Jinan that opens for only about three hours a day, here are the Jeonbuk places featured in travel and TV videos.",
+    "ja": "全州の韓屋村と慶基殿から、1日わずか3時間ほどしか営業しない鎮安のスンデクッパ店まで、旅行動画やテレビ番組に登場した全北（チョンブク）のスポットを紹介します。",
+    "zh-Hans": "从全州的韩屋村、庆基殿，到镇安一家每天只营业约三小时的血肠汤饭店，这里整理了旅行视频和电视节目中出现过的全北地点。",
+    "zh-Hant": "從全州韓屋村、慶基殿，到鎮安一家每天只營業約三小時的血腸湯飯店，整理出旅遊影片與電視節目中出現過的全北景點與美食。",
+    "es": "Desde la Aldea Hanok y el santuario Gyeonggijeon de Jeonju hasta un local de sundae gukbap en Jinan que abre solo unas tres horas al día, estos son los lugares de Jeonbuk que han aparecido en vídeos de viajes y programas de televisión.",
+    "fr": "Du village hanok de Jeonju et du sanctuaire Gyeonggijeon jusqu'à une adresse de sundae gukbap à Jinan ouverte seulement trois heures environ par jour, voici les lieux du Jeonbuk apparus dans des vidéos de voyage et des émissions télé.",
+    "de": "Vom Hanok-Dorf und dem Gyeonggijeon-Schrein in Jeonju bis zu einem Sundae-Gukbap-Lokal in Jinan, das nur etwa drei Stunden am Tag geöffnet hat: Hier sind die Orte in Jeonbuk, die in Reise- und TV-Videos zu sehen waren.",
+    "vi": "Từ Làng Hanok và điện Gyeongijeon ở Jeonju đến một quán sundae gukbap ở Jinan chỉ mở cửa khoảng ba tiếng mỗi ngày, đây là những địa điểm ở Jeonbuk từng xuất hiện trong các video du lịch và chương trình truyền hình.",
+    "th": "ตั้งแต่หมู่บ้านฮันอกและศาลเจ้าคยองกีจอนในจอนจู ไปจนถึงร้านซุนแดกุกบับที่จินอันซึ่งเปิดเพียงวันละราว 3 ชั่วโมง รวมสถานที่ในจังหวัดจอนบุกที่เคยปรากฏในวิดีโอท่องเที่ยวและรายการทีวี",
+    "id": "Dari Desa Hanok Jeonju dan Kuil Gyeonggijeon hingga kedai sundae gukbap di Jinan yang hanya buka sekitar tiga jam sehari, berikut tempat-tempat di Jeonbuk yang muncul dalam video perjalanan dan acara TV.",
+    "ru": "От ханок-деревни и святилища Кёнгиджон в Чонджу до заведения с сундэ-кукпапом в Чинане, которое открыто всего около трёх часов в день, — места провинции Чолла-Пукто, попавшие в тревел-видео и телепередачи."
   },
   "body": {
     "ko": "<h2>전북, 음식으로 기억되는 지역</h2><p>전북의 중심 도시 전주는 유네스코 음식창의도시로 지정된 곳이자 한옥마을로 잘 알려져 있습니다. 전주 비빔밥과 떡갈비, 한상 가득 차려지는 한정식, 막걸리 골목의 안주까지 먹을거리가 여행의 큰 축을 이룹니다. 아래는 여러 영상에 소개된 전북의 명소와 식당입니다.</p><h2>소개할 곳</h2><h3>전주 한옥마을</h3><p>전주 여행의 출발점으로 많이 찾는 곳입니다. <strong>비빔밥</strong>과 다양한 <strong>길거리 음식</strong>을 맛볼 수 있고, <strong>한복 체험</strong>을 하며 골목을 거닐 수도 있습니다. 전주에서 하루를 보내며 비빔밥을 찾아가는 여행 영상 <strong>24 Hours in Jeonju – Hanok Village &amp; Best Bibimbap</strong>, 그리고 한옥마을의 길거리 음식을 다룬 <strong>Korean Street Food at Jeonju Hanok Village</strong>에 등장했습니다.</p><h3>경기전</h3><p>조선 태조의 어진(초상화)을 모신 역사 유적입니다. 먹거리 위주의 일정 사이에 전주의 역사를 느껴볼 수 있는 장소입니다. 예능 <strong>어서와 한국은 처음이지</strong>의 <strong>뉴질랜드 사 형제의 전주 여행 – 한정식, 경기전 (EP.266)</strong> 편에서 네 형제가 한정식과 함께 찾은 곳으로 소개되었습니다.</p><h3>시골순대 (진안)</h3><p>전주가 아닌 진안에 있는 <strong>순대국밥</strong>집으로, <strong>하루 3시간 정도만 영업</strong>하는 것으로 알려져 있습니다. <strong>백종원의 님아 그 시장을 가오</strong>의 <strong>[EP.14 진안] 하루 딱 3시간만 영업하는 순대국밥집</strong> 편에 나왔습니다.</p><h2>동선 팁</h2><p>전주 한옥마을과 경기전은 한 번에 묶어 걸으며 둘러보기 좋으니, 한옥마을에서 비빔밥이나 길거리 음식을 맛보고 경기전에 들르는 식으로 하루 일정을 짜 보세요. 진안의 시골순대는 전주와 다른 지역에 있고 영업 시간이 하루 3시간 남짓으로 짧기 때문에, 방문 전에 영업 시간을 꼭 확인하고 이동 시간을 넉넉히 잡아 별도의 일정으로 계획하는 편이 안전합니다.</p>",
-    "en": "<h2>Jeonbuk: A Region Remembered Through Food</h2><p>Jeonju, the heart of Jeonbuk province, is a UNESCO City of Gastronomy and home to the well-known Hanok Village, a neighborhood of traditional Korean houses. Food is a big part of any trip here: Jeonju bibimbap, tteokgalbi (grilled short rib patties), hanjeongsik (a full-course Korean table spread), and the snacks served in the city's makgeolli (rice wine) alleys. Below are the Jeonbuk spots and restaurants that have appeared in travel and TV videos.</p><h2>Places to Visit</h2><h3>Jeonju Hanok Village</h3><p>For many visitors, this is where a Jeonju trip begins. You can try <strong>bibimbap</strong> and all kinds of <strong>street food</strong>, or rent a <strong>hanbok</strong> (traditional Korean clothing) and stroll the lanes. It features in <strong>24 Hours in Jeonju – Hanok Village &amp; Best Bibimbap</strong>, a day-in-the-city travel video, and in <strong>Korean Street Food at Jeonju Hanok Village</strong>, which focuses on the snacks sold around the village.</p><h3>Gyeonggijeon Shrine</h3><p>A historic site that enshrines the royal portrait of King Taejo, founder of the Joseon dynasty. It's a good way to add some history between meals. The shrine appeared in the Korean variety show <strong>Welcome, First Time in Korea?</strong> (어서와 한국은 처음이지), in Episode 266, where four brothers from New Zealand visited Jeonju, enjoyed hanjeongsik, and toured Gyeonggijeon.</p><h3>Sigol Sundae (Jinan)</h3><p>Located in Jinan County rather than Jeonju, this restaurant serves <strong>sundae gukbap</strong>, a hearty soup with Korean blood sausage and rice. It is known for being <strong>open only about three hours a day</strong>. It was featured in Episode 14 (Jinan) of <strong>Paik Jong-won's market show</strong> (백종원의 님아 그 시장을 가오), in an episode about a gukbap spot that opens for just three hours daily.</p><h2>Getting Around</h2><p>Jeonju Hanok Village and Gyeonggijeon Shrine pair well on foot, so one easy plan is to have bibimbap or street food in the village and then visit the shrine. Sigol Sundae is in Jinan, a separate area from Jeonju, and its opening window is short, so check its hours before you go, allow plenty of travel time, and consider treating it as a separate outing rather than squeezing it into your Jeonju day.</p>"
+    "en": "<h2>Jeonbuk: A Region Remembered Through Food</h2><p>Jeonju, the heart of Jeonbuk province, is a UNESCO City of Gastronomy and home to the well-known Hanok Village, a neighborhood of traditional Korean houses. Food is a big part of any trip here: Jeonju bibimbap, tteokgalbi (grilled short rib patties), hanjeongsik (a full-course Korean table spread), and the snacks served in the city's makgeolli (rice wine) alleys. Below are the Jeonbuk spots and restaurants that have appeared in travel and TV videos.</p><h2>Places to Visit</h2><h3>Jeonju Hanok Village</h3><p>For many visitors, this is where a Jeonju trip begins. You can try <strong>bibimbap</strong> and all kinds of <strong>street food</strong>, or rent a <strong>hanbok</strong> (traditional Korean clothing) and stroll the lanes. It features in <strong>24 Hours in Jeonju – Hanok Village &amp; Best Bibimbap</strong>, a day-in-the-city travel video, and in <strong>Korean Street Food at Jeonju Hanok Village</strong>, which focuses on the snacks sold around the village.</p><h3>Gyeonggijeon Shrine</h3><p>A historic site that enshrines the royal portrait of King Taejo, founder of the Joseon dynasty. It's a good way to add some history between meals. The shrine appeared in the Korean variety show <strong>Welcome, First Time in Korea?</strong> (어서와 한국은 처음이지), in Episode 266, where four brothers from New Zealand visited Jeonju, enjoyed hanjeongsik, and toured Gyeonggijeon.</p><h3>Sigol Sundae (Jinan)</h3><p>Located in Jinan County rather than Jeonju, this restaurant serves <strong>sundae gukbap</strong>, a hearty soup with Korean blood sausage and rice. It is known for being <strong>open only about three hours a day</strong>. It was featured in Episode 14 (Jinan) of <strong>Paik Jong-won's market show</strong> (백종원의 님아 그 시장을 가오), in an episode about a gukbap spot that opens for just three hours daily.</p><h2>Getting Around</h2><p>Jeonju Hanok Village and Gyeonggijeon Shrine pair well on foot, so one easy plan is to have bibimbap or street food in the village and then visit the shrine. Sigol Sundae is in Jinan, a separate area from Jeonju, and its opening window is short, so check its hours before you go, allow plenty of travel time, and consider treating it as a separate outing rather than squeezing it into your Jeonju day.</p>",
+    "ja": "<h2>全北：食とともに記憶に残る地域</h2><p>全北（全羅北道）の中心都市・全州（チョンジュ）は、ユネスコ食文化創造都市に認定された街で、韓国の伝統家屋が立ち並ぶ全州韓屋村でも知られています。ここでの旅に食は欠かせません。全州ビビンバ、トッカルビ（牛カルビのハンバーグ風焼き）、韓定食（品数豊富な韓国式コース料理）、そしてマッコリ横丁で出されるおつまみなど。以下では、旅行動画やテレビ番組に登場した全北のスポットと飲食店をまとめました。</p><h2>訪れたい場所</h2><h3>全州韓屋村</h3><p>多くの旅行者にとって、全州の旅はここから始まります。<strong>ビビンバ</strong>やさまざまな<strong>屋台グルメ</strong>を味わったり、<strong>韓服</strong>（韓国の伝統衣装）をレンタルして路地を散策したりできます。全州での1日を追った旅行動画<strong>「24 Hours in Jeonju – Hanok Village &amp; Best Bibimbap」</strong>や、村周辺で売られる軽食に焦点を当てた<strong>「Korean Street Food at Jeonju Hanok Village」</strong>に登場しています。</p><h3>慶基殿（キョンギジョン）</h3><p>朝鮮王朝を建てた太祖の御真（肖像画）を祀る史跡です。食事の合間に歴史に触れるのにぴったりです。韓国のバラエティ番組<strong>「ようこそ、韓国は初めてだよね？」</strong>（어서와 한국은 처음이지）の第266話に登場し、ニュージーランドから来た4兄弟が全州を訪れ、韓定食を楽しみ、慶基殿を見学しました。</p><h3>シゴルスンデ（鎮安）</h3><p>全州ではなく鎮安（チナン）郡にある店で、韓国式腸詰め（スンデ）とご飯が入った食べ応えのあるスープ、<strong>スンデクッパ</strong>を出しています。<strong>1日3時間ほどしか営業しない</strong>ことで知られています。<strong>ペク・ジョンウォンの市場番組</strong>（백종원의 님아 그 시장을 가오）の第14話（鎮安編）で、1日わずか3時間だけ営業するクッパ店として紹介されました。</p><h2>回り方</h2><p>全州韓屋村と慶基殿は歩いて一緒に回れるので、村でビビンバや屋台グルメを楽しんでから慶基殿を訪れるのが手軽なプランです。シゴルスンデは全州とは別の地域である鎮安にあり、営業時間も短いため、事前に営業時間を確認し、移動時間に余裕を持たせてください。全州観光の日に無理に詰め込まず、別の日に出かけることも検討するとよいでしょう。</p>",
+    "zh-Hans": "<h2>全北：一个让人记住美食的地方</h2><p>全州是全罗北道的中心，也是联合国教科文组织认定的“美食之都”，以传统韩屋聚集的韩屋村而闻名。来这里旅行，吃是重头戏：全州拌饭、肉饼（烤牛小排肉饼）、韩定食（一整桌的韩式套餐），还有全州马格利（米酒）胡同里配酒的各式小菜。下面整理了在旅行视频和电视节目中出现过的全北景点和餐厅。</p><h2>值得一去的地方</h2><h3>全州韩屋村</h3><p>对很多游客来说，全州之旅就是从这里开始的。可以尝尝<strong>拌饭</strong>和各种<strong>街头小吃</strong>，也可以租一套<strong>韩服</strong>（韩国传统服饰）在巷子里漫步。这里出现在旅行视频<strong>24 Hours in Jeonju – Hanok Village &amp; Best Bibimbap</strong>（记录在全州的一天），以及专门介绍村里小吃的<strong>Korean Street Food at Jeonju Hanok Village</strong>中。</p><h3>庆基殿</h3><p>供奉朝鲜王朝开国君主太祖御真（王的肖像）的历史遗迹。在吃饭之间来这里走走，可以为行程增添一些历史感。韩国综艺节目<strong>《Welcome, First Time in Korea?》</strong>（어서와 한국은 처음이지，中文常译《欢迎第一次来韩国吧》）第266集中，来自新西兰的四兄弟到访全州，享用了韩定食，并参观了庆基殿。</p><h3>乡村血肠（镇安）</h3><p>这家店不在全州，而是位于镇安郡，主打<strong>血肠汤饭</strong>——加入韩式血肠和米饭的浓郁汤饭。它以<strong>每天只营业约三小时</strong>而出名。曾在<strong>白钟元的市场节目</strong>（백종원의 님아 그 시장을 가오）第14集（镇安篇）中出镜，那一集介绍的正是这家每天只开三小时的汤饭店。</p><h2>交通与路线</h2><p>全州韩屋村和庆基殿步行即可串联，比较轻松的安排是先在韩屋村吃拌饭或街头小吃，再去参观庆基殿。乡村血肠位于镇安，与全州不在同一区域，而且营业时间很短，出发前请先确认营业时间，预留充足的交通时间，建议单独安排一趟，而不是硬塞进全州的一日行程里。</p>",
+    "zh-Hant": "<h2>全北：用美食記住的地方</h2><p>全州是全羅北道的核心城市，也是聯合國教科文組織認定的「美食之都」，知名的韓屋村就位在這裡，是一片保留韓國傳統房屋的街區。來這裡旅行，吃絕對是重頭戲：全州拌飯、年糕排骨（烤牛小排肉餅）、韓定食（整桌上菜的韓式套餐），還有市內馬格利（米酒）巷弄裡的各式下酒菜。以下整理了在旅遊影片和電視節目中出現過的全北景點與餐廳。</p><h2>推薦景點</h2><h3>全州韓屋村</h3><p>對許多旅客來說，全州之旅就是從這裡開始。可以品嚐<strong>拌飯</strong>和各種<strong>街頭小吃</strong>，也可以租一套<strong>韓服</strong>（韓國傳統服裝）在巷弄間散步。這裡曾出現在介紹全州一日行程的旅遊影片<strong>《24 Hours in Jeonju – Hanok Village &amp; Best Bibimbap》</strong>，以及聚焦韓屋村周邊小吃的<strong>《Korean Street Food at Jeonju Hanok Village》</strong>中。</p><h3>慶基殿</h3><p>供奉朝鮮王朝開國君主太祖御真（王的肖像）的歷史古蹟，很適合在吃吃喝喝之間安排一點歷史行程。慶基殿曾出現在韓國綜藝節目<strong>《Welcome, First Time in Korea?》</strong>（어서와 한국은 처음이지，台灣常譯《歡迎第一次來韓國吧？》）第266集，節目中來自紐西蘭的四兄弟造訪全州，享用韓定食並參觀了慶基殿。</p><h3>鄉村血腸（시골순대，鎮安）</h3><p>這家店不在全州，而是位於鎮安郡，主打<strong>血腸湯飯</strong>，也就是加了韓式血腸、配白飯吃的濃郁湯品。這家店以<strong>每天只營業約三小時</strong>聞名，曾出現在<strong>白種元的市場節目</strong>（백종원의 님아 그 시장을 가오）第14集（鎮安篇），介紹的正是這間每天只開三小時的湯飯店。</p><h2>交通與行程安排</h2><p>全州韓屋村和慶基殿步行就能串連，簡單的安排是先在韓屋村吃拌飯或街頭小吃，再去參觀慶基殿。鄉村血腸位於與全州不同區域的鎮安，營業時間又很短，出發前請先確認營業時間，預留充足的交通時間，建議另外安排一趟行程，不要硬塞進全州的一日遊裡。</p>",
+    "es": "<h2>Jeonbuk: una región que se recuerda por su comida</h2><p>Jeonju, el corazón de la provincia de Jeonbuk, es Ciudad Creativa de la Gastronomía de la UNESCO y alberga la conocida Aldea Hanok, un barrio de casas tradicionales coreanas. La comida es una parte esencial de cualquier viaje aquí: el bibimbap de Jeonju, el tteokgalbi (hamburguesas de costilla a la parrilla), el hanjeongsik (un menú coreano completo con muchos platos) y los aperitivos que se sirven en los callejones de makgeolli (vino de arroz) de la ciudad. A continuación encontrarás los lugares y restaurantes de Jeonbuk que han aparecido en vídeos de viajes y en televisión.</p><h2>Lugares que visitar</h2><h3>Aldea Hanok de Jeonju</h3><p>Para muchos visitantes, aquí empieza el viaje a Jeonju. Puedes probar el <strong>bibimbap</strong> y todo tipo de <strong>comida callejera</strong>, o alquilar un <strong>hanbok</strong> (traje tradicional coreano) y pasear por sus callejuelas. Aparece en <strong>24 Hours in Jeonju – Hanok Village &amp; Best Bibimbap</strong>, un vídeo de viaje que recorre la ciudad en un día, y en <strong>Korean Street Food at Jeonju Hanok Village</strong>, centrado en los tentempiés que se venden por la aldea.</p><h3>Santuario Gyeonggijeon</h3><p>Un lugar histórico que guarda el retrato real del rey Taejo, fundador de la dinastía Joseon. Es una buena forma de añadir algo de historia entre comida y comida. El santuario apareció en el programa de variedades coreano <strong>Welcome, First Time in Korea?</strong> (어서와 한국은 처음이지), en el episodio 266, en el que cuatro hermanos de Nueva Zelanda visitaron Jeonju, disfrutaron de un hanjeongsik y recorrieron Gyeonggijeon.</p><h3>Sigol Sundae (Jinan)</h3><p>Situado en el condado de Jinan y no en Jeonju, este restaurante sirve <strong>sundae gukbap</strong>, una sopa contundente con morcilla coreana y arroz. Es conocido por <strong>abrir solo unas tres horas al día</strong>. Apareció en el episodio 14 (Jinan) del <strong>programa de mercados de Paik Jong-won</strong> (백종원의 님아 그 시장을 가오), dedicado a un local de gukbap que abre apenas tres horas diarias.</p><h2>Cómo moverse</h2><p>La Aldea Hanok de Jeonju y el santuario Gyeonggijeon se combinan bien a pie, así que un plan sencillo es comer bibimbap o comida callejera en la aldea y después visitar el santuario. Sigol Sundae está en Jinan, una zona distinta de Jeonju, y su horario es muy corto: consulta el horario antes de ir, calcula tiempo de sobra para el trayecto y plantéatelo como una excursión aparte en lugar de intentar encajarlo en tu día en Jeonju.</p>",
+    "fr": "<h2>Le Jeonbuk : une région qui se découvre par la cuisine</h2><p>Jeonju, cœur de la province du Jeonbuk, est une Ville créative de la gastronomie de l'UNESCO et abrite le célèbre village hanok, un quartier de maisons coréennes traditionnelles. La cuisine tient une grande place dans tout séjour ici : le bibimbap de Jeonju, le tteokgalbi (galettes de côtes de bœuf grillées), le hanjeongsik (un repas coréen complet servi en multiples plats) et les amuse-bouches servis dans les ruelles à makgeolli (vin de riz) de la ville. Voici les lieux et restaurants du Jeonbuk apparus dans des vidéos de voyage et des émissions télé.</p><h2>Lieux à visiter</h2><h3>Village hanok de Jeonju</h3><p>Pour beaucoup de visiteurs, c'est là que commence un voyage à Jeonju. On peut y goûter le <strong>bibimbap</strong> et toutes sortes de <strong>street food</strong>, ou louer un <strong>hanbok</strong> (tenue traditionnelle coréenne) pour flâner dans les ruelles. Le village apparaît dans <strong>24 Hours in Jeonju – Hanok Village &amp; Best Bibimbap</strong>, une vidéo de voyage qui suit une journée en ville, et dans <strong>Korean Street Food at Jeonju Hanok Village</strong>, consacrée aux en-cas vendus dans le quartier.</p><h3>Sanctuaire Gyeonggijeon</h3><p>Ce site historique abrite le portrait royal du roi Taejo, fondateur de la dynastie Joseon. Une bonne façon d'ajouter un peu d'histoire entre deux repas. Le sanctuaire est apparu dans l'émission de variétés coréenne <strong>Welcome, First Time in Korea?</strong> (어서와 한국은 처음이지), dans l'épisode 266, où quatre frères néo-zélandais visitaient Jeonju, savouraient un hanjeongsik et découvraient Gyeonggijeon.</p><h3>Sigol Sundae (Jinan)</h3><p>Situé dans le district de Jinan et non à Jeonju, ce restaurant sert du <strong>sundae gukbap</strong>, une soupe copieuse au boudin coréen accompagnée de riz. Il est connu pour n'être <strong>ouvert qu'environ trois heures par jour</strong>. Il a été présenté dans l'épisode 14 (Jinan) de <strong>l'émission de Paik Jong-won consacrée aux marchés</strong> (백종원의 님아 그 시장을 가오), dans un épisode sur une adresse de gukbap ouverte seulement trois heures par jour.</p><h2>Se déplacer</h2><p>Le village hanok de Jeonju et le sanctuaire Gyeonggijeon se visitent facilement à pied : un programme simple consiste à manger un bibimbap ou de la street food dans le village, puis à visiter le sanctuaire. Sigol Sundae se trouve à Jinan, une zone distincte de Jeonju, et ses horaires d'ouverture sont courts : vérifiez-les avant de partir, prévoyez largement le temps de trajet et envisagez d'en faire une sortie à part plutôt que de l'intégrer à votre journée à Jeonju.</p>",
+    "de": "<h2>Jeonbuk: Eine Region, die man über das Essen in Erinnerung behält</h2><p>Jeonju, das Herz der Provinz Jeonbuk, ist eine UNESCO-Stadt der Gastronomie und Heimat des bekannten Hanok-Dorfs, eines Viertels mit traditionellen koreanischen Häusern. Essen spielt bei jeder Reise hierher eine große Rolle: Jeonju-Bibimbap, Tteokgalbi (gegrillte Patties aus Rippenfleisch), Hanjeongsik (ein komplettes koreanisches Menü mit vielen Gerichten) und die Snacks, die in den Makgeolli-Gassen (Reiswein) der Stadt serviert werden. Im Folgenden findest du die Orte und Restaurants in Jeonbuk, die in Reise- und TV-Videos vorkamen.</p><h2>Sehenswürdigkeiten</h2><h3>Hanok-Dorf Jeonju</h3><p>Für viele Besucher beginnt hier die Reise nach Jeonju. Du kannst <strong>Bibimbap</strong> und allerlei <strong>Streetfood</strong> probieren oder einen <strong>Hanbok</strong> (traditionelle koreanische Kleidung) ausleihen und durch die Gassen schlendern. Das Dorf ist in <strong>24 Hours in Jeonju – Hanok Village &amp; Best Bibimbap</strong> zu sehen, einem Reisevideo über einen Tag in der Stadt, sowie in <strong>Korean Street Food at Jeonju Hanok Village</strong>, das sich auf die Snacks rund um das Dorf konzentriert.</p><h3>Gyeonggijeon-Schrein</h3><p>Eine historische Stätte, in der das königliche Porträt von König Taejo, dem Gründer der Joseon-Dynastie, aufbewahrt wird. Eine gute Gelegenheit, zwischen den Mahlzeiten etwas Geschichte einzubauen. Der Schrein war in der koreanischen Unterhaltungsshow <strong>Welcome, First Time in Korea?</strong> (어서와 한국은 처음이지) zu sehen, und zwar in Folge 266, in der vier Brüder aus Neuseeland Jeonju besuchten, Hanjeongsik genossen und Gyeonggijeon besichtigten.</p><h3>Sigol Sundae (Jinan)</h3><p>Dieses Restaurant liegt nicht in Jeonju, sondern im Landkreis Jinan, und serviert <strong>Sundae-Gukbap</strong>, eine herzhafte Suppe mit koreanischer Blutwurst und Reis. Bekannt ist es dafür, dass es <strong>nur etwa drei Stunden am Tag geöffnet</strong> hat. Es wurde in Folge 14 (Jinan) von <strong>Paik Jong-wons Marktsendung</strong> (백종원의 님아 그 시장을 가오) vorgestellt, in einer Folge über ein Gukbap-Lokal, das täglich nur drei Stunden öffnet.</p><h2>Unterwegs</h2><p>Das Hanok-Dorf Jeonju und der Gyeonggijeon-Schrein lassen sich gut zu Fuß verbinden. Ein einfacher Plan: im Dorf Bibimbap oder Streetfood essen und danach den Schrein besuchen. Sigol Sundae liegt in Jinan, einer von Jeonju getrennten Gegend, und die Öffnungszeit ist kurz. Prüfe daher vorher die Öffnungszeiten, plane reichlich Fahrzeit ein und mach am besten einen eigenen Ausflug daraus, statt es noch in deinen Tag in Jeonju zu quetschen.</p>",
+    "vi": "<h2>Jeonbuk: Vùng đất được nhớ đến qua ẩm thực</h2><p>Jeonju, trung tâm của tỉnh Jeonbuk, là Thành phố Sáng tạo Ẩm thực của UNESCO và nổi tiếng với Làng Hanok, khu phố gồm những ngôi nhà truyền thống Hàn Quốc. Ăn uống là một phần quan trọng của mọi chuyến đi đến đây: cơm trộn bibimbap Jeonju, tteokgalbi (chả sườn bò nướng), hanjeongsik (mâm cơm Hàn Quốc đầy đủ nhiều món) và các món nhắm ở những con hẻm makgeolli (rượu gạo) của thành phố. Dưới đây là những địa điểm và quán ăn ở Jeonbuk từng xuất hiện trong các video du lịch và chương trình truyền hình.</p><h2>Địa điểm nên ghé</h2><h3>Làng Hanok Jeonju</h3><p>Với nhiều du khách, đây là điểm khởi đầu của chuyến đi Jeonju. Bạn có thể thưởng thức <strong>bibimbap</strong> và đủ loại <strong>đồ ăn đường phố</strong>, hoặc thuê <strong>hanbok</strong> (trang phục truyền thống Hàn Quốc) để dạo quanh các con ngõ. Nơi này xuất hiện trong <strong>24 Hours in Jeonju – Hanok Village &amp; Best Bibimbap</strong>, video du lịch về một ngày ở thành phố, và trong <strong>Korean Street Food at Jeonju Hanok Village</strong>, video tập trung vào các món ăn vặt bán quanh làng.</p><h3>Điện Gyeongijeon</h3><p>Di tích lịch sử thờ ngự dung (chân dung) của vua Thái Tổ, người sáng lập triều đại Joseon. Đây là cách hay để xen chút lịch sử giữa các bữa ăn. Điện từng xuất hiện trong chương trình tạp kỹ Hàn Quốc <strong>Welcome, First Time in Korea?</strong> (어서와 한국은 처음이지), tập 266, khi bốn anh em đến từ New Zealand ghé Jeonju, thưởng thức hanjeongsik và tham quan Gyeongijeon.</p><h3>Sigol Sundae (Jinan)</h3><p>Nằm ở huyện Jinan chứ không phải Jeonju, quán phục vụ <strong>sundae gukbap</strong>, món canh đậm đà với dồi Hàn Quốc ăn cùng cơm. Quán nổi tiếng vì <strong>chỉ mở cửa khoảng ba tiếng mỗi ngày</strong>. Quán xuất hiện trong tập 14 (Jinan) của <strong>chương trình về chợ của Paik Jong-won</strong> (백종원의 님아 그 시장을 가오), trong tập nói về một quán gukbap chỉ mở cửa ba tiếng mỗi ngày.</p><h2>Di chuyển</h2><p>Làng Hanok Jeonju và điện Gyeongijeon có thể kết hợp đi bộ, nên một lịch trình đơn giản là ăn bibimbap hoặc đồ ăn đường phố trong làng rồi ghé điện. Sigol Sundae nằm ở Jinan, khu vực tách biệt với Jeonju, và thời gian mở cửa ngắn, vì vậy hãy kiểm tra giờ mở cửa trước khi đi, dành nhiều thời gian di chuyển và cân nhắc đi riêng một chuyến thay vì cố nhét vào ngày tham quan Jeonju.</p>",
+    "th": "<h2>จอนบุก: ดินแดนที่คนจดจำผ่านอาหาร</h2><p>จอนจู หัวใจของจังหวัดจอลลาบุกโด (จอนบุก) ได้รับการยกย่องจากยูเนสโกให้เป็นเมืองสร้างสรรค์ด้านอาหาร และยังเป็นที่ตั้งของหมู่บ้านฮันอกอันโด่งดัง ซึ่งเป็นย่านบ้านเรือนแบบเกาหลีดั้งเดิม อาหารถือเป็นส่วนสำคัญของการมาเที่ยวที่นี่ ไม่ว่าจะเป็นบิบิมบับจอนจู ต็อกกาลบี (เนื้อซี่โครงสับปั้นย่าง) ฮันจองชิก (สำรับอาหารเกาหลีแบบเต็มชุด) และกับแกล้มที่เสิร์ฟในตรอกมักกอลลี (เหล้าข้าวเกาหลี) ของเมือง ด้านล่างนี้คือสถานที่และร้านอาหารในจอนบุกที่เคยปรากฏในวิดีโอท่องเที่ยวและรายการทีวี</p><h2>สถานที่น่าแวะ</h2><h3>หมู่บ้านฮันอกจอนจู</h3><p>สำหรับนักท่องเที่ยวหลายคน ที่นี่คือจุดเริ่มต้นของทริปจอนจู คุณสามารถลิ้มลอง<strong>บิบิมบับ</strong>และ<strong>สตรีทฟู้ด</strong>หลากหลายชนิด หรือเช่า<strong>ฮันบก</strong> (ชุดประจำชาติเกาหลี) มาเดินเล่นตามตรอกซอย หมู่บ้านนี้ปรากฏในวิดีโอท่องเที่ยวแบบใช้ชีวิตหนึ่งวันในเมือง <strong>24 Hours in Jeonju – Hanok Village &amp; Best Bibimbap</strong> และใน <strong>Korean Street Food at Jeonju Hanok Village</strong> ซึ่งเน้นของกินที่ขายรอบหมู่บ้าน</p><h3>ศาลเจ้าคยองกีจอน</h3><p>โบราณสถานที่ประดิษฐานพระบรมสาทิสลักษณ์ของพระเจ้าแทโจ ปฐมกษัตริย์แห่งราชวงศ์โชซอน เหมาะสำหรับแวะเติมความรู้ด้านประวัติศาสตร์ระหว่างมื้ออาหาร ศาลเจ้าแห่งนี้เคยปรากฏในรายการวาไรตี้เกาหลี <strong>Welcome, First Time in Korea?</strong> (어서와 한국은 처음이지) ตอนที่ 266 ซึ่งสี่พี่น้องจากนิวซีแลนด์มาเที่ยวจอนจู ได้ลิ้มรสฮันจองชิก และเที่ยวชมคยองกีจอน</p><h3>ชีกลซุนแด (จินอัน)</h3><p>ร้านนี้ตั้งอยู่ในอำเภอจินอัน ไม่ใช่ในจอนจู เสิร์ฟ<strong>ซุนแดกุกบับ</strong> ซุปร้อนๆ อิ่มท้องที่ใส่ไส้กรอกเลือดแบบเกาหลีกับข้าว ร้านขึ้นชื่อว่า<strong>เปิดเพียงวันละประมาณ 3 ชั่วโมง</strong> เคยปรากฏในตอนที่ 14 (จินอัน) ของ<strong>รายการตลาดของแพ็กจงวอน</strong> (백종원의 님아 그 시장을 가오) ในตอนที่พูดถึงร้านกุกบับที่เปิดเพียงวันละ 3 ชั่วโมง</p><h2>การเดินทาง</h2><p>หมู่บ้านฮันอกจอนจูและศาลเจ้าคยองกีจอนอยู่ใกล้กัน เดินเที่ยวต่อกันได้สะดวก แผนง่ายๆ คือกินบิบิมบับหรือสตรีทฟู้ดในหมู่บ้านก่อน แล้วค่อยไปชมศาลเจ้า ส่วนชีกลซุนแดอยู่ที่จินอันซึ่งเป็นคนละพื้นที่กับจอนจู และเปิดในช่วงเวลาสั้นๆ จึงควรเช็กเวลาเปิดก่อนไป เผื่อเวลาเดินทางให้เพียงพอ และอาจแยกไปเป็นอีกทริปหนึ่งแทนที่จะเบียดเข้าไปในวันเที่ยวจอนจู</p>",
+    "id": "<h2>Jeonbuk: Daerah yang Dikenang Lewat Makanannya</h2><p>Jeonju, jantung Provinsi Jeonbuk, adalah Kota Gastronomi UNESCO sekaligus rumah bagi Desa Hanok yang terkenal, kawasan berisi rumah-rumah tradisional Korea. Makanan menjadi bagian penting dari setiap perjalanan ke sini: bibimbap Jeonju, tteokgalbi (patty iga sapi panggang), hanjeongsik (hidangan lengkap ala Korea dalam satu meja), serta camilan yang disajikan di gang-gang makgeolli (arak beras) di kota ini. Berikut tempat wisata dan restoran di Jeonbuk yang pernah tampil dalam video perjalanan dan acara TV.</p><h2>Tempat yang Bisa Dikunjungi</h2><h3>Desa Hanok Jeonju</h3><p>Bagi banyak wisatawan, perjalanan ke Jeonju dimulai dari sini. Anda bisa mencicipi <strong>bibimbap</strong> dan beragam <strong>jajanan kaki lima</strong>, atau menyewa <strong>hanbok</strong> (pakaian tradisional Korea) lalu berjalan-jalan menyusuri gang-gangnya. Tempat ini muncul di <strong>24 Hours in Jeonju – Hanok Village &amp; Best Bibimbap</strong>, video perjalanan sehari di kota ini, dan di <strong>Korean Street Food at Jeonju Hanok Village</strong>, yang berfokus pada jajanan yang dijual di sekitar desa.</p><h3>Kuil Gyeonggijeon</h3><p>Situs bersejarah tempat disemayamkannya potret Raja Taejo, pendiri Dinasti Joseon. Cocok untuk menyelipkan sedikit sejarah di sela-sela waktu makan. Kuil ini tampil dalam acara varietas Korea <strong>Welcome, First Time in Korea?</strong> (어서와 한국은 처음이지) episode 266, ketika empat bersaudara dari Selandia Baru mengunjungi Jeonju, menikmati hanjeongsik, dan berkeliling Gyeonggijeon.</p><h3>Sigol Sundae (Jinan)</h3><p>Berlokasi di Kabupaten Jinan, bukan di Jeonju, restoran ini menyajikan <strong>sundae gukbap</strong>, sup mengenyangkan berisi sosis darah Korea dan nasi. Tempat ini dikenal karena <strong>hanya buka sekitar tiga jam sehari</strong>. Restoran ini tampil di episode 14 (Jinan) <strong>acara pasar Paik Jong-won</strong> (백종원의 님아 그 시장을 가오), dalam episode tentang kedai gukbap yang hanya buka tiga jam setiap hari.</p><h2>Tips Berkeliling</h2><p>Desa Hanok Jeonju dan Kuil Gyeonggijeon mudah dijelajahi dengan berjalan kaki, jadi salah satu rencana sederhana adalah makan bibimbap atau jajanan di desa lalu mengunjungi kuil. Sigol Sundae berada di Jinan, daerah yang terpisah dari Jeonju, dan jam bukanya singkat. Jadi, cek jam bukanya sebelum berangkat, sediakan waktu perjalanan yang cukup, dan sebaiknya jadikan kunjungan tersendiri daripada memaksakannya masuk ke jadwal hari Anda di Jeonju.</p>",
+    "ru": "<h2>Чолла-Пукто: регион, который запоминается по еде</h2><p>Чонджу — сердце провинции Чолла-Пукто, город гастрономии ЮНЕСКО и место, где находится знаменитая ханок-деревня — квартал традиционных корейских домов. Еда здесь — важная часть любой поездки: чонджуский пибимпап, ттоккальби (котлеты из рубленых говяжьих рёбрышек на гриле), ханджоншик (полноценный корейский стол из множества блюд) и закуски, которые подают в макколли-переулках города (макколли — рисовое вино). Ниже — места и рестораны Чолла-Пукто, появлявшиеся в тревел-видео и на телевидении.</p><h2>Что посетить</h2><h3>Ханок-деревня Чонджу</h3><p>Для многих путешественников знакомство с Чонджу начинается именно здесь. Можно попробовать <strong>пибимпап</strong> и самую разную <strong>уличную еду</strong> или взять напрокат <strong>ханбок</strong> (традиционную корейскую одежду) и прогуляться по улочкам. Деревня показана в видео <strong>24 Hours in Jeonju – Hanok Village &amp; Best Bibimbap</strong> о дне в городе и в ролике <strong>Korean Street Food at Jeonju Hanok Village</strong>, посвящённом закускам, которые продают в деревне.</p><h3>Святилище Кёнгиджон</h3><p>Историческое место, где хранится королевский портрет Тхэджо — основателя династии Чосон. Хороший способ разбавить гастрономическую программу историей. Святилище появилось в корейском развлекательном шоу <strong>Welcome, First Time in Korea?</strong> (어서와 한국은 처음이지): в 266-м выпуске четверо братьев из Новой Зеландии приехали в Чонджу, попробовали ханджоншик и осмотрели Кёнгиджон.</p><h3>«Сиголь сундэ» (Чинан)</h3><p>Этот ресторан находится не в Чонджу, а в уезде Чинан. Здесь подают <strong>сундэ-кукпап</strong> — сытный суп с корейской кровяной колбасой и рисом. Заведение известно тем, что <strong>открыто всего около трёх часов в день</strong>. Оно попало в 14-й выпуск (Чинан) <strong>рыночного шоу Пэк Чон Вона</strong> (백종원의 님아 그 시장을 가오) — эпизод о кукпап-заведении, которое работает лишь три часа в сутки.</p><h2>Как спланировать маршрут</h2><p>Ханок-деревню и святилище Кёнгиджон удобно обойти пешком: например, съесть пибимпап или уличную еду в деревне, а затем зайти в святилище. «Сиголь сундэ» находится в Чинане, отдельно от Чонджу, и работает недолго, поэтому заранее уточните часы работы, заложите достаточно времени на дорогу и лучше выделите на него отдельную поездку, а не втискивайте в день в Чонджу.</p>"
   },
   "places": [
     {
@@ -54,5 +84,147 @@
       "id": "SVz1zNuyOyA",
       "title": "[EP.14 진안] 하루 딱 3시간만 영업하는 순대국밥집"
     }
-  ]
+  ],
+  "placesI18n": {
+    "ja": [
+      {
+        "name": "全州韓屋村",
+        "menu": "ビビンバ、屋台グルメ、韓服"
+      },
+      {
+        "name": "シゴルスンデ（鎮安）",
+        "menu": "スンデクッパ（1日約3時間のみ営業）"
+      },
+      {
+        "name": "慶基殿",
+        "menu": "朝鮮時代の歴史ある史跡"
+      }
+    ],
+    "zh-Hans": [
+      {
+        "name": "全州韩屋村",
+        "menu": "拌饭、街头小吃、韩服体验"
+      },
+      {
+        "name": "乡村血肠（镇安）",
+        "menu": "血肠汤饭（每天仅营业约3小时）"
+      },
+      {
+        "name": "庆基殿",
+        "menu": "朝鲜时代历史遗迹"
+      }
+    ],
+    "zh-Hant": [
+      {
+        "name": "全州韓屋村",
+        "menu": "拌飯、街頭小吃、韓服"
+      },
+      {
+        "name": "鄉村血腸（鎮安）",
+        "menu": "血腸湯飯（每天只營業約3小時）"
+      },
+      {
+        "name": "慶基殿",
+        "menu": "朝鮮時代歷史古蹟"
+      }
+    ],
+    "es": [
+      {
+        "name": "Aldea Hanok de Jeonju (전주 한옥마을)",
+        "menu": "Bibimbap, comida callejera, hanbok"
+      },
+      {
+        "name": "Sigol Sundae (Jinan) (시골순대 진안)",
+        "menu": "Sundae gukbap (abre unas 3 horas al día)"
+      },
+      {
+        "name": "Santuario Gyeonggijeon (경기전)",
+        "menu": "Santuario histórico de la época Joseon"
+      }
+    ],
+    "fr": [
+      {
+        "name": "Village hanok de Jeonju",
+        "menu": "Bibimbap, street food, hanbok"
+      },
+      {
+        "name": "Sigol Sundae (Jinan)",
+        "menu": "Sundae gukbap (ouvert env. 3 h par jour)"
+      },
+      {
+        "name": "Sanctuaire Gyeonggijeon",
+        "menu": "Sanctuaire historique de l'époque Joseon"
+      }
+    ],
+    "de": [
+      {
+        "name": "Hanok-Dorf Jeonju (전주 한옥마을)",
+        "menu": "Bibimbap, Streetfood, Hanbok"
+      },
+      {
+        "name": "Sigol Sundae (Jinan) (시골순대)",
+        "menu": "Sundae-Gukbap (nur ca. 3 Std. am Tag geöffnet)"
+      },
+      {
+        "name": "Gyeonggijeon-Schrein (경기전)",
+        "menu": "Historischer Schrein aus der Joseon-Zeit"
+      }
+    ],
+    "vi": [
+      {
+        "name": "Làng Hanok Jeonju (전주 한옥마을)",
+        "menu": "Bibimbap, đồ ăn đường phố, thuê hanbok"
+      },
+      {
+        "name": "Sigol Sundae (Jinan) (시골순대 진안)",
+        "menu": "Sundae gukbap (mở cửa khoảng 3 tiếng mỗi ngày)"
+      },
+      {
+        "name": "Điện Gyeongijeon (경기전)",
+        "menu": "Di tích lịch sử thời Joseon"
+      }
+    ],
+    "th": [
+      {
+        "name": "หมู่บ้านฮันอกจอนจู",
+        "menu": "บิบิมบับ สตรีทฟู้ด เช่าชุดฮันบก"
+      },
+      {
+        "name": "ชีกลซุนแด (จินอัน)",
+        "menu": "ซุนแดกุกบับ (เปิดวันละประมาณ 3 ชั่วโมง)"
+      },
+      {
+        "name": "ศาลเจ้าคยองกีจอน",
+        "menu": "ศาลเจ้าเก่าแก่สมัยราชวงศ์โชซอน"
+      }
+    ],
+    "id": [
+      {
+        "name": "Desa Hanok Jeonju",
+        "menu": "Bibimbap, jajanan kaki lima, hanbok"
+      },
+      {
+        "name": "Sigol Sundae (Jinan)",
+        "menu": "Sundae gukbap (buka sekitar 3 jam sehari)"
+      },
+      {
+        "name": "Kuil Gyeonggijeon",
+        "menu": "Kuil bersejarah era Joseon"
+      }
+    ],
+    "ru": [
+      {
+        "name": "Ханок-деревня Чонджу (전주 한옥마을)",
+        "menu": "Пибимпап, уличная еда, ханбок"
+      },
+      {
+        "name": "«Сиголь сундэ» (Чинан) (시골순대 (진안))",
+        "menu": "Сундэ-кукпап (открыто около 3 часов в день)"
+      },
+      {
+        "name": "Святилище Кёнгиджон (경기전)",
+        "menu": "Историческое святилище эпохи Чосон"
+      }
+    ]
+  }
 }

@@ -5,11 +5,31 @@
     "region": "seoul",
     "title": {
       "ko": "서울 영상 속 맛집·명소: 광장시장부터 남산서울타워까지",
-      "en": "Seoul on Screen: Food Spots and Sights from Gwangjang Market to N Seoul Tower"
+      "en": "Seoul on Screen: Food Spots and Sights from Gwangjang Market to N Seoul Tower",
+      "ja": "映像で見るソウル：広蔵市場からNソウルタワーまで、グルメと名所",
+      "zh-Hans": "镜头里的首尔：从广藏市场到N首尔塔的美食与景点",
+      "zh-Hant": "影片裡的首爾：從廣藏市場到N首爾塔的美食與景點",
+      "es": "Seúl en pantalla: dónde comer y qué ver, del Mercado de Gwangjang a la N Seoul Tower",
+      "fr": "Séoul à l'écran : adresses gourmandes et sites incontournables, du marché de Gwangjang à la N Seoul Tower",
+      "de": "Seoul auf dem Bildschirm: Food-Spots und Sehenswürdigkeiten vom Gwangjang-Markt bis zum N Seoul Tower",
+      "vi": "Seoul trên màn ảnh: Quán ăn và điểm tham quan từ chợ Gwangjang đến tháp N Seoul",
+      "th": "โซลในจอ: ร้านอร่อยและที่เที่ยวจากตลาดควังจังถึงหอคอยเอ็นโซล",
+      "id": "Seoul di Layar: Tempat Makan dan Wisata dari Pasar Gwangjang hingga N Seoul Tower",
+      "ru": "Сеул на экране: где поесть и что посмотреть — от рынка Кванджан до башни N Seoul Tower"
     },
     "summary": {
       "ko": "광장시장의 빈대떡과 육회, 노량진수산시장의 모듬회와 해물라면, 경복궁·남산서울타워·봉은사·국립민속박물관까지 여행 영상과 '어서와 한국은 처음이지'에 나온 서울의 장소를 정리했습니다.",
-      "en": "From bindaetteok and yukhoe at Gwangjang Market to sashimi and seafood ramyeon at Noryangjin, plus Gyeongbokgung, N Seoul Tower, Bongeunsa and the National Folk Museum: Seoul places featured in travel videos and the Korean show 'Welcome, First Time in Korea?'"
+      "en": "From bindaetteok and yukhoe at Gwangjang Market to sashimi and seafood ramyeon at Noryangjin, plus Gyeongbokgung, N Seoul Tower, Bongeunsa and the National Folk Museum: Seoul places featured in travel videos and the Korean show 'Welcome, First Time in Korea?'",
+      "ja": "広蔵市場のピンデトックとユッケ、鷺梁津水産市場の刺身盛り合わせと海鮮ラーメン、さらに景福宮・Nソウルタワー・奉恩寺・国立民俗博物館まで。旅行動画や韓国のバラエティ番組『ようこそ、韓国は初めてだよね？』に登場したソウルのスポットをまとめました。",
+      "zh-Hans": "从广藏市场的绿豆煎饼和生拌牛肉，到鹭梁津的生鱼片和海鲜拉面，再到景福宫、N首尔塔、奉恩寺和国立民俗博物馆——整理了旅行视频和韩国综艺《欢迎来到韩国》（어서와 한국은 처음이지）中出现过的首尔地点。",
+      "zh-Hant": "從廣藏市場的綠豆煎餅、生拌牛肉，到鷺梁津水產市場的生魚片拼盤與海鮮拉麵，再加上景福宮、N首爾塔、奉恩寺與國立民俗博物館：整理旅遊影片與韓國綜藝《歡迎第一次來韓國吧？》中出現過的首爾景點。",
+      "es": "Del bindaetteok y el yukhoe del Mercado de Gwangjang al sashimi y el ramyeon de marisco de Noryangjin, pasando por Gyeongbokgung, la N Seoul Tower, Bongeunsa y el Museo Nacional del Folclore: lugares de Seúl que aparecen en vídeos de viajes y en el programa coreano 'Welcome, First Time in Korea?'.",
+      "fr": "Du bindaetteok et du yukhoe du marché de Gwangjang aux sashimis et ramyeon aux fruits de mer de Noryangjin, en passant par le palais Gyeongbokgung, la N Seoul Tower, le temple Bongeunsa et le Musée national du folklore : les lieux de Séoul vus dans des vidéos de voyage et dans l'émission coréenne « Welcome, First Time in Korea? ».",
+      "de": "Von Bindaetteok und Yukhoe auf dem Gwangjang-Markt über Sashimi und Meeresfrüchte-Ramyeon in Noryangjin bis zu Gyeongbokgung, N Seoul Tower, Bongeunsa und dem Nationalen Volkskundemuseum: Orte in Seoul, die in Reisevideos und in der koreanischen Sendung „Welcome, First Time in Korea?“ zu sehen waren.",
+      "vi": "Từ bánh bindaetteok và yukhoe ở chợ Gwangjang đến sashimi và mì ramyeon hải sản ở Noryangjin, cùng cung Gyeongbokgung, tháp N Seoul, chùa Bongeunsa và Bảo tàng Dân gian Quốc gia: những địa điểm ở Seoul xuất hiện trong các video du lịch và chương trình truyền hình Hàn Quốc 'Welcome, First Time in Korea?'",
+      "th": "ตั้งแต่บินแดต็อกและยุกฮเวที่ตลาดควังจัง ซาซิมิและรามยอนทะเลที่ตลาดปลาโนรยางจิน ไปจนถึงพระราชวังคยองบกกุง หอคอยเอ็นโซล วัดบงอึนซา และพิพิธภัณฑ์พื้นบ้านแห่งชาติ รวมสถานที่ในโซลที่ปรากฏในวิดีโอท่องเที่ยวและรายการเกาหลี 'Welcome, First Time in Korea?'",
+      "id": "Dari bindaetteok dan yukhoe di Pasar Gwangjang hingga sashimi dan ramyeon seafood di Noryangjin, ditambah Istana Gyeongbokgung, N Seoul Tower, Kuil Bongeunsa, dan Museum Rakyat Nasional: tempat-tempat di Seoul yang tampil di video perjalanan dan acara Korea 'Welcome, First Time in Korea?'",
+      "ru": "Пиндэтток и юкхве на рынке Кванджан, сашими и рамён с морепродуктами на Норянджине, а также дворец Кёнбоккун, башня N Seoul Tower, храм Понъынса и Национальный фольклорный музей — места Сеула, которые показывали в тревел-видео и корейском шоу «Welcome, First Time in Korea?»."
     },
     "cover": "2rz-TU7154k",
     "videos": [
@@ -33,11 +53,31 @@
     "region": "jeonnam",
     "title": {
       "ko": "전남 영상 속 맛집·명소: 목포 돌집식당과 곡성 석곡 전통 시장",
-      "en": "Jeonnam on Screen: Doljip Sikdang in Mokpo and Seokgok Traditional Market in Gokseong"
+      "en": "Jeonnam on Screen: Doljip Sikdang in Mokpo and Seokgok Traditional Market in Gokseong",
+      "ja": "映像で巡る全羅南道：木浦「トルチプ食堂」と谷城「石谷伝統市場」",
+      "zh-Hans": "荧屏上的全南：木浦石屋食堂与谷城石谷传统市场",
+      "zh-Hant": "螢幕上的全南：木浦石屋食堂與谷城石谷傳統市場",
+      "es": "Jeonnam en pantalla: Doljip Sikdang en Mokpo y el Mercado Tradicional de Seokgok en Gokseong",
+      "fr": "Le Jeonnam à l'écran : Doljip Sikdang à Mokpo et le marché traditionnel de Seokgok à Gokseong",
+      "de": "Jeonnam im Fernsehen: Doljip Sikdang in Mokpo und der traditionelle Markt Seokgok in Gokseong",
+      "vi": "Jeonnam qua màn ảnh: Doljip Sikdang ở Mokpo và chợ truyền thống Seokgok ở Gokseong",
+      "th": "จอนนัมในจอทีวี: ร้านทลจิพชิกดัง เมืองมกโพ และตลาดดั้งเดิมซอกก๊ก เมืองก๊กซอง",
+      "id": "Jeonnam di Layar Kaca: Doljip Sikdang di Mokpo dan Pasar Tradisional Seokgok di Gokseong",
+      "ru": "Чолла-Намдо на экране: ресторан Тольчип Сиктан в Мокпхо и традиционный рынок Сокгок в Коксоне"
     },
     "summary": {
       "ko": "허영만의 백반기행에 나온 목포 돌집식당의 반찬 17가지 백반, 백종원의 님아 그 시장을 가오 첫 회 배경이 된 곡성 석곡 전통 시장을 소개합니다.",
-      "en": "A look at Doljip Sikdang in Mokpo, known for its 17-side-dish baekban from Heo Young-man's food show, and Seokgok Traditional Market in Gokseong, featured in the first episode of Baek Jong-won's market series."
+      "en": "A look at Doljip Sikdang in Mokpo, known for its 17-side-dish baekban from Heo Young-man's food show, and Seokgok Traditional Market in Gokseong, featured in the first episode of Baek Jong-won's market series.",
+      "ja": "ホ・ヨンマンのグルメ番組に登場した、おかず17品のペッパンで知られる木浦のトルチプ食堂と、ペク・ジョンウォンの市場シリーズ第1話の舞台となった谷城の石谷伝統市場を紹介します。",
+      "zh-Hans": "介绍因许英万美食节目而闻名、提供17道小菜白饭套餐的木浦石屋食堂（돌집식당），以及白钟元市场系列节目第一集取景地——谷城石谷传统市场。",
+      "zh-Hant": "介紹因許英萬美食節目而聞名、有17道小菜白飯套餐的木浦石屋食堂（돌집식당），以及白種元市場系列節目第一集的舞台——谷城石谷傳統市場。",
+      "es": "Un vistazo a Doljip Sikdang, en Mokpo, conocido por su baekban de 17 guarniciones que apareció en el programa gastronómico de Heo Young-man, y al Mercado Tradicional de Seokgok, en Gokseong, escenario del primer episodio de la serie sobre mercados de Baek Jong-won.",
+      "fr": "Zoom sur Doljip Sikdang à Mokpo, connu pour son baekban à 17 accompagnements vu dans l'émission culinaire de Heo Young-man, et sur le marché traditionnel de Seokgok à Gokseong, présenté dans le premier épisode de la série de Baek Jong-won consacrée aux marchés.",
+      "de": "Ein Blick auf das Doljip Sikdang in Mokpo, bekannt für sein Baekban mit 17 Beilagen aus der Food-Sendung von Heo Young-man, und den traditionellen Markt Seokgok in Gokseong, Schauplatz der ersten Folge von Baek Jong-wons Marktreihe.",
+      "vi": "Giới thiệu Doljip Sikdang ở Mokpo, nổi tiếng với mâm cơm baekban 17 món ăn kèm từng xuất hiện trong chương trình ẩm thực của Heo Young-man, và chợ truyền thống Seokgok ở Gokseong, bối cảnh tập đầu tiên trong series về chợ của Baek Jong-won.",
+      "th": "แนะนำร้านทลจิพชิกดังในมกโพ ที่ขึ้นชื่อเรื่องแพ็กบันพร้อมเครื่องเคียง 17 อย่างจากรายการอาหารของฮอยองมัน และตลาดดั้งเดิมซอกก๊กในก๊กซอง ซึ่งเป็นฉากของตอนแรกในรายการตลาดของแบคจงวอน",
+      "id": "Mengenal Doljip Sikdang di Mokpo, yang terkenal dengan baekban 17 lauk dari acara kuliner Heo Young-man, dan Pasar Tradisional Seokgok di Gokseong, yang tampil di episode pertama serial pasar Baek Jong-won.",
+      "ru": "Рассказываем о ресторане Тольчип Сиктан в Мокпхо, известном по кулинарной передаче Хо Ён Мана своим пэкпаном с 17 закусками, и о традиционном рынке Сокгок в Коксоне, где снимали первый выпуск рыночной программы Пэк Чон Вона."
     },
     "cover": "ZoCVb-0NxR8",
     "videos": [
@@ -51,11 +91,31 @@
     "region": "jeonbuk",
     "title": {
       "ko": "전북 영상 속 맛집·명소: 전주 한옥마을, 경기전, 진안 시골순대",
-      "en": "Jeonbuk on Screen: Jeonju Hanok Village, Gyeonggijeon Shrine, and Sigol Sundae in Jinan"
+      "en": "Jeonbuk on Screen: Jeonju Hanok Village, Gyeonggijeon Shrine, and Sigol Sundae in Jinan",
+      "ja": "映像で巡る全北：全州韓屋村、慶基殿、鎮安のシゴルスンデ",
+      "zh-Hans": "影像中的全北：全州韩屋村、庆基殿与镇安乡村血肠汤饭",
+      "zh-Hant": "影片中的全北：全州韓屋村、慶基殿與鎮安「鄉村血腸」",
+      "es": "Jeonbuk en pantalla: la Aldea Hanok de Jeonju, el santuario Gyeonggijeon y Sigol Sundae en Jinan",
+      "fr": "Le Jeonbuk à l'écran : le village hanok de Jeonju, le sanctuaire Gyeonggijeon et Sigol Sundae à Jinan",
+      "de": "Jeonbuk im Video: Hanok-Dorf Jeonju, Gyeonggijeon-Schrein und Sigol Sundae in Jinan",
+      "vi": "Jeonbuk trên màn ảnh: Làng Hanok Jeonju, điện Gyeongijeon và quán Sigol Sundae ở Jinan",
+      "th": "จอนบุกในจอ: หมู่บ้านฮันอกจอนจู ศาลเจ้าคยองกีจอน และร้านชีกลซุนแดที่จินอัน",
+      "id": "Jeonbuk di Layar: Desa Hanok Jeonju, Kuil Gyeonggijeon, dan Sigol Sundae di Jinan",
+      "ru": "Чолла-Пукто на экране: ханок-деревня Чонджу, святилище Кёнгиджон и «Сиголь сундэ» в Чинане"
     },
     "summary": {
       "ko": "유네스코 음식창의도시 전주의 한옥마을과 경기전, 그리고 하루 3시간 남짓만 문을 여는 진안의 순대국밥집까지, 여행·예능 영상에 나온 전북의 장소를 정리했습니다.",
-      "en": "From Jeonju's Hanok Village and Gyeonggijeon Shrine to a sundae gukbap spot in Jinan that opens for only about three hours a day, here are the Jeonbuk places featured in travel and TV videos."
+      "en": "From Jeonju's Hanok Village and Gyeonggijeon Shrine to a sundae gukbap spot in Jinan that opens for only about three hours a day, here are the Jeonbuk places featured in travel and TV videos.",
+      "ja": "全州の韓屋村と慶基殿から、1日わずか3時間ほどしか営業しない鎮安のスンデクッパ店まで、旅行動画やテレビ番組に登場した全北（チョンブク）のスポットを紹介します。",
+      "zh-Hans": "从全州的韩屋村、庆基殿，到镇安一家每天只营业约三小时的血肠汤饭店，这里整理了旅行视频和电视节目中出现过的全北地点。",
+      "zh-Hant": "從全州韓屋村、慶基殿，到鎮安一家每天只營業約三小時的血腸湯飯店，整理出旅遊影片與電視節目中出現過的全北景點與美食。",
+      "es": "Desde la Aldea Hanok y el santuario Gyeonggijeon de Jeonju hasta un local de sundae gukbap en Jinan que abre solo unas tres horas al día, estos son los lugares de Jeonbuk que han aparecido en vídeos de viajes y programas de televisión.",
+      "fr": "Du village hanok de Jeonju et du sanctuaire Gyeonggijeon jusqu'à une adresse de sundae gukbap à Jinan ouverte seulement trois heures environ par jour, voici les lieux du Jeonbuk apparus dans des vidéos de voyage et des émissions télé.",
+      "de": "Vom Hanok-Dorf und dem Gyeonggijeon-Schrein in Jeonju bis zu einem Sundae-Gukbap-Lokal in Jinan, das nur etwa drei Stunden am Tag geöffnet hat: Hier sind die Orte in Jeonbuk, die in Reise- und TV-Videos zu sehen waren.",
+      "vi": "Từ Làng Hanok và điện Gyeongijeon ở Jeonju đến một quán sundae gukbap ở Jinan chỉ mở cửa khoảng ba tiếng mỗi ngày, đây là những địa điểm ở Jeonbuk từng xuất hiện trong các video du lịch và chương trình truyền hình.",
+      "th": "ตั้งแต่หมู่บ้านฮันอกและศาลเจ้าคยองกีจอนในจอนจู ไปจนถึงร้านซุนแดกุกบับที่จินอันซึ่งเปิดเพียงวันละราว 3 ชั่วโมง รวมสถานที่ในจังหวัดจอนบุกที่เคยปรากฏในวิดีโอท่องเที่ยวและรายการทีวี",
+      "id": "Dari Desa Hanok Jeonju dan Kuil Gyeonggijeon hingga kedai sundae gukbap di Jinan yang hanya buka sekitar tiga jam sehari, berikut tempat-tempat di Jeonbuk yang muncul dalam video perjalanan dan acara TV.",
+      "ru": "От ханок-деревни и святилища Кёнгиджон в Чонджу до заведения с сундэ-кукпапом в Чинане, которое открыто всего около трёх часов в день, — места провинции Чолла-Пукто, попавшие в тревел-видео и телепередачи."
     },
     "cover": "YGWFWpd0AjY",
     "videos": [
@@ -71,11 +131,31 @@
     "region": "jeju",
     "title": {
       "ko": "제주 영상 속 맛집·명소: 흑돼지부터 성산일출봉까지",
-      "en": "Jeju Eats and Sights from the Videos: From Black Pork to Sunrise Peak"
+      "en": "Jeju Eats and Sights from the Videos: From Black Pork to Sunrise Peak",
+      "ja": "動画で見る済州島のグルメと名所：黒豚から城山日出峰まで",
+      "zh-Hans": "视频里的济州美食与景点：从黑猪肉到城山日出峰",
+      "zh-Hant": "影片中的濟州美食與景點：從黑豬肉到城山日出峰",
+      "es": "Comida y lugares de Jeju vistos en vídeos: del cerdo negro al Pico del Amanecer",
+      "fr": "Jeju en vidéos : où manger et que voir, du porc noir au pic du Lever du Soleil",
+      "de": "Jeju-Essen und Sehenswürdigkeiten aus den Videos: Vom schwarzen Schwein bis zum Sunrise Peak",
+      "vi": "Ăn gì, chơi gì ở Jeju qua các video du lịch: Từ thịt heo đen đến đỉnh Seongsan Ilchulbong",
+      "th": "ร้านอร่อยและที่เที่ยวเชจูจากคลิปวิดีโอ: ตั้งแต่หมูดำไปจนถึงยอดเขาซองซานอิลชุลบง",
+      "id": "Kuliner dan Tempat Wisata Jeju dari Video: Dari Babi Hitam hingga Seongsan Ilchulbong",
+      "ru": "Еда и достопримечательности Чеджу из видео: от чёрной свинины до пика Сонсан Ильчхульбон"
     },
     "summary": {
       "ko": "여행 영상에 나온 제주의 흑돼지 구잇집과 동문시장, 협재 바다, 용두암, 천제연폭포, 성산일출봉 등을 정리했습니다. 화산섬의 자연과 흑돼지를 함께 즐기는 동선 팁도 담았습니다.",
-      "en": "A roundup of the Jeju spots featured in travel videos, from black pork BBQ and Dongmun Market to Hyeopjae Beach, Yongduam Rock, Cheonjeyeon Waterfall and Seongsan Ilchulbong, plus tips for planning your route."
+      "en": "A roundup of the Jeju spots featured in travel videos, from black pork BBQ and Dongmun Market to Hyeopjae Beach, Yongduam Rock, Cheonjeyeon Waterfall and Seongsan Ilchulbong, plus tips for planning your route.",
+      "ja": "旅行動画に登場した済州島のスポットをまとめました。黒豚焼肉や東門市場から、挟才（ヒョプチェ）の海、龍頭岩、天帝淵瀑布、城山日出峰まで紹介し、ルートづくりのヒントも添えています。",
+      "zh-Hans": "汇总旅行视频中出现的济州去处，从黑猪肉烤肉、东门市场，到挟才海边、龙头岩、天帝渊瀑布和城山日出峰，并附上路线规划建议。",
+      "zh-Hant": "整理旅遊影片中出現的濟州景點，從黑豬肉燒烤、東門市場，到挾才海邊、龍頭岩、天帝淵瀑布與城山日出峰，並附上規劃路線的小建議。",
+      "es": "Un repaso a los lugares de Jeju que aparecen en vídeos de viajes, desde la barbacoa de cerdo negro y el Mercado de Dongmun hasta la playa de Hyeopjae, la roca Yongduam, la cascada de Cheonjeyeon y Seongsan Ilchulbong, con consejos para planificar la ruta.",
+      "fr": "Tour d'horizon des adresses de Jeju vues dans des vidéos de voyage : barbecue de porc noir, marché de Dongmun, plage de Hyeopjae, rocher Yongduam, cascade de Cheonjeyeon et Seongsan Ilchulbong, avec des conseils pour organiser votre itinéraire.",
+      "de": "Ein Überblick über die Jeju-Orte aus Reisevideos – von Black-Pork-BBQ und dem Dongmun-Markt bis zum Hyeopjae-Strand, Yongduam-Felsen, Cheonjeyeon-Wasserfall und Seongsan Ilchulbong, dazu Tipps für die Routenplanung.",
+      "vi": "Tổng hợp những địa điểm ở Jeju xuất hiện trong các video du lịch, từ quán thịt heo đen nướng, chợ Dongmun đến bãi biển Hyeopjae, đá Yongduam, thác Cheonjeyeon và đỉnh Seongsan Ilchulbong, kèm gợi ý lên lộ trình.",
+      "th": "รวมสถานที่ในเชจูที่ปรากฏในคลิปท่องเที่ยว ตั้งแต่ร้านหมูดำย่าง ตลาดทงมุน ไปจนถึงหาดฮยอบแจ หินยงดูอัม น้ำตกชอนเจยอน และซองซานอิลชุลบง พร้อมเคล็ดลับวางเส้นทางเที่ยว",
+      "id": "Rangkuman tempat-tempat di Jeju yang muncul dalam video perjalanan, mulai dari BBQ babi hitam dan Pasar Dongmun hingga Pantai Hyeopjae, Batu Yongduam, Air Terjun Cheonjeyeon, dan Seongsan Ilchulbong, beserta tips menyusun rute perjalanan.",
+      "ru": "Подборка мест на Чеджу, которые появлялись в видео о путешествиях: барбекю из чёрной свинины, рынок Тонмун, пляж Хёпче, скала Ёндуам, водопад Чхонджеён и пик Сонсан Ильчхульбон. Плюс советы, как спланировать маршрут."
     },
     "cover": "stUKYEYBXfU",
     "videos": [
@@ -91,11 +171,31 @@
     "region": "gyeongnam",
     "title": {
       "ko": "경남 영상 속 맛집·명소: 진주냉면부터 진해 벚꽃, 통영 서호시장까지",
-      "en": "Gyeongnam on Screen: Jinju Naengmyeon, Jinhae Cherry Blossoms, Seoho Market and More"
+      "en": "Gyeongnam on Screen: Jinju Naengmyeon, Jinhae Cherry Blossoms, Seoho Market and More",
+      "ja": "映像で見る慶尚南道：晋州冷麺、鎮海の桜、統営・西湖市場ほか",
+      "zh-Hans": "镜头里的庆尚南道：晋州冷面、镇海樱花、西湖市场等",
+      "zh-Hant": "影片中的慶南：晉州冷麵、鎮海櫻花、統營西湖市場等",
+      "es": "Gyeongnam en pantalla: naengmyeon de Jinju, cerezos de Jinhae, mercado Seoho y más",
+      "fr": "Le Gyeongnam à l'écran : naengmyeon de Jinju, cerisiers en fleurs de Jinhae, marché de Seoho et plus encore",
+      "de": "Gyeongnam im Video: Jinju-Naengmyeon, Kirschblüten in Jinhae, Seoho-Markt und mehr",
+      "vi": "Gyeongnam qua màn ảnh: Mì lạnh Jinju, hoa anh đào Jinhae, chợ Seoho và hơn thế nữa",
+      "th": "คย็องนัมในคลิปวิดีโอ: นังมยอนสไตล์จินจู ซากุระชินแฮ ตลาดซอโฮ และอีกมากมาย",
+      "id": "Gyeongnam dalam Video: Jinju Naengmyeon, Bunga Sakura Jinhae, Pasar Seoho, dan Lainnya",
+      "ru": "Кённам на экране: чинджуский нэнмён, сакура в Чинхэ, рынок Сохо и не только"
     },
     "summary": {
       "ko": "영상에 소개된 경남의 맛집과 명소 다섯 곳을 정리했습니다. 진주냉면, 함양 대구뽈찜, 통영 서호시장 시락국 백반, 그리고 해인사 템플스테이와 진해 군항제까지 담았습니다.",
-      "en": "Five Gyeongnam restaurants and sights that appeared in videos: Jinju-style cold noodles, braised cod cheeks in Hamyang, a siraegi soup set meal at Tongyeong's Seoho Market, a Haeinsa templestay, and the Jinhae Cherry Blossom Festival."
+      "en": "Five Gyeongnam restaurants and sights that appeared in videos: Jinju-style cold noodles, braised cod cheeks in Hamyang, a siraegi soup set meal at Tongyeong's Seoho Market, a Haeinsa templestay, and the Jinhae Cherry Blossom Festival.",
+      "ja": "動画で紹介された慶尚南道のグルメと観光スポット5か所をまとめました。晋州式冷麺、咸陽のタラのほほ肉の蒸し煮、統営・西湖市場のシレギ汁定食、海印寺のテンプルステイ、そして鎮海軍港祭です。",
+      "zh-Hans": "整理了视频中出现过的五处庆尚南道美食与景点：晋州冷面、咸阳的炖鳕鱼脸颊、统营西湖市场的萝卜缨汤套餐、海印寺寺院寄宿，以及镇海军港节樱花庆典。",
+      "zh-Hant": "整理五處在影片中出現的慶尚南道美食與景點：晉州式冷麵、咸陽的燉鱈魚頰肉、統營西湖市場的乾菜湯套餐、海印寺寺院寄宿，以及鎮海軍港節（櫻花節）。",
+      "es": "Cinco restaurantes y lugares de Gyeongnam que aparecieron en vídeos: fideos fríos al estilo de Jinju, carrilleras de bacalao estofadas en Hamyang, un menú de sopa de siraegi en el mercado Seoho de Tongyeong, una estancia en el templo Haeinsa y el Festival de los Cerezos en Flor de Jinhae.",
+      "fr": "Cinq restaurants et sites du Gyeongnam vus dans des vidéos : nouilles froides à la façon de Jinju, joues de cabillaud braisées à Hamyang, formule soupe de siraegi au marché de Seoho à Tongyeong, templestay au temple Haeinsa et festival des cerisiers en fleurs de Jinhae.",
+      "de": "Fünf Restaurants und Sehenswürdigkeiten in Gyeongnam, die in Videos vorkamen: kalte Nudeln nach Jinju-Art, geschmorte Kabeljaubäckchen in Hamyang, ein Siraegi-Suppen-Set auf dem Seoho-Markt in Tongyeong, ein Templestay im Tempel Haeinsa und das Kirschblütenfest in Jinhae.",
+      "vi": "Năm quán ăn và điểm tham quan ở Gyeongnam từng xuất hiện trong các video: mì lạnh kiểu Jinju, má cá tuyết om ở Hamyang, cơm phần canh siraegi tại chợ Seoho ở Tongyeong, chương trình templestay ở chùa Haeinsa và Lễ hội hoa anh đào Jinhae.",
+      "th": "ร้านอาหารและสถานที่ท่องเที่ยว 5 แห่งในคย็องนัมที่ปรากฏในวิดีโอ ได้แก่ บะหมี่เย็นสไตล์จินจู แก้มปลาค็อดตุ๋นที่ฮัมยาง ชุดอาหารซุปชีแรกีที่ตลาดซอโฮ เมืองทงยอง เทมเปิลสเตย์ที่วัดแฮอินซา และเทศกาลซากุระชินแฮ",
+      "id": "Lima restoran dan tempat wisata di Gyeongnam yang muncul dalam video: mi dingin ala Jinju, pipi ikan kod rebus pedas di Hamyang, set sup siraegi di Pasar Seoho Tongyeong, templestay di Kuil Haeinsa, dan Festival Bunga Sakura Jinhae.",
+      "ru": "Пять ресторанов и достопримечательностей провинции Кённам, попавших в видео: холодная лапша по-чинджуски, тушёные щёчки трески в Хамяне, сет с супом сирэги на рынке Сохо в Тхонъёне, темплстей в храме Хэинса и фестиваль цветения сакуры в Чинхэ."
     },
     "cover": "VTksE8CVpW0",
     "videos": [
@@ -113,11 +213,31 @@
     "region": "gyeonggi",
     "title": {
       "ko": "경기·인천 영상 속 맛집·명소: 제이미 로맥과 함께 걷는 인천 문학경기장과 랜더스 펍",
-      "en": "Gyeonggi·Incheon on Screen: Munhak Stadium and Landers Pub from Jamie Romak's KBO Memory Trip"
+      "en": "Gyeonggi·Incheon on Screen: Munhak Stadium and Landers Pub from Jamie Romak's KBO Memory Trip",
+      "ja": "画面の中の京畿・仁川：ジェイミー・ロマックのKBO思い出旅に登場した文鶴競技場とランダース・パブ",
+      "zh-Hans": "荧幕上的京畿·仁川：跟着Jamie Romak的KBO回忆之旅走访文鹤体育场与Landers酒吧",
+      "zh-Hant": "京畿・仁川影像中的景點：跟著羅麥克的KBO回憶之旅，走訪文鶴球場與Landers Pub",
+      "es": "Gyeonggi e Incheon en pantalla: el estadio Munhak y el Landers Pub del viaje de recuerdos de Jamie Romak por la KBO",
+      "fr": "Gyeonggi et Incheon à l'écran : le stade de Munhak et le Landers Pub, sur les traces des souvenirs KBO de Jamie Romak",
+      "de": "Gyeonggi·Incheon aus dem Fernsehen: Munhak-Stadion und Landers Pub von Jamie Romaks KBO-Erinnerungsreise",
+      "vi": "Gyeonggi·Incheon trên màn ảnh: Sân vận động Munhak và Landers Pub trong chuyến hành trình hồi ức KBO của Jamie Romak",
+      "th": "เที่ยวคยองกี·อินชอนตามรอยรายการ: สนามมุนฮักและแลนเดอร์สพับ จากทริปย้อนความทรงจำ KBO ของเจมี โรแมก",
+      "id": "Gyeonggi·Incheon di Layar: Stadion Munhak dan Landers Pub dari Perjalanan Kenangan KBO Jamie Romak",
+      "ru": "Гёнгидо и Инчхон на экране: стадион Мунхак и Landers Pub из поездки Джейми Ромака по местам его карьеры в KBO"
     },
     "summary": {
       "ko": "'어서와 한국은 처음이지' EP.444에서 제이미 로맥이 다시 찾은 인천 문학경기장과 SSG 랜더스 테마 펍을 소개합니다. 야구와 치맥을 함께 즐기는 인천 당일치기 코스입니다.",
-      "en": "Revisit the Incheon spots from Jamie Romak's KBO memory trip on 'Welcome, First Time in Korea?' EP.444: Munhak Stadium, home of the SSG Landers, and a Landers-themed pub for a post-game beer."
+      "en": "Revisit the Incheon spots from Jamie Romak's KBO memory trip on 'Welcome, First Time in Korea?' EP.444: Munhak Stadium, home of the SSG Landers, and a Landers-themed pub for a post-game beer.",
+      "ja": "『ようこそ、韓国は初めてだよね？』EP.444で、元KBO選手ジェイミー・ロマックが思い出をたどった仁川のスポットを紹介。SSGランダースの本拠地・文鶴競技場と、試合後にビールを楽しめるランダースをテーマにしたパブです。",
+      "zh-Hans": "重温《你好，第一次来韩国吧？》EP.444中Jamie Romak的KBO回忆之旅里出现的仁川地点：SSG登陆者队主场文鹤体育场，以及赛后喝杯啤酒的登陆者主题酒吧。",
+      "zh-Hant": "重溫《歡迎來到韓國第一次吧？》EP.444中羅麥克（Jamie Romak）KBO回憶之旅的仁川景點：SSG登陸者隊主場文鶴球場，以及賽後喝杯啤酒的登陸者主題酒吧。",
+      "es": "Recorre los lugares de Incheon que visitó Jamie Romak en su viaje de recuerdos por la KBO en el episodio 444 de 'Welcome, First Time in Korea?': el estadio Munhak, casa de los SSG Landers, y un pub temático de los Landers para tomar una cerveza después del partido.",
+      "fr": "Retour sur les lieux d'Incheon visités par Jamie Romak dans l'épisode 444 de « Welcome, First Time in Korea? » : le stade de Munhak, antre des SSG Landers, et un pub aux couleurs des Landers pour une bière d'après-match.",
+      "de": "Auf den Spuren von Jamie Romaks KBO-Erinnerungsreise in „Welcome, First Time in Korea?“ EP.444 durch Incheon: das Munhak-Stadion, Heimat der SSG Landers, und ein Pub im Landers-Stil für das Bier nach dem Spiel.",
+      "vi": "Cùng ghé lại những địa điểm ở Incheon trong chuyến hành trình hồi ức KBO của Jamie Romak trên chương trình 'Welcome, First Time in Korea?' tập 444: Sân vận động Munhak, sân nhà của SSG Landers, và một quán pub theo chủ đề Landers để thưởng thức bia sau trận đấu.",
+      "th": "ตามรอยสถานที่ในอินชอนจากทริปย้อนความทรงจำ KBO ของเจมี โรแมก ในรายการ 'Welcome, First Time in Korea?' EP.444 ได้แก่ สนามมุนฮัก บ้านของทีม SSG Landers และผับธีมแลนเดอร์สสำหรับดื่มเบียร์หลังจบเกม",
+      "id": "Kunjungi kembali tempat-tempat di Incheon dari perjalanan kenangan KBO Jamie Romak di 'Welcome, First Time in Korea?' EP.444: Stadion Munhak, kandang SSG Landers, dan pub bertema Landers untuk minum bir setelah pertandingan.",
+      "ru": "Вспоминаем места в Инчхоне из 444-го выпуска шоу «Добро пожаловать, впервые в Корее?», где Джейми Ромак вернулся туда, где играл в KBO: стадион Мунхак — домашняя арена SSG Landers — и паб в стиле Landers, куда можно зайти на пиво после матча."
     },
     "cover": "U5_MLHWltKw",
     "videos": [
@@ -130,11 +250,31 @@
     "region": "gyeongbuk",
     "title": {
       "ko": "경북 영상 속 맛집·명소: 경주 신라 유적부터 시장 돼지찌개까지",
-      "en": "Gyeongbuk on Screen: Silla Heritage, Hahoe Village and Market Stews"
+      "en": "Gyeongbuk on Screen: Silla Heritage, Hahoe Village and Market Stews",
+      "ja": "映像で巡る慶尚北道：新羅の遺産、河回村、市場のチゲ",
+      "zh-Hans": "镜头里的庆北：新罗遗迹、河回村与市场炖菜",
+      "zh-Hant": "影片中的慶北：新羅古蹟、河回村與市場燉鍋",
+      "es": "Gyeongbuk en pantalla: patrimonio de Silla, la aldea de Hahoe y guisos de mercado",
+      "fr": "Le Gyeongbuk à l'écran : patrimoine de Silla, village de Hahoe et ragoûts de marché",
+      "de": "Gyeongbuk im Video: Silla-Erbe, Dorf Hahoe und Eintöpfe vom Markt",
+      "vi": "Gyeongbuk qua màn ảnh: Di sản Silla, làng Hahoe và các món hầm ở chợ",
+      "th": "คยองบุกในจอ: มรดกชิลลา หมู่บ้านฮาฮเว และสตูว์ร้านตลาด",
+      "id": "Gyeongbuk di Layar: Warisan Silla, Desa Hahoe, dan Sup Pasar",
+      "ru": "Кёнбук на экране: наследие Силла, деревня Хахве и рыночные рагу"
     },
     "summary": {
       "ko": "천년 신라의 수도 경주와 안동 하회마을, 그리고 경산·구미·포항의 시장 식당까지, 영상에 소개된 경북의 명소와 맛집을 정리했습니다.",
-      "en": "A guide to Gyeongbuk places seen on video, from Silla-era Gyeongju and Andong's Hahoe Village to market eateries in Gyeongsan, Gumi and Pohang."
+      "en": "A guide to Gyeongbuk places seen on video, from Silla-era Gyeongju and Andong's Hahoe Village to market eateries in Gyeongsan, Gumi and Pohang.",
+      "ja": "新羅時代の古都・慶州や安東の河回村から、慶山・亀尾・浦項の市場食堂まで、映像に登場した慶尚北道のスポットを紹介します。",
+      "zh-Hans": "介绍在视频中出现过的庆尚北道景点与美食，从新罗古都庆州、安东河回村，到庆山、龟尾、浦项的市场餐馆。",
+      "zh-Hant": "整理影片中出現過的慶尚北道景點與餐廳，從新羅古都慶州、安東河回村，到慶山、龜尾、浦項的市場美食。",
+      "es": "Una guía de lugares de Gyeongbuk que han aparecido en vídeos, desde la Gyeongju de la época Silla y la aldea de Hahoe en Andong hasta los restaurantes de mercado de Gyeongsan, Gumi y Pohang.",
+      "fr": "Un guide des lieux du Gyeongbuk vus en vidéo, de Gyeongju, ancienne capitale de Silla, au village de Hahoe à Andong, en passant par les restaurants de marché de Gyeongsan, Gumi et Pohang.",
+      "de": "Ein Überblick über Orte in Gyeongbuk, die in Videos zu sehen waren – vom Silla-zeitlichen Gyeongju über das Dorf Hahoe in Andong bis zu Marktlokalen in Gyeongsan, Gumi und Pohang.",
+      "vi": "Hướng dẫn các địa điểm ở Gyeongbuk từng xuất hiện trong video, từ Gyeongju thời Silla, làng Hahoe ở Andong đến các quán ăn chợ ở Gyeongsan, Gumi và Pohang.",
+      "th": "รวมสถานที่ในจังหวัดคยองซังเหนือ (คยองบุก) ที่เคยปรากฏในวิดีโอ ตั้งแต่คยองจูเมืองหลวงยุคชิลลา หมู่บ้านฮาฮเวแห่งอันดง ไปจนถึงร้านอาหารในตลาดที่คยองซาน กูมี และโพฮัง",
+      "id": "Panduan tempat-tempat di Gyeongbuk yang muncul di video, mulai dari Gyeongju era Silla dan Desa Hahoe di Andong hingga rumah makan pasar di Gyeongsan, Gumi, dan Pohang.",
+      "ru": "Путеводитель по местам провинции Кёнбук, попавшим в видео: от Кёнджу эпохи Силла и деревни Хахве в Андоне до рыночных закусочных в Кёнсане, Куми и Пхохане."
     },
     "cover": "EvKxDH6sIpg",
     "videos": [
@@ -153,11 +293,31 @@
     "region": "gangwon",
     "title": {
       "ko": "강원 영상 속 맛집·명소: 속초 시장부터 춘천 닭갈비, 철원 물회까지",
-      "en": "Gangwon on Screen: Food and Sights from Sokcho Market to Chuncheon Dakgalbi"
+      "en": "Gangwon on Screen: Food and Sights from Sokcho Market to Chuncheon Dakgalbi",
+      "ja": "映像で見る江原道：束草の市場から春川タッカルビまで、グルメと名所ガイド",
+      "zh-Hans": "镜头里的江原道：从束草市场到春川辣炒鸡排的美食与景点",
+      "zh-Hant": "影片中的江原道：從束草市場到春川辣炒雞排的美食與景點",
+      "es": "Gangwon en pantalla: comida y lugares desde el mercado de Sokcho hasta el dakgalbi de Chuncheon",
+      "fr": "Le Gangwon à l'écran : cuisine et sites, du marché de Sokcho au dakgalbi de Chuncheon",
+      "de": "Gangwon auf dem Bildschirm: Essen und Sehenswürdigkeiten vom Markt in Sokcho bis zum Chuncheon Dakgalbi",
+      "vi": "Gangwon trên màn ảnh: Ẩm thực và điểm tham quan từ chợ Sokcho đến dakgalbi Chuncheon",
+      "th": "กังวอนบนจอ: ของกินและที่เที่ยวตั้งแต่ตลาดซกโชถึงทักคาลบีชุนชอน",
+      "id": "Gangwon di Layar: Kuliner dan Tempat Wisata dari Pasar Sokcho hingga Dakgalbi Chuncheon",
+      "ru": "Канвондо на экране: еда и достопримечательности от рынка Сокчхо до тактальби в Чхунчхоне"
     },
     "summary": {
       "ko": "속초관광수산시장, 춘천 닭갈비와 남이섬, 원주·철원·양구의 시장 맛집까지 여행 영상과 방송에 나온 강원의 장소를 정리했습니다.",
-      "en": "A guide to Gangwon places featured in travel videos and Korean TV shows: Sokcho's seafood market, Chuncheon dakgalbi with Nami Island, and local eateries in Wonju, Cheorwon and Yanggu."
+      "en": "A guide to Gangwon places featured in travel videos and Korean TV shows: Sokcho's seafood market, Chuncheon dakgalbi with Nami Island, and local eateries in Wonju, Cheorwon and Yanggu.",
+      "ja": "旅行動画や韓国のテレビ番組に登場した江原道のスポットをまとめました。束草の海鮮市場、春川タッカルビと南怡島、そして原州・鉄原・楊口の地元食堂を紹介します。",
+      "zh-Hans": "整理了旅行视频和韩国电视节目中出现过的江原道去处：束草的海鲜市场、春川辣炒鸡排与南怡岛，以及原州、铁原、杨口的本地餐馆。",
+      "zh-Hant": "整理旅遊影片與韓國電視節目介紹過的江原道景點：束草海鮮市場、春川辣炒雞排與南怡島，以及原州、鐵原、楊口的在地餐廳。",
+      "es": "Una guía de los lugares de Gangwon que han aparecido en vídeos de viaje y programas de la televisión coreana: el mercado de mariscos de Sokcho, el dakgalbi de Chuncheon con la isla Nami y restaurantes locales en Wonju, Cheorwon y Yanggu.",
+      "fr": "Un guide des lieux du Gangwon vus dans des vidéos de voyage et des émissions de télé coréennes : le marché aux produits de la mer de Sokcho, le dakgalbi de Chuncheon avec l'île de Nami, et des restaurants locaux à Wonju, Cheorwon et Yanggu.",
+      "de": "Ein Überblick über Orte in Gangwon, die in Reisevideos und koreanischen TV-Sendungen zu sehen waren: der Fischmarkt von Sokcho, Chuncheon Dakgalbi mit der Insel Nami sowie lokale Lokale in Wonju, Cheorwon und Yanggu.",
+      "vi": "Tổng hợp các địa điểm ở Gangwon xuất hiện trong video du lịch và chương trình truyền hình Hàn Quốc: chợ hải sản Sokcho, dakgalbi Chuncheon cùng đảo Nami, và các quán ăn địa phương ở Wonju, Cheorwon, Yanggu.",
+      "th": "รวมสถานที่ในจังหวัดกังวอนที่ปรากฏในวิดีโอท่องเที่ยวและรายการทีวีเกาหลี ทั้งตลาดอาหารทะเลซกโช ทักคาลบีชุนชอนคู่กับเกาะนามิ และร้านอาหารท้องถิ่นในวอนจู ชอลวอน และยังกู",
+      "id": "Panduan tempat-tempat di Gangwon yang muncul di video perjalanan dan acara TV Korea: pasar makanan laut Sokcho, dakgalbi Chuncheon bersama Pulau Nami, serta rumah makan lokal di Wonju, Cheorwon, dan Yanggu.",
+      "ru": "Гид по местам провинции Канвондо, которые показывали в тревел-видео и корейских телепередачах: рыбный рынок Сокчхо, чхунчхонское тактальби и остров Нами, а также местные заведения в Вонджу, Чхорвоне и Янгу."
     },
     "cover": "JhhFYZWjybg",
     "videos": [
@@ -178,11 +338,31 @@
     "region": "daegu",
     "title": {
       "ko": "대구 영상 속 맛집·명소: 서문시장, 할매묵집, 팔공산 소원바위",
-      "en": "Daegu Food and Sights from the Videos: Seomun Market, Halmae Mukjip, and Palgongsan Wishing Rock"
+      "en": "Daegu Food and Sights from the Videos: Seomun Market, Halmae Mukjip, and Palgongsan Wishing Rock",
+      "ja": "映像で見た大邱のグルメと名所：西門市場、ハルメムクチプ、八公山の願い岩",
+      "zh-Hans": "视频里的大邱美食与景点：西门市场、奶奶凉粉店、八公山许愿岩",
+      "zh-Hant": "跟著影片遊大邱美食與景點：西門市場、奶奶涼粉店、八公山許願岩",
+      "es": "Comida y lugares de Daegu vistos en vídeos: mercado de Seomun, Halmae Mukjip y la Roca de los Deseos de Palgongsan",
+      "fr": "Daegu vue dans les vidéos : marché Seomun, Halmae Mukjip et le rocher des vœux du Palgongsan",
+      "de": "Daegu aus den Videos: Seomun-Markt, Halmae Mukjip und der Wunschfelsen am Palgongsan",
+      "vi": "Ẩm thực và điểm tham quan Daegu qua các video: Chợ Seomun, Halmae Mukjip và Đá Ước nguyện núi Palgongsan",
+      "th": "ตามรอยของกินและที่เที่ยวแทกูจากคลิปวิดีโอ: ตลาดซอมุน ร้านฮัลแมมุกจิบ และหินขอพรบนภูเขาพัลกงซาน",
+      "id": "Kuliner dan Tempat Wisata Daegu dari Video: Pasar Seomun, Halmae Mukjip, dan Batu Harapan Palgongsan",
+      "ru": "Еда и достопримечательности Тэгу из видео: рынок Сомун, Хальмэ Мукчип и камень желаний на горе Пхальгонсан"
     },
     "summary": {
       "ko": "'대구 10미'로 알려진 미식 도시 대구에서 방송과 여행 영상에 나온 서문시장, 할매묵집, 팔공산 소원바위를 소개합니다.",
-      "en": "A guide to three places in Daegu, a city known for its local dishes, that appeared in TV shows and travel videos: Seomun Market, Halmae Mukjip, and the Wishing Rock on Palgongsan."
+      "en": "A guide to three places in Daegu, a city known for its local dishes, that appeared in TV shows and travel videos: Seomun Market, Halmae Mukjip, and the Wishing Rock on Palgongsan.",
+      "ja": "郷土料理で知られる大邱から、テレビ番組や旅行動画に登場した西門市場、ハルメムクチプ、八公山の願い岩の3か所をご紹介します。",
+      "zh-Hans": "大邱以地方美食闻名，本文介绍在电视节目和旅行视频中出现过的三个地方：西门市场、奶奶凉粉店，以及八公山上的许愿岩。",
+      "zh-Hant": "大邱以在地美食聞名，本文介紹三個曾在電視節目與旅遊影片中出現的地點：西門市場、奶奶涼粉店，以及八公山的許願岩。",
+      "es": "Una guía de tres lugares de Daegu, ciudad conocida por sus platos locales, que han aparecido en programas de televisión y vídeos de viaje: el mercado de Seomun, Halmae Mukjip y la Roca de los Deseos del monte Palgongsan.",
+      "fr": "Un guide de trois lieux de Daegu, ville réputée pour ses spécialités locales, apparus dans des émissions de télévision et des vidéos de voyage : le marché Seomun, Halmae Mukjip et le rocher des vœux du mont Palgongsan.",
+      "de": "Ein Überblick über drei Orte in Daegu, einer für ihre regionalen Gerichte bekannten Stadt, die in Fernsehsendungen und Reisevideos zu sehen waren: der Seomun-Markt, Halmae Mukjip und der Wunschfelsen am Palgongsan.",
+      "vi": "Giới thiệu ba địa điểm ở Daegu, thành phố nổi tiếng với các món ăn địa phương, từng xuất hiện trong chương trình truyền hình và video du lịch: Chợ Seomun, Halmae Mukjip và Đá Ước nguyện trên núi Palgongsan.",
+      "th": "แนะนำ 3 สถานที่ในแทกู เมืองที่ขึ้นชื่อเรื่องอาหารท้องถิ่น ซึ่งเคยปรากฏในรายการทีวีและวิดีโอท่องเที่ยว ได้แก่ ตลาดซอมุน ร้านฮัลแมมุกจิบ และหินขอพรบนภูเขาพัลกงซาน",
+      "id": "Panduan tiga tempat di Daegu, kota yang terkenal dengan hidangan khas lokalnya, yang pernah muncul di acara TV dan video perjalanan: Pasar Seomun, Halmae Mukjip, dan Batu Harapan di Gunung Palgongsan.",
+      "ru": "Путеводитель по трём местам в Тэгу — городе, известном своими местными блюдами, — которые показывали в телепередачах и тревел-видео: рынок Сомун, закусочная Хальмэ Мукчип и камень желаний на горе Пхальгонсан."
     },
     "cover": "tthpIMyA1n8",
     "videos": [
@@ -198,11 +378,31 @@
     "region": "chungcheong",
     "title": {
       "ko": "충청도 시장 맛집 6곳 – 백종원 '님아 그 시장을 가오'와 대전 성심당",
-      "en": "6 Market Eats in Chungcheong – From Paik Jong-won's Market Tour to Daejeon's Sungsimdang"
+      "en": "6 Market Eats in Chungcheong – From Paik Jong-won's Market Tour to Daejeon's Sungsimdang",
+      "ja": "忠清道の市場グルメ6選 ― ペク・ジョンウォンの市場巡りから大田の聖心堂まで",
+      "zh-Hans": "忠清道6家市场美食——从白钟元的市场之旅到大田圣心堂",
+      "zh-Hant": "忠清道6家市場美食：從白種元「市場之旅」到大田聖心堂",
+      "es": "6 sitios para comer en mercados de Chungcheong: del Market Tour de Paik Jong-won a Sungsimdang en Daejeon",
+      "fr": "6 adresses de marché dans le Chungcheong – du « Market Tour » de Paik Jong-won à la boulangerie Sungsimdang de Daejeon",
+      "de": "6 Marktlokale in Chungcheong – von Paik Jong-wons „Market Tour“ bis zur Bäckerei Sungsimdang in Daejeon",
+      "vi": "6 quán ăn chợ ở Chungcheong – Từ series Market Tour của Paik Jong-won đến tiệm bánh Sungsimdang ở Daejeon",
+      "th": "6 ร้านอร่อยในตลาดแถบชุงชอง – จากรายการ Market Tour ของแบคจongวอน ถึงซองชิมดังแห่งแทจอน",
+      "id": "6 Kuliner Pasar di Chungcheong – Dari Market Tour Paik Jong-won hingga Sungsimdang di Daejeon",
+      "ru": "6 рыночных заведений в Чхунчхоне – от «Рыночного тура» Пэк Чон Вона до пекарни Сонсимдан в Тэджоне"
     },
     "summary": {
       "ko": "음성·천안·청주·제천·대전까지, 유튜브 영상에 나온 충청도 시장 맛집과 빵집을 지도 링크와 함께 정리했어요.",
-      "en": "Eumseong, Cheonan, Cheongju, Jecheon and Daejeon: market restaurants and a famous bakery from YouTube, with map links."
+      "en": "Eumseong, Cheonan, Cheongju, Jecheon and Daejeon: market restaurants and a famous bakery from YouTube, with map links.",
+      "ja": "陰城・天安・清州・堤川・大田へ。YouTubeで紹介された市場の食堂と有名ベーカリーを、地図リンク付きでまとめました。",
+      "zh-Hans": "阴城、天安、清州、堤川、大田:YouTube上介绍过的市场餐馆和知名面包店,附地图链接。",
+      "zh-Hant": "陰城、天安、清州、堤川到大田，整理YouTube影片中出現的市場餐廳與知名麵包店，附地圖連結。",
+      "es": "Eumseong, Cheonan, Cheongju, Jecheon y Daejeon: restaurantes de mercado y una panadería famosa vistos en YouTube, con enlaces al mapa.",
+      "fr": "Eumseong, Cheonan, Cheongju, Jecheon et Daejeon : des restaurants de marché et une boulangerie célèbre vus sur YouTube, avec liens vers les cartes.",
+      "de": "Eumseong, Cheonan, Cheongju, Jecheon und Daejeon: Marktlokale und eine berühmte Bäckerei aus YouTube-Videos, mit Kartenlinks.",
+      "vi": "Eumseong, Cheonan, Cheongju, Jecheon và Daejeon: các quán ăn trong chợ và một tiệm bánh nổi tiếng xuất hiện trên YouTube, kèm link bản đồ.",
+      "th": "อึมซอง ชอนัน ชองจู เจชอน และแทจอน: ร้านอาหารในตลาดและเบเกอรี่ชื่อดังจากยูทูบ พร้อมลิงก์แผนที่",
+      "id": "Eumseong, Cheonan, Cheongju, Jecheon, dan Daejeon: rumah makan di pasar dan toko roti terkenal dari YouTube, lengkap dengan tautan peta.",
+      "ru": "Ымсон, Чхонан, Чхонджу, Чечхон и Тэджон: рыночные закусочные и знаменитая пекарня из YouTube, со ссылками на карты."
     },
     "cover": "xZOgnxlWMSE",
     "videos": [
@@ -222,11 +422,31 @@
     "region": "busan",
     "title": {
       "ko": "부산 영상 속 맛집·명소: 족발거리와 황령산 야경",
-      "en": "Busan on Screen: Jokbal Street and the Hwangnyeongsan Night View"
+      "en": "Busan on Screen: Jokbal Street and the Hwangnyeongsan Night View",
+      "ja": "映像で巡る釜山：チョッパル通りと荒嶺山の夜景",
+      "zh-Hans": "镜头里的釜山：猪蹄街与荒岭山夜景",
+      "zh-Hant": "螢幕上的釜山：豬腳街與荒嶺山夜景",
+      "es": "Busan en pantalla: la calle del jokbal y las vistas nocturnas de Hwangnyeongsan",
+      "fr": "Busan à l'écran : la rue du jokbal et la vue nocturne du mont Hwangnyeongsan",
+      "de": "Busan im Fernsehen: Jokbal-Straße und der Nachtblick vom Hwangnyeongsan",
+      "vi": "Busan trên màn ảnh: Phố chân giò Jokbal và cảnh đêm từ núi Hwangnyeongsan",
+      "th": "ปูซานในจอทีวี: ถนนจกบัลและวิวกลางคืนจากเขาฮวังรยองซาน",
+      "id": "Busan di Layar Kaca: Jalan Jokbal dan Pemandangan Malam Hwangnyeongsan",
+      "ru": "Пусан на экране: улица чокпаля и ночной вид с горы Хвангнёнсан"
     },
     "summary": {
       "ko": "'어서와 한국은 처음이지' 부산 편에 나온 부산 족발거리와 야경 명소로 알려진 황령산 정상을 소개합니다. 저녁은 족발로, 밤은 산 위에서 도시 불빛과 함께 보내는 코스입니다.",
-      "en": "Two Busan stops linked to the show 'Welcome, First Time in Korea?': Jokbal Street for braised pig's trotters and the Hwangnyeongsan summit, known for its night view. Dinner first, city lights after."
+      "en": "Two Busan stops linked to the show 'Welcome, First Time in Korea?': Jokbal Street for braised pig's trotters and the Hwangnyeongsan summit, known for its night view. Dinner first, city lights after.",
+      "ja": "番組『ようこそ、韓国は初めてだよね？』にゆかりのある釜山の2か所、豚足料理のチョッパル通りと夜景で知られる荒嶺山山頂をご紹介します。まずは夕食、そのあとで街の灯りを。",
+      "zh-Hans": "介绍两处与韩国综艺《欢迎来到韩国是第一次吧？》相关的釜山景点：可以品尝卤猪蹄的釜山猪蹄街，以及以夜景闻名的荒岭山山顶。先吃晚饭，再看城市灯火。",
+      "zh-Hant": "介紹兩個與節目《歡迎來到韓國》（어서와 한국은 처음이지）相關的釜山景點：可以吃到滷豬腳的豬腳街，以及以夜景聞名的荒嶺山山頂。先吃晚餐，再去看城市燈火。",
+      "es": "Dos paradas en Busan vinculadas al programa 'Welcome, First Time in Korea?': la calle del jokbal, para probar manitas de cerdo estofadas, y la cima de Hwangnyeongsan, conocida por sus vistas nocturnas. Primero la cena, después las luces de la ciudad.",
+      "fr": "Deux étapes à Busan liées à l'émission « Welcome, First Time in Korea? » : la rue du jokbal pour les pieds de porc braisés, et le sommet du Hwangnyeongsan, réputé pour sa vue de nuit. D'abord le dîner, ensuite les lumières de la ville.",
+      "de": "Zwei Stationen in Busan aus der Sendung „Welcome, First Time in Korea?“: die Jokbal-Straße mit geschmorten Schweinefüßen und der Gipfel des Hwangnyeongsan, bekannt für seinen Blick auf die nächtliche Stadt. Erst Abendessen, danach die Lichter der Stadt.",
+      "vi": "Hai điểm dừng ở Busan gắn với chương trình 'Welcome, First Time in Korea?': phố Jokbal với món chân giò hầm và đỉnh núi Hwangnyeongsan, nơi nổi tiếng với cảnh đêm. Ăn tối trước, ngắm đèn thành phố sau.",
+      "th": "สองจุดในปูซานที่เกี่ยวข้องกับรายการ 'Welcome, First Time in Korea?' ได้แก่ ถนนจกบัลสำหรับขาหมูตุ๋นสไตล์เกาหลี และยอดเขาฮวังรยองซานที่ขึ้นชื่อเรื่องวิวกลางคืน กินมื้อเย็นก่อน แล้วค่อยไปชมแสงไฟเมือง",
+      "id": "Dua tempat di Busan yang terkait dengan acara 'Welcome, First Time in Korea?': Jalan Jokbal untuk kaki babi rebus dan puncak Gunung Hwangnyeongsan yang terkenal dengan pemandangan malamnya. Makan malam dulu, lalu menikmati lampu kota.",
+      "ru": "Два места в Пусане, связанные с шоу «Welcome, First Time in Korea?»: улица чокпаля, где подают тушёные свиные ножки, и вершина горы Хвангнёнсан, известная ночным видом на город. Сначала ужин, потом огни города."
     },
     "cover": "ZJWdoRyWpRM",
     "videos": [
