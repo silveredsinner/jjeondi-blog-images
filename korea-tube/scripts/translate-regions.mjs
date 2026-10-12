@@ -4,7 +4,7 @@
 // 필요한 환경변수: ANTHROPIC_API_KEY.  선택: REVIEW_FILE
 import fs from "node:fs";
 import crypto from "node:crypto";
-import { loadSiteData, readJson, writeJson, askJson } from "./lib.mjs";
+import { loadSiteData, readJson, writeJson, askJson, MODEL_BULK } from "./lib.mjs";
 import { MORE_LANGS } from "./blog-i18n.mjs";
 
 const NAMES = { ja: "Japanese", "zh-Hans": "Simplified Chinese", "zh-Hant": "Traditional Chinese (Taiwan)", es: "Spanish", fr: "French", de: "German", vi: "Vietnamese", th: "Thai", id: "Indonesian", ru: "Russian" };
@@ -54,7 +54,7 @@ for (const lang of MORE_LANGS) {
   }).join("\n\n");
   let out;
   try {
-    out = await askJson({ system: SYSTEM, prompt, schema: SCHEMA, effort: "low", maxTokens: 16000 });
+    out = await askJson({ system: SYSTEM, prompt, schema: SCHEMA, model: MODEL_BULK, effort: "low", maxTokens: 16000 });
   } catch (e) {
     console.log(`- ${lang}: 실패, 다음에 다시 (${e.message})`);
     continue;
