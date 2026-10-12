@@ -15,7 +15,7 @@ const p = (...xs) => path.join(SITE, ...xs);
 // 사이트 데이터 읽기 (브라우저용 data/*.js 를 그대로 실행)
 const window = {};
 const ctx = vm.createContext({ window });
-for (const f of ["data/videos.js", "data/videos-auto.js", "data/hidden-videos.js", "data/video-views.js", "data/places.js", "data/places-auto.js", "data/i18n-content.js", "data/affiliates.js", "i18n.js"]) {
+for (const f of ["data/videos.js", "data/videos-auto.js", "data/hidden-videos.js", "data/video-views.js", "data/places.js", "data/places-auto.js", "data/i18n-content.js", "data/affiliates.js", "data/kbeauty.js", "i18n.js"]) {
   if (fs.existsSync(p(f))) vm.runInContext(fs.readFileSync(p(f), "utf8"), ctx);
 }
 const hidden = new Set(window.HIDDEN_VIDEOS || []);
@@ -249,6 +249,91 @@ for (const x of posts) urls.push(`${SITE_URL}/blog/posts/${x.slug}.html`);
 for (const l of ["ja", "zh-Hans", "zh-Hant", "es", "fr", "de", "vi", "th", "id", "ru"]) {
   const d = p("blog", l);
   if (fs.existsSync(d)) for (const f of fs.readdirSync(d).filter((f) => f.endsWith(".html")).sort()) urls.push(`${SITE_URL}/blog/${l}/${f}`);
+}
+
+// ---------- K-뷰티 쇼핑 가이드 (kbeauty/<lang>.html, 12개 언어) ----------
+{
+  const TR = readJsonSafe(p("data/auto/kbeauty-i18n.json")) || {};
+  const ALL = ["ko", "en", ...MORE_LANGS];
+  const kbUrl = (lang) => `${SITE_URL}/kbeauty/${lang}.html`;
+  const hreflang = ALL.map((l) => `<link rel="alternate" hreflang="${l}" href="${kbUrl(l)}">`).join("\n  ") + `\n  <link rel="alternate" hreflang="x-default" href="${kbUrl("en")}">`;
+  fs.rmSync(p("kbeauty"), { recursive: true, force: true });
+  fs.mkdirSync(p("kbeauty"), { recursive: true });
+  for (const lang of ALL) {
+    const base = window.KBEAUTY_TEXT[lang] || { ...window.KBEAUTY_TEXT.en, ...(TR[lang] || {}) };
+    const tr = TR[lang] || {};
+    const why = (x) => (lang === "ko" ? x.ko : lang === "en" ? x.en : tr.products?.[x.id] || x.en);
+    const secTitle = (s) => (lang === "ko" ? s.ko : lang === "en" ? s.en : tr.sections?.[s.key] || s.en);
+    const anyTracked = Object.values(window.KBEAUTY_STORES).some((s) => s.tracked);
+    const btn = (key, x) => {
+      const s = window.KBEAUTY_STORES[key];
+      if (!s.url) return "";
+      const href = s.url.replace("{q}", encodeURIComponent(x.q));
+      const label = s.kind === "compare" ? base.compare : s.name;
+      return `<a class="kb-btn${s.kind === "compare" ? " kb-compare" : ""}" href="${esc(href)}" target="_blank" rel="noopener${s.tracked ? " sponsored" : ""}">${esc(label)}</a>`;
+    };
+    const src = (x) => !x.source ? "" : x.source.video
+      ? `<a href="../index.html?v=${esc(x.source.video)}&amp;lang=${lang}">${esc(base.watch)}</a>`
+      : `<a href="${esc(x.source.url)}" target="_blank" rel="noopener">${esc(base.source)}: ${esc(x.source.label)}</a>`;
+    const sections = window.KBEAUTY_SECTIONS.map((s) => {
+      const items = window.KBEAUTY.filter((x) => x.sec === s.key);
+      if (!items.length) return "";
+      return `
+      <h2>${esc(secTitle(s))}</h2>
+      <div class="kb-list">${items.map((x) => `
+        <div class="kb-item">
+          <div class="kb-head"><span class="kb-brand">${esc(x.brand)}</span><strong>${esc(x.name)}</strong></div>
+          <p>${esc(why(x))}</p>
+          <div class="kb-btns">${s.key !== "luxury" && s.key !== "devices" ? `<span class="kb-store">${esc(base.inKorea)}: Olive Young</span>` : ""}${s.stores.map((k) => btn(k, x)).join("")}</div>
+          <p class="kb-src">${src(x)}</p>
+        </div>`).join("")}
+      </div>`;
+    }).join("");
+    const opts = window.LANGS.map((x) => `<option value="${x.code}.html"${x.code === lang ? " selected" : ""}>${esc(x.label)}</option>`).join("");
+    const html = `<!doctype html>
+<html lang="${lang}">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>${esc(base.title)} | Let's Visit Korea</title>
+  <meta name="description" content="${esc(base.intro)}">
+  <link rel="canonical" href="${kbUrl(lang)}">
+  ${hreflang}
+  <meta property="og:type" content="article">
+  <meta property="og:site_name" content="Let's Visit Korea">
+  <meta property="og:title" content="${esc(base.title)}">
+  <meta property="og:description" content="${esc(base.intro)}">
+  <meta property="og:url" content="${kbUrl(lang)}">
+  ${FAVICON}
+  <link rel="stylesheet" href="../styles.css">
+  <link rel="stylesheet" href="../blog/blog.css">
+</head>
+<body>
+  <header class="topbar">
+    <a class="brand" href="../index.html?lang=${lang}"><span class="logo" aria-hidden="true">▶</span><h1>Let's Visit Korea</h1></a>
+    <nav class="bp-nav">
+      <select class="bp-langsel" aria-label="language" onchange="location.href=this.value">${opts}</select>
+    </nav>
+  </header>
+  <main class="bp-main">
+    <article lang="${lang}">
+      <h1>${esc(base.title)}</h1>
+      <p class="bp-summary">${esc(base.intro)}</p>
+      <h2>${esc(base.tipsTitle)}</h2>
+      <ul>${(base.tips || []).map((t) => `<li>${esc(t)}</li>`).join("")}</ul>${sections}
+      <p class="bp-note">${esc(base.note)}</p>
+      <p><a class="bp-cta" href="../index.html?cat=beauty&amp;lang=${lang}">${esc(uiText(lang, "mapCta"))}</a></p>
+    </article>
+  </main>
+  <footer class="foot site-foot">
+    <a href="../about.html">About</a> · <a href="../privacy.html">Privacy</a> · <a href="mailto:contact@letsvisitkorea.com">contact@letsvisitkorea.com</a>
+  </footer>
+</body>
+</html>
+`;
+    fs.writeFileSync(p("kbeauty", `${lang}.html`), html);
+    urls.push(kbUrl(lang));
+  }
 }
 
 // ---------- index.html: 공유 미리보기 태그, 지역 페이지 링크 ----------

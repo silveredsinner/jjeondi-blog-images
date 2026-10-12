@@ -227,3 +227,4 @@ dialog::backdrop { background: rgba(0,0,0,.6); }
   .blog-link { padding: 6px 8px; font-size: 13px; }
   .lang select { max-width: 112px; padding: 6px 4px; }
 }
+.kb-guide-link { display: inline-block; margin: 12px 0 0; padding: 8px 14px; border-radius: 10px; background: var(--accent); color: #fff; text-decoration: none; font-weight: 600; font-size: 14px; }
