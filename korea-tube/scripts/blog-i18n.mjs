@@ -44,7 +44,7 @@ const EXTRA = {
   id: { related: "Video terkait", more: "Artikel lainnya", mapCta: "Lihat video di peta →", langs: "Bahasa lain" },
   ru: { related: "Похожие видео", more: "Другие статьи", mapCta: "Смотреть видео на карте →", langs: "Другие языки" },
 };
-const T = (lang, key) => EXTRA[lang]?.[key] ?? ui().I18N[lang]?.[key] ?? ui().I18N.en[key] ?? EXTRA.en[key];
+export const T = (lang, key) => EXTRA[lang]?.[key] ?? ui().I18N[lang]?.[key] ?? ui().I18N.en[key] ?? EXTRA.en[key];
 
 export const hasLang = (post, lang) => Boolean(post.title?.[lang] && post.summary?.[lang] && post.body?.[lang]);
 

@@ -6,6 +6,7 @@ import crypto from "node:crypto";
 import path from "node:path";
 import vm from "node:vm";
 import { fileURLToPath } from "node:url";
+import { MORE_LANGS, T as uiText } from "./blog-i18n.mjs";
 
 const SITE = path.resolve(path.dirname(fileURLToPath(import.meta.url)), "..");
 const SITE_URL = (process.env.SITE_URL || "https://letsvisitkorea.com").replace(/\/$/, "");
@@ -14,7 +15,7 @@ const p = (...xs) => path.join(SITE, ...xs);
 // 사이트 데이터 읽기 (브라우저용 data/*.js 를 그대로 실행)
 const window = {};
 const ctx = vm.createContext({ window });
-for (const f of ["data/videos.js", "data/videos-auto.js", "data/hidden-videos.js", "data/video-views.js", "data/places.js", "data/places-auto.js", "data/i18n-content.js", "data/affiliates.js"]) {
+for (const f of ["data/videos.js", "data/videos-auto.js", "data/hidden-videos.js", "data/video-views.js", "data/places.js", "data/places-auto.js", "data/i18n-content.js", "data/affiliates.js", "i18n.js"]) {
   if (fs.existsSync(p(f))) vm.runInContext(fs.readFileSync(p(f), "utf8"), ctx);
 }
 const hidden = new Set(window.HIDDEN_VIDEOS || []);
@@ -26,12 +27,26 @@ const PLACES = [...window.PLACES, ...(window.PLACES_AUTO || [])];
 const posts = fs.existsSync(p("blog/posts.json")) ? JSON.parse(fs.readFileSync(p("blog/posts.json"), "utf8")) : [];
 const regionsOf = (v) => (Array.isArray(v.region) ? v.region : [v.region]);
 const esc = (s) => String(s ?? "").replace(/[&<>"']/g, (c) => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+function readJsonSafe(f) { try { return JSON.parse(fs.readFileSync(f, "utf8")); } catch { return null; } }
+// 지역 페이지의 언어별 주소: 한국어·영어는 r/<key>.html, 나머지는 r/<lang>/<key>.html
+const regionUrl = (key, lang) => (lang === "ko" ? `${SITE_URL}/r/${key}.html` : lang === "en" ? `${SITE_URL}/r/${key}.html?lang=en` : `${SITE_URL}/r/${lang}/${key}.html`);
+function regionHreflang(key) {
+  return ["ko", "en", ...MORE_LANGS].map((l) => `<link rel="alternate" hreflang="${l}" href="${esc(regionUrl(key, l))}">`).join("\n  ") +
+    `\n  <link rel="alternate" hreflang="x-default" href="${esc(regionUrl(key, "ko"))}">`;
+}
+function regionLangSelect(key, current, rel) {
+  const opts = window.LANGS.map((x) => {
+    const href = x.code === "ko" || x.code === "en" ? `${rel}r/${key}.html?lang=${x.code}` : `${rel}r/${x.code}/${key}.html`;
+    return `<option value="${href}"${x.code === current ? " selected" : ""}>${esc(x.label)}</option>`;
+  }).join("");
+  return `<select class="bp-langsel" aria-label="language" onchange="location.href=this.value">${current ? "" : '<option value="" selected>🌏</option>'}${opts}</select>`;
+}
 const showName = (v, lang) => (v.show ? window.SHOWS[v.show][lang] : "");
 const thumb = (id) => `https://i.ytimg.com/vi/${id}/hqdefault.jpg`;
 
 export const FAVICON = `<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23d9480f'/%3E%3Cpath d='M12 9l12 7-12 7z' fill='white'/%3E%3C/svg%3E">`;
 
-function page({ rel, title, desc, image, url, body }) {
+function page({ rel, title, desc, image, url, body, head = "", langNav = "" }) {
   return `<!doctype html>
 <html lang="ko">
 <head>
@@ -40,6 +55,7 @@ function page({ rel, title, desc, image, url, body }) {
   <title>${esc(title)}</title>
   <meta name="description" content="${esc(desc)}">
   <link rel="canonical" href="${url}">
+  ${head}
   <meta property="og:type" content="website">
   <meta property="og:site_name" content="Let's Visit Korea">
   <meta property="og:title" content="${esc(title)}">
@@ -58,6 +74,7 @@ function page({ rel, title, desc, image, url, body }) {
       <a href="${rel}blog/index.html">Blog</a>
       <button class="bp-switch" data-to="ko">한국어</button>
       <button class="bp-switch" data-to="en">English</button>
+      ${langNav}
     </nav>
   </header>
   <main class="bp-main">${body}
@@ -144,8 +161,88 @@ for (const r of window.REGIONS) {
     image: vids[0] ? thumb(vids[0].id) : null,
     url,
     body: section("ko") + section("en") + kkWidget(r),
+    head: regionHreflang(r.key),
+    langNav: regionLangSelect(r.key, null, "../"),
   }));
   urls.push(url);
+}
+
+// ---------- 지역 페이지: 다른 10개 언어 (r/<lang>/<key>.html) ----------
+// 지역 이름·소개: data/i18n-content.js, 음식·명소·장소 번역: data/auto/region-i18n.json (scripts/translate-regions.mjs)
+// 번역이 없으면 일본어·중국어는 i18n-content 의 값, 나머지는 영어로 대신한다.
+const REGION_TR = fs.existsSync(p("data/auto/region-i18n.json")) ? JSON.parse(fs.readFileSync(p("data/auto/region-i18n.json"), "utf8")) : {};
+const blogI18n = (slug, lang) => fs.existsSync(p("blog", lang, `${slug}.html`));
+for (const lang of MORE_LANGS) {
+  fs.rmSync(p("r", lang), { recursive: true, force: true });
+  fs.mkdirSync(p("r", lang), { recursive: true });
+  const T = (k, vars = {}) => Object.entries(vars).reduce((s, [a, b]) => s.replace(`{${a}}`, b), window.I18N[lang]?.[k] ?? window.I18N.en[k] ?? k);
+  for (const r of window.REGIONS) {
+    const info = window.REGION_INFO[r.key];
+    const extra = window.REGION_INFO_I18N?.[r.key]?.[lang] || {};
+    const tr = REGION_TR[lang]?.[r.key] || {};
+    const rname = window.REGION_NAMES?.[r.key]?.[lang] || r.en;
+    const intro = extra.intro || info.en.intro;
+    const foods = tr.foods?.length ? tr.foods : extra.foods || info.en.foods;
+    const spots = tr.spots?.length ? tr.spots : extra.spots || info.en.spots;
+    const vids = VIDEOS.filter((v) => regionsOf(v).includes(r.key));
+    const places = PLACES.filter((x) => x.region === r.key);
+    const placeName = (x) => tr.places?.[x.ko]?.[0] || window.PLACE_I18N?.[x.ko]?.[lang]?.[0] || x.en;
+    const placeMenu = (x) => tr.places?.[x.ko]?.[1] || window.PLACE_I18N?.[x.ko]?.[lang]?.[1] || x.menu_en;
+    const rposts = posts.filter((x) => x.region === r.key && blogI18n(x.slug, lang));
+    const postTitle = (x) => readJsonSafe(p("blog", "src", `${x.slug}.json`))?.title?.[lang] || x.title.en;
+    const oid = (window.KKDAY_WIDGETS || {})[r.key];
+    const body = `
+    <article lang="${lang}">
+      <h1>${esc(T("travelInfo", { r: rname }))}</h1>
+      <p class="bp-summary">${esc(intro)}</p>
+      <p><a class="bp-cta" href="../../index.html?region=${r.key}&amp;lang=${lang}">${esc(uiText(lang, "mapCta"))}</a></p>
+      <h2>${esc(T("foods"))}</h2>
+      <p>${foods.map(esc).join(" · ")}</p>
+      <h2>${esc(T("spots"))}</h2>
+      <p>${spots.map(esc).join(" · ")}</p>
+      ${places.length ? `<h2>${esc(T("places"))}</h2>
+      <ul class="bp-places">${places.map((x) => `
+        <li class="bp-place"><strong>${esc(placeName(x))} (${esc(x.ko)})</strong><span>${esc(placeMenu(x))}</span>
+          <a href="https://map.naver.com/p/search/${encodeURIComponent(x.q)}" target="_blank" rel="noopener">${esc(T("naverMap"))}</a>
+          <a href="https://www.google.com/maps/search/?api=1&amp;query=${encodeURIComponent(x.q)}" target="_blank" rel="noopener">${esc(T("googleMap"))}</a></li>`).join("")}
+      </ul>
+      <p class="bp-note">${esc(T("placeNote"))}</p>` : ""}
+      ${rposts.length ? `<h2>${esc(T("blog"))}</h2>
+      <ul>${rposts.map((x) => `<li><a href="../../blog/${lang}/${x.slug}.html">${esc(postTitle(x))}</a></li>`).join("")}</ul>` : ""}
+      <h2>${esc(T("results", { n: vids.length }))}</h2>
+      <div class="bp-videos">${vids.map((v) => `
+        <a class="bp-video" href="../../index.html?region=${r.key}&amp;v=${v.id}&amp;lang=${lang}">
+          <img loading="lazy" alt="" src="${thumb(v.id)}">
+          <span>${esc(v.title)}${v.show ? `<em>${esc(window.SHOW_NAMES?.[v.show]?.[lang] || showName(v, "en"))}</em>` : ""}</span>
+        </a>`).join("")}
+      </div>
+    </article>${oid ? `
+    <section class="bp-kk">
+      <h2>${esc(T("kkTours", { r: rname }))}</h2>
+      <ins class="kkday-product-media" data-oid="${oid}" data-amount="4" data-origin="https://kkpartners.kkday.com"></ins>
+      <script src="${window.KKDAY_WIDGET_JS}" async></script>
+      <p class="bp-note">${esc(T("affNote"))}</p>
+    </section>` : ""}`;
+    const url = `${SITE_URL}/r/${lang}/${r.key}.html`;
+    const html = page({
+      rel: "../../",
+      title: `${T("travelInfo", { r: rname })} – ${T("results", { n: vids.length })} | Let's Visit Korea`,
+      desc: `${intro} ${foods.slice(0, 4).join(", ")}.`,
+      image: vids[0] ? thumb(vids[0].id) : null,
+      url,
+      body,
+      head: regionHreflang(r.key),
+      langNav: regionLangSelect(r.key, lang, "../../"),
+    })
+      // 이 언어 페이지는 한 언어뿐: html lang, 블로그 링크, 한/영 전환 버튼 정리
+      .replace('<html lang="ko">', `<html lang="${lang}">`)
+      .replace(`<a href="../../blog/index.html">Blog</a>`, `<a href="../../blog/${lang}/index.html">${esc(T("blog"))}</a>`)
+      .replace(/\s*<button class="bp-switch"[^>]*>[^<]*<\/button>/g, "")
+      .replace(/<script>\s*\(function \(\) \{\s*var saved;[\s\S]*?<\/script>/, "")
+      .replace("소개 · About", "About").replace("개인정보처리방침 · Privacy", "Privacy");
+    fs.writeFileSync(p("r", lang, `${r.key}.html`), html);
+    urls.push(url);
+  }
 }
 for (const x of posts) urls.push(`${SITE_URL}/blog/posts/${x.slug}.html`);
 // 다른 언어 블로그 (blog/<lang>/*.html)
