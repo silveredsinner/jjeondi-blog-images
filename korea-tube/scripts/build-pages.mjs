@@ -192,3 +192,20 @@ ${urls.map((u) => `  <url><loc>${esc(u)}</loc><lastmod>${today}</lastmod></url>`
 `);
 fs.writeFileSync(p("robots.txt"), `User-agent: *\nAllow: /\n\nSitemap: ${SITE_URL}/sitemap.xml\n`);
 console.log(`지역 페이지 ${window.REGIONS.length}개, sitemap URL ${urls.length}개 (${SITE_URL})`);
+
+// ---------- 방문자 통계 (Cloudflare Web Analytics, 쿠키 없음) ----------
+// 사이트의 모든 HTML 페이지(메인·지역·블로그 12개 언어·소개 등)의 </body> 앞에 한 번만 넣는다.
+const ANALYTICS = `<!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "f1ff71bafbf847e3889b206b4c4268f1"}'></script><!-- End Cloudflare Web Analytics -->`;
+let tagged = 0;
+(function walk(dir) {
+  for (const e of fs.readdirSync(dir, { withFileTypes: true })) {
+    const f = path.join(dir, e.name);
+    if (e.isDirectory()) { if (!["scripts", "node_modules", "data", ".git"].includes(e.name)) walk(f); continue; }
+    if (!e.name.endsWith(".html")) continue;
+    const html = fs.readFileSync(f, "utf8");
+    if (html.includes("cloudflareinsights.com/beacon") || !html.includes("</body>")) continue;
+    fs.writeFileSync(f, html.replace("</body>", `  ${ANALYTICS}\n</body>`));
+    tagged++;
+  }
+})(SITE);
+console.log(`방문자 통계 코드 추가: ${tagged}개 페이지`);
