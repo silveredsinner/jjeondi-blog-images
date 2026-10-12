@@ -148,6 +148,11 @@ for (const r of window.REGIONS) {
   urls.push(url);
 }
 for (const x of posts) urls.push(`${SITE_URL}/blog/posts/${x.slug}.html`);
+// 다른 언어 블로그 (blog/<lang>/*.html)
+for (const l of ["ja", "zh-Hans", "zh-Hant", "es", "fr", "de", "vi", "th", "id", "ru"]) {
+  const d = p("blog", l);
+  if (fs.existsSync(d)) for (const f of fs.readdirSync(d).filter((f) => f.endsWith(".html")).sort()) urls.push(`${SITE_URL}/blog/${l}/${f}`);
+}
 
 // ---------- index.html: 공유 미리보기 태그, 지역 페이지 링크 ----------
 {

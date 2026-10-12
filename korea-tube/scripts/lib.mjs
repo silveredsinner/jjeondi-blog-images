@@ -4,6 +4,7 @@ import path from "node:path";
 import vm from "node:vm";
 import { fileURLToPath } from "node:url";
 import Anthropic from "@anthropic-ai/sdk";
+import { hreflangTags, langSelect, buildBlogLangs } from "./blog-i18n.mjs";
 
 const here = path.dirname(fileURLToPath(import.meta.url));
 export const SITE = path.resolve(here, "..");
@@ -118,6 +119,7 @@ export function renderPost(post) {
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>${esc(post.title.ko)} | Let's Visit Korea</title>
   <meta name="description" content="${esc(post.summary.ko)}">
+  ${hreflangTags(post)}
   <meta property="og:type" content="article">
   <meta property="og:site_name" content="Let's Visit Korea">
   <meta property="og:title" content="${esc(post.title.ko)}">
@@ -133,8 +135,7 @@ export function renderPost(post) {
     <a class="brand" href="../../index.html"><span class="logo" aria-hidden="true">▶</span><h1>Let's Visit Korea</h1></a>
     <nav class="bp-nav">
       <a href="../index.html">Blog</a>
-      <button class="bp-switch" data-to="ko">한국어</button>
-      <button class="bp-switch" data-to="en">English</button>
+      ${langSelect(post, "ko", "../")}
     </nav>
   </header>
   <main class="bp-main">${section("ko")}${section("en")}
@@ -159,8 +160,17 @@ export function renderPost(post) {
         document.querySelectorAll(".bp-lang").forEach(function (a) { a.hidden = a.dataset.lang !== l; });
         document.documentElement.lang = l;
       }
-      show((q || saved) === "ko" ? "ko" : (q || saved) ? "en" : "ko");
-      document.querySelectorAll(".bp-switch").forEach(function (b) { b.onclick = function () { show(b.dataset.to); }; });
+      var l = (q || saved) === "ko" ? "ko" : (q || saved) ? "en" : "ko";
+      show(l);
+      // 언어 선택: 한국어·영어는 이 페이지에서 바로 바꾸고, 다른 언어는 언어별 페이지로 이동
+      var sel = document.querySelector(".bp-langsel");
+      if (sel) {
+        sel.selectedIndex = l === "en" ? 1 : 0;
+        sel.onchange = function () {
+          var v = sel.value, m = /[?&]lang=(ko|en)$/.exec(v);
+          if (m) { show(m[1]); try { localStorage.setItem("kt.lang", m[1]); } catch (e) {} } else location.href = v;
+        };
+      }
     })();
   </script>
 </body>
@@ -191,5 +201,6 @@ export function rebuildBlog() {
   const posts = fs.existsSync(dir) ? fs.readdirSync(dir).filter((f) => f.endsWith(".json")).map((f) => readJson(`blog/src/${f}`)) : [];
   for (const post of posts) fs.writeFileSync(p(`blog/posts/${post.slug}.html`), renderPost(post));
   writeJson("blog/posts.json", posts.map(indexEntry).sort((a, b) => (a.date < b.date ? 1 : -1)));
+  buildBlogLangs([...posts].sort((a, b) => (a.date < b.date ? 1 : -1)));
   return posts.length;
 }

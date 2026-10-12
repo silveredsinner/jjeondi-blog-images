@@ -5,6 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>경남 영상 속 맛집·명소: 진주냉면부터 진해 벚꽃, 통영 서호시장까지 | Let's Visit Korea</title>
   <meta name="description" content="영상에 소개된 경남의 맛집과 명소 다섯 곳을 정리했습니다. 진주냉면, 함양 대구뽈찜, 통영 서호시장 시락국 백반, 그리고 해인사 템플스테이와 진해 군항제까지 담았습니다.">
+  <link rel="alternate" hreflang="ko" href="https://letsvisitkorea.com/blog/posts/2026-10-11-gyeongnam.html">
+  <link rel="alternate" hreflang="en" href="https://letsvisitkorea.com/blog/posts/2026-10-11-gyeongnam.html?lang=en">
+  <link rel="alternate" hreflang="x-default" href="https://letsvisitkorea.com/blog/posts/2026-10-11-gyeongnam.html">
   <meta property="og:type" content="article">
   <meta property="og:site_name" content="Let's Visit Korea">
   <meta property="og:title" content="경남 영상 속 맛집·명소: 진주냉면부터 진해 벚꽃, 통영 서호시장까지">
@@ -20,8 +23,7 @@
     <a class="brand" href="../../index.html"><span class="logo" aria-hidden="true">▶</span><h1>Let's Visit Korea</h1></a>
     <nav class="bp-nav">
       <a href="../index.html">Blog</a>
-      <button class="bp-switch" data-to="ko">한국어</button>
-      <button class="bp-switch" data-to="en">English</button>
+      <select class="bp-langsel" aria-label="language" onchange="location.href=this.value"><option value="../posts/2026-10-11-gyeongnam.html?lang=ko" selected>한국어</option><option value="../posts/2026-10-11-gyeongnam.html?lang=en">English</option></select>
     </nav>
   </header>
   <main class="bp-main">
@@ -180,8 +182,17 @@
         document.querySelectorAll(".bp-lang").forEach(function (a) { a.hidden = a.dataset.lang !== l; });
         document.documentElement.lang = l;
       }
-      show((q || saved) === "ko" ? "ko" : (q || saved) ? "en" : "ko");
-      document.querySelectorAll(".bp-switch").forEach(function (b) { b.onclick = function () { show(b.dataset.to); }; });
+      var l = (q || saved) === "ko" ? "ko" : (q || saved) ? "en" : "ko";
+      show(l);
+      // 언어 선택: 한국어·영어는 이 페이지에서 바로 바꾸고, 다른 언어는 언어별 페이지로 이동
+      var sel = document.querySelector(".bp-langsel");
+      if (sel) {
+        sel.selectedIndex = l === "en" ? 1 : 0;
+        sel.onchange = function () {
+          var v = sel.value, m = /[?&]lang=(ko|en)$/.exec(v);
+          if (m) { show(m[1]); try { localStorage.setItem("kt.lang", m[1]); } catch (e) {} } else location.href = v;
+        };
+      }
     })();
   </script>
 </body>
