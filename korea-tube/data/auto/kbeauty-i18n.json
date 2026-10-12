@@ -1,0 +1,352 @@
+{
+  "ja": {
+    "title": "K-ビューティー買い物ガイド：何を、どこで買うか",
+    "intro": "韓国の店舗で買うか、帰国後にオンラインで買うか迷っている方へ。価格は毎日変わるため掲載していません。ボタンを押して各店舗を確認するか、価格を比較してください。",
+    "tipsTitle": "購入前に",
+    "compare": "価格を比較",
+    "inKorea": "韓国の店舗で購入",
+    "source": "出典",
+    "watch": "動画を見る",
+    "note": "一部のリンクはアフィリエイトリンクの場合があります。そこから購入された場合、お客様の追加負担なしに当サイトが手数料を受け取ることがあります。",
+    "tips": [
+      "多くのオリーブヤング店舗では、パスポートを提示すると外国人は即時の税金還付を受けられます。支払い前にお尋ねください。",
+      "繁華街の免税店では、パスポートと出国便の情報が必要です。商品は出国時に空港で受け取ります。",
+      "同じ商品でも国や店舗によって価格が大きく異なります。特に美容機器は必ず比較してください。"
+    ],
+    "sections": {
+      "bestsellers": "海外でのスキンケアベストセラー",
+      "koreans": "韓国人がオリーブヤングで買うもの",
+      "luxury": "ラグジュアリー：免税店・百貨店で",
+      "devices": "スキンケア機器"
+    },
+    "products": {
+      "medicube-pad": "2026年のAmazon USスキンケアベストセラーで第1位の商品です。medicubeは上位に8製品をランクインさせました。",
+      "anua-toner": "Anuaは2026年にAmazon USのスキンケア上位ランキングに4製品を入れました。ハートリーフトナーが同ブランドの代表的なラインです。",
+      "cosrx-snail": "COSRX（現在はアモーレパシフィックの一員）は、Amazon UKのスキンケアリストでも上位に入っています。",
+      "boj-sun": "Beauty of Josonの日焼け止めは、UKとドイツのAmazonスキンケア上位ランキングに入りました。",
+      "biodance-mask": "Amazonで上位にランクインしているマスクで、オリーブヤング明洞の動画でも、韓国人が実際に購入する商品として紹介しています。",
+      "dalba-mist": "d'Albaのミストは、Amazonドイツのスキンケアベストセラーに入りました。",
+      "hera-uv": "オリーブヤング明洞の動画で、韓国の買い物客が実際に手に取る商品のひとつとして紹介しています。",
+      "drg-cream": "同じオリーブヤング明洞の動画で紹介しています。",
+      "sulwhasoo": "アモーレパシフィックの旗艦ラグジュアリーブランドです。旅行者は通常、免税店や百貨店で購入します。オリーブヤングのオンラインプレミアムコーナーでも取り扱っています。",
+      "whoo": "LG H&Hのラグジュアリーラインで、主に免税店や百貨店で販売されています。",
+      "age-r": "ブランドによると、AGE-Rシリーズは世界で600万個以上販売されたとのことです。価格は国によって大きく異なるため、購入前に比較してください。"
+    },
+    "src": "4ec37c29b3"
+  },
+  "zh-Hans": {
+    "title": "韩国美妆购物指南：买什么、在哪买",
+    "intro": "当您无法决定是在韩国的门店购买，还是回国后在网上购买时，可以参考本指南。我们不列出价格，因为价格每天都在变化；点击按钮即可查看各商店价格或进行比价。",
+    "tipsTitle": "购买前须知",
+    "compare": "比较价格",
+    "inKorea": "在韩国门店购买",
+    "source": "来源",
+    "watch": "观看视频",
+    "note": "部分链接可能为联盟链接。若您通过这些链接购买，本网站可能获得佣金，而您无需额外付费。",
+    "tips": [
+      "许多Olive Young门店在您出示护照后，可为外国人提供即时退税。付款前请先询问。",
+      "市区免税店需要您的护照和出境航班信息；离境时您可在机场领取所购商品。",
+      "同一产品在不同国家和不同商店的价格可能相差很大。请务必比较，尤其是美容仪器类产品。"
+    ],
+    "sections": {
+      "bestsellers": "海外护肤畅销产品",
+      "koreans": "韩国人在Olive Young购买的产品",
+      "luxury": "奢侈品：免税店与百货商店",
+      "devices": "护肤仪器"
+    },
+    "products": {
+      "medicube-pad": "2026年美国亚马逊护肤畅销榜第一名产品；medicube共有八款产品进入榜单前列。",
+      "anua-toner": "2026年，Anua有四款产品进入美国亚马逊护肤榜前列；其招牌系列为鱼腥草爽肤水（heartleaf toner）。",
+      "cosrx-snail": "COSRX（现为Amorepacific旗下品牌）同样位居英国亚马逊护肤榜前列。",
+      "boj-sun": "朝鲜美人（Beauty of Joseon）的防晒霜登上了英国和德国亚马逊护肤热销榜前列。",
+      "biodance-mask": "亚马逊上排名靠前的面膜，同时也出现在我们的Olive Young明洞视频中，是韩国人实际购买的产品。",
+      "dalba-mist": "d'Alba的喷雾登上了德国亚马逊护肤畅销榜首位。",
+      "hera-uv": "在我们的Olive Young明洞视频中，它被列为韩国消费者实际选购的产品之一。",
+      "drg-cream": "同样列于该Olive Young明洞视频中。",
+      "sulwhasoo": "Amorepacific的旗舰奢侈品牌。游客通常在免税店和百货商店购买；Olive Young的线上高端专区也有售。",
+      "whoo": "LG H&H旗下的奢侈品牌，主要在免税店和百货商店销售。",
+      "age-r": "该品牌称其AGE-R系列全球销量已超过600万件。各国价格差异很大，购买前请先比较。"
+    },
+    "src": "4ec37c29b3"
+  },
+  "zh-Hant": {
+    "title": "韓國美妝購物指南：該買什麼、在哪裡買",
+    "intro": "當你猶豫不決，不知道該在韓國實體店買還是回國後上網買時，這份指南能幫你參考。我們不列出價格，因為價格每天都在變動；點擊按鈕即可查看各商店價格或比價。",
+    "tipsTitle": "購買前須知",
+    "compare": "比較價格",
+    "inKorea": "韓國實體店",
+    "source": "來源",
+    "watch": "觀看影片",
+    "note": "部分連結可能為聯盟行銷連結。若您透過這些連結購買，本網站可能會獲得佣金，但不會增加您的額外費用。",
+    "tips": [
+      "許多 Olive Young 門市在您出示護照後，會為外國人提供即時退稅服務。付款前請先詢問。",
+      "市區免稅店需要您的護照和出境班機資訊；離境時，您可以在機場領取購買的商品。",
+      "同一商品在不同國家和商店的價格可能相差甚大。請務必比價，尤其是電器類產品。"
+    ],
+    "sections": {
+      "bestsellers": "海外保養品暢銷商品",
+      "koreans": "韓國人在 Olive Young 購買的商品",
+      "luxury": "奢華精品：免稅店與百貨公司",
+      "devices": "保養美容儀器"
+    },
+    "products": {
+      "medicube-pad": "2026 年 Amazon 美國保養品暢銷榜第一名；medicube 有八項產品進入排行榜前列。",
+      "anua-toner": "2026 年 Anua 有四項產品進入 Amazon 美國保養品熱銷排行榜前列；其中的鱷梨葉化妝水是其招牌系列。",
+      "cosrx-snail": "COSRX（現為 Amorepacific 旗下品牌）在 Amazon 英國保養品榜單中也名列前茅。",
+      "boj-sun": "朝鮮美人的防曬乳曾登上 Amazon 英國與德國保養品熱銷排行榜。",
+      "biodance-mask": "在 Amazon 上排名頂尖的面膜，也曾在我們的 Olive Young 明洞影片中被介紹為韓國人實際會購買的商品。",
+      "dalba-mist": "d'Alba 的噴霧曾登上 Amazon 德國保養品暢銷榜首。",
+      "hera-uv": "在我們的 Olive Young 明洞影片中，被列為韓國消費者實際會購買的商品之一。",
+      "drg-cream": "同樣列於該 Olive Young 明洞影片中。",
+      "sulwhasoo": "Amorepacific 的旗艦奢華品牌。旅客通常在免稅店和百貨公司購買；Olive Young 線上高端專區也有販售。",
+      "whoo": "LG H&H 的奢華品牌，主要在免稅店和百貨公司銷售。",
+      "age-r": "品牌表示，AGE-R 系列在全球銷售超過 600 萬件。各國價格差異很大，購買前請先比價。"
+    },
+    "src": "4ec37c29b3"
+  },
+  "es": {
+    "title": "Guía de compras de belleza coreana: qué comprar y dónde",
+    "intro": "Para cuando no sabes si comprar en una tienda en Corea o en línea en tu país. No incluimos precios porque cambian a diario; toca un botón para consultar cada tienda o comparar precios.",
+    "tipsTitle": "Antes de comprar",
+    "compare": "Comparar precios",
+    "inKorea": "En tiendas de Corea",
+    "source": "Fuente",
+    "watch": "Ver el video",
+    "note": "Algunos enlaces pueden ser de afiliados. Si compras a través de ellos, este sitio puede recibir una comisión sin coste adicional para ti.",
+    "tips": [
+      "Muchas tiendas Olive Young ofrecen a los extranjeros un reembolso de impuestos inmediato si muestras tu pasaporte. Pregunta antes de pagar.",
+      "Las tiendas duty free del centro necesitan tu pasaporte y los datos de tu vuelo de salida; recoges tus compras en el aeropuerto al marcharte.",
+      "El mismo producto puede costar cantidades muy diferentes según el país y la tienda. Compara siempre, sobre todo en el caso de los aparatos."
+    ],
+    "sections": {
+      "bestsellers": "Más vendidos de cuidado de la piel en el extranjero",
+      "koreans": "Lo que los coreanos compran en Olive Young",
+      "luxury": "Lujo: en duty free y grandes almacenes",
+      "devices": "Aparatos de cuidado de la piel"
+    },
+    "products": {
+      "medicube-pad": "El producto n.º 1 en los más vendidos de cuidado de la piel de Amazon EE. UU. en 2026; medicube tiene ocho productos entre los primeros puestos.",
+      "anua-toner": "Anua tiene cuatro productos entre los primeros puestos de cuidado de la piel de Amazon EE. UU. en 2026; el tónico de heartleaf es su línea insignia.",
+      "cosrx-snail": "COSRX (ahora parte de Amorepacific) también aparece cerca de la cima de las listas de cuidado de la piel de Amazon Reino Unido.",
+      "boj-sun": "El protector solar de Beauty of Joseon entró en los primeros puestos de cuidado de la piel de Amazon en Reino Unido y Alemania.",
+      "biodance-mask": "Una mascarilla muy bien valorada en Amazon, y también aparece en nuestro video de Olive Young Myeongdong como un producto que los coreanos realmente compran.",
+      "dalba-mist": "La bruma de d'Alba entró en los más vendidos de cuidado de la piel de Amazon Alemania.",
+      "hera-uv": "Aparece en nuestro video de Olive Young Myeongdong como uno de los productos que los compradores coreanos realmente llevan.",
+      "drg-cream": "También aparece en el mismo video de Olive Young Myeongdong.",
+      "sulwhasoo": "La marca de lujo insignia de Amorepacific. Los viajeros suelen comprarla en duty free y grandes almacenes; también está en la sección premium en línea de Olive Young.",
+      "whoo": "La línea de lujo de LG H&H, vendida principalmente en duty free y grandes almacenes.",
+      "age-r": "La marca afirma que su línea AGE-R ha vendido más de 6 millones de unidades en todo el mundo. Los precios varían mucho según el país, así que compara antes de comprar."
+    },
+    "src": "4ec37c29b3"
+  },
+  "fr": {
+    "title": "Guide shopping K-beauty : quoi acheter et où",
+    "intro": "Pour quand vous ne savez pas si acheter en magasin en Corée ou en ligne chez vous. Nous n'indiquons pas les prix, car ils changent chaque jour ; cliquez sur un bouton pour vérifier chaque magasin ou comparer les prix.",
+    "tipsTitle": "Avant d'acheter",
+    "compare": "Comparer les prix",
+    "inKorea": "En magasin en Corée",
+    "source": "Source",
+    "watch": "Regarder la vidéo",
+    "note": "Certains liens peuvent être des liens affiliés. Si vous achetez via ces liens, ce site peut toucher une commission, sans frais supplémentaires pour vous.",
+    "tips": [
+      "De nombreux magasins Olive Young offrent aux étrangers un remboursement de TVA immédiat si vous présentez votre passeport. Demandez avant de payer.",
+      "Les boutiques duty free du centre-ville demandent votre passeport et les détails de votre vol de départ ; vous récupérez vos achats à l'aéroport au moment de partir.",
+      "Un même produit peut coûter des montants très différents selon le pays et le magasin. Comparez toujours, surtout pour les appareils."
+    ],
+    "sections": {
+      "bestsellers": "Meilleures ventes de soins pour la peau à l'étranger",
+      "koreans": "Ce que les Coréens achètent chez Olive Young",
+      "luxury": "Luxe : en duty free et grands magasins",
+      "devices": "Appareils de soin pour la peau"
+    },
+    "products": {
+      "medicube-pad": "Le produit n° 1 des meilleures ventes soins de la peau d'Amazon US en 2026 ; medicube a placé huit produits parmi les premiers rangs.",
+      "anua-toner": "Anua a placé quatre produits dans les meilleurs classements soins de la peau d'Amazon US en 2026 ; le tonique heartleaf est sa gamme phare.",
+      "cosrx-snail": "COSRX (désormais membre d'Amorepacific) figure aussi parmi les premiers des listes soins de la peau d'Amazon UK.",
+      "boj-sun": "La crème solaire de Beauty of Joseon a figuré dans les meilleurs classements soins de la peau d'Amazon au Royaume-Uni et en Allemagne.",
+      "biodance-mask": "Un masque très bien classé sur Amazon, également présenté dans notre vidéo Olive Young Myeongdong comme un produit que les Coréens achètent vraiment.",
+      "dalba-mist": "La brume de d'Alba figurait parmi les meilleures ventes soins de la peau d'Amazon Allemagne.",
+      "hera-uv": "Présenté dans notre vidéo Olive Young Myeongdong comme l'un des produits que les clients coréens achètent réellement.",
+      "drg-cream": "Également présenté dans la même vidéo Olive Young Myeongdong.",
+      "sulwhasoo": "La marque de luxe phare d'Amorepacific. Les voyageurs l'achètent généralement en duty free et dans les grands magasins ; elle est aussi disponible dans la section premium en ligne d'Olive Young.",
+      "whoo": "La gamme de luxe de LG H&H, vendue principalement en duty free et dans les grands magasins.",
+      "age-r": "La marque affirme que sa gamme AGE-R s'est vendue à plus de 6 millions d'unités dans le monde. Les prix varient beaucoup selon le pays, comparez donc avant d'acheter."
+    },
+    "src": "4ec37c29b3"
+  },
+  "de": {
+    "title": "K-Beauty-Einkaufsratgeber: Was kaufen und wo",
+    "intro": "Für alle, die nicht entscheiden können, ob sie in einem Geschäft in Korea oder online zu Hause kaufen sollen. Wir nennen keine Preise, weil sie sich täglich ändern; tippen Sie auf eine Schaltfläche, um die Preise in jedem Geschäft zu prüfen oder zu vergleichen.",
+    "tipsTitle": "Vor dem Kauf",
+    "compare": "Preise vergleichen",
+    "inKorea": "In Geschäften in Korea",
+    "source": "Quelle",
+    "watch": "Video ansehen",
+    "note": "Einige Links sind möglicherweise Partnerlinks. Wenn Sie über sie kaufen, erhält diese Seite unter Umständen eine Provision, ohne dass Ihnen Mehrkosten entstehen.",
+    "tips": [
+      "In vielen Olive-Young-Filialen erhalten Ausländer eine sofortige Steuerrückerstattung, wenn sie ihren Reisepass vorlegen. Fragen Sie vor dem Bezahlen nach.",
+      "Duty-Free-Shops in der Innenstadt benötigen Ihren Reisepass und Ihre Flugdaten für die Abreise; Ihre Einkäufe holen Sie bei der Abreise am Flughafen ab.",
+      "Dasselbe Produkt kann je nach Land und Geschäft sehr unterschiedlich viel kosten. Vergleichen Sie immer, besonders bei Geräten."
+    ],
+    "sections": {
+      "bestsellers": "Hautpflege-Bestseller im Ausland",
+      "koreans": "Was Koreaner bei Olive Young kaufen",
+      "luxury": "Luxus: in Duty-Free-Shops und Kaufhäusern",
+      "devices": "Hautpflegegeräte"
+    },
+    "products": {
+      "medicube-pad": "Das Produkt Nr. 1 in den Hautpflege-Bestsellern von Amazon USA im Jahr 2026; medicube belegte acht Produkte in den Spitzenrängen.",
+      "anua-toner": "Anua belegte im Jahr 2026 vier Produkte in den Top-Rängen für Hautpflege bei Amazon USA; der Heartleaf-Toner ist die Signaturlinie der Marke.",
+      "cosrx-snail": "COSRX (heute Teil von Amorepacific) gehört ebenfalls zu den Spitzenreitern in den Hautpflegelisten von Amazon UK.",
+      "boj-sun": "Der Sonnenschutz von Beauty of Joseon schaffte es in den Top-Rankings für Hautpflege bei Amazon in Großbritannien und Deutschland.",
+      "biodance-mask": "Eine Maske mit Top-Platzierung bei Amazon, die auch in unserem Olive-Young-Myeongdong-Video als Produkt vorkommt, das Koreaner tatsächlich kaufen.",
+      "dalba-mist": "Das Spray von d'Alba gehörte zu den Hautpflege-Bestsellern bei Amazon Deutschland.",
+      "hera-uv": "In unserem Olive-Young-Myeongdong-Video als eines der Produkte aufgeführt, die koreanische Kundinnen und Kunden tatsächlich mitnehmen.",
+      "drg-cream": "Ebenfalls im selben Olive-Young-Myeongdong-Video aufgeführt.",
+      "sulwhasoo": "Die Luxusmarke und Flaggschiff-Linie von Amorepacific. Reisende kaufen sie meist in Duty-Free-Shops und Kaufhäusern; sie ist außerdem im Premium-Bereich von Olive Young online erhältlich.",
+      "whoo": "Die Luxuslinie von LG H&H, hauptsächlich in Duty-Free-Shops und Kaufhäusern erhältlich.",
+      "age-r": "Die Marke gibt an, dass sich ihre AGE-R-Linie weltweit über 6 Millionen Mal verkauft hat. Die Preise unterscheiden sich je nach Land stark, daher sollten Sie vor dem Kauf vergleichen."
+    },
+    "src": "4ec37c29b3"
+  },
+  "vi": {
+    "title": "Hướng dẫn mua sắm K-Beauty: nên mua gì và mua ở đâu",
+    "intro": "Dành cho những lúc bạn chưa biết nên mua ở cửa hàng tại Hàn Quốc hay mua online khi về nhà. Chúng tôi không liệt kê giá vì giá thay đổi hằng ngày; hãy nhấn nút để kiểm tra từng cửa hàng hoặc so sánh giá.",
+    "tipsTitle": "Trước khi mua",
+    "compare": "So sánh giá",
+    "inKorea": "Tại cửa hàng ở Hàn Quốc",
+    "source": "Nguồn",
+    "watch": "Xem video",
+    "note": "Một số liên kết có thể là liên kết tiếp thị liên kết. Nếu bạn mua qua các liên kết này, trang web có thể nhận hoa hồng mà bạn không phải trả thêm chi phí nào.",
+    "tips": [
+      "Nhiều cửa hàng Olive Young hoàn thuế ngay lập tức cho người nước ngoài nếu bạn xuất trình hộ chiếu. Hãy hỏi trước khi thanh toán.",
+      "Các cửa hàng miễn thuế ở trung tâm thành phố cần hộ chiếu và thông tin chuyến bay khởi hành; bạn nhận hàng đã mua tại sân bay khi rời đi.",
+      "Cùng một sản phẩm có thể có giá rất khác nhau tùy quốc gia và cửa hàng. Luôn so sánh giá, đặc biệt là với thiết bị."
+    ],
+    "sections": {
+      "bestsellers": "Sản phẩm chăm sóc da bán chạy ở nước ngoài",
+      "koreans": "Người Hàn Quốc mua gì tại Olive Young",
+      "luxury": "Hàng xa xỉ: tại cửa hàng miễn thuế & trung tâm thương mại",
+      "devices": "Thiết bị chăm sóc da"
+    },
+    "products": {
+      "medicube-pad": "Sản phẩm số 1 trong danh sách bán chạy chăm sóc da trên Amazon Mỹ năm 2026; medicube có tám sản phẩm nằm trong top đầu.",
+      "anua-toner": "Anua có bốn sản phẩm nằm trong top chăm sóc da của Amazon Mỹ năm 2026; nước hoa hồng heartleaf là dòng sản phẩm đặc trưng của hãng.",
+      "cosrx-snail": "COSRX (hiện thuộc Amorepacific) cũng nằm gần đầu danh sách chăm sóc da trên Amazon Anh.",
+      "boj-sun": "Kem chống nắng của Beauty of Joseon lọt vào top xếp hạng chăm sóc da trên Amazon Anh và Đức.",
+      "biodance-mask": "Mặt nạ được xếp hạng cao trên Amazon, và cũng xuất hiện trong video Olive Young Myeongdong của chúng tôi như một sản phẩm người Hàn thực sự mua.",
+      "dalba-mist": "Xịt khoáng của d'Alba lọt vào top sản phẩm chăm sóc da bán chạy trên Amazon Đức.",
+      "hera-uv": "Được liệt kê trong video Olive Young Myeongdong của chúng tôi như một trong những sản phẩm khách hàng Hàn Quốc thực sự chọn mua.",
+      "drg-cream": "Cũng được liệt kê trong cùng video Olive Young Myeongdong.",
+      "sulwhasoo": "Thương hiệu xa xỉ chủ lực của Amorepacific. Du khách thường mua tại cửa hàng miễn thuế và trung tâm thương mại; sản phẩm cũng có trong mục cao cấp trực tuyến của Olive Young.",
+      "whoo": "Dòng sản phẩm xa xỉ của LG H&H, chủ yếu bán tại cửa hàng miễn thuế và trung tâm thương mại.",
+      "age-r": "Hãng cho biết dòng AGE-R đã bán được hơn 6 triệu sản phẩm trên toàn thế giới. Giá khác nhau rất nhiều giữa các quốc gia, vì vậy hãy so sánh trước khi mua."
+    },
+    "src": "4ec37c29b3"
+  },
+  "th": {
+    "title": "คู่มือช้อปปิ้งเครื่องสำอางเกาหลี: ควรซื้ออะไรและซื้อที่ไหน",
+    "intro": "สำหรับตอนที่คุณยังตัดสินใจไม่ได้ว่าจะซื้อในร้านที่เกาหลีหรือซื้อออนไลน์เมื่อกลับบ้าน เราไม่ได้ใส่ราคาไว้เพราะราคาเปลี่ยนทุกวัน กดปุ่มเพื่อเช็กราคาในแต่ละร้านหรือเปรียบเทียบราคาได้เลย",
+    "tipsTitle": "ก่อนซื้อ",
+    "compare": "เปรียบเทียบราคา",
+    "inKorea": "ในร้านในเกาหลี",
+    "source": "แหล่งที่มา",
+    "watch": "ดูวิดีโอ",
+    "note": "ลิงก์บางรายการอาจเป็นลิงก์พันธมิตร หากคุณซื้อผ่านลิงก์เหล่านี้ เว็บไซต์อาจได้รับค่าคอมมิชชันโดยที่คุณไม่ต้องจ่ายเพิ่ม",
+    "tips": [
+      "ร้าน Olive Young หลายสาขาให้ชาวต่างชาติได้รับคืนภาษีทันทีเมื่อแสดงหนังสือเดินทาง ควรสอบถามก่อนชำระเงิน",
+      "ร้านปลอดภาษี (duty free) ในตัวเมืองต้องใช้หนังสือเดินทางและข้อมูลเที่ยวบินขาออก คุณจะไปรับสินค้าที่สนามบินตอนเดินทางออก",
+      "สินค้าชิ้นเดียวกันอาจมีราคาต่างกันมากตามประเทศและร้าน ควรเปรียบเทียบเสมอ โดยเฉพาะเครื่องมือเสริมความงาม"
+    ],
+    "sections": {
+      "bestsellers": "สินค้าขายดีด้านการดูแลผิวในต่างประเทศ",
+      "koreans": "สิ่งที่ชาวเกาหลีซื้อที่ Olive Young",
+      "luxury": "สินค้าหรู: ที่ร้านปลอดภาษีและห้างสรรพสินค้า",
+      "devices": "เครื่องมือดูแลผิว"
+    },
+    "products": {
+      "medicube-pad": "สินค้าอันดับ 1 ในหมวดดูแลผิวขายดีของ Amazon US ในปี 2026 โดย medicube มีสินค้าติดอันดับสูงถึงแปดรายการ",
+      "anua-toner": "Anua มีสินค้าติดอันดับหมวดดูแลผิวยอดนิยมของ Amazon US ในปี 2026 จำนวนสี่รายการ โทนเนอร์ heartleaf เป็นสินค้าหลักของแบรนด์",
+      "cosrx-snail": "COSRX (ปัจจุบันเป็นส่วนหนึ่งของ Amorepacific) ก็ติดอันดับต้นๆ ในรายการดูแลผิวของ Amazon UK",
+      "boj-sun": "ครีมกันแดดของ Beauty of Joseon ติดอันดับสูงสุดในหมวดดูแลผิวของ Amazon ในสหราชอาณาจักรและเยอรมนี",
+      "biodance-mask": "มาส์กที่ติดอันดับสูงบน Amazon และยังปรากฏในวิดีโอ Olive Young Myeongdong ของเราในฐานะสินค้าที่ชาวเกาหลีซื้อจริง",
+      "dalba-mist": "มิสต์ของ d'Alba ติดอันดับสินค้าดูแลผิวขายดีของ Amazon เยอรมนี",
+      "hera-uv": "อยู่ในวิดีโอ Olive Young Myeongdong ของเราในฐานะหนึ่งในสินค้าที่ผู้ซื้อชาวเกาหลีหยิบซื้อจริง",
+      "drg-cream": "ปรากฏในวิดีโอ Olive Young Myeongdong เดียวกันนี้ด้วย",
+      "sulwhasoo": "แบรนด์หรูหลักของ Amorepacific โดยนักท่องเที่ยวมักซื้อที่ร้านปลอดภาษีและห้างสรรพสินค้า และยังมีขายในส่วนพรีเมียมออนไลน์ของ Olive Young",
+      "whoo": "แบรนด์หรูของ LG H&H วางขายหลักๆ ที่ร้านปลอดภาษีและห้างสรรพสินค้า",
+      "age-r": "แบรนด์ระบุว่าสินค้าในสาย AGE-R ขายได้มากกว่า 6 ล้านชิ้นทั่วโลก ราคาแตกต่างกันมากตามประเทศ จึงควรเปรียบเทียบก่อนซื้อ"
+    },
+    "src": "4ec37c29b3"
+  },
+  "id": {
+    "title": "Panduan Belanja K-Beauty: Apa yang Dibeli dan di Mana",
+    "intro": "Untuk saat Anda bingung apakah sebaiknya membeli langsung di toko di Korea atau online setelah pulang. Kami tidak mencantumkan harga karena selalu berubah setiap hari; ketuk tombol untuk memeriksa setiap toko atau membandingkan harga.",
+    "tipsTitle": "Sebelum membeli",
+    "compare": "Bandingkan harga",
+    "inKorea": "Di toko-toko di Korea",
+    "source": "Sumber",
+    "watch": "Tonton videonya",
+    "note": "Beberapa tautan mungkin merupakan tautan afiliasi. Jika Anda berbelanja melalui tautan tersebut, situs ini dapat memperoleh komisi tanpa biaya tambahan bagi Anda.",
+    "tips": [
+      "Banyak toko Olive Young memberikan pengembalian pajak langsung kepada warga asing jika Anda menunjukkan paspor. Tanyakan sebelum membayar.",
+      "Toko duty free di pusat kota memerlukan paspor dan detail penerbangan keberangkatan Anda; Anda mengambil pembelian di bandara saat berangkat.",
+      "Produk yang sama bisa memiliki harga yang sangat berbeda menurut negara dan toko. Selalu bandingkan, terutama untuk perangkat."
+    ],
+    "sections": {
+      "bestsellers": "Produk perawatan kulit terlaris di luar negeri",
+      "koreans": "Yang dibeli orang Korea di Olive Young",
+      "luxury": "Mewah: di toko duty free & department store",
+      "devices": "Perangkat perawatan kulit"
+    },
+    "products": {
+      "medicube-pad": "Produk No. 1 dalam daftar terlaris perawatan kulit Amazon AS pada 2026; medicube menempatkan delapan produk di peringkat teratas.",
+      "anua-toner": "Anua menempatkan empat produk di peringkat teratas perawatan kulit Amazon AS pada 2026; toner heartleaf adalah lini andalannya.",
+      "cosrx-snail": "COSRX (kini bagian dari Amorepacific) juga berada di dekat puncak daftar perawatan kulit Amazon Inggris.",
+      "boj-sun": "Tabir surya Beauty of Joseon masuk peringkat teratas perawatan kulit Amazon di Inggris dan Jerman.",
+      "biodance-mask": "Masker berperingkat teratas di Amazon, dan juga ditampilkan dalam video Olive Young Myeongdong kami sebagai produk yang benar-benar dibeli orang Korea.",
+      "dalba-mist": "Mist d'Alba masuk daftar terlaris perawatan kulit Amazon Jerman.",
+      "hera-uv": "Tercantum dalam video Olive Young Myeongdong kami sebagai salah satu produk yang benar-benar dibeli pembeli Korea.",
+      "drg-cream": "Juga tercantum dalam video Olive Young Myeongdong yang sama.",
+      "sulwhasoo": "Merek mewah unggulan Amorepacific. Wisatawan biasanya membelinya di toko duty free dan department store; produk ini juga tersedia di bagian premium online Olive Young.",
+      "whoo": "Lini mewah LG H&H, terutama dijual di toko duty free dan department store.",
+      "age-r": "Merek menyatakan lini AGE-R telah terjual lebih dari 6 juta unit di seluruh dunia. Harga sangat bervariasi antarnegara, jadi bandingkan sebelum membeli."
+    },
+    "src": "4ec37c29b3"
+  },
+  "ru": {
+    "title": "Гид по покупкам K-beauty: что купить и где",
+    "intro": "Для тех, кто не может решить, покупать ли в магазине в Корее или онлайн дома. Мы не указываем цены, потому что они меняются каждый день; нажмите кнопку, чтобы проверить каждый магазин или сравнить цены.",
+    "tipsTitle": "Перед покупкой",
+    "compare": "Сравнить цены",
+    "inKorea": "В магазинах в Корее",
+    "source": "Источник",
+    "watch": "Смотреть видео",
+    "note": "Некоторые ссылки могут быть партнёрскими. Если вы покупаете по ним, этот сайт может получить комиссию без дополнительной оплаты с вашей стороны.",
+    "tips": [
+      "Во многих магазинах Olive Young иностранцам предоставляют мгновенный возврат налога, если вы покажете паспорт. Уточните это до оплаты.",
+      "Магазины беспошлинной торговли в центре города требуют паспорт и данные о вашем вылете; покупки вы получаете в аэропорту при отлёте.",
+      "Один и тот же товар может стоить существенно по-разному в зависимости от страны и магазина. Всегда сравнивайте, особенно устройства."
+    ],
+    "sections": {
+      "bestsellers": "Бестселлеры ухода за кожей за рубежом",
+      "koreans": "Что корейцы покупают в Olive Young",
+      "luxury": "Люкс: в магазинах беспошлинной торговли и универмагах",
+      "devices": "Устройства для ухода за кожей"
+    },
+    "products": {
+      "medicube-pad": "Товар №1 в категории ухода за кожей на Amazon US в 2026 году; medicube занял восемь позиций в топе.",
+      "anua-toner": "Anua заняла четыре позиции в топе ухода за кожей на Amazon US в 2026 году; тонер с хауттюйнией — её фирменная линия.",
+      "cosrx-snail": "COSRX (теперь часть Amorepacific) также входит в число лидеров в списках ухода за кожей на Amazon UK.",
+      "boj-sun": "Солнцезащитный крем Beauty of Joseon попал в топ рейтингов ухода за кожей на Amazon в Великобритании и Германии.",
+      "biodance-mask": "Маска из топа рейтингов Amazon, а также представлена в нашем видео о Olive Young в Мёндоне как товар, который корейцы действительно покупают.",
+      "dalba-mist": "Мист d'Alba стал одним из главных бестселлеров ухода за кожей на Amazon Германия.",
+      "hera-uv": "Указан в нашем видео о Olive Young в Мёндоне как один из товаров, которые корейские покупатели действительно берут.",
+      "drg-cream": "Также упоминается в том же видео о Olive Young в Мёндоне.",
+      "sulwhasoo": "Флагманский люксовый бренд Amorepacific. Путешественники обычно покупают его в магазинах беспошлинной торговли и универмагах; он также представлен в премиум-разделе Olive Young онлайн.",
+      "whoo": "Люксовая линия LG H&H, которую продают в основном в магазинах беспошлинной торговли и универмагах.",
+      "age-r": "По словам бренда, линия AGE-R продана более чем в 6 миллионах единиц по всему миру. Цены сильно различаются по странам, поэтому сравните их перед покупкой."
+    },
+    "src": "4ec37c29b3"
+  }
+}
