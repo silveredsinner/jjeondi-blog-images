@@ -107,6 +107,12 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           REVIEW_FILE: ${{ runner.temp }}/review.md
         run: node translate-regions.mjs
+      - name: K-뷰티 가이드 번역 (바뀐 경우만)
+        if: inputs.only_check != '1' || inputs.translate_blog == '1'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          REVIEW_FILE: ${{ runner.temp }}/review.md
+        run: node translate-kbeauty.mjs
       - name: 새 영상 찾기 (먹방·K-뷰티, 퍼가기 허용 영상만)
         if: inputs.discover != ''
         env:

@@ -30,3 +30,15 @@
 .bp-kk ins { display: block; min-height: 120px; }
 .bp-kk iframe { max-width: 100%; }
 .bp-langsel { font: inherit; font-size: 13px; color: var(--text); background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 6px 6px; max-width: 130px; }
+.kb-list { display: grid; gap: 10px; }
+.kb-item { border: 1px solid var(--border); border-radius: 12px; background: var(--surface); padding: 12px 14px; }
+.kb-item p { margin: 6px 0; font-size: 14px; line-height: 1.6; }
+.kb-head { display: flex; flex-wrap: wrap; align-items: baseline; gap: 8px; }
+.kb-brand { font-size: 12px; font-weight: 700; color: var(--accent-strong); text-transform: uppercase; letter-spacing: .5px; }
+.kb-btns { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-top: 8px; }
+.kb-btn { font-size: 13px; padding: 6px 10px; border-radius: 8px; border: 1px solid var(--border); background: var(--bg); color: var(--text); text-decoration: none; }
+.kb-btn:hover { border-color: var(--accent); }
+.kb-compare { background: var(--accent); color: #fff; border-color: var(--accent); }
+.kb-store { font-size: 12px; color: var(--muted); margin-right: 4px; }
+.kb-src { font-size: 12px; color: var(--muted); }
+.kb-src a { color: var(--muted); }
