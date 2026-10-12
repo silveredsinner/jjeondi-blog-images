@@ -89,6 +89,8 @@ jobs:
           REVIEW_FILE: ${{ runner.temp }}/review.md
         run: node check-videos.mjs
       - name: 확인용 PR 만들기
+        # 앞 단계 하나가 실패해도 그때까지 만든 결과(번역·글 등)는 PR 로 남긴다
+        if: ${{ !cancelled() }}
         uses: peter-evans/create-pull-request@v7
         with:
           branch: korea-tube/auto-content
