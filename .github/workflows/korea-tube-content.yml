@@ -74,6 +74,12 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           REVIEW_FILE: ${{ runner.temp }}/review.md
         run: node translate-blog.mjs
+      - name: 지역 페이지 번역 (음식·명소·장소 이름, 바뀐 지역만)
+        if: inputs.only_check != '1' || inputs.translate_blog == '1'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          REVIEW_FILE: ${{ runner.temp }}/review.md
+        run: node translate-regions.mjs
       - name: 새 영상 찾기 (먹방·K-뷰티, 퍼가기 허용 영상만)
         if: inputs.discover != ''
         env:
