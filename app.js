@@ -395,6 +395,9 @@
     $("search").placeholder = t("search");
     // 로고·사이트 이름: 지역·필터를 모두 지운 첫 화면으로 새로 열기 (언어만 유지)
     $("homeLink").href = `./?lang=${encodeURIComponent(state.lang)}`;
+    // 블로그 링크: 번역된 글이 있는 언어면 그 언어 블로그로
+    const blogHref = (window.BLOG_LANGS || []).includes(state.lang) ? `blog/${state.lang}/index.html` : `blog/index.html?lang=${state.lang === "ko" ? "ko" : "en"}`;
+    document.querySelectorAll('a[href^="blog/"]').forEach((a) => { a.href = blogHref; });
   }
 
   function renderAll() {
