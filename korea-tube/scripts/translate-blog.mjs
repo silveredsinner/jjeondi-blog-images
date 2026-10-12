@@ -62,6 +62,7 @@ ${post.places.map((x, i) => `${i + 1}. ${x.en} (Korean: ${x.ko}) — ${x.menu_en
       out = await askJson({ system: SYSTEM, prompt, schema: SCHEMA, effort: "low", maxTokens: 12000 });
     } catch (e) {
       console.log(`- ${post.slug} ${lang}: 실패, 다음에 다시 (${e.message})`);
+      await new Promise((r) => setTimeout(r, 30000)); // 한도에 걸렸으면 잠깐 쉬고 다음 글로
       continue;
     }
     if (!out || out.places.length !== post.places.length || !out.title.trim() || !out.body.trim()) {
