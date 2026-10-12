@@ -122,9 +122,9 @@ export function renderPostLang(post, lang, others = []) {
       <p class="bp-summary">${esc(post.summary[lang])}</p>
       <p><a class="bp-cta" href="../../index.html?region=${esc(post.region)}&amp;lang=${lang}">${esc(T(lang, "mapCta"))}</a></p>
       <div class="bp-body">${sanitize(post.body[lang])}</div>
-      <h2>${esc(T(lang, "places"))}</h2>
+      ${post.places.length ? `<h2>${esc(T(lang, "places"))}</h2>
       <ul class="bp-places">${places}</ul>
-      <p class="bp-note">${esc(T(lang, "placeNote"))}</p>
+      <p class="bp-note">${esc(T(lang, "placeNote"))}</p>` : ""}
       <section class="bp-videos-wrap">
         <h2>${esc(T(lang, "related"))}</h2>
         <div class="bp-videos">${videos}</div>
