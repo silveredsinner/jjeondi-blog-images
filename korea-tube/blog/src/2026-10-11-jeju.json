@@ -4,15 +4,45 @@
   "region": "jeju",
   "title": {
     "ko": "제주 영상 속 맛집·명소: 흑돼지부터 성산일출봉까지",
-    "en": "Jeju Eats and Sights from the Videos: From Black Pork to Sunrise Peak"
+    "en": "Jeju Eats and Sights from the Videos: From Black Pork to Sunrise Peak",
+    "ja": "動画で見る済州島のグルメと名所：黒豚から城山日出峰まで",
+    "zh-Hans": "视频里的济州美食与景点：从黑猪肉到城山日出峰",
+    "zh-Hant": "影片中的濟州美食與景點：從黑豬肉到城山日出峰",
+    "es": "Comida y lugares de Jeju vistos en vídeos: del cerdo negro al Pico del Amanecer",
+    "fr": "Jeju en vidéos : où manger et que voir, du porc noir au pic du Lever du Soleil",
+    "de": "Jeju-Essen und Sehenswürdigkeiten aus den Videos: Vom schwarzen Schwein bis zum Sunrise Peak",
+    "vi": "Ăn gì, chơi gì ở Jeju qua các video du lịch: Từ thịt heo đen đến đỉnh Seongsan Ilchulbong",
+    "th": "ร้านอร่อยและที่เที่ยวเชจูจากคลิปวิดีโอ: ตั้งแต่หมูดำไปจนถึงยอดเขาซองซานอิลชุลบง",
+    "id": "Kuliner dan Tempat Wisata Jeju dari Video: Dari Babi Hitam hingga Seongsan Ilchulbong",
+    "ru": "Еда и достопримечательности Чеджу из видео: от чёрной свинины до пика Сонсан Ильчхульбон"
   },
   "summary": {
     "ko": "여행 영상에 나온 제주의 흑돼지 구잇집과 동문시장, 협재 바다, 용두암, 천제연폭포, 성산일출봉 등을 정리했습니다. 화산섬의 자연과 흑돼지를 함께 즐기는 동선 팁도 담았습니다.",
-    "en": "A roundup of the Jeju spots featured in travel videos, from black pork BBQ and Dongmun Market to Hyeopjae Beach, Yongduam Rock, Cheonjeyeon Waterfall and Seongsan Ilchulbong, plus tips for planning your route."
+    "en": "A roundup of the Jeju spots featured in travel videos, from black pork BBQ and Dongmun Market to Hyeopjae Beach, Yongduam Rock, Cheonjeyeon Waterfall and Seongsan Ilchulbong, plus tips for planning your route.",
+    "ja": "旅行動画に登場した済州島のスポットをまとめました。黒豚焼肉や東門市場から、挟才（ヒョプチェ）の海、龍頭岩、天帝淵瀑布、城山日出峰まで紹介し、ルートづくりのヒントも添えています。",
+    "zh-Hans": "汇总旅行视频中出现的济州去处，从黑猪肉烤肉、东门市场，到挟才海边、龙头岩、天帝渊瀑布和城山日出峰，并附上路线规划建议。",
+    "zh-Hant": "整理旅遊影片中出現的濟州景點，從黑豬肉燒烤、東門市場，到挾才海邊、龍頭岩、天帝淵瀑布與城山日出峰，並附上規劃路線的小建議。",
+    "es": "Un repaso a los lugares de Jeju que aparecen en vídeos de viajes, desde la barbacoa de cerdo negro y el Mercado de Dongmun hasta la playa de Hyeopjae, la roca Yongduam, la cascada de Cheonjeyeon y Seongsan Ilchulbong, con consejos para planificar la ruta.",
+    "fr": "Tour d'horizon des adresses de Jeju vues dans des vidéos de voyage : barbecue de porc noir, marché de Dongmun, plage de Hyeopjae, rocher Yongduam, cascade de Cheonjeyeon et Seongsan Ilchulbong, avec des conseils pour organiser votre itinéraire.",
+    "de": "Ein Überblick über die Jeju-Orte aus Reisevideos – von Black-Pork-BBQ und dem Dongmun-Markt bis zum Hyeopjae-Strand, Yongduam-Felsen, Cheonjeyeon-Wasserfall und Seongsan Ilchulbong, dazu Tipps für die Routenplanung.",
+    "vi": "Tổng hợp những địa điểm ở Jeju xuất hiện trong các video du lịch, từ quán thịt heo đen nướng, chợ Dongmun đến bãi biển Hyeopjae, đá Yongduam, thác Cheonjeyeon và đỉnh Seongsan Ilchulbong, kèm gợi ý lên lộ trình.",
+    "th": "รวมสถานที่ในเชจูที่ปรากฏในคลิปท่องเที่ยว ตั้งแต่ร้านหมูดำย่าง ตลาดทงมุน ไปจนถึงหาดฮยอบแจ หินยงดูอัม น้ำตกชอนเจยอน และซองซานอิลชุลบง พร้อมเคล็ดลับวางเส้นทางเที่ยว",
+    "id": "Rangkuman tempat-tempat di Jeju yang muncul dalam video perjalanan, mulai dari BBQ babi hitam dan Pasar Dongmun hingga Pantai Hyeopjae, Batu Yongduam, Air Terjun Cheonjeyeon, dan Seongsan Ilchulbong, beserta tips menyusun rute perjalanan.",
+    "ru": "Подборка мест на Чеджу, которые появлялись в видео о путешествиях: барбекю из чёрной свинины, рынок Тонмун, пляж Хёпче, скала Ёндуам, водопад Чхонджеён и пик Сонсан Ильчхульбон. Плюс советы, как спланировать маршрут."
   },
   "body": {
     "ko": "<h2>화산섬 제주, 영상으로 미리 보는 여행</h2><p>제주는 화산섬의 자연과 해녀 문화, 그리고 흑돼지로 잘 알려진 섬입니다. 흑돼지 외에도 자리물회, 갈치·고등어구이, 신선한 해산물이 대표 음식으로 꼽힙니다. 이 글에서는 여행 영상에 등장한 식당과 시장, 자연 명소를 차례로 소개합니다.</p><h2>맛집과 시장</h2><h3>늘봄흑돼지</h3><p>제주 흑돼지 구이를 먹을 수 있는 식당입니다. <strong>What to Eat in Jeju – Neulbom Heukdwaeji Black Pork BBQ</strong> 영상에서 흑돼지를 굽고 맛보는 모습을 볼 수 있습니다. 제주에 와서 흑돼지를 제대로 먹어 보고 싶은 분이라면 참고할 만합니다.</p><h3>동문시장 · 흑돼지거리</h3><p>흑돼지와 다양한 길거리 음식을 함께 즐길 수 있는 시장과 거리입니다. <strong>Jeju Street Food – Black Pork Street &amp; Dongmun Market</strong> 영상에 소개되었습니다. 이것저것 조금씩 맛보며 둘러보기 좋은 곳입니다.</p><h2>바다와 자연 명소</h2><h3>협재 바다</h3><p>오션뷰 카페에 앉아 바다를 바라보며 쉬어 가기 좋은 곳입니다. <strong>제주 해산물 아침, 협재 오션뷰 카페, 흑돼지 (EP.303) [어서와 한국은 처음이지]</strong> 편에서 출연자들이 바다를 보며 '물멍'을 즐기는 장면이 나옵니다.</p><h3>용두암</h3><p>제주 설화를 품은 바위 명소로, 바다를 배경으로 독특한 바위 모양을 감상할 수 있습니다. <strong>(4시간) 여름 분위기 낭낭한 제주도 여행 모음 [어서와 한국은 처음이지]</strong> 등 제주 여행 영상에서 만나볼 수 있는 장소입니다.</p><h3>용연구름다리</h3><p>제주의 자연과 어우러진 구름다리로, 다리 위를 걸으며 주변 풍경을 즐길 수 있습니다. 어서와 한국은 처음이지 제주 여행 모음 영상 속 코스로 볼 수 있습니다.</p><h3>천제연폭포</h3><p>폭포를 따라 산책하며 제주의 자연을 가까이 느낄 수 있는 곳입니다. 여름 제주 여행을 모은 영상에서 시원한 분위기를 확인할 수 있습니다.</p><h3>성산일출봉</h3><p>직접 올라가 보는 등반 코스로 알려진 제주의 대표 명소입니다. 어서와 한국은 처음이지 제주 여행 영상에서 출연자들이 성산일출봉을 오르는 모습을 볼 수 있습니다.</p><h2>동선 팁</h2><p>용두암과 용연구름다리는 제주시 쪽에 서로 가까이 있어 동문시장과 함께 하루 코스로 묶기 좋습니다. 시장에서 길거리 음식을 맛보고, 저녁에는 흑돼지 구이로 마무리하는 식입니다. 협재 바다는 섬 서쪽, 천제연폭포는 남쪽 서귀포 방면, 성산일출봉은 동쪽에 있어 거리가 꽤 떨어져 있으니, 서쪽·남쪽·동쪽을 날짜별로 나누어 돌면 이동 부담을 줄일 수 있습니다. 성산일출봉 등반은 체력이 필요하니 일정 초반 여유 있는 날에 넣는 것을 권합니다.</p>",
-    "en": "<h2>Jeju, the Volcanic Island, Through the Videos</h2><p>Jeju is known for its volcanic landscapes, its haenyeo (women divers) culture and its black pork. Beyond black pork, local favorites include jari-mulhoe (a chilled raw damselfish soup), grilled hairtail and mackerel, and fresh seafood. Below are the restaurants, markets and natural sights that appear in travel videos about the island.</p><h2>Places to Eat</h2><h3>Neulbom Heukdwaeji</h3><p>A restaurant specializing in grilled Jeju black pork. It is featured in <strong>What to Eat in Jeju – Neulbom Heukdwaeji Black Pork BBQ</strong>, where you can watch the pork being grilled and tasted. A good reference if trying black pork is high on your Jeju list.</p><h3>Dongmun Market &amp; Black Pork Street</h3><p>A market area where you can try black pork alongside a range of street food. It appears in <strong>Jeju Street Food – Black Pork Street &amp; Dongmun Market</strong>. It suits travelers who like to wander and sample a little of everything.</p><h2>Sea and Nature</h2><h3>Hyeopjae Beach</h3><p>A place to slow down at an ocean-view cafe and simply watch the water, something Koreans call \"mulmeong.\" It is shown in <strong>EP.303 of Welcome, First Time in Korea? (어서와 한국은 처음이지)</strong>, an episode covering a seafood breakfast, a Hyeopjae ocean-view cafe and black pork.</p><h3>Yongduam Rock (Dragon Head Rock)</h3><p>A seaside rock formation tied to Jeju folklore, known for its distinctive shape against the ocean. You can see it in Jeju travel videos such as the <strong>4-hour summer Jeju compilation from Welcome, First Time in Korea?</strong></p><h3>Yongyeon Cloud Bridge</h3><p>A suspension bridge set within Jeju's natural scenery, where you can walk across and take in the views. It is one of the stops seen in the show's Jeju compilation.</p><h3>Cheonjeyeon Waterfall</h3><p>A waterfall with a walking path that lets you enjoy Jeju's nature up close. The summer compilation video gives a sense of its cool, refreshing atmosphere.</p><h3>Seongsan Ilchulbong (Sunrise Peak)</h3><p>One of Jeju's signature landmarks, known as a hike to the top. In the Welcome, First Time in Korea? Jeju videos, the cast climbs the peak.</p><h2>Route Tips</h2><p>Yongduam Rock and Yongyeon Cloud Bridge sit close together on the Jeju City side, so they pair well with Dongmun Market for an easy day: snack your way through the market, then finish with a black pork dinner. Hyeopjae Beach is on the west coast, Cheonjeyeon Waterfall is to the south toward Seogwipo, and Seongsan Ilchulbong is on the east side, so they are fairly far apart. Splitting your days by west, south and east will cut down on travel time. The Sunrise Peak hike takes some stamina, so consider scheduling it early in your trip on a day without much else planned.</p>"
+    "en": "<h2>Jeju, the Volcanic Island, Through the Videos</h2><p>Jeju is known for its volcanic landscapes, its haenyeo (women divers) culture and its black pork. Beyond black pork, local favorites include jari-mulhoe (a chilled raw damselfish soup), grilled hairtail and mackerel, and fresh seafood. Below are the restaurants, markets and natural sights that appear in travel videos about the island.</p><h2>Places to Eat</h2><h3>Neulbom Heukdwaeji</h3><p>A restaurant specializing in grilled Jeju black pork. It is featured in <strong>What to Eat in Jeju – Neulbom Heukdwaeji Black Pork BBQ</strong>, where you can watch the pork being grilled and tasted. A good reference if trying black pork is high on your Jeju list.</p><h3>Dongmun Market &amp; Black Pork Street</h3><p>A market area where you can try black pork alongside a range of street food. It appears in <strong>Jeju Street Food – Black Pork Street &amp; Dongmun Market</strong>. It suits travelers who like to wander and sample a little of everything.</p><h2>Sea and Nature</h2><h3>Hyeopjae Beach</h3><p>A place to slow down at an ocean-view cafe and simply watch the water, something Koreans call \"mulmeong.\" It is shown in <strong>EP.303 of Welcome, First Time in Korea? (어서와 한국은 처음이지)</strong>, an episode covering a seafood breakfast, a Hyeopjae ocean-view cafe and black pork.</p><h3>Yongduam Rock (Dragon Head Rock)</h3><p>A seaside rock formation tied to Jeju folklore, known for its distinctive shape against the ocean. You can see it in Jeju travel videos such as the <strong>4-hour summer Jeju compilation from Welcome, First Time in Korea?</strong></p><h3>Yongyeon Cloud Bridge</h3><p>A suspension bridge set within Jeju's natural scenery, where you can walk across and take in the views. It is one of the stops seen in the show's Jeju compilation.</p><h3>Cheonjeyeon Waterfall</h3><p>A waterfall with a walking path that lets you enjoy Jeju's nature up close. The summer compilation video gives a sense of its cool, refreshing atmosphere.</p><h3>Seongsan Ilchulbong (Sunrise Peak)</h3><p>One of Jeju's signature landmarks, known as a hike to the top. In the Welcome, First Time in Korea? Jeju videos, the cast climbs the peak.</p><h2>Route Tips</h2><p>Yongduam Rock and Yongyeon Cloud Bridge sit close together on the Jeju City side, so they pair well with Dongmun Market for an easy day: snack your way through the market, then finish with a black pork dinner. Hyeopjae Beach is on the west coast, Cheonjeyeon Waterfall is to the south toward Seogwipo, and Seongsan Ilchulbong is on the east side, so they are fairly far apart. Splitting your days by west, south and east will cut down on travel time. The Sunrise Peak hike takes some stamina, so consider scheduling it early in your trip on a day without much else planned.</p>",
+    "ja": "<h2>動画で巡る火山の島・済州島</h2><p>済州島は火山がつくった景観、海女（ヘニョ）の文化、そして黒豚で知られる島です。黒豚のほかにも、スズメダイの冷たい刺身スープ「チャリムルフェ」、タチウオやサバの焼き魚、新鮮な海鮮などが地元で親しまれています。ここでは、済州島の旅行動画に登場するレストランや市場、自然スポットを紹介します。</p><h2>グルメスポット</h2><h3>ヌルボム黒豚（ヌルボムフッテジ）</h3><p>済州黒豚の焼肉専門店です。<strong>What to Eat in Jeju – Neulbom Heukdwaeji Black Pork BBQ</strong>で紹介されており、黒豚を焼いて味わう様子を見ることができます。済州島で黒豚をぜひ食べたいという人には参考になるでしょう。</p><h3>東門市場・黒豚通り</h3><p>黒豚とさまざまな屋台グルメを楽しめる市場エリアです。<strong>Jeju Street Food – Black Pork Street &amp; Dongmun Market</strong>に登場します。歩き回りながら少しずついろいろ食べてみたい人に向いています。</p><h2>海と自然</h2><h3>挟才（ヒョプチェ）の海</h3><p>オーシャンビューのカフェでのんびりと海を眺める、韓国でいう「ムルモン（海ぼんやり）」を楽しめる場所です。<strong>『ようこそ、韓国は初めてだよね？』（어서와 한국은 처음이지）EP.303</strong>で、海鮮の朝ごはん、挟才のオーシャンビューカフェ、黒豚を巡る回に登場します。</p><h3>龍頭岩（ヨンドゥアム）</h3><p>済州の伝説にまつわる海辺の奇岩で、海を背景にした独特の形で知られています。<strong>『ようこそ、韓国は初めてだよね？』の夏の済州島4時間まとめ動画</strong>などの済州旅行動画で見ることができます。</p><h3>龍淵（ヨンヨン）雲橋</h3><p>済州の自然の中に架かる吊り橋で、渡りながら景色を楽しめます。番組の済州まとめ動画に登場するスポットのひとつです。</p><h3>天帝淵瀑布（チョンジェヨンポッポ）</h3><p>遊歩道があり、済州の自然を間近に感じられる滝です。夏のまとめ動画から、涼しくさわやかな雰囲気が伝わってきます。</p><h3>城山日出峰（ソンサンイルチュルボン）</h3><p>済州島を代表する名所のひとつで、頂上までの登山で知られています。『ようこそ、韓国は初めてだよね？』の済州編では、出演者たちが山頂を目指して登っています。</p><h2>ルートのヒント</h2><p>龍頭岩と龍淵雲橋は済州市側の近い場所にあるので、東門市場と組み合わせると無理のない一日になります。市場で食べ歩きをして、締めくくりに黒豚の夕食を楽しむのがおすすめです。挟才の海は西海岸、天帝淵瀑布は南の西帰浦方面、城山日出峰は東側にあり、それぞれかなり離れています。西・南・東と日を分けて回ると移動時間を減らせます。城山日出峰の登山は体力が必要なので、旅の前半で予定の少ない日に入れるとよいでしょう。</p>",
+    "zh-Hans": "<h2>从视频看火山岛济州</h2><p>济州以火山地貌、海女文化和黑猪肉闻名。除了黑猪肉，当地人喜爱的还有雀鲷冷汤（자리물회，用生雀鲷做的冰凉汤品）、烤带鱼、烤青花鱼以及各种新鲜海鲜。下面整理了济州旅行视频中出现的餐厅、市场和自然景点。</p><h2>美食去处</h2><h3>늘봄黑猪肉（Neulbom Heukdwaeji）</h3><p>一家专做济州黑猪肉烧烤的餐厅。出现在<strong>《济州吃什么——늘봄黑猪肉烤肉》</strong>视频中，可以看到烤肉和试吃的过程。如果品尝黑猪肉是你济州行程的重点，可以参考一下。</p><h3>东门市场与黑猪肉街</h3><p>在这片市场区域，可以吃到黑猪肉和各种街头小吃。出现在<strong>《济州街头美食——黑猪肉街与东门市场》</strong>视频中。适合喜欢边逛边尝、每样都来一点的旅行者。</p><h2>大海与自然</h2><h3>挟才海边</h3><p>可以在海景咖啡馆里放慢脚步，静静看海，韩国人称之为“물멍（发呆看海）”。出现在<strong>《Welcome, First Time in Korea?（어서와 한국은 처음이지）》第303集</strong>中，这一集介绍了海鲜早餐、挟才海景咖啡馆和黑猪肉。</p><h3>龙头岩</h3><p>海边的一处岩石景观，与济州民间传说有关，以映衬在大海前的独特造型闻名。可以在<strong>《Welcome, First Time in Korea?》4小时夏日济州合集</strong>等济州旅行视频中看到。</p><h3>龙渊云桥</h3><p>一座坐落在济州自然风景中的吊桥，可以走过桥身欣赏周边景色。这是该节目济州合集中出现的景点之一。</p><h3>天帝渊瀑布</h3><p>瀑布旁设有步道，可以近距离感受济州的自然。通过夏日合集视频，可以感受到这里清凉舒爽的氛围。</p><h3>城山日出峰</h3><p>济州的代表性地标之一，以登顶徒步而知名。在《Welcome, First Time in Korea?》的济州视频中，出演者们登上了这座山峰。</p><h2>路线建议</h2><p>龙头岩和龙渊云桥都在济州市一侧，彼此相距不远，可以和东门市场安排在同一天，轻松游览：先在市场边走边吃，最后用黑猪肉晚餐收尾。挟才海边位于西海岸，天帝渊瀑布在南边靠近西归浦，城山日出峰则在东侧，几处相距较远。按西部、南部、东部分天游览，可以减少路上的时间。登日出峰需要一定体力，建议安排在行程前期、当天其他安排较少的日子。</p>",
+    "zh-Hant": "<h2>從影片看火山島濟州</h2><p>濟州以火山地形、海女文化和黑豬肉聞名。除了黑豬肉，當地人喜愛的還有雀鯛冷湯（자리물회，以生雀鯛做成的冰涼湯品）、烤白帶魚與烤鯖魚，以及新鮮海鮮。以下整理旅遊影片中出現的濟州餐廳、市場與自然景點。</p><h2>美食</h2><h3>늘봄흑돼지（Neulbom黑豬肉）</h3><p>專賣濟州黑豬肉燒烤的餐廳。在<strong>What to Eat in Jeju – Neulbom Heukdwaeji Black Pork BBQ</strong>影片中可以看到烤肉和試吃的過程。如果吃黑豬肉是你濟州行的首要清單，這部影片很值得參考。</p><h3>東門市場與黑豬肉街</h3><p>可以吃到黑豬肉和各式街頭小吃的市場區。出現在<strong>Jeju Street Food – Black Pork Street &amp; Dongmun Market</strong>影片中。適合喜歡邊逛邊吃、什麼都想嚐一點的旅客。</p><h2>海景與自然</h2><h3>挾才海邊</h3><p>在海景咖啡廳放慢腳步、靜靜看海的好地方，韓國人稱之為「물멍（看海放空）」。出現在<strong>《어서와 韓國是第一次吧？》（어서와 한국은 처음이지）第303集</strong>，這一集介紹了海鮮早餐、挾才海景咖啡廳和黑豬肉。</p><h3>龍頭岩</h3><p>與濟州傳說有關的海邊岩石，在大海的映襯下形狀相當特別。可以在<strong>《어서와 韓國是第一次吧？》夏季濟州4小時合輯</strong>等濟州旅遊影片中看到。</p><h3>龍淵雲橋</h3><p>位於濟州自然景觀中的吊橋，可以走過橋面欣賞風景。是節目濟州合輯中出現的景點之一。</p><h3>天帝淵瀑布</h3><p>設有步道的瀑布，能近距離感受濟州的自然風光。從夏季合輯影片中可以感受到這裡清涼舒爽的氛圍。</p><h3>城山日出峰</h3><p>濟州代表性地標之一，以登頂健行聞名。在《어서와 韓國是第一次吧？》的濟州影片中，出演者們爬上了山頂。</p><h2>路線建議</h2><p>龍頭岩和龍淵雲橋都在濟州市一帶，距離很近，很適合和東門市場排在同一天輕鬆走：先在市場邊逛邊吃，晚餐再以黑豬肉收尾。挾才海邊在西岸，天帝淵瀑布在南邊靠西歸浦，城山日出峰則在東側，彼此距離較遠。建議按西、南、東分天安排，可以減少交通時間。登日出峰需要一些體力，可以考慮排在行程前段、當天其他安排較少的日子。</p>",
+    "es": "<h2>Jeju, la isla volcánica, a través de los vídeos</h2><p>Jeju es conocida por sus paisajes volcánicos, la cultura de las haenyeo (mujeres buceadoras) y su cerdo negro. Además del cerdo negro, entre los favoritos locales están el jari-mulhoe (una sopa fría de pescado damisela crudo), el pez sable y la caballa a la parrilla, y el marisco fresco. A continuación, los restaurantes, mercados y paisajes naturales que aparecen en vídeos de viajes sobre la isla.</p><h2>Dónde comer</h2><h3>Neulbom Heukdwaeji</h3><p>Un restaurante especializado en cerdo negro de Jeju a la parrilla. Aparece en <strong>What to Eat in Jeju – Neulbom Heukdwaeji Black Pork BBQ</strong>, donde se puede ver cómo se asa y se prueba la carne. Una buena referencia si probar el cerdo negro es una de tus prioridades en Jeju.</p><h3>Mercado de Dongmun y calle del cerdo negro</h3><p>Una zona de mercado donde se puede probar cerdo negro junto con una variedad de comida callejera. Sale en <strong>Jeju Street Food – Black Pork Street &amp; Dongmun Market</strong>. Ideal para quienes disfrutan paseando y probando un poco de todo.</p><h2>Mar y naturaleza</h2><h3>Playa de Hyeopjae</h3><p>Un lugar para bajar el ritmo en una cafetería con vistas al mar y simplemente contemplar el agua, lo que los coreanos llaman «mulmeong». Aparece en el <strong>EP.303 de Welcome, First Time in Korea? (어서와 한국은 처음이지)</strong>, un episodio con desayuno de marisco, una cafetería frente al mar en Hyeopjae y cerdo negro.</p><h3>Roca Yongduam (Roca Cabeza de Dragón)</h3><p>Una formación rocosa junto al mar ligada al folclore de Jeju, conocida por su silueta característica frente al océano. Se puede ver en vídeos de viajes por Jeju como la <strong>recopilación de 4 horas del verano en Jeju de Welcome, First Time in Korea?</strong></p><h3>Puente colgante de Yongyeon</h3><p>Un puente colgante integrado en el paisaje natural de Jeju, que se puede cruzar a pie disfrutando de las vistas. Es una de las paradas que aparecen en la recopilación de Jeju del programa.</p><h3>Cascada de Cheonjeyeon</h3><p>Una cascada con un sendero que permite disfrutar de cerca de la naturaleza de Jeju. El vídeo recopilatorio de verano transmite bien su ambiente fresco y agradable.</p><h3>Seongsan Ilchulbong (Pico del Amanecer)</h3><p>Uno de los símbolos de Jeju, conocido por la subida hasta la cima. En los vídeos de Jeju de Welcome, First Time in Korea?, los participantes suben al pico.</p><h2>Consejos de ruta</h2><p>La roca Yongduam y el puente colgante de Yongyeon están cerca uno del otro, en la zona de la ciudad de Jeju, así que combinan bien con el Mercado de Dongmun para un día tranquilo: picotea por el mercado y termina con una cena de cerdo negro. La playa de Hyeopjae está en la costa oeste, la cascada de Cheonjeyeon al sur, hacia Seogwipo, y Seongsan Ilchulbong en el lado este, por lo que están bastante alejados entre sí. Repartir los días por zonas (oeste, sur y este) reduce el tiempo de desplazamiento. La subida al Pico del Amanecer requiere cierta resistencia, así que conviene hacerla al principio del viaje, en un día sin demasiados planes.</p>",
+    "fr": "<h2>Jeju, l'île volcanique, à travers les vidéos</h2><p>Jeju est connue pour ses paysages volcaniques, la culture des haenyeo (les femmes plongeuses) et son porc noir. Outre le porc noir, les habitants apprécient le jari-mulhoe (une soupe froide de demoiselle crue), le poisson-sabre et le maquereau grillés, ainsi que les fruits de mer frais. Voici les restaurants, marchés et sites naturels qui apparaissent dans des vidéos de voyage consacrées à l'île.</p><h2>Où manger</h2><h3>Neulbom Heukdwaeji</h3><p>Un restaurant spécialisé dans le porc noir de Jeju grillé. Il figure dans la vidéo <strong>What to Eat in Jeju – Neulbom Heukdwaeji Black Pork BBQ</strong>, où l'on voit la viande grillée puis dégustée. Une bonne référence si goûter le porc noir fait partie de vos priorités à Jeju.</p><h3>Marché de Dongmun et rue du porc noir</h3><p>Un quartier de marché où l'on peut goûter le porc noir ainsi que toutes sortes de street food. Il apparaît dans <strong>Jeju Street Food – Black Pork Street &amp; Dongmun Market</strong>. Idéal pour les voyageurs qui aiment flâner et grignoter un peu de tout.</p><h2>Mer et nature</h2><h3>Plage de Hyeopjae</h3><p>Un endroit pour ralentir dans un café face à la mer et simplement contempler l'eau, ce que les Coréens appellent « mulmeong ». On la voit dans <strong>l'épisode 303 de Welcome, First Time in Korea? (어서와 한국은 처음이지)</strong>, qui présente un petit-déjeuner de fruits de mer, un café avec vue sur la mer à Hyeopjae et du porc noir.</p><h3>Rocher Yongduam (rocher de la Tête de Dragon)</h3><p>Une formation rocheuse en bord de mer liée au folklore de Jeju, connue pour sa silhouette caractéristique face à l'océan. On peut la voir dans des vidéos de voyage à Jeju comme la <strong>compilation estivale de 4 heures sur Jeju de Welcome, First Time in Korea?</strong></p><h3>Pont suspendu de Yongyeon</h3><p>Un pont suspendu niché dans les paysages naturels de Jeju, que l'on traverse à pied en profitant de la vue. C'est l'une des étapes visibles dans la compilation de l'émission consacrée à Jeju.</p><h3>Cascade de Cheonjeyeon</h3><p>Une cascade dotée d'un sentier de promenade qui permet de profiter de la nature de Jeju de près. La compilation estivale donne une idée de son atmosphère fraîche et revigorante.</p><h3>Seongsan Ilchulbong (pic du Lever du Soleil)</h3><p>L'un des sites emblématiques de Jeju, connu pour sa randonnée jusqu'au sommet. Dans les vidéos de Welcome, First Time in Korea? sur Jeju, les participants gravissent le pic.</p><h2>Conseils d'itinéraire</h2><p>Le rocher Yongduam et le pont suspendu de Yongyeon se trouvent tout près l'un de l'autre, du côté de Jeju-ville : ils se combinent bien avec le marché de Dongmun pour une journée tranquille, en grignotant au marché avant de terminer par un dîner de porc noir. La plage de Hyeopjae est sur la côte ouest, la cascade de Cheonjeyeon au sud, vers Seogwipo, et Seongsan Ilchulbong à l'est : ces sites sont donc assez éloignés les uns des autres. Répartir vos journées entre l'ouest, le sud et l'est réduira les temps de trajet. La montée au pic du Lever du Soleil demande un peu d'endurance : prévoyez-la plutôt en début de séjour, un jour peu chargé.</p>",
+    "de": "<h2>Die Vulkaninsel Jeju in Videos</h2><p>Jeju ist bekannt für seine Vulkanlandschaften, die Kultur der Haenyeo (Taucherinnen) und sein schwarzes Schwein (Heukdwaeji). Neben dem schwarzen Schwein schätzen Einheimische auch Jari-Mulhoe (eine kalte Suppe mit rohem Riffbarsch), gegrillten Degenfisch und Makrele sowie frische Meeresfrüchte. Hier sind die Restaurants, Märkte und Naturorte, die in Reisevideos über die Insel zu sehen sind.</p><h2>Essen</h2><h3>Neulbom Heukdwaeji</h3><p>Ein Restaurant, das sich auf gegrilltes schwarzes Jeju-Schwein spezialisiert hat. Es ist in <strong>What to Eat in Jeju – Neulbom Heukdwaeji Black Pork BBQ</strong> zu sehen, wo man zuschauen kann, wie das Fleisch gegrillt und probiert wird. Eine gute Orientierung, wenn schwarzes Schwein auf Ihrer Jeju-Liste weit oben steht.</p><h3>Dongmun-Markt &amp; Black Pork Street</h3><p>Ein Marktviertel, in dem man schwarzes Schwein und verschiedenstes Streetfood probieren kann. Es erscheint in <strong>Jeju Street Food – Black Pork Street &amp; Dongmun Market</strong>. Ideal für alle, die gern umherschlendern und von allem ein bisschen kosten.</p><h2>Meer und Natur</h2><h3>Hyeopjae-Strand</h3><p>Ein Ort, um in einem Café mit Meerblick einen Gang herunterzuschalten und einfach aufs Wasser zu schauen – was Koreaner „Mulmeong“ nennen. Zu sehen in <strong>Folge 303 von „Welcome, First Time in Korea?“ (어서와 한국은 처음이지)</strong>, einer Episode mit Meeresfrüchte-Frühstück, einem Café mit Blick aufs Meer in Hyeopjae und schwarzem Schwein.</p><h3>Yongduam (Drachenkopf-Felsen)</h3><p>Eine Felsformation an der Küste, die mit der Volkssage von Jeju verbunden ist und für ihre markante Form vor dem Meer bekannt ist. Man sieht sie in Jeju-Reisevideos wie der <strong>vierstündigen Sommer-Jeju-Zusammenstellung von „Welcome, First Time in Korea?“</strong>.</p><h3>Yongyeon-Wolkenbrücke</h3><p>Eine Hängebrücke inmitten von Jejus Natur, über die man spazieren und dabei die Aussicht genießen kann. Sie ist eine der Stationen in der Jeju-Zusammenstellung der Sendung.</p><h3>Cheonjeyeon-Wasserfall</h3><p>Ein Wasserfall mit Spazierweg, auf dem man Jejus Natur aus nächster Nähe erlebt. Das Sommer-Video vermittelt einen Eindruck von seiner kühlen, erfrischenden Atmosphäre.</p><h3>Seongsan Ilchulbong (Sunrise Peak)</h3><p>Eines der Wahrzeichen Jejus, bekannt für den Aufstieg zum Gipfel. In den Jeju-Videos von „Welcome, First Time in Korea?“ erklimmen die Teilnehmer den Berg.</p><h2>Routentipps</h2><p>Yongduam und die Yongyeon-Wolkenbrücke liegen nah beieinander auf der Seite von Jeju-Stadt und lassen sich gut mit dem Dongmun-Markt zu einem entspannten Tag kombinieren: sich über den Markt durchnaschen und den Tag mit einem Abendessen vom schwarzen Schwein beenden. Der Hyeopjae-Strand liegt an der Westküste, der Cheonjeyeon-Wasserfall im Süden Richtung Seogwipo und Seongsan Ilchulbong im Osten – sie sind also recht weit voneinander entfernt. Wer die Tage nach Westen, Süden und Osten aufteilt, spart Fahrzeit. Der Aufstieg auf den Sunrise Peak erfordert etwas Kondition; planen Sie ihn am besten früh in der Reise an einem Tag ohne viel anderes Programm ein.</p>",
+    "vi": "<h2>Jeju, hòn đảo núi lửa qua các video</h2><p>Jeju nổi tiếng với cảnh quan núi lửa, văn hóa haenyeo (những người phụ nữ lặn biển) và thịt heo đen. Ngoài thịt heo đen, người địa phương còn chuộng jari-mulhoe (canh gỏi cá thia lạnh), cá hố và cá thu nướng cùng hải sản tươi. Dưới đây là các nhà hàng, khu chợ và thắng cảnh thiên nhiên xuất hiện trong những video du lịch về hòn đảo này.</p><h2>Địa điểm ăn uống</h2><h3>Neulbom Heukdwaeji</h3><p>Nhà hàng chuyên thịt heo đen Jeju nướng. Quán xuất hiện trong video <strong>What to Eat in Jeju – Neulbom Heukdwaeji Black Pork BBQ</strong>, nơi bạn có thể xem cảnh nướng và thưởng thức thịt. Đây là gợi ý đáng tham khảo nếu thử thịt heo đen là ưu tiên hàng đầu của bạn khi đến Jeju.</p><h3>Chợ Dongmun &amp; Phố thịt heo đen</h3><p>Khu chợ nơi bạn có thể thử thịt heo đen cùng nhiều món ăn đường phố. Địa điểm này xuất hiện trong video <strong>Jeju Street Food – Black Pork Street &amp; Dongmun Market</strong>. Rất hợp với những ai thích dạo quanh và nếm thử mỗi thứ một chút.</p><h2>Biển và thiên nhiên</h2><h3>Bãi biển Hyeopjae</h3><p>Nơi để chậm lại, ngồi ở một quán cà phê view biển và chỉ ngắm nước, điều mà người Hàn gọi là \"mulmeong\". Địa điểm này xuất hiện trong <strong>tập 303 của chương trình Welcome, First Time in Korea? (어서와 한국은 처음이지)</strong>, tập phim có bữa sáng hải sản, quán cà phê view biển ở Hyeopjae và thịt heo đen.</p><h3>Đá Yongduam (Đá Đầu Rồng)</h3><p>Khối đá ven biển gắn liền với truyền thuyết dân gian Jeju, nổi tiếng với hình dáng đặc biệt nổi bật trên nền biển. Bạn có thể thấy nó trong các video du lịch Jeju như <strong>bản tổng hợp 4 tiếng về Jeju mùa hè của Welcome, First Time in Korea?</strong></p><h3>Cầu mây Yongyeon</h3><p>Cây cầu treo nằm giữa khung cảnh thiên nhiên Jeju, nơi bạn có thể đi bộ qua và ngắm cảnh. Đây là một trong những điểm dừng xuất hiện trong bản tổng hợp về Jeju của chương trình.</p><h3>Thác Cheonjeyeon</h3><p>Thác nước có đường đi bộ giúp bạn tận hưởng thiên nhiên Jeju ở cự ly gần. Video tổng hợp mùa hè cho thấy bầu không khí mát mẻ, sảng khoái nơi đây.</p><h3>Seongsan Ilchulbong (Đỉnh Mặt Trời Mọc)</h3><p>Một trong những biểu tượng của Jeju, nổi tiếng với cung đường leo lên đỉnh. Trong các video về Jeju của Welcome, First Time in Korea?, dàn khách mời đã leo lên đỉnh núi này.</p><h2>Gợi ý lộ trình</h2><p>Đá Yongduam và cầu mây Yongyeon nằm gần nhau ở phía thành phố Jeju, nên có thể ghép với chợ Dongmun cho một ngày nhẹ nhàng: vừa đi chợ vừa ăn vặt, rồi kết thúc bằng bữa tối thịt heo đen. Bãi biển Hyeopjae nằm ở bờ tây, thác Cheonjeyeon ở phía nam hướng về Seogwipo, còn Seongsan Ilchulbong ở phía đông, nên các điểm này khá xa nhau. Chia ngày theo khu vực tây, nam và đông sẽ giúp giảm thời gian di chuyển. Leo đỉnh Mặt Trời Mọc cần chút thể lực, vì vậy bạn nên xếp vào đầu chuyến đi, vào ngày không có nhiều kế hoạch khác.</p>",
+    "th": "<h2>เชจู เกาะภูเขาไฟ ผ่านคลิปวิดีโอ</h2><p>เชจูขึ้นชื่อเรื่องภูมิทัศน์จากภูเขาไฟ วัฒนธรรมแฮนยอ (นักดำน้ำหญิง) และหมูดำ นอกจากหมูดำแล้ว อาหารที่คนท้องถิ่นชื่นชอบยังมีจารีมุลเฮ (ซุปปลาสลิดหินดิบแบบเย็น) ปลาดาบเงินย่างและปลาซาบะย่าง รวมถึงอาหารทะเลสด ๆ ด้านล่างนี้คือร้านอาหาร ตลาด และสถานที่ทางธรรมชาติที่ปรากฏในคลิปท่องเที่ยวเกี่ยวกับเกาะแห่งนี้</p><h2>ร้านอาหาร</h2><h3>นึลบมฮึกดเวจี (Neulbom Heukdwaeji)</h3><p>ร้านที่เชี่ยวชาญด้านหมูดำเชจูย่าง ปรากฏในคลิป <strong>What to Eat in Jeju – Neulbom Heukdwaeji Black Pork BBQ</strong> ซึ่งจะได้เห็นทั้งการย่างและการชิมหมู เหมาะใช้เป็นข้อมูลอ้างอิงหากการกินหมูดำเป็นหนึ่งในเป้าหมายหลักของทริปเชจู</p><h3>ตลาดทงมุนและถนนหมูดำ</h3><p>ย่านตลาดที่สามารถลองหมูดำควบคู่กับสตรีทฟู้ดหลากหลาย ปรากฏในคลิป <strong>Jeju Street Food – Black Pork Street &amp; Dongmun Market</strong> เหมาะกับนักเดินทางที่ชอบเดินเล่นและชิมอาหารหลาย ๆ อย่างทีละนิด</p><h2>ทะเลและธรรมชาติ</h2><h3>หาดฮยอบแจ</h3><p>สถานที่สำหรับนั่งพักผ่อนในคาเฟ่วิวทะเลแล้วมองน้ำทะเลไปเรื่อย ๆ ซึ่งคนเกาหลีเรียกว่า \"มุลมอง\" ปรากฏใน <strong>EP.303 ของรายการ Welcome, First Time in Korea? (어서와 한국은 처음이지)</strong> ตอนที่มีทั้งอาหารเช้าซีฟู้ด คาเฟ่วิวทะเลที่ฮยอบแจ และหมูดำ</p><h3>หินยงดูอัม (หินหัวมังกร)</h3><p>โขดหินริมทะเลที่ผูกพันกับตำนานพื้นบ้านของเชจู มีชื่อเสียงจากรูปทรงอันโดดเด่นตัดกับท้องทะเล สามารถชมได้ในคลิปท่องเที่ยวเชจู เช่น <strong>คลิปรวมเชจูช่วงฤดูร้อนความยาว 4 ชั่วโมงจากรายการ Welcome, First Time in Korea?</strong></p><h3>สะพานแขวนยงยอน (Yongyeon Cloud Bridge)</h3><p>สะพานแขวนท่ามกลางธรรมชาติของเชจู สามารถเดินข้ามพร้อมชมวิวได้ เป็นหนึ่งในจุดที่ปรากฏในคลิปรวมเชจูของรายการ</p><h3>น้ำตกชอนเจยอน</h3><p>น้ำตกที่มีทางเดินให้สัมผัสธรรมชาติของเชจูได้ใกล้ชิด คลิปรวมช่วงฤดูร้อนช่วยให้เห็นบรรยากาศที่เย็นสบายและสดชื่นของที่นี่</p><h3>ซองซานอิลชุลบง (ยอดเขาพระอาทิตย์ขึ้น)</h3><p>หนึ่งในแลนด์มาร์กสำคัญของเชจู ขึ้นชื่อเรื่องการเดินขึ้นไปถึงยอด ในคลิปเชจูของรายการ Welcome, First Time in Korea? นักแสดงได้เดินขึ้นยอดเขานี้</p><h2>เคล็ดลับการวางเส้นทาง</h2><p>หินยงดูอัมและสะพานแขวนยงยอนอยู่ใกล้กันฝั่งเมืองเชจู จึงเที่ยวคู่กับตลาดทงมุนได้สะดวกในวันเดียว โดยเดินชิมของกินในตลาด แล้วปิดท้ายด้วยมื้อเย็นหมูดำ ส่วนหาดฮยอบแจอยู่ชายฝั่งตะวันตก น้ำตกชอนเจยอนอยู่ทางใต้ฝั่งซอกวิโพ และซองซานอิลชุลบงอยู่ฝั่งตะวันออก ซึ่งค่อนข้างห่างกัน การแบ่งวันเที่ยวเป็นโซนตะวันตก ใต้ และตะวันออกจะช่วยลดเวลาเดินทาง การเดินขึ้นซองซานอิลชุลบงต้องใช้แรงพอสมควร จึงควรจัดไว้ช่วงต้นทริปในวันที่ไม่มีแผนอื่นมากนัก</p>",
+    "id": "<h2>Jeju, Pulau Vulkanik, Lewat Video</h2><p>Jeju dikenal dengan lanskap vulkaniknya, budaya haenyeo (penyelam perempuan), dan babi hitamnya. Selain babi hitam, hidangan favorit warga lokal antara lain jari-mulhoe (sup ikan betok laut mentah yang disajikan dingin), ikan layur dan makerel bakar, serta makanan laut segar. Berikut restoran, pasar, dan tempat wisata alam yang muncul dalam video perjalanan tentang pulau ini.</p><h2>Tempat Makan</h2><h3>Neulbom Heukdwaeji</h3><p>Restoran yang khusus menyajikan babi hitam Jeju panggang. Tempat ini tampil dalam <strong>What to Eat in Jeju – Neulbom Heukdwaeji Black Pork BBQ</strong>, di mana kamu bisa melihat daging babi dipanggang lalu dicicipi. Cocok dijadikan referensi kalau mencoba babi hitam termasuk prioritas utamamu di Jeju.</p><h3>Pasar Dongmun &amp; Jalan Babi Hitam</h3><p>Kawasan pasar tempat kamu bisa mencoba babi hitam sekaligus beragam jajanan kaki lima. Tempat ini muncul dalam <strong>Jeju Street Food – Black Pork Street &amp; Dongmun Market</strong>. Cocok untuk wisatawan yang suka berjalan-jalan sambil mencicipi sedikit dari semuanya.</p><h2>Laut dan Alam</h2><h3>Pantai Hyeopjae</h3><p>Tempat untuk bersantai di kafe dengan pemandangan laut dan sekadar memandangi air, yang oleh orang Korea disebut \"mulmeong\". Tempat ini ditampilkan dalam <strong>EP.303 Welcome, First Time in Korea? (어서와 한국은 처음이지)</strong>, episode yang memuat sarapan makanan laut, kafe dengan pemandangan laut di Hyeopjae, dan babi hitam.</p><h3>Batu Yongduam (Batu Kepala Naga)</h3><p>Formasi batu di tepi laut yang berkaitan dengan cerita rakyat Jeju, terkenal karena bentuknya yang khas berlatar laut. Kamu bisa melihatnya dalam video perjalanan Jeju seperti <strong>kompilasi Jeju musim panas berdurasi 4 jam dari Welcome, First Time in Korea?</strong></p><h3>Jembatan Awan Yongyeon</h3><p>Jembatan gantung di tengah pemandangan alam Jeju, tempat kamu bisa berjalan menyeberang sambil menikmati panorama. Ini salah satu tempat yang tampil dalam kompilasi Jeju acara tersebut.</p><h3>Air Terjun Cheonjeyeon</h3><p>Air terjun dengan jalur pejalan kaki yang memungkinkan kamu menikmati alam Jeju dari dekat. Video kompilasi musim panas memberi gambaran suasananya yang sejuk dan menyegarkan.</p><h3>Seongsan Ilchulbong (Puncak Matahari Terbit)</h3><p>Salah satu ikon khas Jeju, dikenal sebagai tempat mendaki hingga ke puncak. Dalam video Jeju Welcome, First Time in Korea?, para pemerannya mendaki puncak ini.</p><h2>Tips Rute</h2><p>Batu Yongduam dan Jembatan Awan Yongyeon letaknya berdekatan di sisi Kota Jeju, jadi cocok digabung dengan Pasar Dongmun untuk satu hari yang santai: jajan sambil berkeliling pasar, lalu tutup hari dengan makan malam babi hitam. Pantai Hyeopjae ada di pesisir barat, Air Terjun Cheonjeyeon di selatan ke arah Seogwipo, dan Seongsan Ilchulbong di sisi timur, sehingga jaraknya cukup berjauhan. Membagi hari perjalanan berdasarkan wilayah barat, selatan, dan timur akan menghemat waktu tempuh. Pendakian Seongsan Ilchulbong butuh stamina, jadi pertimbangkan untuk menjadwalkannya di awal perjalanan pada hari yang tidak terlalu padat.</p>",
+    "ru": "<h2>Вулканический остров Чеджу глазами видеоблогеров</h2><p>Чеджу знаменит вулканическими пейзажами, культурой хэнё (женщин-ныряльщиц) и чёрной свининой. Кроме свинины, местные любят чари-мульхве (холодный суп с сырой рыбой-ласточкой), жареную рыбу-сабля и скумбрию, а также свежие морепродукты. Ниже собраны рестораны, рынки и природные места, которые появляются в видео о путешествиях по острову.</p><h2>Где поесть</h2><h3>Нылбом Хыктвэджи</h3><p>Ресторан, специализирующийся на жареной чёрной свинине с Чеджу. Он показан в видео <strong>«Что поесть на Чеджу — барбекю из чёрной свинины в Нылбом Хыктвэджи»</strong>, где можно посмотреть, как жарят и пробуют мясо. Пригодится, если чёрная свинина — один из главных пунктов вашей поездки.</p><h3>Рынок Тонмун и улица чёрной свинины</h3><p>Рыночный квартал, где можно попробовать чёрную свинину и самую разную уличную еду. Он появляется в видео <strong>«Уличная еда Чеджу — улица чёрной свинины и рынок Тонмун»</strong>. Подойдёт тем, кто любит бродить и пробовать понемногу всего.</p><h2>Море и природа</h2><h3>Пляж Хёпче</h3><p>Место, где можно не торопиться: сесть в кафе с видом на океан и просто смотреть на воду — корейцы называют это «мульмон». Пляж показан в <strong>303-м выпуске шоу «Welcome, First Time in Korea?» (어서와 한국은 처음이지)</strong>, где герои завтракают морепродуктами, сидят в кафе с видом на море в Хёпче и едят чёрную свинину.</p><h3>Скала Ёндуам («Голова дракона»)</h3><p>Прибрежная скала, связанная с местными легендами Чеджу и известная своими необычными очертаниями на фоне океана. Её можно увидеть в видео о Чеджу, например в <strong>4-часовой летней подборке о Чеджу из шоу «Welcome, First Time in Korea?»</strong>.</p><h3>Подвесной мост Ёнён</h3><p>Подвесной мост среди природы Чеджу: по нему можно пройти и полюбоваться видами. Это одна из остановок в подборке шоу о Чеджу.</p><h3>Водопад Чхонджеён</h3><p>Водопад с прогулочной тропой, позволяющей увидеть природу Чеджу вблизи. Летняя подборка хорошо передаёт его прохладную, освежающую атмосферу.</p><h3>Сонсан Ильчхульбон (пик Восхода)</h3><p>Одна из главных достопримечательностей Чеджу, известная подъёмом на вершину. В видео шоу «Welcome, First Time in Korea?» о Чеджу участники поднимаются на пик.</p><h2>Советы по маршруту</h2><p>Скала Ёндуам и мост Ёнён находятся рядом, в районе города Чеджу, поэтому их удобно совместить с рынком Тонмун в один неспешный день: перекусить на рынке, а закончить ужином из чёрной свинины. Пляж Хёпче — на западном побережье, водопад Чхонджеён — на юге, ближе к Согвипхо, а Сонсан Ильчхульбон — на востоке, так что они довольно далеко друг от друга. Если разделить дни на запад, юг и восток, времени на дорогу уйдёт меньше. Подъём на пик Восхода требует сил, поэтому лучше запланировать его в начале поездки, на день без других насыщенных планов.</p>"
   },
   "places": [
     {
@@ -82,5 +112,307 @@
       "id": "mwblwy0tp7k",
       "title": "(4시간) 여름 분위기 낭낭한 제주도 여행 모음"
     }
-  ]
+  ],
+  "placesI18n": {
+    "ja": [
+      {
+        "name": "ヌルボム黒豚（늘봄흑돼지）",
+        "menu": "黒豚焼肉"
+      },
+      {
+        "name": "東門市場・黒豚通り",
+        "menu": "黒豚、屋台グルメ"
+      },
+      {
+        "name": "挟才（ヒョプチェ）の海",
+        "menu": "オーシャンビューカフェで海を眺めてのんびり"
+      },
+      {
+        "name": "龍頭岩",
+        "menu": "済州の伝説にまつわる奇岩"
+      },
+      {
+        "name": "龍淵雲橋",
+        "menu": "済州の自然に溶け込む吊り橋"
+      },
+      {
+        "name": "天帝淵瀑布",
+        "menu": "滝の散策"
+      },
+      {
+        "name": "城山日出峰",
+        "menu": "城山日出峰の登山"
+      }
+    ],
+    "zh-Hans": [
+      {
+        "name": "늘봄黑猪肉（Neulbom Heukdwaeji）",
+        "menu": "烤黑猪肉"
+      },
+      {
+        "name": "东门市场·黑猪肉街",
+        "menu": "黑猪肉、街头小吃"
+      },
+      {
+        "name": "挟才海边",
+        "menu": "在海景咖啡馆放松看海"
+      },
+      {
+        "name": "龙头岩",
+        "menu": "与济州民间传说有关的岩石景观"
+      },
+      {
+        "name": "龙渊云桥",
+        "menu": "与济州自然融为一体的吊桥"
+      },
+      {
+        "name": "天帝渊瀑布",
+        "menu": "瀑布步道散步"
+      },
+      {
+        "name": "城山日出峰",
+        "menu": "登日出峰徒步"
+      }
+    ],
+    "zh-Hant": [
+      {
+        "name": "늘봄흑돼지（Neulbom黑豬肉）",
+        "menu": "黑豬肉燒烤"
+      },
+      {
+        "name": "東門市場・黑豬肉街",
+        "menu": "黑豬肉、街頭小吃"
+      },
+      {
+        "name": "挾才海邊",
+        "menu": "在海景咖啡廳放鬆看海"
+      },
+      {
+        "name": "龍頭岩",
+        "menu": "與濟州傳說有關的岩石"
+      },
+      {
+        "name": "龍淵雲橋",
+        "menu": "與濟州自然融為一體的吊橋"
+      },
+      {
+        "name": "天帝淵瀑布",
+        "menu": "瀑布步道散步"
+      },
+      {
+        "name": "城山日出峰",
+        "menu": "登城山日出峰健行"
+      }
+    ],
+    "es": [
+      {
+        "name": "Neulbom Heukdwaeji (늘봄흑돼지)",
+        "menu": "Cerdo negro a la parrilla"
+      },
+      {
+        "name": "Mercado de Dongmun y calle del cerdo negro (동문시장 · 흑돼지거리)",
+        "menu": "Cerdo negro, comida callejera"
+      },
+      {
+        "name": "Playa de Hyeopjae (협재 바다)",
+        "menu": "Relajarse contemplando el mar desde una cafetería con vistas al océano"
+      },
+      {
+        "name": "Roca Yongduam (Roca Cabeza de Dragón) (용두암)",
+        "menu": "Formación rocosa ligada al folclore de Jeju"
+      },
+      {
+        "name": "Puente colgante de Yongyeon (용연구름다리)",
+        "menu": "Puente colgante en armonía con la naturaleza de Jeju"
+      },
+      {
+        "name": "Cascada de Cheonjeyeon (천제연폭포)",
+        "menu": "Paseo por la cascada"
+      },
+      {
+        "name": "Seongsan Ilchulbong (Pico del Amanecer) (성산일출봉)",
+        "menu": "Subida al Pico del Amanecer"
+      }
+    ],
+    "fr": [
+      {
+        "name": "Neulbom Heukdwaeji",
+        "menu": "Porc noir grillé"
+      },
+      {
+        "name": "Marché de Dongmun et rue du porc noir",
+        "menu": "Porc noir, street food"
+      },
+      {
+        "name": "Plage de Hyeopjae",
+        "menu": "Se détendre et contempler la mer depuis un café avec vue sur l'océan"
+      },
+      {
+        "name": "Rocher Yongduam (rocher de la Tête de Dragon)",
+        "menu": "Formation rocheuse liée au folklore de Jeju"
+      },
+      {
+        "name": "Pont suspendu de Yongyeon",
+        "menu": "Pont suspendu en harmonie avec la nature de Jeju"
+      },
+      {
+        "name": "Cascade de Cheonjeyeon",
+        "menu": "Promenade autour de la cascade"
+      },
+      {
+        "name": "Seongsan Ilchulbong (pic du Lever du Soleil)",
+        "menu": "Randonnée au pic du Lever du Soleil"
+      }
+    ],
+    "de": [
+      {
+        "name": "Neulbom Heukdwaeji (늘봄흑돼지)",
+        "menu": "Gegrilltes schwarzes Schwein"
+      },
+      {
+        "name": "Dongmun-Markt & Black Pork Street (동문시장 · 흑돼지거리)",
+        "menu": "Schwarzes Schwein, Streetfood"
+      },
+      {
+        "name": "Hyeopjae-Strand (협재 바다)",
+        "menu": "Entspannen und aufs Meer schauen in einem Café mit Meerblick"
+      },
+      {
+        "name": "Yongduam (Drachenkopf-Felsen) (용두암)",
+        "menu": "Felsformation aus der Volkssage von Jeju"
+      },
+      {
+        "name": "Yongyeon-Wolkenbrücke (용연구름다리)",
+        "menu": "Hängebrücke im Einklang mit Jejus Natur"
+      },
+      {
+        "name": "Cheonjeyeon-Wasserfall (천제연폭포)",
+        "menu": "Spaziergang zum Wasserfall"
+      },
+      {
+        "name": "Seongsan Ilchulbong (Sunrise Peak) (성산일출봉)",
+        "menu": "Wanderung auf den Sunrise Peak"
+      }
+    ],
+    "vi": [
+      {
+        "name": "Neulbom Heukdwaeji (늘봄흑돼지)",
+        "menu": "Thịt heo đen nướng"
+      },
+      {
+        "name": "Chợ Dongmun & Phố thịt heo đen (동문시장 · 흑돼지거리)",
+        "menu": "Thịt heo đen, món ăn đường phố"
+      },
+      {
+        "name": "Bãi biển Hyeopjae (협재 바다)",
+        "menu": "Thư giãn, ngắm biển từ quán cà phê view biển"
+      },
+      {
+        "name": "Đá Yongduam (Đá Đầu Rồng) (용두암)",
+        "menu": "Khối đá gắn với truyền thuyết dân gian Jeju"
+      },
+      {
+        "name": "Cầu mây Yongyeon (용연구름다리)",
+        "menu": "Cầu treo hòa mình vào thiên nhiên Jeju"
+      },
+      {
+        "name": "Thác Cheonjeyeon (천제연폭포)",
+        "menu": "Đi bộ ngắm thác"
+      },
+      {
+        "name": "Seongsan Ilchulbong – Đỉnh Mặt Trời Mọc (성산일출봉)",
+        "menu": "Leo đỉnh Mặt Trời Mọc"
+      }
+    ],
+    "th": [
+      {
+        "name": "นึลบมฮึกดเวจี (Neulbom Heukdwaeji)",
+        "menu": "หมูดำย่าง"
+      },
+      {
+        "name": "ตลาดทงมุนและถนนหมูดำ",
+        "menu": "หมูดำ, สตรีทฟู้ด"
+      },
+      {
+        "name": "หาดฮยอบแจ",
+        "menu": "นั่งพักผ่อนชมทะเลในคาเฟ่วิวทะเล"
+      },
+      {
+        "name": "หินยงดูอัม (หินหัวมังกร)",
+        "menu": "โขดหินที่ผูกพันกับตำนานพื้นบ้านเชจู"
+      },
+      {
+        "name": "สะพานแขวนยงยอน",
+        "menu": "สะพานแขวนกลมกลืนกับธรรมชาติเชจู"
+      },
+      {
+        "name": "น้ำตกชอนเจยอน",
+        "menu": "เดินชมน้ำตก"
+      },
+      {
+        "name": "ซองซานอิลชุลบง (ยอดเขาพระอาทิตย์ขึ้น)",
+        "menu": "เดินขึ้นยอดเขาพระอาทิตย์ขึ้น"
+      }
+    ],
+    "id": [
+      {
+        "name": "Neulbom Heukdwaeji",
+        "menu": "Babi hitam panggang"
+      },
+      {
+        "name": "Pasar Dongmun & Jalan Babi Hitam",
+        "menu": "Babi hitam, jajanan kaki lima"
+      },
+      {
+        "name": "Pantai Hyeopjae",
+        "menu": "Bersantai dan memandangi laut dari kafe berpemandangan laut"
+      },
+      {
+        "name": "Batu Yongduam (Batu Kepala Naga)",
+        "menu": "Formasi batu yang berkaitan dengan cerita rakyat Jeju"
+      },
+      {
+        "name": "Jembatan Awan Yongyeon",
+        "menu": "Jembatan gantung yang menyatu dengan alam Jeju"
+      },
+      {
+        "name": "Air Terjun Cheonjeyeon",
+        "menu": "Jalan-jalan di sekitar air terjun"
+      },
+      {
+        "name": "Seongsan Ilchulbong (Puncak Matahari Terbit)",
+        "menu": "Mendaki Puncak Matahari Terbit"
+      }
+    ],
+    "ru": [
+      {
+        "name": "Нылбом Хыктвэджи (늘봄흑돼지)",
+        "menu": "Жареная чёрная свинина"
+      },
+      {
+        "name": "Рынок Тонмун и улица чёрной свинины (동문시장 · 흑돼지거리)",
+        "menu": "Чёрная свинина, уличная еда"
+      },
+      {
+        "name": "Пляж Хёпче (협재 바다)",
+        "menu": "Отдых и созерцание моря из кафе с видом на океан"
+      },
+      {
+        "name": "Скала Ёндуам («Голова дракона») (용두암)",
+        "menu": "Скала, связанная с легендами Чеджу"
+      },
+      {
+        "name": "Подвесной мост Ёнён (용연구름다리)",
+        "menu": "Подвесной мост среди природы Чеджу"
+      },
+      {
+        "name": "Водопад Чхонджеён (천제연폭포)",
+        "menu": "Прогулка к водопаду"
+      },
+      {
+        "name": "Сонсан Ильчхульбон (пик Восхода) (성산일출봉)",
+        "menu": "Подъём на пик Восхода"
+      }
+    ]
+  }
 }

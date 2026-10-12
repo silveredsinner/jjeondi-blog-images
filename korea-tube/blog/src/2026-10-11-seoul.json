@@ -4,15 +4,45 @@
   "region": "seoul",
   "title": {
     "ko": "서울 영상 속 맛집·명소: 광장시장부터 남산서울타워까지",
-    "en": "Seoul on Screen: Food Spots and Sights from Gwangjang Market to N Seoul Tower"
+    "en": "Seoul on Screen: Food Spots and Sights from Gwangjang Market to N Seoul Tower",
+    "ja": "映像で見るソウル：広蔵市場からNソウルタワーまで、グルメと名所",
+    "zh-Hans": "镜头里的首尔：从广藏市场到N首尔塔的美食与景点",
+    "zh-Hant": "影片裡的首爾：從廣藏市場到N首爾塔的美食與景點",
+    "es": "Seúl en pantalla: dónde comer y qué ver, del Mercado de Gwangjang a la N Seoul Tower",
+    "fr": "Séoul à l'écran : adresses gourmandes et sites incontournables, du marché de Gwangjang à la N Seoul Tower",
+    "de": "Seoul auf dem Bildschirm: Food-Spots und Sehenswürdigkeiten vom Gwangjang-Markt bis zum N Seoul Tower",
+    "vi": "Seoul trên màn ảnh: Quán ăn và điểm tham quan từ chợ Gwangjang đến tháp N Seoul",
+    "th": "โซลในจอ: ร้านอร่อยและที่เที่ยวจากตลาดควังจังถึงหอคอยเอ็นโซล",
+    "id": "Seoul di Layar: Tempat Makan dan Wisata dari Pasar Gwangjang hingga N Seoul Tower",
+    "ru": "Сеул на экране: где поесть и что посмотреть — от рынка Кванджан до башни N Seoul Tower"
   },
   "summary": {
     "ko": "광장시장의 빈대떡과 육회, 노량진수산시장의 모듬회와 해물라면, 경복궁·남산서울타워·봉은사·국립민속박물관까지 여행 영상과 '어서와 한국은 처음이지'에 나온 서울의 장소를 정리했습니다.",
-    "en": "From bindaetteok and yukhoe at Gwangjang Market to sashimi and seafood ramyeon at Noryangjin, plus Gyeongbokgung, N Seoul Tower, Bongeunsa and the National Folk Museum: Seoul places featured in travel videos and the Korean show 'Welcome, First Time in Korea?'"
+    "en": "From bindaetteok and yukhoe at Gwangjang Market to sashimi and seafood ramyeon at Noryangjin, plus Gyeongbokgung, N Seoul Tower, Bongeunsa and the National Folk Museum: Seoul places featured in travel videos and the Korean show 'Welcome, First Time in Korea?'",
+    "ja": "広蔵市場のピンデトックとユッケ、鷺梁津水産市場の刺身盛り合わせと海鮮ラーメン、さらに景福宮・Nソウルタワー・奉恩寺・国立民俗博物館まで。旅行動画や韓国のバラエティ番組『ようこそ、韓国は初めてだよね？』に登場したソウルのスポットをまとめました。",
+    "zh-Hans": "从广藏市场的绿豆煎饼和生拌牛肉，到鹭梁津的生鱼片和海鲜拉面，再到景福宫、N首尔塔、奉恩寺和国立民俗博物馆——整理了旅行视频和韩国综艺《欢迎来到韩国》（어서와 한국은 처음이지）中出现过的首尔地点。",
+    "zh-Hant": "從廣藏市場的綠豆煎餅、生拌牛肉，到鷺梁津水產市場的生魚片拼盤與海鮮拉麵，再加上景福宮、N首爾塔、奉恩寺與國立民俗博物館：整理旅遊影片與韓國綜藝《歡迎第一次來韓國吧？》中出現過的首爾景點。",
+    "es": "Del bindaetteok y el yukhoe del Mercado de Gwangjang al sashimi y el ramyeon de marisco de Noryangjin, pasando por Gyeongbokgung, la N Seoul Tower, Bongeunsa y el Museo Nacional del Folclore: lugares de Seúl que aparecen en vídeos de viajes y en el programa coreano 'Welcome, First Time in Korea?'.",
+    "fr": "Du bindaetteok et du yukhoe du marché de Gwangjang aux sashimis et ramyeon aux fruits de mer de Noryangjin, en passant par le palais Gyeongbokgung, la N Seoul Tower, le temple Bongeunsa et le Musée national du folklore : les lieux de Séoul vus dans des vidéos de voyage et dans l'émission coréenne « Welcome, First Time in Korea? ».",
+    "de": "Von Bindaetteok und Yukhoe auf dem Gwangjang-Markt über Sashimi und Meeresfrüchte-Ramyeon in Noryangjin bis zu Gyeongbokgung, N Seoul Tower, Bongeunsa und dem Nationalen Volkskundemuseum: Orte in Seoul, die in Reisevideos und in der koreanischen Sendung „Welcome, First Time in Korea?“ zu sehen waren.",
+    "vi": "Từ bánh bindaetteok và yukhoe ở chợ Gwangjang đến sashimi và mì ramyeon hải sản ở Noryangjin, cùng cung Gyeongbokgung, tháp N Seoul, chùa Bongeunsa và Bảo tàng Dân gian Quốc gia: những địa điểm ở Seoul xuất hiện trong các video du lịch và chương trình truyền hình Hàn Quốc 'Welcome, First Time in Korea?'",
+    "th": "ตั้งแต่บินแดต็อกและยุกฮเวที่ตลาดควังจัง ซาซิมิและรามยอนทะเลที่ตลาดปลาโนรยางจิน ไปจนถึงพระราชวังคยองบกกุง หอคอยเอ็นโซล วัดบงอึนซา และพิพิธภัณฑ์พื้นบ้านแห่งชาติ รวมสถานที่ในโซลที่ปรากฏในวิดีโอท่องเที่ยวและรายการเกาหลี 'Welcome, First Time in Korea?'",
+    "id": "Dari bindaetteok dan yukhoe di Pasar Gwangjang hingga sashimi dan ramyeon seafood di Noryangjin, ditambah Istana Gyeongbokgung, N Seoul Tower, Kuil Bongeunsa, dan Museum Rakyat Nasional: tempat-tempat di Seoul yang tampil di video perjalanan dan acara Korea 'Welcome, First Time in Korea?'",
+    "ru": "Пиндэтток и юкхве на рынке Кванджан, сашими и рамён с морепродуктами на Норянджине, а также дворец Кёнбоккун, башня N Seoul Tower, храм Понъынса и Национальный фольклорный музей — места Сеула, которые показывали в тревел-видео и корейском шоу «Welcome, First Time in Korea?»."
   },
   "body": {
     "ko": "<h2>영상으로 먼저 만나는 서울</h2><p>서울은 궁궐과 전통시장, 한강과 야경을 한 도시에서 모두 볼 수 있는 한국의 수도입니다. 삼겹살과 곱창도 유명하지만, 여행 영상에 자주 나오는 곳은 광장시장의 빈대떡·육회와 노량진의 해물라면입니다. 길거리 음식 투어 영상과 예능 '어서와 한국은 처음이지'에 나온 장소를 먹거리와 볼거리로 나눠 정리했습니다.</p><h2>먹거리</h2><h3>광장시장 (Gwangjang Market)</h3><p>노릇하게 부친 <strong>빈대떡</strong>과 <strong>육회</strong>, 한입 크기의 <strong>마약김밥</strong>을 맛볼 수 있는 전통시장입니다. 'Ultimate Seoul Street Food Tour'와 'Gwangjang Market at Night' 같은 길거리 음식 영상에 자주 나오고, '어서와 한국은 처음이지'에서는 멕시코 친구 세 명이 이곳에서 산낙지에 도전했습니다. 저녁 시간대 시장 분위기는 야간 영상에서 미리 볼 수 있습니다.</p><h3>노량진수산시장 (Noryangjin Fish Market)</h3><p>시장에서 고른 해산물로 <strong>모듬회</strong>를 즐기고, 마무리로 <strong>해물라면</strong>을 먹는 곳입니다. '어서와 한국은 처음이지'에서는 미슐랭 셰프들이 새벽에 해물라면을 먹었고, 네덜란드 셰프들이 모듬회를 맛보기도 했습니다. 처음 방문한 외국인들이 활기찬 시장 풍경에 당황하는 모습을 모은 영상도 있어, 가기 전에 분위기를 익혀 두기 좋습니다.</p><h2>볼거리</h2><h3>경복궁 (Gyeongbokgung Palace)</h3><p>한복을 입고 궁궐을 산책하기 좋은 곳입니다. 'Walking Tour of Gyeongbokgung Palace in Full Hanbok', 'A Hanbok Day at Gyeongbokgung' 영상에서 한복 차림의 궁궐 나들이를 볼 수 있고, '어서와 한국은 처음이지'의 캐나다 다둥이 가족도 경복궁에서 여행을 시작했습니다.</p><h3>국립민속박물관 (National Folk Museum of Korea)</h3><p>한국의 생활 문화를 살펴볼 수 있는 박물관입니다. 궁궐 산책과 함께 관람 일정을 짜면 서울의 전통을 조금 더 깊이 이해할 수 있습니다.</p><h3>남산서울타워 (N Seoul Tower)</h3><p>서울의 <strong>야경</strong>과 <strong>사랑의 자물쇠</strong>로 알려진 명소입니다. '어서와 한국은 처음이지'에서 서울 시티투어 버스를 타고 남산타워에 가는 장면, 자물쇠 자판기 앞에서 친구들이 당황하는 장면이 방송되었습니다.</p><h3>봉은사 템플스테이 (Bongeunsa Templestay)</h3><p>도심 속 사찰에서 템플스테이를 체험할 수 있는 곳입니다. 'Korean Templestay Program at Bongeunsa Temple' 영상에서 프로그램 분위기를 미리 볼 수 있습니다.</p><h2>동선 팁</h2><p>낮에는 경복궁에서 한복을 입고 궁궐을 산책한 뒤 국립민속박물관을 함께 둘러보고, 저녁에는 광장시장에서 빈대떡과 육회로 식사하는 흐름이 자연스럽습니다. 해가 진 뒤에는 남산서울타워에서 야경을 보는 것으로 하루를 마무리해 보세요. 노량진수산시장은 영상 속 새벽 해물라면처럼 이른 시간에 따로 일정을 잡아도 좋고, 봉은사 템플스테이는 프로그램 일정에 맞춰 하루를 비워 두는 편이 여유롭습니다.</p>",
-    "en": "<h2>Seoul, as Seen on Screen</h2><p>Seoul is Korea's capital, a city where royal palaces, traditional markets, the Han River and glittering night views all share the same map. Samgyeopsal and gopchang are local favorites, but the dishes that turn up again and again in travel videos are the bindaetteok and yukhoe of Gwangjang Market and the seafood ramyeon of Noryangjin. Below is a guide to places featured in street food tours and on the Korean variety show 'Welcome, First Time in Korea?' (어서와 한국은 처음이지), split into food and sights.</p><h2>Where to Eat</h2><h3>Gwangjang Market</h3><p>A traditional market known for crispy <strong>bindaetteok</strong> (mung bean pancakes), <strong>yukhoe</strong> (Korean-style beef tartare) and bite-sized <strong>mayak gimbap</strong>. It's a regular in street food videos such as 'Ultimate Seoul Street Food Tour' and 'Gwangjang Market at Night – Korean Street Food Experience.' On 'Welcome, First Time in Korea?', three friends from Mexico tried live octopus here. Watch the night-time videos for a feel of the market after dark.</p><h3>Noryangjin Fish Market</h3><p>Pick your seafood at the market, enjoy it as a <strong>sashimi platter</strong>, and finish with a bowl of <strong>seafood ramyeon</strong>. On 'Welcome, First Time in Korea?', Michelin chefs slurped seafood ramyeon at dawn, and a group of Dutch chefs sampled a fresh sashimi platter. There's also a compilation of first-time visitors overwhelmed by the bustling market, which is a handy preview before you go.</p><h2>What to See</h2><h3>Gyeongbokgung Palace</h3><p>A palace best explored on foot in a hanbok. 'Walking Tour of Gyeongbokgung Palace in Full Hanbok' and 'A Hanbok Day at Gyeongbokgung' show what a day in traditional dress looks like, and a large Canadian family on 'Welcome, First Time in Korea?' started their trip here before heading to Gangneung by KTX.</p><h3>National Folk Museum of Korea</h3><p>A museum devoted to everyday Korean life and culture. Pairing it with a palace walk gives you a fuller picture of Seoul's traditions.</p><h3>N Seoul Tower</h3><p>Known for its <strong>night views</strong> over the city and its <strong>love locks</strong>. 'Welcome, First Time in Korea?' featured guests riding the Seoul City Tour Bus up to the tower, and another group puzzling over the love lock vending machine.</p><h3>Bongeunsa Templestay</h3><p>A temple in the middle of the city where you can join a templestay program. 'Korean Templestay Program at Bongeunsa Temple' offers a look at what the experience involves.</p><h2>Route Tips</h2><p>A natural day plan: spend the daytime at Gyeongbokgung in a hanbok and visit the National Folk Museum alongside it, then head to Gwangjang Market for bindaetteok and yukhoe at dinner. After dark, wrap up with the night views from N Seoul Tower. Noryangjin Fish Market works well as a separate early outing, much like the dawn ramyeon in the show, and for the Bongeunsa Templestay it's easier to set aside a day that fits the program schedule.</p>"
+    "en": "<h2>Seoul, as Seen on Screen</h2><p>Seoul is Korea's capital, a city where royal palaces, traditional markets, the Han River and glittering night views all share the same map. Samgyeopsal and gopchang are local favorites, but the dishes that turn up again and again in travel videos are the bindaetteok and yukhoe of Gwangjang Market and the seafood ramyeon of Noryangjin. Below is a guide to places featured in street food tours and on the Korean variety show 'Welcome, First Time in Korea?' (어서와 한국은 처음이지), split into food and sights.</p><h2>Where to Eat</h2><h3>Gwangjang Market</h3><p>A traditional market known for crispy <strong>bindaetteok</strong> (mung bean pancakes), <strong>yukhoe</strong> (Korean-style beef tartare) and bite-sized <strong>mayak gimbap</strong>. It's a regular in street food videos such as 'Ultimate Seoul Street Food Tour' and 'Gwangjang Market at Night – Korean Street Food Experience.' On 'Welcome, First Time in Korea?', three friends from Mexico tried live octopus here. Watch the night-time videos for a feel of the market after dark.</p><h3>Noryangjin Fish Market</h3><p>Pick your seafood at the market, enjoy it as a <strong>sashimi platter</strong>, and finish with a bowl of <strong>seafood ramyeon</strong>. On 'Welcome, First Time in Korea?', Michelin chefs slurped seafood ramyeon at dawn, and a group of Dutch chefs sampled a fresh sashimi platter. There's also a compilation of first-time visitors overwhelmed by the bustling market, which is a handy preview before you go.</p><h2>What to See</h2><h3>Gyeongbokgung Palace</h3><p>A palace best explored on foot in a hanbok. 'Walking Tour of Gyeongbokgung Palace in Full Hanbok' and 'A Hanbok Day at Gyeongbokgung' show what a day in traditional dress looks like, and a large Canadian family on 'Welcome, First Time in Korea?' started their trip here before heading to Gangneung by KTX.</p><h3>National Folk Museum of Korea</h3><p>A museum devoted to everyday Korean life and culture. Pairing it with a palace walk gives you a fuller picture of Seoul's traditions.</p><h3>N Seoul Tower</h3><p>Known for its <strong>night views</strong> over the city and its <strong>love locks</strong>. 'Welcome, First Time in Korea?' featured guests riding the Seoul City Tour Bus up to the tower, and another group puzzling over the love lock vending machine.</p><h3>Bongeunsa Templestay</h3><p>A temple in the middle of the city where you can join a templestay program. 'Korean Templestay Program at Bongeunsa Temple' offers a look at what the experience involves.</p><h2>Route Tips</h2><p>A natural day plan: spend the daytime at Gyeongbokgung in a hanbok and visit the National Folk Museum alongside it, then head to Gwangjang Market for bindaetteok and yukhoe at dinner. After dark, wrap up with the night views from N Seoul Tower. Noryangjin Fish Market works well as a separate early outing, much like the dawn ramyeon in the show, and for the Bongeunsa Templestay it's easier to set aside a day that fits the program schedule.</p>",
+    "ja": "<h2>映像の中のソウル</h2><p>ソウルは韓国の首都。王宮、伝統市場、漢江、きらびやかな夜景がひとつの地図の上に並ぶ街です。サムギョプサルやコプチャンは地元の人にも人気ですが、旅行動画に繰り返し登場するのは、広蔵市場のピンデトックとユッケ、そして鷺梁津の海鮮ラーメンです。ここでは、屋台グルメツアーの動画や韓国のバラエティ番組『ようこそ、韓国は初めてだよね？』（어서와 한국은 처음이지）に登場した場所を、グルメと観光に分けて紹介します。</p><h2>食べる</h2><h3>広蔵市場</h3><p>カリッと焼き上げた<strong>ピンデトック</strong>（緑豆のチヂミ）、<strong>ユッケ</strong>（韓国風牛肉のタルタル）、ひと口サイズの<strong>麻薬キンパ</strong>で知られる伝統市場です。「Ultimate Seoul Street Food Tour」や「Gwangjang Market at Night – Korean Street Food Experience」など、屋台グルメ動画の定番スポット。『ようこそ、韓国は初めてだよね？』では、メキシコから来た3人の友人がここで活きダコに挑戦しました。夜の雰囲気をつかみたいなら、夜間の動画をチェックしてみてください。</p><h3>鷺梁津水産市場</h3><p>市場で魚介を選んで<strong>刺身盛り合わせ</strong>にしてもらい、締めは<strong>海鮮ラーメン</strong>で。『ようこそ、韓国は初めてだよね？』では、ミシュランのシェフたちが明け方に海鮮ラーメンをすすり、オランダのシェフたちが新鮮な刺身盛り合わせを味わいました。にぎやかな市場に圧倒される初訪問者たちをまとめた映像もあり、行く前の予習に便利です。</p><h2>見る</h2><h3>景福宮</h3><p>韓服を着て歩いて巡るのがおすすめの王宮。「Walking Tour of Gyeongbokgung Palace in Full Hanbok」や「A Hanbok Day at Gyeongbokgung」で、伝統衣装で過ごす一日の様子がわかります。『ようこそ、韓国は初めてだよね？』では、カナダの大家族がここから旅をスタートし、KTXで江陵へ向かいました。</p><h3>国立民俗博物館</h3><p>韓国の暮らしと文化をテーマにした博物館。王宮散策と組み合わせると、ソウルの伝統をより立体的に知ることができます。</p><h3>Nソウルタワー</h3><p>街を見渡す<strong>夜景</strong>と<strong>愛の南京錠</strong>で有名です。『ようこそ、韓国は初めてだよね？』では、ソウルシティツアーバスでタワーへ向かう出演者や、南京錠の自動販売機に首をかしげるグループが登場しました。</p><h3>奉恩寺テンプルステイ</h3><p>都心にありながらテンプルステイに参加できるお寺です。「Korean Templestay Program at Bongeunsa Temple」で体験内容を確認できます。</p><h2>ルートのヒント</h2><p>昼は韓服を着て景福宮を巡り、あわせて国立民俗博物館へ。夕食は広蔵市場でピンデトックとユッケを。日が暮れたらNソウルタワーの夜景で一日を締めくくる、という流れが自然です。鷺梁津水産市場は、番組の明け方のラーメンのように朝早く別に訪れるのがおすすめ。奉恩寺テンプルステイは、プログラムの日程に合わせて一日空けておくと参加しやすいでしょう。</p>",
+    "zh-Hans": "<h2>镜头里的首尔</h2><p>首尔是韩国的首都，王宫、传统市场、汉江和璀璨夜景都汇聚在同一张地图上。五花肉和烤肠是当地人的心头好，但在旅行视频里反复出现的，是广藏市场的绿豆煎饼和生拌牛肉，以及鹭梁津的海鲜拉面。下面按美食和景点两部分，介绍街头美食探店视频和韩国综艺《欢迎来到韩国》（어서와 한국은 처음이지）中出现过的地方。</p><h2>去哪儿吃</h2><h3>广藏市场</h3><p>这座传统市场以香脆的<strong>绿豆煎饼</strong>、<strong>生拌牛肉</strong>（韩式牛肉塔塔）和一口一个的<strong>麻药紫菜包饭</strong>闻名，是《Ultimate Seoul Street Food Tour》《Gwangjang Market at Night – Korean Street Food Experience》等街头美食视频的常客。在《欢迎来到韩国》中，三位来自墨西哥的朋友在这里尝试了活章鱼。想感受市场入夜后的氛围，可以看看夜间拍摄的视频。</p><h3>鹭梁津水产市场</h3><p>在市场挑选海鲜，做成<strong>生鱼片拼盘</strong>享用，最后再来一碗<strong>海鲜拉面</strong>收尾。在《欢迎来到韩国》中，米其林厨师们在凌晨大口吃海鲜拉面，一群荷兰厨师则品尝了新鲜的生鱼片拼盘。还有一支合集视频，记录了初次到访的游客被热闹市场震撼的样子，出发前看一看很有参考价值。</p><h2>去哪儿玩</h2><h3>景福宫</h3><p>最适合穿上韩服步行游览的宫殿。《Walking Tour of Gyeongbokgung Palace in Full Hanbok》和《A Hanbok Day at Gyeongbokgung》展示了穿着传统服饰度过一天的样子；《欢迎来到韩国》中一个加拿大大家庭也是从这里开始旅程，之后乘KTX前往江陵。</p><h3>韩国国立民俗博物馆</h3><p>一座专门展示韩国日常生活与文化的博物馆。与宫殿漫步搭配游览，能更全面地了解首尔的传统。</p><h3>N首尔塔</h3><p>以俯瞰城市的<strong>夜景</strong>和<strong>爱情锁</strong>闻名。《欢迎来到韩国》中，有嘉宾乘坐首尔城市观光巴士上塔，也有一组嘉宾对着爱情锁自动售货机一脸困惑。</p><h3>奉恩寺寺院寄宿</h3><p>位于市中心的寺庙，可以参加寺院寄宿（Templestay）项目。《Korean Templestay Program at Bongeunsa Temple》可以让你了解体验的具体内容。</p><h2>路线建议</h2><p>比较顺的一日安排：白天穿韩服游景福宫，顺路参观国立民俗博物馆，晚饭时去广藏市场吃绿豆煎饼和生拌牛肉，天黑后到N首尔塔看夜景收尾。鹭梁津水产市场适合像节目里凌晨吃拉面那样，单独安排一个早起行程；奉恩寺寺院寄宿则最好专门留出一天，配合项目时间安排。</p>",
+    "zh-Hant": "<h2>螢幕上的首爾</h2><p>首爾是韓國的首都，王宮、傳統市場、漢江與璀璨夜景都在同一張地圖上。五花肉和烤腸是在地人的心頭好，但在旅遊影片中反覆出現的，則是廣藏市場的綠豆煎餅和生拌牛肉，以及鷺梁津的海鮮拉麵。以下整理街頭美食之旅影片與韓國綜藝《歡迎第一次來韓國吧？》（어서와 한국은 처음이지）中出現過的地點，分成美食與景點兩部分介紹。</p><h2>吃什麼</h2><h3>廣藏市場</h3><p>以酥脆的<strong>綠豆煎餅</strong>（빈대떡）、<strong>生拌牛肉</strong>（육회，韓式生牛肉）和一口大小的<strong>麻藥飯捲</strong>聞名的傳統市場。這裡是「Ultimate Seoul Street Food Tour」、「Gwangjang Market at Night – Korean Street Food Experience」等街頭美食影片的常客。在《歡迎第一次來韓國吧？》中，三位來自墨西哥的朋友在這裡挑戰了活章魚。想感受市場入夜後的氣氛，可以看看夜間拍攝的影片。</p><h3>鷺梁津水產市場</h3><p>在市場挑選海鮮，做成<strong>生魚片拼盤</strong>享用，最後再來一碗<strong>海鮮拉麵</strong>收尾。在《歡迎第一次來韓國吧？》中，米其林主廚們在清晨大口吃著海鮮拉麵，一群荷蘭主廚則品嚐了新鮮的生魚片拼盤。另外也有初訪者被熱鬧市場震撼的精華片段，出發前可以先看看當作預習。</p><h2>看什麼</h2><h3>景福宮</h3><p>最適合穿上韓服、用雙腳慢慢逛的王宮。「Walking Tour of Gyeongbokgung Palace in Full Hanbok」和「A Hanbok Day at Gyeongbokgung」呈現了穿著傳統服裝度過一天的樣子；《歡迎第一次來韓國吧？》中一個加拿大大家庭也是從這裡展開旅程，之後再搭KTX前往江陵。</p><h3>國立民俗博物館</h3><p>專門介紹韓國日常生活與文化的博物館。搭配王宮散步一起參觀，更能完整了解首爾的傳統。</p><h3>N首爾塔</h3><p>以俯瞰城市的<strong>夜景</strong>和<strong>愛情鎖</strong>著稱。《歡迎第一次來韓國吧？》曾播出來賓搭乘首爾城市觀光巴士上塔，還有另一組來賓對著愛情鎖販賣機一頭霧水的畫面。</p><h3>奉恩寺寺院寄宿</h3><p>位於市中心、可以參加寺院寄宿（Templestay）體驗的寺廟。「Korean Templestay Program at Bongeunsa Temple」可以讓你了解這項體驗的內容。</p><h2>路線建議</h2><p>順暢的一日行程：白天穿韓服逛景福宮，順道參觀國立民俗博物館，晚餐到廣藏市場吃綠豆煎餅和生拌牛肉，入夜後再到N首爾塔欣賞夜景作結。鷺梁津水產市場適合另外安排一早前往，就像節目裡的清晨拉麵一樣；奉恩寺寺院寄宿則建議配合活動時間，另外空出一天比較方便。</p>",
+    "es": "<h2>Seúl, tal como se ve en pantalla</h2><p>Seúl es la capital de Corea, una ciudad donde palacios reales, mercados tradicionales, el río Han y deslumbrantes vistas nocturnas comparten el mismo mapa. El samgyeopsal y el gopchang son los favoritos de los locales, pero los platos que aparecen una y otra vez en los vídeos de viajes son el bindaetteok y el yukhoe del Mercado de Gwangjang y el ramyeon de marisco de Noryangjin. A continuación tienes una guía de los lugares que salen en tours de comida callejera y en el programa de variedades coreano 'Welcome, First Time in Korea?' (어서와 한국은 처음이지), dividida en comida y lugares de interés.</p><h2>Dónde comer</h2><h3>Mercado de Gwangjang</h3><p>Un mercado tradicional conocido por su crujiente <strong>bindaetteok</strong> (tortita de frijol mungo), el <strong>yukhoe</strong> (tartar de ternera al estilo coreano) y el <strong>mayak gimbap</strong> en formato bocado. Es un habitual de vídeos de comida callejera como 'Ultimate Seoul Street Food Tour' y 'Gwangjang Market at Night – Korean Street Food Experience'. En 'Welcome, First Time in Korea?', tres amigos de México probaron aquí pulpo vivo. Mira los vídeos nocturnos para hacerte una idea de cómo es el mercado cuando cae la noche.</p><h3>Mercado de Pescado de Noryangjin</h3><p>Elige tu marisco en el mercado, disfrútalo como <strong>bandeja de sashimi</strong> y termina con un cuenco de <strong>ramyeon de marisco</strong>. En 'Welcome, First Time in Korea?', unos chefs con estrella Michelin sorbieron ramyeon de marisco de madrugada, y un grupo de chefs neerlandeses probó una bandeja de sashimi fresco. También hay una recopilación de visitantes primerizos abrumados por el bullicio del mercado, útil como anticipo antes de ir.</p><h2>Qué ver</h2><h3>Palacio de Gyeongbokgung</h3><p>Un palacio que se disfruta mejor recorriéndolo a pie vestido con hanbok. 'Walking Tour of Gyeongbokgung Palace in Full Hanbok' y 'A Hanbok Day at Gyeongbokgung' muestran cómo es pasar un día con traje tradicional, y una gran familia canadiense de 'Welcome, First Time in Korea?' empezó aquí su viaje antes de ir a Gangneung en KTX.</p><h3>Museo Nacional del Folclore de Corea</h3><p>Un museo dedicado a la vida cotidiana y la cultura coreanas. Combinarlo con el paseo por el palacio te da una visión más completa de las tradiciones de Seúl.</p><h3>N Seoul Tower</h3><p>Conocida por sus <strong>vistas nocturnas</strong> de la ciudad y sus <strong>candados del amor</strong>. En 'Welcome, First Time in Korea?' aparecieron invitados subiendo a la torre en el Seoul City Tour Bus, y otro grupo intentando descifrar la máquina expendedora de candados del amor.</p><h3>Templestay en Bongeunsa</h3><p>Un templo en pleno centro de la ciudad donde puedes participar en un programa de templestay. 'Korean Templestay Program at Bongeunsa Temple' muestra en qué consiste la experiencia.</p><h2>Consejos de ruta</h2><p>Un plan de día natural: pasa el día en Gyeongbokgung con hanbok y visita también el Museo Nacional del Folclore, luego ve al Mercado de Gwangjang a cenar bindaetteok y yukhoe. Ya de noche, termina con las vistas nocturnas desde la N Seoul Tower. El Mercado de Pescado de Noryangjin encaja bien como salida aparte a primera hora, igual que el ramyeon de madrugada del programa, y para el templestay en Bongeunsa es más fácil reservar un día que se ajuste al horario del programa.</p>",
+    "fr": "<h2>Séoul, telle qu'on la voit à l'écran</h2><p>Capitale de la Corée, Séoul réunit sur une même carte palais royaux, marchés traditionnels, fleuve Han et vues nocturnes scintillantes. Le samgyeopsal et le gopchang sont très appréciés des habitants, mais les plats qui reviennent sans cesse dans les vidéos de voyage sont le bindaetteok et le yukhoe du marché de Gwangjang, ainsi que le ramyeon aux fruits de mer de Noryangjin. Voici un guide des lieux apparus dans des tours de street food et dans l'émission de variétés coréenne « Welcome, First Time in Korea? » (어서와 한국은 처음이지), répartis entre où manger et quoi voir.</p><h2>Où manger</h2><h3>Marché de Gwangjang</h3><p>Un marché traditionnel réputé pour son <strong>bindaetteok</strong> croustillant (galette de haricots mungo), son <strong>yukhoe</strong> (tartare de bœuf à la coréenne) et ses petits <strong>mayak gimbap</strong> à croquer en une bouchée. On le retrouve régulièrement dans des vidéos de street food comme « Ultimate Seoul Street Food Tour » et « Gwangjang Market at Night – Korean Street Food Experience ». Dans « Welcome, First Time in Korea? », trois amis mexicains y ont goûté du poulpe vivant. Regardez les vidéos tournées de nuit pour sentir l'ambiance du marché après la tombée du jour.</p><h3>Marché aux poissons de Noryangjin</h3><p>Choisissez vos produits de la mer au marché, dégustez-les en <strong>plateau de sashimis</strong>, puis terminez par un bol de <strong>ramyeon aux fruits de mer</strong>. Dans « Welcome, First Time in Korea? », des chefs étoilés Michelin y ont avalé un ramyeon aux fruits de mer à l'aube, et un groupe de chefs néerlandais a goûté un plateau de sashimis bien frais. Il existe aussi une compilation de visiteurs découvrant pour la première fois ce marché animé et un peu dépassés par l'effervescence : un bon aperçu avant d'y aller.</p><h2>Quoi voir</h2><h3>Palais Gyeongbokgung</h3><p>Un palais qui se découvre idéalement à pied, en hanbok. « Walking Tour of Gyeongbokgung Palace in Full Hanbok » et « A Hanbok Day at Gyeongbokgung » montrent à quoi ressemble une journée en tenue traditionnelle, et une grande famille canadienne de « Welcome, First Time in Korea? » y a commencé son voyage avant de rejoindre Gangneung en KTX.</p><h3>Musée national du folklore de Corée</h3><p>Un musée consacré à la vie quotidienne et à la culture coréennes. En le combinant avec une promenade au palais, on se fait une idée plus complète des traditions de Séoul.</p><h3>N Seoul Tower</h3><p>Connue pour ses <strong>vues nocturnes</strong> sur la ville et ses <strong>cadenas d'amour</strong>. « Welcome, First Time in Korea? » a montré des invités montant jusqu'à la tour à bord du Seoul City Tour Bus, et un autre groupe perplexe devant le distributeur de cadenas d'amour.</p><h3>Templestay au temple Bongeunsa</h3><p>Un temple en plein cœur de la ville où l'on peut participer à un programme de templestay. La vidéo « Korean Templestay Program at Bongeunsa Temple » donne un aperçu du déroulement de l'expérience.</p><h2>Conseils d'itinéraire</h2><p>Un programme de journée logique : passer la journée à Gyeongbokgung en hanbok en visitant au passage le Musée national du folklore, puis rejoindre le marché de Gwangjang pour un dîner de bindaetteok et de yukhoe. Une fois la nuit tombée, terminer par la vue nocturne depuis la N Seoul Tower. Le marché aux poissons de Noryangjin se prête bien à une sortie matinale à part, comme le ramyeon de l'aube dans l'émission, et pour le templestay de Bongeunsa, mieux vaut réserver une journée adaptée au calendrier du programme.</p>",
+    "de": "<h2>Seoul, wie man es aus Videos kennt</h2><p>Seoul ist die Hauptstadt Koreas – eine Stadt, in der Königspaläste, traditionelle Märkte, der Han-Fluss und funkelnde Nachtansichten auf derselben Karte liegen. Samgyeopsal und Gopchang sind bei Einheimischen beliebt, doch in Reisevideos tauchen immer wieder die Bindaetteok und das Yukhoe vom Gwangjang-Markt sowie das Meeresfrüchte-Ramyeon aus Noryangjin auf. Im Folgenden findest du Orte aus Streetfood-Touren und aus der koreanischen Varietéshow „Welcome, First Time in Korea?“ (어서와 한국은 처음이지), aufgeteilt in Essen und Sehenswürdigkeiten.</p><h2>Essen</h2><h3>Gwangjang-Markt</h3><p>Ein traditioneller Markt, bekannt für knusprige <strong>Bindaetteok</strong> (Mungobohnen-Pfannkuchen), <strong>Yukhoe</strong> (koreanisches Rindertatar) und mundgerechtes <strong>Mayak-Gimbap</strong>. Er ist Stammgast in Streetfood-Videos wie „Ultimate Seoul Street Food Tour“ und „Gwangjang Market at Night – Korean Street Food Experience“. In „Welcome, First Time in Korea?“ probierten hier drei Freunde aus Mexiko lebenden Oktopus. Wer ein Gefühl für den Markt nach Einbruch der Dunkelheit bekommen möchte, sollte sich die Nachtvideos ansehen.</p><h3>Fischmarkt Noryangjin</h3><p>Hier suchst du dir Meeresfrüchte auf dem Markt aus, lässt sie als <strong>Sashimi-Platte</strong> zubereiten und rundest das Ganze mit einer Schüssel <strong>Meeresfrüchte-Ramyeon</strong> ab. In „Welcome, First Time in Korea?“ schlürften Michelin-Köche im Morgengrauen Meeresfrüchte-Ramyeon, und eine Gruppe niederländischer Köche probierte eine frische Sashimi-Platte. Außerdem gibt es eine Zusammenstellung von Erstbesuchern, die vom geschäftigen Treiben überwältigt sind – eine praktische Vorschau vor dem eigenen Besuch.</p><h2>Sehenswürdigkeiten</h2><h3>Gyeongbokgung-Palast</h3><p>Ein Palast, den man am besten zu Fuß im Hanbok erkundet. „Walking Tour of Gyeongbokgung Palace in Full Hanbok“ und „A Hanbok Day at Gyeongbokgung“ zeigen, wie ein Tag in traditioneller Kleidung aussieht. Eine große kanadische Familie begann in „Welcome, First Time in Korea?“ ihre Reise hier, bevor sie mit dem KTX nach Gangneung weiterfuhr.</p><h3>Nationales Volkskundemuseum Korea</h3><p>Ein Museum, das sich dem koreanischen Alltagsleben und der Kultur widmet. In Kombination mit einem Palastspaziergang bekommst du ein vollständigeres Bild von Seouls Traditionen.</p><h3>N Seoul Tower</h3><p>Bekannt für seine <strong>Nachtaussicht</strong> über die Stadt und seine <strong>Liebesschlösser</strong>. In „Welcome, First Time in Korea?“ fuhren Gäste mit dem Seoul City Tour Bus hinauf zum Turm, und eine andere Gruppe rätselte über den Automaten für Liebesschlösser.</p><h3>Templestay im Bongeunsa</h3><p>Ein Tempel mitten in der Stadt, in dem man an einem Templestay-Programm teilnehmen kann. „Korean Templestay Program at Bongeunsa Temple“ gibt einen Eindruck davon, was einen dabei erwartet.</p><h2>Tipps für die Route</h2><p>Ein naheliegender Tagesplan: Tagsüber im Hanbok durch den Gyeongbokgung-Palast und dazu das Nationale Volkskundemuseum besuchen, abends zum Gwangjang-Markt auf Bindaetteok und Yukhoe. Nach Einbruch der Dunkelheit lässt du den Tag mit der Nachtaussicht vom N Seoul Tower ausklingen. Den Fischmarkt Noryangjin besuchst du am besten separat und früh am Morgen – ganz wie das Ramyeon im Morgengrauen aus der Sendung. Für den Templestay im Bongeunsa plant man am einfachsten einen eigenen Tag ein, der zum Programmablauf passt.</p>",
+    "vi": "<h2>Seoul qua ống kính</h2><p>Seoul là thủ đô của Hàn Quốc, nơi cung điện, chợ truyền thống, sông Hán và cảnh đêm lấp lánh cùng nằm trên một tấm bản đồ. Thịt ba chỉ nướng (samgyeopsal) và lòng nướng (gopchang) là món người dân địa phương yêu thích, nhưng những món xuất hiện nhiều lần trong các video du lịch lại là bindaetteok, yukhoe ở chợ Gwangjang và mì ramyeon hải sản ở Noryangjin. Dưới đây là danh sách các địa điểm từng xuất hiện trong các tour ẩm thực đường phố và chương trình tạp kỹ Hàn Quốc 'Welcome, First Time in Korea?' (어서와 한국은 처음이지), chia thành hai phần: ăn gì và đi đâu.</p><h2>Ăn ở đâu</h2><h3>Chợ Gwangjang</h3><p>Khu chợ truyền thống nổi tiếng với <strong>bindaetteok</strong> (bánh kếp đậu xanh) giòn rụm, <strong>yukhoe</strong> (thịt bò sống trộn kiểu Hàn) và <strong>mayak gimbap</strong> cỡ nhỏ vừa miệng. Nơi đây thường xuyên góp mặt trong các video ẩm thực đường phố như 'Ultimate Seoul Street Food Tour' và 'Gwangjang Market at Night – Korean Street Food Experience'. Trong 'Welcome, First Time in Korea?', ba người bạn đến từ Mexico đã thử bạch tuộc sống tại đây. Hãy xem các video quay buổi tối để cảm nhận không khí chợ về đêm.</p><h3>Chợ hải sản Noryangjin</h3><p>Chọn hải sản ngay tại chợ, thưởng thức dưới dạng <strong>đĩa sashimi tổng hợp</strong>, rồi kết thúc bằng một bát <strong>mì ramyeon hải sản</strong>. Trong 'Welcome, First Time in Korea?', các đầu bếp Michelin đã húp mì ramyeon hải sản lúc rạng sáng, còn một nhóm đầu bếp Hà Lan thì nếm thử đĩa sashimi tươi. Ngoài ra còn có video tổng hợp cảnh những du khách lần đầu đến bị choáng ngợp trước khu chợ nhộn nhịp, rất hữu ích để hình dung trước khi đi.</p><h2>Tham quan gì</h2><h3>Cung Gyeongbokgung</h3><p>Cung điện đẹp nhất khi dạo bộ trong trang phục hanbok. Các video 'Walking Tour of Gyeongbokgung Palace in Full Hanbok' và 'A Hanbok Day at Gyeongbokgung' cho thấy một ngày mặc trang phục truyền thống trông như thế nào, và một gia đình đông người đến từ Canada trong 'Welcome, First Time in Korea?' đã bắt đầu chuyến đi tại đây trước khi đi tàu KTX đến Gangneung.</p><h3>Bảo tàng Dân gian Quốc gia Hàn Quốc</h3><p>Bảo tàng chuyên về đời sống thường ngày và văn hóa của người Hàn. Kết hợp với chuyến dạo cung điện sẽ giúp bạn hiểu đầy đủ hơn về truyền thống của Seoul.</p><h3>Tháp N Seoul</h3><p>Nổi tiếng với <strong>cảnh đêm</strong> nhìn bao quát thành phố và những <strong>ổ khóa tình yêu</strong>. 'Welcome, First Time in Korea?' từng ghi lại cảnh khách mời đi xe buýt Seoul City Tour lên tháp, và một nhóm khác loay hoay với máy bán khóa tình yêu tự động.</p><h3>Templestay tại chùa Bongeunsa</h3><p>Ngôi chùa nằm giữa lòng thành phố, nơi bạn có thể tham gia chương trình templestay (lưu trú tại chùa). Video 'Korean Templestay Program at Bongeunsa Temple' giới thiệu trải nghiệm này gồm những gì.</p><h2>Gợi ý lộ trình</h2><p>Một lịch trình một ngày hợp lý: ban ngày mặc hanbok dạo cung Gyeongbokgung và ghé Bảo tàng Dân gian Quốc gia ngay bên cạnh, sau đó đến chợ Gwangjang ăn tối với bindaetteok và yukhoe. Khi trời tối, kết thúc ngày bằng cảnh đêm từ tháp N Seoul. Chợ hải sản Noryangjin phù hợp cho một buổi đi riêng vào sáng sớm, giống như bát mì lúc rạng sáng trong chương trình, còn với templestay ở chùa Bongeunsa thì nên dành riêng một ngày khớp với lịch của chương trình.</p>",
+    "th": "<h2>โซลในแบบที่เห็นบนจอ</h2><p>โซลคือเมืองหลวงของเกาหลี เป็นเมืองที่พระราชวัง ตลาดดั้งเดิม แม่น้ำฮัน และวิวกลางคืนระยิบระยับอยู่รวมกันบนแผนที่เดียว คนท้องถิ่นชื่นชอบซัมกยอบซัลและกopชัง แต่เมนูที่โผล่มาในวิดีโอท่องเที่ยวบ่อยที่สุดคือบินแดต็อกและยุกฮเวของตลาดควังจัง และรามยอนทะเลของโนรยางจิน ด้านล่างนี้คือคู่มือสถานที่ที่ปรากฏในวิดีโอทัวร์สตรีทฟู้ดและในวาไรตี้เกาหลี 'Welcome, First Time in Korea?' (어서와 한국은 처음이지) แบ่งเป็นหมวดของกินและที่เที่ยว</p><h2>กินที่ไหนดี</h2><h3>ตลาดควังจัง</h3><p>ตลาดดั้งเดิมที่ขึ้นชื่อเรื่อง<strong>บินแดต็อก</strong> (แพนเค้กถั่วเขียว) กรอบ ๆ <strong>ยุกฮเว</strong> (เนื้อวัวดิบปรุงรสแบบเกาหลี) และ<strong>มายักคิมบับ</strong>ขนาดพอดีคำ เป็นขาประจำในวิดีโอสตรีทฟู้ดอย่าง 'Ultimate Seoul Street Food Tour' และ 'Gwangjang Market at Night – Korean Street Food Experience' ในรายการ 'Welcome, First Time in Korea?' สามเพื่อนจากเม็กซิโกได้ลองชิมปลาหมึกสดที่นี่ ลองดูวิดีโอช่วงกลางคืนเพื่อสัมผัสบรรยากาศตลาดหลังพระอาทิตย์ตก</p><h3>ตลาดปลาโนรยางจิน</h3><p>เลือกอาหารทะเลเองในตลาด ให้ทำเป็น<strong>ซาซิมิรวม</strong> แล้วปิดท้ายด้วย<strong>รามยอนทะเล</strong>สักชาม ในรายการ 'Welcome, First Time in Korea?' เชฟมิชลินซดรามยอนทะเลกันตอนเช้ามืด และกลุ่มเชฟชาวดัตช์ได้ลองซาซิมิรวมสด ๆ นอกจากนี้ยังมีคลิปรวมนักท่องเที่ยวครั้งแรกที่ตื่นตากับความคึกคักของตลาด เหมาะสำหรับดูเป็นตัวอย่างก่อนไป</p><h2>เที่ยวที่ไหนดี</h2><h3>พระราชวังคยองบกกุง</h3><p>พระราชวังที่เหมาะจะเดินชมในชุดฮันบก วิดีโอ 'Walking Tour of Gyeongbokgung Palace in Full Hanbok' และ 'A Hanbok Day at Gyeongbokgung' ให้เห็นว่าหนึ่งวันในชุดดั้งเดิมเป็นอย่างไร ส่วนครอบครัวใหญ่ชาวแคนาดาในรายการ 'Welcome, First Time in Korea?' ก็เริ่มต้นทริปที่นี่ก่อนนั่ง KTX ไปคังนึง</p><h3>พิพิธภัณฑ์พื้นบ้านแห่งชาติเกาหลี</h3><p>พิพิธภัณฑ์ที่เล่าเรื่องวิถีชีวิตและวัฒนธรรมของคนเกาหลี หากเที่ยวคู่กับการเดินชมพระราชวังจะเข้าใจประเพณีของโซลได้รอบด้านขึ้น</p><h3>หอคอยเอ็นโซล</h3><p>ขึ้นชื่อเรื่อง<strong>วิวกลางคืน</strong>ของเมืองและ<strong>กุญแจคู่รัก</strong> ในรายการ 'Welcome, First Time in Korea?' มีแขกรับเชิญนั่งรถบัส Seoul City Tour ขึ้นไปที่หอคอย และอีกกลุ่มที่งงกับตู้ขายกุญแจคู่รัก</p><h3>เทมเปิลสเตย์วัดบงอึนซา</h3><p>วัดกลางเมืองที่เข้าร่วมโปรแกรมเทมเปิลสเตย์ได้ วิดีโอ 'Korean Templestay Program at Bongeunsa Temple' ช่วยให้เห็นว่าประสบการณ์นี้มีอะไรบ้าง</p><h2>เคล็ดลับการวางเส้นทาง</h2><p>แผนหนึ่งวันที่ลงตัว: ช่วงกลางวันใส่ฮันบกเที่ยวคยองบกกุงและแวะพิพิธภัณฑ์พื้นบ้านแห่งชาติไปด้วย จากนั้นไปตลาดควังจังกินบินแดต็อกและยุกฮเวเป็นมื้อเย็น พอฟ้ามืดก็ปิดท้ายด้วยวิวกลางคืนจากหอคอยเอ็นโซล ส่วนตลาดปลาโนรยางจินเหมาะจะแยกไปอีกรอบตอนเช้าตรู่ เหมือนรามยอนยามเช้ามืดในรายการ และสำหรับเทมเปิลสเตย์วัดบงอึนซา ควรกันไว้หนึ่งวันให้ตรงกับตารางโปรแกรมจะสะดวกกว่า</p>",
+    "id": "<h2>Seoul, Seperti yang Terlihat di Layar</h2><p>Seoul adalah ibu kota Korea, kota tempat istana kerajaan, pasar tradisional, Sungai Han, dan pemandangan malam yang gemerlap berada dalam satu peta. Samgyeopsal dan gopchang memang favorit warga lokal, tetapi hidangan yang paling sering muncul di video perjalanan adalah bindaetteok dan yukhoe dari Pasar Gwangjang serta ramyeon seafood dari Noryangjin. Berikut panduan tempat-tempat yang tampil di tur kuliner jalanan dan acara varietas Korea 'Welcome, First Time in Korea?' (어서와 한국은 처음이지), dibagi menjadi kuliner dan tempat wisata.</p><h2>Tempat Makan</h2><h3>Pasar Gwangjang</h3><p>Pasar tradisional yang terkenal dengan <strong>bindaetteok</strong> (pancake kacang hijau) yang renyah, <strong>yukhoe</strong> (tartar daging sapi ala Korea), dan <strong>mayak gimbap</strong> berukuran sekali suap. Pasar ini sering muncul di video kuliner jalanan seperti 'Ultimate Seoul Street Food Tour' dan 'Gwangjang Market at Night – Korean Street Food Experience.' Di 'Welcome, First Time in Korea?', tiga sahabat dari Meksiko mencoba gurita hidup di sini. Tonton video malamnya untuk merasakan suasana pasar setelah gelap.</p><h3>Pasar Ikan Noryangjin</h3><p>Pilih sendiri hasil laut di pasar, nikmati sebagai <strong>sashimi platter</strong>, lalu tutup dengan semangkuk <strong>ramyeon seafood</strong>. Di 'Welcome, First Time in Korea?', para koki Michelin menyantap ramyeon seafood saat subuh, dan sekelompok koki Belanda mencicipi sashimi platter yang segar. Ada juga kompilasi pengunjung pertama kali yang kewalahan dengan ramainya pasar, cocok sebagai gambaran sebelum berangkat.</p><h2>Tempat Wisata</h2><h3>Istana Gyeongbokgung</h3><p>Istana yang paling asyik dijelajahi dengan berjalan kaki sambil mengenakan hanbok. 'Walking Tour of Gyeongbokgung Palace in Full Hanbok' dan 'A Hanbok Day at Gyeongbokgung' memperlihatkan seperti apa sehari berbusana tradisional, dan sebuah keluarga besar asal Kanada di 'Welcome, First Time in Korea?' memulai perjalanan mereka di sini sebelum menuju Gangneung dengan KTX.</p><h3>Museum Rakyat Nasional Korea</h3><p>Museum yang didedikasikan untuk kehidupan sehari-hari dan budaya Korea. Menggabungkannya dengan jalan-jalan di istana memberi gambaran yang lebih lengkap tentang tradisi Seoul.</p><h3>N Seoul Tower</h3><p>Dikenal dengan <strong>pemandangan malam</strong> kota dan <strong>gembok cinta</strong>. 'Welcome, First Time in Korea?' menampilkan tamu yang naik Seoul City Tour Bus menuju menara, serta kelompok lain yang kebingungan dengan mesin penjual gembok cinta.</p><h3>Templestay Bongeunsa</h3><p>Kuil di tengah kota tempat Anda bisa mengikuti program templestay. 'Korean Templestay Program at Bongeunsa Temple' memberi gambaran tentang pengalaman tersebut.</p><h2>Tips Rute</h2><p>Rencana sehari yang pas: habiskan siang di Gyeongbokgung dengan hanbok sekaligus mampir ke Museum Rakyat Nasional, lalu ke Pasar Gwangjang untuk makan malam bindaetteok dan yukhoe. Setelah gelap, akhiri dengan pemandangan malam dari N Seoul Tower. Pasar Ikan Noryangjin cocok dijadikan kunjungan pagi tersendiri, seperti ramyeon subuh di acara tersebut, sedangkan untuk Templestay Bongeunsa lebih mudah jika Anda menyisihkan satu hari yang sesuai dengan jadwal programnya.</p>",
+    "ru": "<h2>Сеул, каким его показывают на экране</h2><p>Сеул — столица Кореи, город, где на одной карте умещаются королевские дворцы, традиционные рынки, река Ханган и сверкающие ночные виды. Местные любят самгёпсаль и копчхан, но в тревел-видео снова и снова появляются пиндэтток и юкхве с рынка Кванджан и рамён с морепродуктами с Норянджина. Ниже — подборка мест из уличных гастротуров и корейского развлекательного шоу «Welcome, First Time in Korea?» (어서와 한국은 처음이지), разделённая на еду и достопримечательности.</p><h2>Где поесть</h2><h3>Рынок Кванджан</h3><p>Традиционный рынок, известный хрустящим <strong>пиндэттоком</strong> (оладьями из бобов мунг), <strong>юкхве</strong> (корейским тартаром из говядины) и маленькими роллами <strong>маяк кимбап</strong>. Он постоянно появляется в видео об уличной еде, например «Ultimate Seoul Street Food Tour» и «Gwangjang Market at Night – Korean Street Food Experience». В шоу «Welcome, First Time in Korea?» трое друзей из Мексики пробовали здесь живого осьминога. Чтобы почувствовать атмосферу рынка после заката, посмотрите ночные видео.</p><h3>Рыбный рынок Норянджин</h3><p>Выберите морепродукты на рынке, попробуйте их в виде <strong>ассорти из сашими</strong>, а в завершение возьмите миску <strong>рамёна с морепродуктами</strong>. В шоу «Welcome, First Time in Korea?» шефы со звёздами Мишлен на рассвете ели рамён с морепродуктами, а группа поваров из Нидерландов пробовала свежее ассорти из сашими. Есть и подборка с новичками, ошеломлёнными суетой рынка, — удобный способ подготовиться к визиту.</p><h2>Что посмотреть</h2><h3>Дворец Кёнбоккун</h3><p>Дворец, который лучше всего обходить пешком в ханбоке. Видео «Walking Tour of Gyeongbokgung Palace in Full Hanbok» и «A Hanbok Day at Gyeongbokgung» показывают, как выглядит день в традиционной одежде, а большая канадская семья в шоу «Welcome, First Time in Korea?» начала отсюда своё путешествие, прежде чем отправиться на KTX в Каннын.</p><h3>Национальный фольклорный музей Кореи</h3><p>Музей, посвящённый повседневной жизни и культуре корейцев. Если совместить его с прогулкой по дворцу, картина сеульских традиций получится полнее.</p><h3>Башня N Seoul Tower</h3><p>Известна <strong>ночными видами</strong> на город и <strong>замками любви</strong>. В шоу «Welcome, First Time in Korea?» гости поднимались к башне на туристическом автобусе Seoul City Tour Bus, а другая компания ломала голову над автоматом по продаже замков любви.</p><h3>Темплстей в храме Понъынса</h3><p>Храм в самом центре города, где можно принять участие в программе темплстей. Видео «Korean Templestay Program at Bongeunsa Temple» даёт представление о том, из чего она состоит.</p><h2>Советы по маршруту</h2><p>Удобный план на день: днём погуляйте по Кёнбоккуну в ханбоке и заодно зайдите в Национальный фольклорный музей, а к ужину отправляйтесь на рынок Кванджан за пиндэттоком и юкхве. Вечером завершите день ночными видами с башни N Seoul Tower. Рыбный рынок Норянджин лучше посетить отдельно рано утром — как в шоу с рамёном на рассвете, а для темплстея в Понъынса проще выделить день, который совпадает с расписанием программы.</p>"
   },
   "places": [
     {
@@ -107,5 +137,267 @@
       "id": "XwCqH_8hGZ0",
       "title": "[요약] 경복궁부터 KTX 타고 강릉으로 – 캐나다 다둥이 가족"
     }
-  ]
+  ],
+  "placesI18n": {
+    "ja": [
+      {
+        "name": "広蔵市場",
+        "menu": "ピンデトック、ユッケ、麻薬キンパ"
+      },
+      {
+        "name": "鷺梁津水産市場",
+        "menu": "刺身盛り合わせ、海鮮ラーメン"
+      },
+      {
+        "name": "景福宮",
+        "menu": "韓服での王宮散策"
+      },
+      {
+        "name": "Nソウルタワー",
+        "menu": "夜景、愛の南京錠"
+      },
+      {
+        "name": "奉恩寺テンプルステイ",
+        "menu": "テンプルステイプログラム"
+      },
+      {
+        "name": "国立民俗博物館",
+        "menu": "博物館見学"
+      }
+    ],
+    "zh-Hans": [
+      {
+        "name": "广藏市场",
+        "menu": "绿豆煎饼、生拌牛肉、麻药紫菜包饭"
+      },
+      {
+        "name": "鹭梁津水产市场",
+        "menu": "生鱼片拼盘、海鲜拉面"
+      },
+      {
+        "name": "景福宫",
+        "menu": "穿韩服游宫殿"
+      },
+      {
+        "name": "N首尔塔（南山首尔塔）",
+        "menu": "夜景、爱情锁"
+      },
+      {
+        "name": "奉恩寺寺院寄宿",
+        "menu": "寺院寄宿项目"
+      },
+      {
+        "name": "韩国国立民俗博物馆",
+        "menu": "博物馆参观"
+      }
+    ],
+    "zh-Hant": [
+      {
+        "name": "廣藏市場",
+        "menu": "綠豆煎餅、生拌牛肉、麻藥飯捲"
+      },
+      {
+        "name": "鷺梁津水產市場",
+        "menu": "生魚片拼盤、海鮮拉麵"
+      },
+      {
+        "name": "景福宮",
+        "menu": "穿韓服逛王宮"
+      },
+      {
+        "name": "N首爾塔（南山首爾塔）",
+        "menu": "夜景、愛情鎖"
+      },
+      {
+        "name": "奉恩寺寺院寄宿",
+        "menu": "寺院寄宿體驗"
+      },
+      {
+        "name": "國立民俗博物館",
+        "menu": "博物館參觀"
+      }
+    ],
+    "es": [
+      {
+        "name": "Mercado de Gwangjang (광장시장)",
+        "menu": "Bindaetteok, yukhoe, mayak gimbap"
+      },
+      {
+        "name": "Mercado de Pescado de Noryangjin (노량진수산시장)",
+        "menu": "Bandeja de sashimi, ramyeon de marisco"
+      },
+      {
+        "name": "Palacio de Gyeongbokgung (경복궁)",
+        "menu": "Paseo por el palacio con hanbok"
+      },
+      {
+        "name": "N Seoul Tower (남산서울타워)",
+        "menu": "Vistas nocturnas, candados del amor"
+      },
+      {
+        "name": "Templestay en Bongeunsa (봉은사 템플스테이)",
+        "menu": "Programa de templestay"
+      },
+      {
+        "name": "Museo Nacional del Folclore de Corea (국립민속박물관)",
+        "menu": "Visita al museo"
+      }
+    ],
+    "fr": [
+      {
+        "name": "Marché de Gwangjang (광장시장)",
+        "menu": "Bindaetteok, yukhoe, mayak gimbap"
+      },
+      {
+        "name": "Marché aux poissons de Noryangjin (노량진수산시장)",
+        "menu": "Plateau de sashimis, ramyeon aux fruits de mer"
+      },
+      {
+        "name": "Palais Gyeongbokgung (경복궁)",
+        "menu": "Promenade au palais en hanbok"
+      },
+      {
+        "name": "N Seoul Tower (남산서울타워)",
+        "menu": "Vues nocturnes, cadenas d'amour"
+      },
+      {
+        "name": "Templestay au temple Bongeunsa (봉은사 템플스테이)",
+        "menu": "Programme de templestay"
+      },
+      {
+        "name": "Musée national du folklore de Corée (국립민속박물관)",
+        "menu": "Visite du musée"
+      }
+    ],
+    "de": [
+      {
+        "name": "Gwangjang-Markt (광장시장)",
+        "menu": "Bindaetteok, Yukhoe, Mayak-Gimbap"
+      },
+      {
+        "name": "Fischmarkt Noryangjin (노량진수산시장)",
+        "menu": "Sashimi-Platte, Meeresfrüchte-Ramyeon"
+      },
+      {
+        "name": "Gyeongbokgung-Palast (경복궁)",
+        "menu": "Palastspaziergang im Hanbok"
+      },
+      {
+        "name": "N Seoul Tower (남산서울타워)",
+        "menu": "Nachtaussicht, Liebesschlösser"
+      },
+      {
+        "name": "Templestay im Bongeunsa (봉은사 템플스테이)",
+        "menu": "Templestay-Programm"
+      },
+      {
+        "name": "Nationales Volkskundemuseum Korea (국립민속박물관)",
+        "menu": "Museumsbesuch"
+      }
+    ],
+    "vi": [
+      {
+        "name": "Chợ Gwangjang (광장시장)",
+        "menu": "Bindaetteok, yukhoe, mayak gimbap"
+      },
+      {
+        "name": "Chợ hải sản Noryangjin (노량진수산시장)",
+        "menu": "Đĩa sashimi tổng hợp, mì ramyeon hải sản"
+      },
+      {
+        "name": "Cung Gyeongbokgung (경복궁)",
+        "menu": "Dạo cung điện trong trang phục hanbok"
+      },
+      {
+        "name": "Tháp N Seoul (남산서울타워)",
+        "menu": "Cảnh đêm, ổ khóa tình yêu"
+      },
+      {
+        "name": "Templestay chùa Bongeunsa (봉은사 템플스테이)",
+        "menu": "Chương trình templestay"
+      },
+      {
+        "name": "Bảo tàng Dân gian Quốc gia Hàn Quốc (국립민속박물관)",
+        "menu": "Tham quan bảo tàng"
+      }
+    ],
+    "th": [
+      {
+        "name": "ตลาดควังจัง",
+        "menu": "บินแดต็อก ยุกฮเว มายักคิมบับ"
+      },
+      {
+        "name": "ตลาดปลาโนรยางจิน",
+        "menu": "ซาซิมิรวม รามยอนทะเล"
+      },
+      {
+        "name": "พระราชวังคยองบกกุง",
+        "menu": "เดินชมพระราชวังในชุดฮันบก"
+      },
+      {
+        "name": "หอคอยเอ็นโซล (นัมซานโซลทาวเวอร์)",
+        "menu": "วิวกลางคืน กุญแจคู่รัก"
+      },
+      {
+        "name": "เทมเปิลสเตย์วัดบงอึนซา",
+        "menu": "โปรแกรมเทมเปิลสเตย์"
+      },
+      {
+        "name": "พิพิธภัณฑ์พื้นบ้านแห่งชาติเกาหลี",
+        "menu": "เยี่ยมชมพิพิธภัณฑ์"
+      }
+    ],
+    "id": [
+      {
+        "name": "Pasar Gwangjang",
+        "menu": "Bindaetteok, yukhoe, mayak gimbap"
+      },
+      {
+        "name": "Pasar Ikan Noryangjin",
+        "menu": "Sashimi platter, ramyeon seafood"
+      },
+      {
+        "name": "Istana Gyeongbokgung",
+        "menu": "Jalan-jalan di istana dengan hanbok"
+      },
+      {
+        "name": "N Seoul Tower",
+        "menu": "Pemandangan malam, gembok cinta"
+      },
+      {
+        "name": "Templestay Bongeunsa",
+        "menu": "Program templestay"
+      },
+      {
+        "name": "Museum Rakyat Nasional Korea",
+        "menu": "Tur museum"
+      }
+    ],
+    "ru": [
+      {
+        "name": "Рынок Кванджан",
+        "menu": "Пиндэтток, юкхве, маяк кимбап"
+      },
+      {
+        "name": "Рыбный рынок Норянджин",
+        "menu": "Ассорти из сашими, рамён с морепродуктами"
+      },
+      {
+        "name": "Дворец Кёнбоккун",
+        "menu": "Прогулка по дворцу в ханбоке"
+      },
+      {
+        "name": "Башня N Seoul Tower (Намсан)",
+        "menu": "Ночные виды, замки любви"
+      },
+      {
+        "name": "Темплстей в храме Понъынса",
+        "menu": "Программа темплстей"
+      },
+      {
+        "name": "Национальный фольклорный музей Кореи",
+        "menu": "Осмотр музея"
+      }
+    ]
+  }
 }

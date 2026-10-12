@@ -4,15 +4,45 @@
   "region": "gyeongnam",
   "title": {
     "ko": "경남 영상 속 맛집·명소: 진주냉면부터 진해 벚꽃, 통영 서호시장까지",
-    "en": "Gyeongnam on Screen: Jinju Naengmyeon, Jinhae Cherry Blossoms, Seoho Market and More"
+    "en": "Gyeongnam on Screen: Jinju Naengmyeon, Jinhae Cherry Blossoms, Seoho Market and More",
+    "ja": "映像で見る慶尚南道：晋州冷麺、鎮海の桜、統営・西湖市場ほか",
+    "zh-Hans": "镜头里的庆尚南道：晋州冷面、镇海樱花、西湖市场等",
+    "zh-Hant": "影片中的慶南：晉州冷麵、鎮海櫻花、統營西湖市場等",
+    "es": "Gyeongnam en pantalla: naengmyeon de Jinju, cerezos de Jinhae, mercado Seoho y más",
+    "fr": "Le Gyeongnam à l'écran : naengmyeon de Jinju, cerisiers en fleurs de Jinhae, marché de Seoho et plus encore",
+    "de": "Gyeongnam im Video: Jinju-Naengmyeon, Kirschblüten in Jinhae, Seoho-Markt und mehr",
+    "vi": "Gyeongnam qua màn ảnh: Mì lạnh Jinju, hoa anh đào Jinhae, chợ Seoho và hơn thế nữa",
+    "th": "คย็องนัมในคลิปวิดีโอ: นังมยอนสไตล์จินจู ซากุระชินแฮ ตลาดซอโฮ และอีกมากมาย",
+    "id": "Gyeongnam dalam Video: Jinju Naengmyeon, Bunga Sakura Jinhae, Pasar Seoho, dan Lainnya",
+    "ru": "Кённам на экране: чинджуский нэнмён, сакура в Чинхэ, рынок Сохо и не только"
   },
   "summary": {
     "ko": "영상에 소개된 경남의 맛집과 명소 다섯 곳을 정리했습니다. 진주냉면, 함양 대구뽈찜, 통영 서호시장 시락국 백반, 그리고 해인사 템플스테이와 진해 군항제까지 담았습니다.",
-    "en": "Five Gyeongnam restaurants and sights that appeared in videos: Jinju-style cold noodles, braised cod cheeks in Hamyang, a siraegi soup set meal at Tongyeong's Seoho Market, a Haeinsa templestay, and the Jinhae Cherry Blossom Festival."
+    "en": "Five Gyeongnam restaurants and sights that appeared in videos: Jinju-style cold noodles, braised cod cheeks in Hamyang, a siraegi soup set meal at Tongyeong's Seoho Market, a Haeinsa templestay, and the Jinhae Cherry Blossom Festival.",
+    "ja": "動画で紹介された慶尚南道のグルメと観光スポット5か所をまとめました。晋州式冷麺、咸陽のタラのほほ肉の蒸し煮、統営・西湖市場のシレギ汁定食、海印寺のテンプルステイ、そして鎮海軍港祭です。",
+    "zh-Hans": "整理了视频中出现过的五处庆尚南道美食与景点：晋州冷面、咸阳的炖鳕鱼脸颊、统营西湖市场的萝卜缨汤套餐、海印寺寺院寄宿，以及镇海军港节樱花庆典。",
+    "zh-Hant": "整理五處在影片中出現的慶尚南道美食與景點：晉州式冷麵、咸陽的燉鱈魚頰肉、統營西湖市場的乾菜湯套餐、海印寺寺院寄宿，以及鎮海軍港節（櫻花節）。",
+    "es": "Cinco restaurantes y lugares de Gyeongnam que aparecieron en vídeos: fideos fríos al estilo de Jinju, carrilleras de bacalao estofadas en Hamyang, un menú de sopa de siraegi en el mercado Seoho de Tongyeong, una estancia en el templo Haeinsa y el Festival de los Cerezos en Flor de Jinhae.",
+    "fr": "Cinq restaurants et sites du Gyeongnam vus dans des vidéos : nouilles froides à la façon de Jinju, joues de cabillaud braisées à Hamyang, formule soupe de siraegi au marché de Seoho à Tongyeong, templestay au temple Haeinsa et festival des cerisiers en fleurs de Jinhae.",
+    "de": "Fünf Restaurants und Sehenswürdigkeiten in Gyeongnam, die in Videos vorkamen: kalte Nudeln nach Jinju-Art, geschmorte Kabeljaubäckchen in Hamyang, ein Siraegi-Suppen-Set auf dem Seoho-Markt in Tongyeong, ein Templestay im Tempel Haeinsa und das Kirschblütenfest in Jinhae.",
+    "vi": "Năm quán ăn và điểm tham quan ở Gyeongnam từng xuất hiện trong các video: mì lạnh kiểu Jinju, má cá tuyết om ở Hamyang, cơm phần canh siraegi tại chợ Seoho ở Tongyeong, chương trình templestay ở chùa Haeinsa và Lễ hội hoa anh đào Jinhae.",
+    "th": "ร้านอาหารและสถานที่ท่องเที่ยว 5 แห่งในคย็องนัมที่ปรากฏในวิดีโอ ได้แก่ บะหมี่เย็นสไตล์จินจู แก้มปลาค็อดตุ๋นที่ฮัมยาง ชุดอาหารซุปชีแรกีที่ตลาดซอโฮ เมืองทงยอง เทมเปิลสเตย์ที่วัดแฮอินซา และเทศกาลซากุระชินแฮ",
+    "id": "Lima restoran dan tempat wisata di Gyeongnam yang muncul dalam video: mi dingin ala Jinju, pipi ikan kod rebus pedas di Hamyang, set sup siraegi di Pasar Seoho Tongyeong, templestay di Kuil Haeinsa, dan Festival Bunga Sakura Jinhae.",
+    "ru": "Пять ресторанов и достопримечательностей провинции Кённам, попавших в видео: холодная лапша по-чинджуски, тушёные щёчки трески в Хамяне, сет с супом сирэги на рынке Сохо в Тхонъёне, темплстей в храме Хэинса и фестиваль цветения сакуры в Чинхэ."
   },
   "body": {
     "ko": "<h2>경남, 바다와 냉면과 벚꽃의 고장</h2><p>경남은 통영·거제의 남해 바다, 진주냉면, 그리고 봄철 진해 벚꽃으로 알려진 지역입니다. 대표 음식으로는 진주냉면, 통영의 해산물과 충무김밥, 거제 해산물이 꼽힙니다. 아래는 여러 영상에 등장한 경남의 맛집과 명소를 모은 목록입니다.</p><h2>맛집</h2><h3>박군자진주냉면</h3><p>경남을 대표하는 면 요리인 <strong>진주냉면</strong>을 먹을 수 있는 곳입니다. 영상 「Lunch at Parkgunja Jinju Naengmyeon」에서 점심 한 끼로 소개되었습니다. 진주냉면이 어떤 맛인지 궁금한 분이라면 들러볼 만합니다.</p><h3>달동네식당 (함양)</h3><p>함양에 있는 <strong>대구뽈찜</strong> 집입니다. 「[EP.30 함양] 백종원도 당황한 비주얼의 대구뽈찜집 [백종원의 님아 그 시장을 가오]」 편에 나왔는데, 제목처럼 푸짐한 비주얼이 화제가 되었습니다.</p><h3>통영 서호시장 시락국집</h3><p>통영 서호시장 안에 있는 시락국집으로, <strong>시락국 백반</strong>을 6천 원에 맛볼 수 있다고 소개되었습니다. 「단돈 6천 원, 가성비 넘치는 통영 반찬 [허영만의 백반기행]」 편에서 함께 나오는 통영식 반찬이 주목받았습니다. 시장 구경과 함께 소박한 아침이나 점심을 즐기기 좋은 곳입니다.</p><h2>명소</h2><h3>해인사</h3><p>템플스테이로 사찰 생활을 체험할 수 있는 곳입니다. 영상 「Is Korea's Templestay Right for You? (Haeinsa Temple)」에서 해인사 템플스테이가 어떤 사람에게 맞는지 다뤘습니다. 조용한 시간을 보내고 싶은 여행자라면 참고할 만합니다.</p><h3>진해 군항제</h3><p>봄이면 벚꽃으로 유명한 진해의 축제입니다. 「Jinhae Cherry Blossom Festival: Tips, Tricks & Food」와 「Jinhae Cherry Blossom Festival: A Feast for the Eyes and Taste Buds」 두 편의 영상에서 축제 즐기는 요령과 먹거리를 소개했습니다.</p><h2>동선 팁</h2><p>소개한 곳들은 경남 곳곳에 흩어져 있어 하루에 모두 돌기보다는 지역별로 나누는 편이 좋습니다. 바다를 중심으로 한다면 통영 서호시장에서 시락국 백반으로 식사를 하고 통영·거제 해산물이나 충무김밥까지 이어가 보세요. 내륙 쪽으로는 박군자진주냉면, 함양 달동네식당, 해인사 템플스테이를 묶어 여유 있게 계획할 수 있습니다. 진해 군항제는 봄 벚꽃 시기에만 열리므로 여행 날짜를 먼저 맞춰 두는 것이 좋습니다.</p>",
-    "en": "<h2>Gyeongnam: Sea, Noodles and Cherry Blossoms</h2><p>Gyeongnam, in Korea's southeast, is known for the southern coastline around Tongyeong and Geoje, for Jinju-style cold noodles, and for the cherry blossoms of Jinhae in spring. Local favorites include Jinju naengmyeon, Tongyeong seafood and chungmu gimbap (small rice rolls served with spicy sides), and seafood from Geoje. Here are the places that showed up in videos about the region.</p><h2>Where to Eat</h2><h3>Parkgunja Jinju Naengmyeon</h3><p>A spot for <strong>Jinju-style cold noodles</strong>, one of the region's signature dishes. It was featured in the video \"Lunch at Parkgunja Jinju Naengmyeon.\" A good stop if you want to see what sets Jinju's version of naengmyeon apart.</p><h3>Daldongne Sikdang (Hamyang)</h3><p>A restaurant in Hamyang specializing in <strong>braised cod cheeks</strong> (daegu ppoljjim). It appeared on the Korean show with chef Baek Jong-won, \"Nima, Please Go to That Market\" (episode 30, Hamyang), where the dish's striking look caught even Baek by surprise.</p><h3>Siraegi Soup Eatery at Seoho Market, Tongyeong</h3><p>Inside Tongyeong's Seoho Market, this small eatery serves a <strong>siraegi soup set meal</strong> (soup made with dried radish greens, plus rice and side dishes) for 6,000 won. It was featured on Heo Young-man's food travel show \"Baekban Gihaeng,\" which highlighted the value and the Tongyeong-style side dishes. A simple, local meal that pairs well with a stroll through the market.</p><h2>What to See</h2><h3>Haeinsa Temple</h3><p>A temple where visitors can join a <strong>templestay</strong> and experience a taste of monastic life. The video \"Is Korea's Templestay Right for You? (Haeinsa Temple)\" walks through what the experience is like and who might enjoy it.</p><h3>Jinhae Cherry Blossom Festival</h3><p>Jinhae's spring festival, famous for its cherry blossoms. Two videos cover it: \"Jinhae Cherry Blossom Festival: Tips, Tricks & Food\" and \"Jinhae Cherry Blossom Festival: A Feast for the Eyes and Taste Buds,\" with practical advice and festival food.</p><h2>Planning Your Route</h2><p>These places are spread across Gyeongnam, so it works better to group them by area rather than trying to see everything in one day. For a coastal leg, have the siraegi soup set at Seoho Market in Tongyeong, then explore more Tongyeong and Geoje seafood or try chungmu gimbap. For an inland leg, combine Parkgunja Jinju Naengmyeon, Daldongne Sikdang in Hamyang, and a templestay at Haeinsa, leaving yourself plenty of time. The Jinhae festival only takes place during the spring cherry blossom season, so plan your dates around it first if it's on your list.</p>"
+    "en": "<h2>Gyeongnam: Sea, Noodles and Cherry Blossoms</h2><p>Gyeongnam, in Korea's southeast, is known for the southern coastline around Tongyeong and Geoje, for Jinju-style cold noodles, and for the cherry blossoms of Jinhae in spring. Local favorites include Jinju naengmyeon, Tongyeong seafood and chungmu gimbap (small rice rolls served with spicy sides), and seafood from Geoje. Here are the places that showed up in videos about the region.</p><h2>Where to Eat</h2><h3>Parkgunja Jinju Naengmyeon</h3><p>A spot for <strong>Jinju-style cold noodles</strong>, one of the region's signature dishes. It was featured in the video \"Lunch at Parkgunja Jinju Naengmyeon.\" A good stop if you want to see what sets Jinju's version of naengmyeon apart.</p><h3>Daldongne Sikdang (Hamyang)</h3><p>A restaurant in Hamyang specializing in <strong>braised cod cheeks</strong> (daegu ppoljjim). It appeared on the Korean show with chef Baek Jong-won, \"Nima, Please Go to That Market\" (episode 30, Hamyang), where the dish's striking look caught even Baek by surprise.</p><h3>Siraegi Soup Eatery at Seoho Market, Tongyeong</h3><p>Inside Tongyeong's Seoho Market, this small eatery serves a <strong>siraegi soup set meal</strong> (soup made with dried radish greens, plus rice and side dishes) for 6,000 won. It was featured on Heo Young-man's food travel show \"Baekban Gihaeng,\" which highlighted the value and the Tongyeong-style side dishes. A simple, local meal that pairs well with a stroll through the market.</p><h2>What to See</h2><h3>Haeinsa Temple</h3><p>A temple where visitors can join a <strong>templestay</strong> and experience a taste of monastic life. The video \"Is Korea's Templestay Right for You? (Haeinsa Temple)\" walks through what the experience is like and who might enjoy it.</p><h3>Jinhae Cherry Blossom Festival</h3><p>Jinhae's spring festival, famous for its cherry blossoms. Two videos cover it: \"Jinhae Cherry Blossom Festival: Tips, Tricks & Food\" and \"Jinhae Cherry Blossom Festival: A Feast for the Eyes and Taste Buds,\" with practical advice and festival food.</p><h2>Planning Your Route</h2><p>These places are spread across Gyeongnam, so it works better to group them by area rather than trying to see everything in one day. For a coastal leg, have the siraegi soup set at Seoho Market in Tongyeong, then explore more Tongyeong and Geoje seafood or try chungmu gimbap. For an inland leg, combine Parkgunja Jinju Naengmyeon, Daldongne Sikdang in Hamyang, and a templestay at Haeinsa, leaving yourself plenty of time. The Jinhae festival only takes place during the spring cherry blossom season, so plan your dates around it first if it's on your list.</p>",
+    "ja": "<h2>慶尚南道：海と麺と桜の地</h2><p>韓国南東部に位置する慶尚南道は、統営や巨済を中心とした南海岸、晋州式の冷麺、そして春の鎮海の桜で知られています。地元で親しまれている味には、晋州冷麺、統営の海鮮と忠武キンパ（辛いおかずと一緒に食べる小さな海苔巻き）、巨済の海産物などがあります。ここでは、この地域を紹介した動画に登場した場所をまとめました。</p><h2>食べる</h2><h3>朴君子晋州冷麺（パククンジャ・チンジュネンミョン）</h3><p>この地域を代表する料理のひとつ、<strong>晋州式冷麺</strong>のお店です。動画「Lunch at Parkgunja Jinju Naengmyeon」で紹介されました。晋州の冷麺がほかとどう違うのかを知りたい人におすすめです。</p><h3>タルトンネ食堂（咸陽）</h3><p>咸陽にある、<strong>タラのほほ肉の蒸し煮</strong>（テグッポルチム）の専門店です。ペク・ジョンウォン氏が出演する韓国の番組「ニマ、あの市場に行ってくれ」（第30話・咸陽編）に登場し、料理の迫力ある見た目にペク氏も驚いていました。</p><h3>統営・西湖市場のシレギ汁食堂</h3><p>統営の西湖市場の中にある小さな食堂で、<strong>シレギ汁定食</strong>（干した大根の葉のスープにご飯とおかずが付く）を6,000ウォンで出しています。ホ・ヨンマン氏のグルメ紀行番組「白飯紀行」で紹介され、手頃な価格と統営らしいおかずが取り上げられました。市場散策と合わせて楽しめる、素朴な地元の食事です。</p><h2>見る</h2><h3>海印寺（ヘインサ）</h3><p><strong>テンプルステイ</strong>に参加して、僧侶の暮らしの一端を体験できるお寺です。動画「Is Korea's Templestay Right for You? (Haeinsa Temple)」では、体験の内容やどんな人に向いているかが紹介されています。</p><h3>鎮海軍港祭（チネクンハンジェ）</h3><p>桜で有名な鎮海の春祭りです。「Jinhae Cherry Blossom Festival: Tips, Tricks & Food」と「Jinhae Cherry Blossom Festival: A Feast for the Eyes and Taste Buds」の2本の動画で、実用的なアドバイスや祭りグルメが紹介されています。</p><h2>ルートの立て方</h2><p>これらの場所は慶尚南道の各地に散らばっているので、1日ですべて回ろうとするより、エリアごとにまとめるのがおすすめです。海沿いを回るなら、統営の西湖市場でシレギ汁定食を食べてから、統営や巨済の海鮮をさらに楽しんだり、忠武キンパを味わったりしましょう。内陸を回るなら、朴君子晋州冷麺、咸陽のタルトンネ食堂、海印寺のテンプルステイを組み合わせ、時間に余裕を持たせてください。鎮海の祭りは春の桜の季節にしか開かれないので、行きたい場合はまずその日程に合わせて計画を立てましょう。</p>",
+    "zh-Hans": "<h2>庆尚南道：大海、冷面与樱花</h2><p>庆尚南道位于韩国东南部，以统营、巨济一带的南部海岸线、晋州冷面以及春天镇海的樱花而闻名。当地人喜爱的美食包括晋州冷面、统营海鲜和忠武紫菜包饭（搭配辣味小菜的迷你饭卷），还有巨济的海鲜。下面是在关于这一地区的视频中出现过的地方。</p><h2>吃什么</h2><h3>朴君子晋州冷面</h3><p>一家主打<strong>晋州冷面</strong>的店，晋州冷面是当地的代表性美食之一。这家店曾出现在视频《在朴君子晋州冷面吃午餐》中。如果想了解晋州冷面和别处有什么不同，可以来这里尝尝。</p><h3>月亮村食堂（咸阳）</h3><p>咸阳一家专做<strong>炖鳕鱼脸颊</strong>（대구뽈찜）的餐厅。曾登上白钟元出演的韩国节目《拜托了，去那个市场吧》（第30集，咸阳篇），这道菜惊人的外观连白钟元都感到意外。</p><h3>统营西湖市场的萝卜缨汤小食堂</h3><p>这家小食堂位于统营西湖市场内，供应<strong>萝卜缨汤套餐</strong>（用晒干的萝卜缨煮的汤，配米饭和小菜），价格6,000韩元。许英万的美食旅行节目《白饭纪行》曾介绍过这里，重点提到了实惠的价格和统营风味的小菜。这是一顿朴素的本地饭，很适合和逛市场一起安排。</p><h2>看什么</h2><h3>海印寺</h3><p>在这座寺庙可以参加<strong>寺院寄宿（Templestay）</strong>，体验僧侣生活。视频《韩国寺院寄宿适合你吗？（海印寺）》介绍了体验的具体内容，以及适合哪些人参加。</p><h3>镇海军港节（樱花庆典）</h3><p>镇海的春季庆典，以樱花闻名。有两个视频介绍了这一庆典：《镇海樱花节：攻略、技巧与美食》和《镇海樱花节：眼睛与味蕾的盛宴》，内容包括实用建议和庆典美食。</p><h2>路线规划</h2><p>这些地方分散在庆尚南道各地，与其想一天跑完，不如按区域分组安排。沿海路线可以先在统营西湖市场吃萝卜缨汤套餐，再去探索更多统营、巨济的海鲜，或者尝尝忠武紫菜包饭。内陆路线可以把朴君子晋州冷面、咸阳的月亮村食堂和海印寺寺院寄宿安排在一起，并留出充足的时间。镇海的庆典只在春季樱花季举行，如果想去，最好先围绕它来定行程日期。</p>",
+    "zh-Hant": "<h2>慶南：大海、冷麵與櫻花</h2><p>位於韓國東南部的慶尚南道（慶南），以統營、巨濟一帶的南部海岸線、晉州式冷麵，以及春天的鎮海櫻花聞名。當地人喜愛的美食包括晉州冷麵、統營海鮮與忠武飯捲（搭配辣味小菜的迷你飯捲），還有巨濟的海鮮。以下整理在介紹這個地區的影片中出現過的地方。</p><h2>美食</h2><h3>朴君子晉州冷麵</h3><p>主打當地代表料理之一的<strong>晉州式冷麵</strong>。曾在影片〈在朴君子晉州冷麵吃午餐〉中登場。想了解晉州冷麵和其他冷麵有什麼不同，可以來這裡看看。</p><h3>月亮村食堂（咸陽）</h3><p>位於咸陽、專賣<strong>燉鱈魚頰肉</strong>（대구뽈찜）的餐廳。曾出現在白種元主持的韓國節目《拜託了，去那個市場吧》（第30集，咸陽篇），料理驚人的外觀連白種元都嚇了一跳。</p><h3>統營西湖市場的乾菜湯小食堂</h3><p>這家位於統營西湖市場內的小店，供應6,000韓元的<strong>乾菜湯套餐</strong>（用乾蘿蔔葉煮的湯，附白飯與小菜）。曾在許英萬的美食旅遊節目《白飯紀行》中介紹，節目特別提到它的實惠價格與統營風味小菜。簡單樸實的在地餐點，很適合搭配逛市場。</p><h2>景點</h2><h3>海印寺</h3><p>可以參加<strong>寺院寄宿（Templestay）</strong>、體驗修行生活的寺院。影片〈韓國寺院寄宿適合你嗎？（海印寺）〉介紹了體驗內容，以及適合哪些人參加。</p><h3>鎮海軍港節（櫻花節）</h3><p>以櫻花聞名的鎮海春季慶典。有兩支影片介紹：〈鎮海櫻花節：攻略、技巧與美食〉和〈鎮海櫻花節：眼睛與味蕾的饗宴〉，內容包含實用建議與慶典美食。</p><h2>規劃路線</h2><p>這些地方分散在慶南各地，與其想一天全部走完，不如依區域分開安排。沿海路線可以先在統營西湖市場吃乾菜湯套餐，再多探索統營、巨濟的海鮮，或嚐嚐忠武飯捲。內陸路線則可以把朴君子晉州冷麵、咸陽月亮村食堂和海印寺寺院寄宿安排在一起，並預留充裕時間。鎮海軍港節只在春季櫻花季舉行，如果想去，建議先以慶典日期為主來安排行程。</p>",
+    "es": "<h2>Gyeongnam: mar, fideos y cerezos en flor</h2><p>Gyeongnam, en el sureste de Corea, es conocida por la costa sur en torno a Tongyeong y Geoje, por los fideos fríos al estilo de Jinju y por los cerezos en flor de Jinhae en primavera. Entre los platos favoritos de la zona están el naengmyeon de Jinju, el marisco de Tongyeong y el chungmu gimbap (pequeños rollos de arroz servidos con acompañamientos picantes), además del marisco de Geoje. Estos son los lugares que aparecieron en vídeos sobre la región.</p><h2>Dónde comer</h2><h3>Parkgunja Jinju Naengmyeon</h3><p>Un local de <strong>fideos fríos al estilo de Jinju</strong>, uno de los platos emblemáticos de la región. Apareció en el vídeo \"Lunch at Parkgunja Jinju Naengmyeon\". Una buena parada si quieres descubrir qué hace diferente la versión de naengmyeon de Jinju.</p><h3>Daldongne Sikdang (Hamyang)</h3><p>Un restaurante de Hamyang especializado en <strong>carrilleras de bacalao estofadas</strong> (daegu ppoljjim). Salió en el programa coreano del chef Baek Jong-won \"Nima, Please Go to That Market\" (episodio 30, Hamyang), donde el llamativo aspecto del plato sorprendió incluso al propio Baek.</p><h3>Puesto de sopa de siraegi en el mercado Seoho, Tongyeong</h3><p>Dentro del mercado Seoho de Tongyeong, este pequeño local sirve un <strong>menú de sopa de siraegi</strong> (sopa de hojas de rábano secas, con arroz y guarniciones) por 6.000 wones. Apareció en el programa gastronómico de Heo Young-man \"Baekban Gihaeng\", que destacó su buena relación calidad-precio y las guarniciones al estilo de Tongyeong. Una comida sencilla y local que combina bien con un paseo por el mercado.</p><h2>Qué ver</h2><h3>Templo Haeinsa</h3><p>Un templo donde los visitantes pueden participar en un <strong>templestay</strong> y vivir de cerca la vida monástica. El vídeo \"Is Korea's Templestay Right for You? (Haeinsa Temple)\" explica cómo es la experiencia y a quién puede gustarle.</p><h3>Festival de los Cerezos en Flor de Jinhae</h3><p>El festival de primavera de Jinhae, famoso por sus cerezos en flor. Dos vídeos lo tratan: \"Jinhae Cherry Blossom Festival: Tips, Tricks & Food\" y \"Jinhae Cherry Blossom Festival: A Feast for the Eyes and Taste Buds\", con consejos prácticos y comida del festival.</p><h2>Cómo organizar la ruta</h2><p>Estos lugares están repartidos por todo Gyeongnam, así que conviene agruparlos por zonas en vez de intentar verlo todo en un día. Para un tramo costero, prueba el menú de sopa de siraegi en el mercado Seoho de Tongyeong y luego descubre más marisco de Tongyeong y Geoje o prueba el chungmu gimbap. Para un tramo de interior, combina Parkgunja Jinju Naengmyeon, Daldongne Sikdang en Hamyang y un templestay en Haeinsa, dejando tiempo de sobra. El festival de Jinhae solo se celebra durante la temporada de cerezos en flor en primavera, así que, si está en tu lista, fija primero tus fechas en función de él.</p>",
+    "fr": "<h2>Le Gyeongnam : la mer, les nouilles et les cerisiers en fleurs</h2><p>Situé dans le sud-est de la Corée, le Gyeongnam est connu pour sa côte méridionale autour de Tongyeong et de Geoje, pour ses nouilles froides à la façon de Jinju et pour les cerisiers en fleurs de Jinhae au printemps. Parmi les spécialités locales, on trouve le naengmyeon de Jinju, les fruits de mer de Tongyeong et le chungmu gimbap (petits rouleaux de riz servis avec des accompagnements épicés), ainsi que les fruits de mer de Geoje. Voici les adresses apparues dans des vidéos consacrées à la région.</p><h2>Où manger</h2><h3>Parkgunja Jinju Naengmyeon</h3><p>Une adresse de <strong>nouilles froides à la façon de Jinju</strong>, l'un des plats emblématiques de la région. Elle figure dans la vidéo « Lunch at Parkgunja Jinju Naengmyeon ». Un bon arrêt si vous voulez découvrir ce qui distingue la version de Jinju du naengmyeon.</p><h3>Daldongne Sikdang (Hamyang)</h3><p>Un restaurant de Hamyang spécialisé dans les <strong>joues de cabillaud braisées</strong> (daegu ppoljjim). Il est apparu dans l'émission coréenne du chef Baek Jong-won, « Nima, Please Go to That Market » (épisode 30, Hamyang), où l'aspect spectaculaire du plat a surpris Baek lui-même.</p><h3>Petite gargote de soupe de siraegi au marché de Seoho, Tongyeong</h3><p>Au cœur du marché de Seoho à Tongyeong, cette petite gargote sert une <strong>formule soupe de siraegi</strong> (soupe aux fanes de radis séchées, accompagnée de riz et de banchan) pour 6 000 wons. Elle a été présentée dans « Baekban Gihaeng », l'émission de voyage culinaire de Heo Young-man, qui a souligné son bon rapport qualité-prix et ses accompagnements typiques de Tongyeong. Un repas simple et local, idéal en complément d'une balade dans le marché.</p><h2>À voir</h2><h3>Temple Haeinsa</h3><p>Un temple où les visiteurs peuvent participer à un <strong>templestay</strong> et goûter un peu à la vie monastique. La vidéo « Is Korea's Templestay Right for You? (Haeinsa Temple) » explique en quoi consiste l'expérience et à qui elle peut plaire.</p><h3>Festival des cerisiers en fleurs de Jinhae (Gunhangje)</h3><p>Le festival de printemps de Jinhae, célèbre pour ses cerisiers en fleurs. Deux vidéos lui sont consacrées : « Jinhae Cherry Blossom Festival: Tips, Tricks & Food » et « Jinhae Cherry Blossom Festival: A Feast for the Eyes and Taste Buds », avec des conseils pratiques et la cuisine du festival.</p><h2>Organiser son itinéraire</h2><p>Ces lieux sont dispersés dans tout le Gyeongnam : mieux vaut donc les regrouper par zone plutôt que de vouloir tout voir en une journée. Pour une étape sur la côte, prenez la formule soupe de siraegi au marché de Seoho à Tongyeong, puis partez à la découverte d'autres fruits de mer de Tongyeong et de Geoje, ou goûtez le chungmu gimbap. Pour une étape dans l'intérieur des terres, combinez Parkgunja Jinju Naengmyeon, Daldongne Sikdang à Hamyang et un templestay au temple Haeinsa, en vous laissant largement le temps. Le festival de Jinhae n'a lieu qu'à la saison des cerisiers en fleurs, au printemps : s'il fait partie de vos envies, fixez d'abord vos dates en fonction de lui.</p>",
+    "de": "<h2>Gyeongnam: Meer, Nudeln und Kirschblüten</h2><p>Gyeongnam im Südosten Koreas ist bekannt für die Südküste rund um Tongyeong und Geoje, für kalte Nudeln nach Jinju-Art und für die Kirschblüten in Jinhae im Frühling. Zu den regionalen Lieblingsgerichten gehören Jinju-Naengmyeon, Meeresfrüchte aus Tongyeong und Chungmu-Gimbap (kleine Reisrollen mit scharfen Beilagen) sowie Meeresfrüchte aus Geoje. Hier sind die Orte, die in Videos über die Region zu sehen waren.</p><h2>Essen</h2><h3>Parkgunja Jinju Naengmyeon</h3><p>Ein Lokal für <strong>kalte Nudeln nach Jinju-Art</strong>, eines der typischen Gerichte der Region. Es wurde im Video „Lunch at Parkgunja Jinju Naengmyeon“ vorgestellt. Ein guter Halt, wenn man herausfinden möchte, was die Jinju-Variante des Naengmyeon besonders macht.</p><h3>Daldongne Sikdang (Hamyang)</h3><p>Ein Restaurant in Hamyang, das auf <strong>geschmorte Kabeljaubäckchen</strong> (Daegu-Ppoljjim) spezialisiert ist. Es war in der koreanischen Sendung mit Koch Baek Jong-won „Nima, Please Go to That Market“ zu sehen (Folge 30, Hamyang), wo selbst Baek vom auffälligen Aussehen des Gerichts überrascht war.</p><h3>Siraegi-Suppenlokal auf dem Seoho-Markt, Tongyeong</h3><p>In diesem kleinen Lokal auf dem Seoho-Markt in Tongyeong gibt es ein <strong>Siraegi-Suppen-Set</strong> (Suppe aus getrockneten Rettichblättern mit Reis und Beilagen) für 6.000 Won. Es wurde in Heo Young-mans kulinarischer Reisesendung „Baekban Gihaeng“ vorgestellt, die das gute Preis-Leistungs-Verhältnis und die Beilagen nach Tongyeong-Art hervorhob. Ein einfaches, bodenständiges Essen, das gut zu einem Bummel über den Markt passt.</p><h2>Sehenswürdigkeiten</h2><h3>Tempel Haeinsa</h3><p>Ein Tempel, in dem Besucher an einem <strong>Templestay</strong> teilnehmen und einen Eindruck vom Klosterleben bekommen können. Das Video „Is Korea's Templestay Right for You? (Haeinsa Temple)“ zeigt, wie der Aufenthalt abläuft und für wen er sich eignet.</p><h3>Kirschblütenfest in Jinhae</h3><p>Das Frühlingsfest in Jinhae, berühmt für seine Kirschblüten. Zwei Videos widmen sich ihm: „Jinhae Cherry Blossom Festival: Tips, Tricks & Food“ und „Jinhae Cherry Blossom Festival: A Feast for the Eyes and Taste Buds“, mit praktischen Tipps und Festivalessen.</p><h2>Routenplanung</h2><p>Die Orte liegen über ganz Gyeongnam verteilt. Es ist daher sinnvoller, sie nach Gegenden zu bündeln, statt alles an einem Tag sehen zu wollen. Für eine Etappe an der Küste: das Siraegi-Suppen-Set auf dem Seoho-Markt in Tongyeong essen und danach weitere Meeresfrüchte in Tongyeong und Geoje entdecken oder Chungmu-Gimbap probieren. Für eine Etappe im Landesinneren lassen sich Parkgunja Jinju Naengmyeon, Daldongne Sikdang in Hamyang und ein Templestay im Haeinsa kombinieren – mit ausreichend Zeit. Das Fest in Jinhae findet nur während der Kirschblüte im Frühling statt. Wer es besuchen möchte, sollte die Reisedaten zuerst danach ausrichten.</p>",
+    "vi": "<h2>Gyeongnam: Biển, mì và hoa anh đào</h2><p>Gyeongnam, nằm ở phía đông nam Hàn Quốc, nổi tiếng với dải bờ biển phía nam quanh Tongyeong và Geoje, với mì lạnh kiểu Jinju và hoa anh đào Jinhae vào mùa xuân. Các món được người địa phương ưa chuộng gồm mì lạnh Jinju (Jinju naengmyeon), hải sản Tongyeong và chungmu gimbap (cơm cuộn nhỏ ăn kèm món phụ cay), cùng hải sản Geoje. Dưới đây là những địa điểm đã xuất hiện trong các video về vùng này.</p><h2>Ăn ở đâu</h2><h3>Parkgunja Jinju Naengmyeon</h3><p>Quán chuyên <strong>mì lạnh kiểu Jinju</strong>, một trong những món đặc trưng của vùng. Quán xuất hiện trong video \"Lunch at Parkgunja Jinju Naengmyeon\". Đây là điểm dừng phù hợp nếu bạn muốn biết mì lạnh Jinju khác biệt ở điểm nào.</p><h3>Daldongne Sikdang (Hamyang)</h3><p>Nhà hàng ở Hamyang chuyên món <strong>má cá tuyết om</strong> (daegu ppoljjim). Quán từng lên chương trình truyền hình Hàn Quốc của đầu bếp Baek Jong-won, \"Nima, Please Go to That Market\" (tập 30, Hamyang), nơi vẻ ngoài ấn tượng của món ăn khiến ngay cả Baek cũng bất ngờ.</p><h3>Quán canh siraegi ở chợ Seoho, Tongyeong</h3><p>Nằm trong chợ Seoho ở Tongyeong, quán nhỏ này phục vụ <strong>cơm phần canh siraegi</strong> (canh nấu từ lá củ cải phơi khô, kèm cơm và các món phụ) với giá 6.000 won. Quán từng xuất hiện trong chương trình du lịch ẩm thực \"Baekban Gihaeng\" của Heo Young-man, nhấn mạnh sự đáng đồng tiền và các món phụ kiểu Tongyeong. Một bữa ăn giản dị, đậm chất địa phương, rất hợp để kết hợp với việc dạo quanh chợ.</p><h2>Tham quan gì</h2><h3>Chùa Haeinsa</h3><p>Ngôi chùa nơi du khách có thể tham gia <strong>templestay</strong> để trải nghiệm phần nào đời sống tu hành. Video \"Is Korea's Templestay Right for You? (Haeinsa Temple)\" giới thiệu trải nghiệm này diễn ra như thế nào và phù hợp với ai.</p><h3>Lễ hội hoa anh đào Jinhae</h3><p>Lễ hội mùa xuân của Jinhae, nổi tiếng với hoa anh đào. Có hai video về lễ hội: \"Jinhae Cherry Blossom Festival: Tips, Tricks & Food\" và \"Jinhae Cherry Blossom Festival: A Feast for the Eyes and Taste Buds\", với những lời khuyên thực tế và món ăn tại lễ hội.</p><h2>Lên lộ trình</h2><p>Các địa điểm này nằm rải rác khắp Gyeongnam, vì vậy nên gom theo khu vực thay vì cố đi hết trong một ngày. Với chặng ven biển, hãy ăn cơm phần canh siraegi ở chợ Seoho tại Tongyeong, sau đó khám phá thêm hải sản Tongyeong và Geoje hoặc thử chungmu gimbap. Với chặng nội địa, hãy kết hợp Parkgunja Jinju Naengmyeon, Daldongne Sikdang ở Hamyang và templestay tại chùa Haeinsa, nhớ dành nhiều thời gian. Lễ hội Jinhae chỉ diễn ra vào mùa hoa anh đào nở mùa xuân, nên nếu muốn đi, hãy chọn ngày theo lễ hội trước tiên.</p>",
+    "th": "<h2>คย็องนัม: ทะเล บะหมี่ และดอกซากุระ</h2><p>คย็องนัม (คย็องซังนัมโด) ตั้งอยู่ทางตะวันออกเฉียงใต้ของเกาหลี ขึ้นชื่อเรื่องชายฝั่งทางใต้แถบทงยองและคอเจ บะหมี่เย็นสไตล์จินจู และดอกซากุระของชินแฮในฤดูใบไม้ผลิ อาหารที่คนท้องถิ่นชื่นชอบได้แก่ นังมยอนจินจู อาหารทะเลของทงยอง และชุงมูกิมบับ (ข้าวม้วนสาหร่ายชิ้นเล็กเสิร์ฟพร้อมเครื่องเคียงรสเผ็ด) รวมถึงอาหารทะเลจากคอเจ ต่อไปนี้คือสถานที่ที่ปรากฏในวิดีโอเกี่ยวกับภูมิภาคนี้</p><h2>ร้านอาหาร</h2><h3>ร้านพักกุนจาจินจูนังมยอน</h3><p>ร้านที่เสิร์ฟ<strong>บะหมี่เย็นสไตล์จินจู</strong> หนึ่งในอาหารขึ้นชื่อของภูมิภาค ร้านนี้ปรากฏในวิดีโอ \"Lunch at Parkgunja Jinju Naengmyeon\" เหมาะสำหรับใครที่อยากรู้ว่านังมยอนแบบจินจูต่างจากที่อื่นอย่างไร</p><h3>ร้านทัลทงเนชิกทัง (ฮัมยาง)</h3><p>ร้านอาหารในฮัมยางที่เชี่ยวชาญเรื่อง<strong>แก้มปลาค็อดตุ๋น</strong> (แทกูปโปลจิม) เคยออกรายการเกาหลีของเชฟแพ็กจงวอน \"Nima, Please Go to That Market\" (ตอนที่ 30 ฮัมยาง) ซึ่งหน้าตาอันโดดเด่นของเมนูนี้ทำเอาแพ็กจงวอนเองยังประหลาดใจ</p><h3>ร้านซุปชีแรกีในตลาดซอโฮ เมืองทงยอง</h3><p>ร้านเล็ก ๆ ในตลาดซอโฮของทงยอง เสิร์ฟ<strong>ชุดอาหารซุปชีแรกี</strong> (ซุปใบหัวไชเท้าตากแห้ง พร้อมข้าวและเครื่องเคียง) ในราคา 6,000 วอน ร้านนี้เคยออกรายการท่องเที่ยวชิมอาหารของฮอยองมัน \"Baekban Gihaeng\" ซึ่งเน้นถึงความคุ้มค่าและเครื่องเคียงสไตล์ทงยอง เป็นมื้อเรียบง่ายแบบคนท้องถิ่นที่เข้ากันดีกับการเดินเล่นในตลาด</p><h2>สถานที่ท่องเที่ยว</h2><h3>วัดแฮอินซา</h3><p>วัดที่นักท่องเที่ยวสามารถเข้าร่วม<strong>เทมเปิลสเตย์</strong>เพื่อสัมผัสชีวิตแบบนักบวช วิดีโอ \"Is Korea's Templestay Right for You? (Haeinsa Temple)\" พาไปดูว่าประสบการณ์นี้เป็นอย่างไร และเหมาะกับใครบ้าง</p><h3>เทศกาลซากุระชินแฮ (ชินแฮกุนฮังเจ)</h3><p>เทศกาลฤดูใบไม้ผลิของชินแฮที่มีชื่อเสียงเรื่องดอกซากุระ มีวิดีโอสองเรื่องที่พูดถึงเทศกาลนี้ ได้แก่ \"Jinhae Cherry Blossom Festival: Tips, Tricks & Food\" และ \"Jinhae Cherry Blossom Festival: A Feast for the Eyes and Taste Buds\" พร้อมคำแนะนำที่ใช้ได้จริงและอาหารในเทศกาล</p><h2>วางแผนเส้นทาง</h2><p>สถานที่เหล่านี้กระจายอยู่ทั่วคย็องนัม จึงควรจัดกลุ่มตามพื้นที่แทนที่จะพยายามเที่ยวให้ครบในวันเดียว สำหรับเส้นทางชายฝั่ง ลองกินชุดซุปชีแรกีที่ตลาดซอโฮในทงยอง แล้วไปตระเวนชิมอาหารทะเลของทงยองและคอเจ หรือลองชุงมูกิมบับ สำหรับเส้นทางด้านใน ให้รวมร้านพักกุนจาจินจูนังมยอน ร้านทัลทงเนชิกทังในฮัมยาง และเทมเปิลสเตย์ที่วัดแฮอินซาเข้าด้วยกัน โดยเผื่อเวลาไว้ให้มากพอ ส่วนเทศกาลชินแฮจัดขึ้นเฉพาะช่วงซากุระบานในฤดูใบไม้ผลิเท่านั้น ถ้าอยากไป ควรกำหนดวันเดินทางตามเทศกาลนี้ก่อน</p>",
+    "id": "<h2>Gyeongnam: Laut, Mi, dan Bunga Sakura</h2><p>Gyeongnam, di bagian tenggara Korea, dikenal dengan garis pantai selatannya di sekitar Tongyeong dan Geoje, mi dingin ala Jinju, serta bunga sakura Jinhae di musim semi. Makanan favorit warga setempat antara lain Jinju naengmyeon, hidangan laut Tongyeong dan chungmu gimbap (gulungan nasi kecil yang disajikan dengan lauk pedas), serta hidangan laut dari Geoje. Berikut tempat-tempat yang muncul dalam video tentang wilayah ini.</p><h2>Tempat Makan</h2><h3>Parkgunja Jinju Naengmyeon</h3><p>Tempat untuk menikmati <strong>mi dingin ala Jinju</strong>, salah satu hidangan khas daerah ini. Tempat ini tampil dalam video \"Lunch at Parkgunja Jinju Naengmyeon.\" Cocok disinggahi jika Anda ingin tahu apa yang membedakan naengmyeon versi Jinju.</p><h3>Daldongne Sikdang (Hamyang)</h3><p>Restoran di Hamyang yang khusus menyajikan <strong>pipi ikan kod rebus pedas</strong> (daegu ppoljjim). Restoran ini muncul di acara Korea bersama chef Baek Jong-won, \"Nima, Please Go to That Market\" (episode 30, Hamyang), di mana tampilan hidangannya yang mencolok bahkan membuat Baek terkejut.</p><h3>Warung Sup Siraegi di Pasar Seoho, Tongyeong</h3><p>Di dalam Pasar Seoho, Tongyeong, warung kecil ini menyajikan <strong>set sup siraegi</strong> (sup daun lobak kering, dengan nasi dan lauk pendamping) seharga 6.000 won. Warung ini tampil di acara wisata kuliner Heo Young-man, \"Baekban Gihaeng,\" yang menyoroti harganya yang terjangkau dan lauk-lauk khas Tongyeong. Makanan lokal yang sederhana, pas dipadukan dengan jalan-jalan keliling pasar.</p><h2>Tempat Wisata</h2><h3>Kuil Haeinsa</h3><p>Kuil tempat pengunjung bisa mengikuti <strong>templestay</strong> dan merasakan sekilas kehidupan biara. Video \"Is Korea's Templestay Right for You? (Haeinsa Temple)\" menjelaskan seperti apa pengalamannya dan siapa yang mungkin akan menikmatinya.</p><h3>Festival Bunga Sakura Jinhae</h3><p>Festival musim semi di Jinhae yang terkenal dengan bunga sakuranya. Ada dua video yang membahasnya: \"Jinhae Cherry Blossom Festival: Tips, Tricks & Food\" dan \"Jinhae Cherry Blossom Festival: A Feast for the Eyes and Taste Buds,\" berisi saran praktis dan makanan festival.</p><h2>Merencanakan Rute</h2><p>Tempat-tempat ini tersebar di seluruh Gyeongnam, jadi lebih baik dikelompokkan per area daripada mencoba mengunjungi semuanya dalam sehari. Untuk rute pesisir, nikmati set sup siraegi di Pasar Seoho, Tongyeong, lalu jelajahi hidangan laut Tongyeong dan Geoje lainnya atau coba chungmu gimbap. Untuk rute pedalaman, gabungkan Parkgunja Jinju Naengmyeon, Daldongne Sikdang di Hamyang, dan templestay di Haeinsa, dengan waktu yang cukup longgar. Festival Jinhae hanya berlangsung saat musim bunga sakura di musim semi, jadi jika festival ini masuk daftar Anda, tentukan tanggal perjalanan berdasarkan festival tersebut terlebih dahulu.</p>",
+    "ru": "<h2>Кённам: море, лапша и сакура</h2><p>Провинция Кённам на юго-востоке Кореи известна южным побережьем в районе Тхонъёна и Кочжедо, холодной лапшой по-чинджуски и весенней сакурой в Чинхэ. Среди местных любимых блюд — чинджу-нэнмён, морепродукты Тхонъёна и чхунму-кимпаб (маленькие рисовые роллы с острыми закусками), а также морепродукты с Кочжедо. Ниже — места, которые появлялись в видео об этом регионе.</p><h2>Где поесть</h2><h3>Пак Гунджа Чинджу Нэнмён</h3><p>Заведение, где подают <strong>холодную лапшу по-чинджуски</strong> — одно из фирменных блюд региона. Оно появилось в видео «Обед в Пак Гунджа Чинджу Нэнмён». Хороший вариант, если хотите понять, чем чинджуский нэнмён отличается от других.</p><h3>Пальдоннэ Сиктан (Хамян)</h3><p>Ресторан в Хамяне, специализирующийся на <strong>тушёных щёчках трески</strong> (тэгу ппольччим). Он был показан в корейской передаче с шеф-поваром Пэк Чонвоном «Нима, пожалуйста, сходи на тот рынок» (30-й выпуск, Хамян), где необычный вид блюда удивил даже самого Пэка.</p><h3>Закусочная с супом сирэги на рынке Сохо, Тхонъён</h3><p>В этой небольшой закусочной на рынке Сохо в Тхонъёне подают <strong>сет с супом сирэги</strong> (суп из сушёной ботвы редьки с рисом и закусками) за 6000 вон. Её показали в гастрономической тревел-программе Хо Ёнмана «Пэкпан кихэн», где отметили выгодную цену и закуски в тхонъёнском стиле. Простая местная еда, которая хорошо сочетается с прогулкой по рынку.</p><h2>Что посмотреть</h2><h3>Храм Хэинса</h3><p>Храм, где можно пройти <strong>темплстей</strong> и немного прикоснуться к монашеской жизни. В видео «Подходит ли вам корейский темплстей? (храм Хэинса)» рассказывается, как проходит программа и кому она может понравиться.</p><h3>Фестиваль цветения сакуры в Чинхэ (Кунханджэ)</h3><p>Весенний фестиваль в Чинхэ, знаменитый своей сакурой. Ему посвящены два видео: «Фестиваль сакуры в Чинхэ: советы, хитрости и еда» и «Фестиваль сакуры в Чинхэ: праздник для глаз и вкуса» — с практическими советами и фестивальной едой.</p><h2>Планирование маршрута</h2><p>Эти места разбросаны по всей провинции Кённам, поэтому лучше группировать их по районам, а не пытаться увидеть всё за один день. На прибрежном отрезке поешьте сет с супом сирэги на рынке Сохо в Тхонъёне, а затем попробуйте другие морепродукты Тхонъёна и Кочжедо или чхунму-кимпаб. Для внутренних районов объедините Пак Гунджа Чинджу Нэнмён, Пальдоннэ Сиктан в Хамяне и темплстей в Хэинсе, заложив побольше времени. Фестиваль в Чинхэ проходит только в сезон цветения сакуры весной, так что, если он в ваших планах, сначала подстройте даты поездки под него.</p>"
   },
   "places": [
     {
@@ -76,5 +106,227 @@
       "id": "prxvrdsZbZw",
       "title": "단돈 6천 원, 가성비 넘치는 통영 반찬"
     }
-  ]
+  ],
+  "placesI18n": {
+    "ja": [
+      {
+        "name": "朴君子晋州冷麺（パククンジャ・チンジュネンミョン）",
+        "menu": "晋州式冷麺"
+      },
+      {
+        "name": "海印寺（ヘインサ）",
+        "menu": "テンプルステイ"
+      },
+      {
+        "name": "鎮海軍港祭",
+        "menu": "桜（春）"
+      },
+      {
+        "name": "タルトンネ食堂（咸陽）",
+        "menu": "タラのほほ肉の蒸し煮（テグッポルチム）"
+      },
+      {
+        "name": "統営・西湖市場",
+        "menu": "市場内食堂のシレギ（干した大根の葉）汁定食（6,000ウォン）"
+      }
+    ],
+    "zh-Hans": [
+      {
+        "name": "朴君子晋州冷面（박군자진주냉면）",
+        "menu": "晋州冷面"
+      },
+      {
+        "name": "海印寺",
+        "menu": "寺院寄宿（Templestay）"
+      },
+      {
+        "name": "镇海军港节",
+        "menu": "樱花（春季）"
+      },
+      {
+        "name": "月亮村食堂（咸阳）（달동네식당）",
+        "menu": "炖鳕鱼脸颊"
+      },
+      {
+        "name": "统营西湖市场",
+        "menu": "市场小食堂的萝卜缨汤套餐（6,000韩元）"
+      }
+    ],
+    "zh-Hant": [
+      {
+        "name": "朴君子晉州冷麵",
+        "menu": "晉州式冷麵"
+      },
+      {
+        "name": "海印寺",
+        "menu": "寺院寄宿（Templestay）"
+      },
+      {
+        "name": "鎮海軍港節（櫻花節）",
+        "menu": "櫻花（春季）"
+      },
+      {
+        "name": "月亮村食堂（咸陽）",
+        "menu": "燉鱈魚頰肉"
+      },
+      {
+        "name": "統營西湖市場",
+        "menu": "市場小食堂的乾菜湯（乾蘿蔔葉湯）套餐（6,000韓元）"
+      }
+    ],
+    "es": [
+      {
+        "name": "Parkgunja Jinju Naengmyeon (박군자진주냉면)",
+        "menu": "Fideos fríos al estilo de Jinju"
+      },
+      {
+        "name": "Templo Haeinsa (해인사)",
+        "menu": "Templestay"
+      },
+      {
+        "name": "Festival de los Cerezos en Flor de Jinhae (진해 군항제)",
+        "menu": "Cerezos en flor (primavera)"
+      },
+      {
+        "name": "Daldongne Sikdang (Hamyang) (달동네식당)",
+        "menu": "Carrilleras de bacalao estofadas"
+      },
+      {
+        "name": "Mercado Seoho, Tongyeong (통영 서호시장)",
+        "menu": "Menú de sopa de siraegi (hojas de rábano secas) en un local del mercado (6.000 wones)"
+      }
+    ],
+    "fr": [
+      {
+        "name": "Parkgunja Jinju Naengmyeon (박군자진주냉면)",
+        "menu": "Nouilles froides à la façon de Jinju"
+      },
+      {
+        "name": "Temple Haeinsa (해인사)",
+        "menu": "Templestay"
+      },
+      {
+        "name": "Festival des cerisiers en fleurs de Jinhae (진해 군항제)",
+        "menu": "Cerisiers en fleurs (printemps)"
+      },
+      {
+        "name": "Daldongne Sikdang, Hamyang (달동네식당)",
+        "menu": "Joues de cabillaud braisées"
+      },
+      {
+        "name": "Marché de Seoho, Tongyeong (통영 서호시장)",
+        "menu": "Formule soupe de siraegi (fanes de radis séchées) dans une gargote du marché (6 000 wons)"
+      }
+    ],
+    "de": [
+      {
+        "name": "Parkgunja Jinju Naengmyeon (박군자진주냉면)",
+        "menu": "Kalte Nudeln nach Jinju-Art"
+      },
+      {
+        "name": "Tempel Haeinsa (해인사)",
+        "menu": "Templestay"
+      },
+      {
+        "name": "Kirschblütenfest Jinhae (Jinhae Gunhangje, 진해 군항제)",
+        "menu": "Kirschblüten (Frühling)"
+      },
+      {
+        "name": "Daldongne Sikdang (Hamyang) (달동네식당)",
+        "menu": "Geschmorte Kabeljaubäckchen"
+      },
+      {
+        "name": "Seoho-Markt, Tongyeong (통영 서호시장)",
+        "menu": "Siraegi-Suppen-Set (Suppe aus getrockneten Rettichblättern) in einem Marktlokal (6.000 Won)"
+      }
+    ],
+    "vi": [
+      {
+        "name": "Parkgunja Jinju Naengmyeon (박군자진주냉면)",
+        "menu": "Mì lạnh kiểu Jinju"
+      },
+      {
+        "name": "Chùa Haeinsa (해인사)",
+        "menu": "Templestay"
+      },
+      {
+        "name": "Lễ hội hoa anh đào Jinhae (진해 군항제)",
+        "menu": "Hoa anh đào (mùa xuân)"
+      },
+      {
+        "name": "Daldongne Sikdang (Hamyang) (달동네식당)",
+        "menu": "Má cá tuyết om"
+      },
+      {
+        "name": "Chợ Seoho, Tongyeong (통영 서호시장)",
+        "menu": "Cơm phần canh siraegi (lá củ cải phơi khô) tại quán ăn trong chợ (6.000 won)"
+      }
+    ],
+    "th": [
+      {
+        "name": "ร้านพักกุนจาจินจูนังมยอน (박군자진주냉면)",
+        "menu": "บะหมี่เย็นสไตล์จินจู"
+      },
+      {
+        "name": "วัดแฮอินซา (해인사)",
+        "menu": "เทมเปิลสเตย์"
+      },
+      {
+        "name": "เทศกาลซากุระชินแฮ (진해 군항제)",
+        "menu": "ดอกซากุระ (ฤดูใบไม้ผลิ)"
+      },
+      {
+        "name": "ร้านทัลทงเนชิกทัง ฮัมยาง (달동네식당)",
+        "menu": "แก้มปลาค็อดตุ๋น"
+      },
+      {
+        "name": "ตลาดซอโฮ ทงยอง (통영 서호시장)",
+        "menu": "ชุดอาหารซุปชีแรกี (ใบหัวไชเท้าตากแห้ง) ที่ร้านในตลาด (6,000 วอน)"
+      }
+    ],
+    "id": [
+      {
+        "name": "Parkgunja Jinju Naengmyeon",
+        "menu": "Mi dingin ala Jinju"
+      },
+      {
+        "name": "Kuil Haeinsa",
+        "menu": "Templestay"
+      },
+      {
+        "name": "Festival Bunga Sakura Jinhae (Jinhae Gunhangje)",
+        "menu": "Bunga sakura (musim semi)"
+      },
+      {
+        "name": "Daldongne Sikdang (Hamyang)",
+        "menu": "Pipi ikan kod rebus pedas"
+      },
+      {
+        "name": "Pasar Seoho, Tongyeong",
+        "menu": "Set sup siraegi (daun lobak kering) di warung pasar (6.000 won)"
+      }
+    ],
+    "ru": [
+      {
+        "name": "Пак Гунджа Чинджу Нэнмён (박군자진주냉면)",
+        "menu": "Холодная лапша по-чинджуски"
+      },
+      {
+        "name": "Храм Хэинса (해인사)",
+        "menu": "Темплстей"
+      },
+      {
+        "name": "Фестиваль сакуры в Чинхэ (Кунханджэ, 진해 군항제)",
+        "menu": "Цветение сакуры (весна)"
+      },
+      {
+        "name": "Пальдоннэ Сиктан, Хамян (달동네식당)",
+        "menu": "Тушёные щёчки трески"
+      },
+      {
+        "name": "Рынок Сохо, Тхонъён (통영 서호시장)",
+        "menu": "Сет с супом сирэги (из сушёной ботвы редьки) в рыночной закусочной (6000 вон)"
+      }
+    ]
+  }
 }

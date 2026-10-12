@@ -4,15 +4,45 @@
   "region": "gangwon",
   "title": {
     "ko": "강원 영상 속 맛집·명소: 속초 시장부터 춘천 닭갈비, 철원 물회까지",
-    "en": "Gangwon on Screen: Food and Sights from Sokcho Market to Chuncheon Dakgalbi"
+    "en": "Gangwon on Screen: Food and Sights from Sokcho Market to Chuncheon Dakgalbi",
+    "ja": "映像で見る江原道：束草の市場から春川タッカルビまで、グルメと名所ガイド",
+    "zh-Hans": "镜头里的江原道：从束草市场到春川辣炒鸡排的美食与景点",
+    "zh-Hant": "影片中的江原道：從束草市場到春川辣炒雞排的美食與景點",
+    "es": "Gangwon en pantalla: comida y lugares desde el mercado de Sokcho hasta el dakgalbi de Chuncheon",
+    "fr": "Le Gangwon à l'écran : cuisine et sites, du marché de Sokcho au dakgalbi de Chuncheon",
+    "de": "Gangwon auf dem Bildschirm: Essen und Sehenswürdigkeiten vom Markt in Sokcho bis zum Chuncheon Dakgalbi",
+    "vi": "Gangwon trên màn ảnh: Ẩm thực và điểm tham quan từ chợ Sokcho đến dakgalbi Chuncheon",
+    "th": "กังวอนบนจอ: ของกินและที่เที่ยวตั้งแต่ตลาดซกโชถึงทักคาลบีชุนชอน",
+    "id": "Gangwon di Layar: Kuliner dan Tempat Wisata dari Pasar Sokcho hingga Dakgalbi Chuncheon",
+    "ru": "Канвондо на экране: еда и достопримечательности от рынка Сокчхо до тактальби в Чхунчхоне"
   },
   "summary": {
     "ko": "속초관광수산시장, 춘천 닭갈비와 남이섬, 원주·철원·양구의 시장 맛집까지 여행 영상과 방송에 나온 강원의 장소를 정리했습니다.",
-    "en": "A guide to Gangwon places featured in travel videos and Korean TV shows: Sokcho's seafood market, Chuncheon dakgalbi with Nami Island, and local eateries in Wonju, Cheorwon and Yanggu."
+    "en": "A guide to Gangwon places featured in travel videos and Korean TV shows: Sokcho's seafood market, Chuncheon dakgalbi with Nami Island, and local eateries in Wonju, Cheorwon and Yanggu.",
+    "ja": "旅行動画や韓国のテレビ番組に登場した江原道のスポットをまとめました。束草の海鮮市場、春川タッカルビと南怡島、そして原州・鉄原・楊口の地元食堂を紹介します。",
+    "zh-Hans": "整理了旅行视频和韩国电视节目中出现过的江原道去处：束草的海鲜市场、春川辣炒鸡排与南怡岛，以及原州、铁原、杨口的本地餐馆。",
+    "zh-Hant": "整理旅遊影片與韓國電視節目介紹過的江原道景點：束草海鮮市場、春川辣炒雞排與南怡島，以及原州、鐵原、楊口的在地餐廳。",
+    "es": "Una guía de los lugares de Gangwon que han aparecido en vídeos de viaje y programas de la televisión coreana: el mercado de mariscos de Sokcho, el dakgalbi de Chuncheon con la isla Nami y restaurantes locales en Wonju, Cheorwon y Yanggu.",
+    "fr": "Un guide des lieux du Gangwon vus dans des vidéos de voyage et des émissions de télé coréennes : le marché aux produits de la mer de Sokcho, le dakgalbi de Chuncheon avec l'île de Nami, et des restaurants locaux à Wonju, Cheorwon et Yanggu.",
+    "de": "Ein Überblick über Orte in Gangwon, die in Reisevideos und koreanischen TV-Sendungen zu sehen waren: der Fischmarkt von Sokcho, Chuncheon Dakgalbi mit der Insel Nami sowie lokale Lokale in Wonju, Cheorwon und Yanggu.",
+    "vi": "Tổng hợp các địa điểm ở Gangwon xuất hiện trong video du lịch và chương trình truyền hình Hàn Quốc: chợ hải sản Sokcho, dakgalbi Chuncheon cùng đảo Nami, và các quán ăn địa phương ở Wonju, Cheorwon, Yanggu.",
+    "th": "รวมสถานที่ในจังหวัดกังวอนที่ปรากฏในวิดีโอท่องเที่ยวและรายการทีวีเกาหลี ทั้งตลาดอาหารทะเลซกโช ทักคาลบีชุนชอนคู่กับเกาะนามิ และร้านอาหารท้องถิ่นในวอนจู ชอลวอน และยังกู",
+    "id": "Panduan tempat-tempat di Gangwon yang muncul di video perjalanan dan acara TV Korea: pasar makanan laut Sokcho, dakgalbi Chuncheon bersama Pulau Nami, serta rumah makan lokal di Wonju, Cheorwon, dan Yanggu.",
+    "ru": "Гид по местам провинции Канвондо, которые показывали в тревел-видео и корейских телепередачах: рыбный рынок Сокчхо, чхунчхонское тактальби и остров Нами, а также местные заведения в Вонджу, Чхорвоне и Янгу."
   },
   "body": {
     "ko": "<h2>강원, 바다와 산 사이의 먹거리 여행</h2><p>강원은 동해 바다와 설악산, 남이섬이 있는 자연 여행지입니다. 춘천 닭갈비, 속초 대게와 회국수, 강릉 초당순두부, 막국수처럼 지역 이름이 붙은 음식도 많습니다. 여행 영상과 방송에 소개된 가게와 장소를 지역별로 모았습니다.</p><h2>속초</h2><h3>속초관광수산시장</h3><p>닭강정, 오징어순대, 대게를 한자리에서 맛볼 수 있는 시장입니다. 강원 대표 음식을 시장에서 맛보는 <strong>Gangwon-do Signature Dishes at Sokcho Traditional Market</strong>, 해변과 카페, 중앙시장, 막걸리빵을 둘러보는 <strong>Sokcho Trip – Beach, Cafes, Central Market &amp; Makgeolli Bread</strong>에 등장합니다. 시장 가판대에서 대게를 파는 모습은 <strong>허영만의 백반기행</strong> 159회에서도 다뤄졌습니다.</p><h2>춘천·남이섬</h2><h3>춘천명물닭갈비</h3><p>남이섬 가는 길에 들르기 좋은 닭갈비집입니다. 춘천의 대표 음식인 닭갈비를 맛볼 수 있으며, <strong>Chuncheon Dakgalbi &amp; Nami Island</strong>와 <strong>Seoul to Chuncheon Korea</strong> 영상에서 춘천 여행 코스로 소개됩니다.</p><h3>남이섬</h3><p>메타세쿼이아 나무가 늘어선 길로 알려진 섬입니다. 닭갈비와 함께 하루 코스로 묶은 <strong>Chuncheon Dakgalbi &amp; Nami Island</strong> 영상에서 볼 수 있습니다.</p><h2>원주</h2><h3>고향보리밥</h3><p>쌈밥정식과 삼겹살을 내는 식당입니다. <strong>백종원의 님아 그 시장을 가오</strong> EP.15 원주 편에서 삼겹살을 쌈으로 즐기는 집으로 소개되었고, 우리 술 이야기도 함께 나옵니다.</p><h2>철원</h2><h3>성환식당</h3><p>오징어 물회를 파는 식당입니다. <strong>백종원의 님아 그 시장을 가오</strong> EP.21 철원 편에서 \"이게 물회예요?\"라는 제목으로 소개되어, 흔히 떠올리는 물회와는 다른 모습이 궁금해지는 곳입니다.</p><h2>양구</h2><h3>파로호국밥</h3><p>육개장과 국밥을 먹을 수 있는 곳입니다. <strong>백종원의 님아 그 시장을 가오</strong> EP.25 양구 편에서 육개장을 산더미처럼 퍼주는 집으로 등장합니다.</p><h2>사진 명소</h2><h3>BTS 정류장</h3><p>BTS 앨범 촬영지로 알려진 정류장으로, 팬과 여행자들이 인증샷을 남기러 찾는 곳입니다. 동해 바다 여행 분위기는 <strong>어서와 한국은 처음이지</strong>의 강릉 바다 하이라이트 영상에서도 느낄 수 있습니다.</p><h2>동선 팁</h2><p>강원은 지역이 넓어 한 번에 모두 돌기보다 권역별로 나누는 편이 수월합니다. 춘천명물닭갈비와 남이섬은 함께 묶어 하루 코스로 다녀오기 좋고, 속초관광수산시장은 동해안 여행 일정에 넣어 바다 구경과 함께 들르면 됩니다. 원주, 철원, 양구의 식당은 내륙 쪽에 흩어져 있으니 해당 지역을 지날 때 끼니 한 번으로 계획해 보세요. 영업시간이나 휴무일은 방문 전에 따로 확인하는 것을 권합니다.</p>",
-    "en": "<h2>Gangwon: Eating Between the Mountains and the Sea</h2><p>Gangwon is Korea's nature getaway, home to the East Sea coast, Seoraksan mountain and Nami Island. Many of its dishes carry a place name: Chuncheon dakgalbi (spicy stir-fried chicken), Sokcho snow crab and raw-fish noodles, Gangneung Chodang soft tofu, and makguksu buckwheat noodles. Below are the restaurants and spots that have appeared in travel videos and Korean TV shows, grouped by area.</p><h2>Sokcho</h2><h3>Sokcho Tourist &amp; Fishery Market</h3><p>A market where you can try dakgangjeong (sweet-crispy fried chicken), squid sundae (stuffed squid) and snow crab in one visit. It appears in <strong>Gangwon-do Signature Dishes at Sokcho Traditional Market</strong> and in <strong>Sokcho Trip – Beach, Cafes, Central Market &amp; Makgeolli Bread</strong>, which also covers the beach, cafes and makgeolli bread. The Korean food show <strong>Heo Young-man's Baekban Gihaeng</strong> (episode 159) featured its stalls selling snow crab.</p><h2>Chuncheon and Nami Island</h2><h3>Chuncheon Myeongmul Dakgalbi</h3><p>A dakgalbi restaurant on the way to Nami Island, a handy stop for Chuncheon's signature dish. It's part of the route in <strong>Chuncheon Dakgalbi &amp; Nami Island</strong> and <strong>Seoul to Chuncheon Korea</strong>.</p><h3>Nami Island</h3><p>An island known for its paths lined with tall metasequoia trees. You can see it in <strong>Chuncheon Dakgalbi &amp; Nami Island</strong>, which pairs the island with a dakgalbi meal.</p><h2>Wonju</h2><h3>Gohyang Boribap</h3><p>A restaurant serving a ssambap set (rice with leafy wraps) and pork belly. It was featured in episode 15 (Wonju) of Baek Jong-won's market show <strong>Nima Geu Sijangeul Gao</strong>, which focuses on eating pork belly wrapped in greens, along with traditional Korean liquor.</p><h2>Cheorwon</h2><h3>Seonghwan Sikdang</h3><p>Known for squid mulhoe, a cold raw-fish soup. Episode 21 (Cheorwon) of <strong>Nima Geu Sijangeul Gao</strong> introduced it under the title \"Is this mulhoe?\", hinting that it's not quite the version most people expect.</p><h2>Yanggu</h2><h3>Paroho Gukbap</h3><p>A place for yukgaejang (spicy beef soup) and gukbap (rice soup). Episode 25 (Yanggu) of <strong>Nima Geu Sijangeul Gao</strong> showed it serving yukgaejang in mountain-sized portions.</p><h2>Photo Spot</h2><h3>BTS Bus Stop</h3><p>A bus stop known as a BTS album photo location, popular with fans and travelers for souvenir photos. For a taste of the East Sea coastline, the <strong>Welcome, First Time in Korea?</strong> highlight clip of visitors seeing the Gangneung sea is worth a look.</p><h2>Getting Around</h2><p>Gangwon covers a lot of ground, so it's easier to plan by area rather than trying to see everything in one trip. Chuncheon Myeongmul Dakgalbi and Nami Island fit together nicely as a day trip, while Sokcho Tourist &amp; Fishery Market works best as part of an East Sea coast itinerary alongside the beach. The restaurants in Wonju, Cheorwon and Yanggu are spread across inland Gangwon, so treat each as a meal stop when you pass through that town. Opening hours and closing days aren't listed here, so check them before you go.</p>"
+    "en": "<h2>Gangwon: Eating Between the Mountains and the Sea</h2><p>Gangwon is Korea's nature getaway, home to the East Sea coast, Seoraksan mountain and Nami Island. Many of its dishes carry a place name: Chuncheon dakgalbi (spicy stir-fried chicken), Sokcho snow crab and raw-fish noodles, Gangneung Chodang soft tofu, and makguksu buckwheat noodles. Below are the restaurants and spots that have appeared in travel videos and Korean TV shows, grouped by area.</p><h2>Sokcho</h2><h3>Sokcho Tourist &amp; Fishery Market</h3><p>A market where you can try dakgangjeong (sweet-crispy fried chicken), squid sundae (stuffed squid) and snow crab in one visit. It appears in <strong>Gangwon-do Signature Dishes at Sokcho Traditional Market</strong> and in <strong>Sokcho Trip – Beach, Cafes, Central Market &amp; Makgeolli Bread</strong>, which also covers the beach, cafes and makgeolli bread. The Korean food show <strong>Heo Young-man's Baekban Gihaeng</strong> (episode 159) featured its stalls selling snow crab.</p><h2>Chuncheon and Nami Island</h2><h3>Chuncheon Myeongmul Dakgalbi</h3><p>A dakgalbi restaurant on the way to Nami Island, a handy stop for Chuncheon's signature dish. It's part of the route in <strong>Chuncheon Dakgalbi &amp; Nami Island</strong> and <strong>Seoul to Chuncheon Korea</strong>.</p><h3>Nami Island</h3><p>An island known for its paths lined with tall metasequoia trees. You can see it in <strong>Chuncheon Dakgalbi &amp; Nami Island</strong>, which pairs the island with a dakgalbi meal.</p><h2>Wonju</h2><h3>Gohyang Boribap</h3><p>A restaurant serving a ssambap set (rice with leafy wraps) and pork belly. It was featured in episode 15 (Wonju) of Baek Jong-won's market show <strong>Nima Geu Sijangeul Gao</strong>, which focuses on eating pork belly wrapped in greens, along with traditional Korean liquor.</p><h2>Cheorwon</h2><h3>Seonghwan Sikdang</h3><p>Known for squid mulhoe, a cold raw-fish soup. Episode 21 (Cheorwon) of <strong>Nima Geu Sijangeul Gao</strong> introduced it under the title \"Is this mulhoe?\", hinting that it's not quite the version most people expect.</p><h2>Yanggu</h2><h3>Paroho Gukbap</h3><p>A place for yukgaejang (spicy beef soup) and gukbap (rice soup). Episode 25 (Yanggu) of <strong>Nima Geu Sijangeul Gao</strong> showed it serving yukgaejang in mountain-sized portions.</p><h2>Photo Spot</h2><h3>BTS Bus Stop</h3><p>A bus stop known as a BTS album photo location, popular with fans and travelers for souvenir photos. For a taste of the East Sea coastline, the <strong>Welcome, First Time in Korea?</strong> highlight clip of visitors seeing the Gangneung sea is worth a look.</p><h2>Getting Around</h2><p>Gangwon covers a lot of ground, so it's easier to plan by area rather than trying to see everything in one trip. Chuncheon Myeongmul Dakgalbi and Nami Island fit together nicely as a day trip, while Sokcho Tourist &amp; Fishery Market works best as part of an East Sea coast itinerary alongside the beach. The restaurants in Wonju, Cheorwon and Yanggu are spread across inland Gangwon, so treat each as a meal stop when you pass through that town. Opening hours and closing days aren't listed here, so check them before you go.</p>",
+    "ja": "<h2>江原道：山と海のあいだで食べる</h2><p>江原道は東海（日本海）の海岸、雪岳山、南怡島などを擁する、韓国を代表する自然の旅先です。春川タッカルビ（鶏肉の甘辛炒め）、束草のズワイガニや刺身入り冷麺（フェ冷麺）、江陵の草堂スンドゥブ、そば粉の麺マッグクスなど、地名がついた料理も多くあります。ここでは旅行動画や韓国のテレビ番組に登場した飲食店やスポットを、エリア別に紹介します。</p><h2>束草（ソクチョ）</h2><h3>束草観光水産市場</h3><p>タッカンジョン（甘くてカリッとした揚げ鶏）、イカスンデ（イカの詰め物）、ズワイガニを一度に味わえる市場です。<strong>Gangwon-do Signature Dishes at Sokcho Traditional Market</strong>や、ビーチ・カフェ・マッコリパンも紹介する<strong>Sokcho Trip – Beach, Cafes, Central Market &amp; Makgeolli Bread</strong>に登場します。韓国のグルメ番組<strong>『ホ・ヨンマンの白飯紀行』</strong>（第159話）では、ズワイガニを売る店が取り上げられました。</p><h2>春川（チュンチョン）と南怡島</h2><h3>春川名物タッカルビ</h3><p>南怡島へ向かう途中にあるタッカルビ店で、春川名物を味わうのに便利な立ち寄り先です。<strong>Chuncheon Dakgalbi &amp; Nami Island</strong>や<strong>Seoul to Chuncheon Korea</strong>のルートに含まれています。</p><h3>南怡島（ナミソム）</h3><p>背の高いメタセコイアの並木道で知られる島です。島とタッカルビの食事を組み合わせた<strong>Chuncheon Dakgalbi &amp; Nami Island</strong>で見ることができます。</p><h2>原州（ウォンジュ）</h2><h3>コヒャンボリバプ</h3><p>サムパプ定食（葉野菜で包んで食べるご飯）とサムギョプサルを出す店です。ペク・ジョンウォンの市場番組<strong>『ニマ、その市場に行かないで（님아 그 시장을 가오）』</strong>第15話（原州編）で紹介され、伝統酒とともに、サムギョプサルを葉野菜で包んで食べる様子が中心に描かれました。</p><h2>鉄原（チョルウォン）</h2><h3>ソンファン食堂</h3><p>冷たい刺身スープ「ムルフェ」のイカ版で知られる店です。<strong>『ニマ、その市場に行かないで』</strong>第21話（鉄原編）では「これがムルフェ？」というタイトルで紹介され、多くの人が想像するものとは少し違うことがほのめかされました。</p><h2>楊口（ヤング）</h2><h3>パロホクッパ</h3><p>ユッケジャン（辛い牛肉スープ）とクッパ（スープご飯）の店です。<strong>『ニマ、その市場に行かないで』</strong>第25話（楊口編）では、山盛りのユッケジャンが登場しました。</p><h2>フォトスポット</h2><h3>BTSバス停</h3><p>BTSのアルバム撮影地として知られるバス停で、ファンや旅行者の記念撮影スポットとして人気です。東海の海岸線の雰囲気を知りたいなら、<strong>『ようこそ、韓国は初めてですよね？』</strong>で旅行者が江陵の海を見るハイライト映像もおすすめです。</p><h2>移動のヒント</h2><p>江原道はとても広いので、一度の旅行ですべてを回ろうとせず、エリアごとに計画するのが楽です。春川名物タッカルビと南怡島は日帰り旅行でうまく組み合わせられ、束草観光水産市場はビーチと合わせて東海岸の旅程に組み込むのがおすすめです。原州・鉄原・楊口の店は江原道の内陸部に点在しているので、それぞれの町を通るときの食事の立ち寄り先として考えるとよいでしょう。営業時間や定休日はここには記載していないので、訪問前に確認してください。</p>",
+    "zh-Hans": "<h2>江原道：在山海之间觅食</h2><p>江原道是韩国亲近自然的好去处，拥有东海海岸、雪岳山和南怡岛。这里不少美食都带着地名：春川辣炒鸡排、束草雪蟹和生鱼片拌面、江陵草堂嫩豆腐，还有荞麦冷面（막국수）。下面按地区整理了在旅行视频和韩国电视节目中出现过的餐馆和景点。</p><h2>束草</h2><h3>束草观光水产市场</h3><p>在这里一次就能尝到甜辣炸鸡块（닭강정）、鱿鱼米肠（鱿鱼包馅）和雪蟹。它出现在<strong>Gangwon-do Signature Dishes at Sokcho Traditional Market</strong>中，也出现在<strong>Sokcho Trip – Beach, Cafes, Central Market &amp; Makgeolli Bread</strong>里，后者还介绍了海滩、咖啡馆和米酒面包。韩国美食节目<strong>《许英满的白饭纪行》</strong>（第159集）也介绍过这里卖雪蟹的摊位。</p><h2>春川与南怡岛</h2><h3>春川名物辣炒鸡排</h3><p>位于前往南怡岛途中的辣炒鸡排店，顺路就能吃到春川的招牌美食。<strong>Chuncheon Dakgalbi &amp; Nami Island</strong>和<strong>Seoul to Chuncheon Korea</strong>的行程中都有它。</p><h3>南怡岛</h3><p>以高大的水杉林荫道闻名的小岛。可以在<strong>Chuncheon Dakgalbi &amp; Nami Island</strong>中看到，视频把游岛和吃辣炒鸡排安排在了一起。</p><h2>原州</h2><h3>故乡大麦饭</h3><p>提供包饭套餐（米饭配各种菜叶包着吃）和五花肉。白钟元的市场节目<strong>《您去那个市场吧》</strong>第15集（原州篇）介绍过这里，重点是用菜叶包五花肉，再配上韩国传统酒。</p><h2>铁原</h2><h3>成焕食堂</h3><p>以鱿鱼水拌生鱼片（물회，一种冷汤生鱼片）闻名。<strong>《您去那个市场吧》</strong>第21集（铁原篇）以“这是水拌生鱼片？”为题介绍了它，暗示这里的做法和大多数人想象的不太一样。</p><h2>杨口</h2><h3>破虏湖汤饭</h3><p>主打辣牛肉汤（육개장）和汤饭。<strong>《您去那个市场吧》</strong>第25集（杨口篇）中，这里的辣牛肉汤分量堆得像小山一样。</p><h2>拍照打卡点</h2><h3>BTS公交车站</h3><p>作为BTS专辑拍摄地而出名的公交车站，很受粉丝和游客欢迎，常有人来拍照留念。想感受东海海岸风光，也可以看看<strong>《欢迎来到韩国》（Welcome, First Time in Korea?）</strong>中外国游客看江陵大海的精彩片段。</p><h2>交通与行程安排</h2><p>江原道面积很大，与其想一趟走遍，不如按地区来规划。春川名物辣炒鸡排和南怡岛很适合安排成一日游；束草观光水产市场则最好放进东海海岸行程，和海滩一起逛。原州、铁原、杨口的餐馆分散在江原道内陆，路过这些城镇时顺便去吃一顿即可。本文未列出营业时间和休息日，出发前请先确认。</p>",
+    "zh-Hant": "<h2>江原道：在山與海之間大快朵頤</h2><p>江原道是韓國親近大自然的好去處，有東海海岸、雪嶽山和南怡島。這裡許多料理都冠上地名：春川辣炒雞排、束草松葉蟹與生魚片冷麵、江陵草堂嫩豆腐，還有蕎麥涼麵（막국수）。以下依地區整理出在旅遊影片和韓國電視節目中出現過的餐廳與景點。</p><h2>束草</h2><h3>束草觀光水產市場</h3><p>在這座市場可以一次吃到甜辣炸雞（닭강정）、魷魚米腸（오징어순대）和松葉蟹。它出現在<strong>Gangwon-do Signature Dishes at Sokcho Traditional Market</strong>，以及同時介紹海灘、咖啡廳和馬格利麵包的<strong>Sokcho Trip – Beach, Cafes, Central Market &amp; Makgeolli Bread</strong>。韓國美食節目<strong>許英萬的白飯紀行</strong>（第159集）也介紹過這裡販賣松葉蟹的攤位。</p><h2>春川與南怡島</h2><h3>春川名物辣炒雞排</h3><p>位於前往南怡島途中的辣炒雞排店，順路就能吃到春川的招牌料理。它是<strong>Chuncheon Dakgalbi &amp; Nami Island</strong>和<strong>Seoul to Chuncheon Korea</strong>行程中的一站。</p><h3>南怡島</h3><p>以高聳水杉夾道的步道聞名的小島。在<strong>Chuncheon Dakgalbi &amp; Nami Island</strong>中可以看到，影片把南怡島和辣炒雞排安排在同一趟行程。</p><h2>原州</h2><h3>故鄉大麥飯</h3><p>提供包飯套餐（搭配各式生菜包著吃的白飯）和五花肉的餐廳。白種元的市場節目<strong>你去那個市場吧</strong>（님아 그 시장을 가오）第15集（原州篇）介紹過這裡，重點是用生菜包五花肉，再配上韓國傳統酒。</p><h2>鐵原</h2><h3>成歡食堂</h3><p>以魷魚水拌生魚片（물회，冰涼的生魚片湯）聞名。<strong>你去那個市場吧</strong>第21集（鐵原篇）以「這是水拌生魚片？」為題介紹這家店，暗示它和多數人想像的版本不太一樣。</p><h2>楊口</h2><h3>破虜湖湯飯</h3><p>供應辣牛肉湯（육개장）和湯飯的店家。<strong>你去那個市場吧</strong>第25集（楊口篇）中，這裡的辣牛肉湯份量堆得像小山一樣。</p><h2>拍照景點</h2><h3>BTS公車站</h3><p>BTS專輯的拍攝地點，粉絲和旅客都喜歡來這裡拍紀念照。想感受東海海岸的風景，也可以看看<strong>Welcome, First Time in Korea?</strong>（第一次來韓國吧？）中外國旅客初見江陵大海的精華片段。</p><h2>交通與行程安排</h2><p>江原道範圍很大，與其想一趟全部走完，不如按地區規劃比較輕鬆。春川名物辣炒雞排和南怡島很適合排成一日遊；束草觀光水產市場則最適合搭配海灘，放進東海岸行程。原州、鐵原和楊口的餐廳分散在江原道內陸，經過這些城鎮時當作用餐點就好。本文未列出營業時間與公休日，出發前請先確認。</p>",
+    "es": "<h2>Gangwon: comer entre las montañas y el mar</h2><p>Gangwon es el refugio natural de Corea, con la costa del mar del Este, el monte Seoraksan y la isla Nami. Muchos de sus platos llevan el nombre de un lugar: el dakgalbi de Chuncheon (pollo salteado picante), el cangrejo de las nieves y los fideos con pescado crudo de Sokcho, el tofu suave de Chodang en Gangneung y los fideos de trigo sarraceno makguksu. A continuación, los restaurantes y lugares que han salido en vídeos de viaje y programas de la televisión coreana, agrupados por zona.</p><h2>Sokcho</h2><h3>Mercado Turístico y Pesquero de Sokcho</h3><p>Un mercado donde se puede probar en una sola visita dakgangjeong (pollo frito crujiente y dulce), sundae de calamar (calamar relleno) y cangrejo de las nieves. Aparece en <strong>Gangwon-do Signature Dishes at Sokcho Traditional Market</strong> y en <strong>Sokcho Trip – Beach, Cafes, Central Market &amp; Makgeolli Bread</strong>, que también recorre la playa, las cafeterías y el pan de makgeolli. El programa gastronómico coreano <strong>Heo Young-man's Baekban Gihaeng</strong> (episodio 159) mostró sus puestos de cangrejo de las nieves.</p><h2>Chuncheon y la isla Nami</h2><h3>Chuncheon Myeongmul Dakgalbi</h3><p>Un restaurante de dakgalbi de camino a la isla Nami, una parada práctica para probar el plato típico de Chuncheon. Forma parte de la ruta de <strong>Chuncheon Dakgalbi &amp; Nami Island</strong> y <strong>Seoul to Chuncheon Korea</strong>.</p><h3>Isla Nami</h3><p>Una isla conocida por sus caminos flanqueados de altas metasecuoyas. Puede verse en <strong>Chuncheon Dakgalbi &amp; Nami Island</strong>, que combina la isla con una comida de dakgalbi.</p><h2>Wonju</h2><h3>Gohyang Boribap</h3><p>Un restaurante que sirve un menú de ssambap (arroz con hojas para envolver) y panceta de cerdo. Apareció en el episodio 15 (Wonju) del programa de mercados de Baek Jong-won <strong>Nima Geu Sijangeul Gao</strong>, centrado en comer panceta envuelta en hojas acompañada de licor tradicional coreano.</p><h2>Cheorwon</h2><h3>Seonghwan Sikdang</h3><p>Conocido por su mulhoe de calamar, una sopa fría de pescado crudo. El episodio 21 (Cheorwon) de <strong>Nima Geu Sijangeul Gao</strong> lo presentó con el título «¿Esto es mulhoe?», dando a entender que no es exactamente la versión que la mayoría espera.</p><h2>Yanggu</h2><h3>Paroho Gukbap</h3><p>Un lugar de yukgaejang (sopa picante de ternera) y gukbap (sopa con arroz). El episodio 25 (Yanggu) de <strong>Nima Geu Sijangeul Gao</strong> lo mostró sirviendo yukgaejang en raciones del tamaño de una montaña.</p><h2>Lugar para fotos</h2><h3>Parada de autobús de BTS</h3><p>Una parada de autobús conocida por ser escenario de fotos de un álbum de BTS, popular entre fans y viajeros para hacerse fotos de recuerdo. Para hacerse una idea de la costa del mar del Este, vale la pena ver el clip destacado de <strong>Welcome, First Time in Korea?</strong> en el que los visitantes contemplan el mar de Gangneung.</p><h2>Cómo moverse</h2><p>Gangwon es una región extensa, así que es más fácil planificar por zonas que intentar verlo todo en un solo viaje. Chuncheon Myeongmul Dakgalbi y la isla Nami encajan bien como excursión de un día, mientras que el Mercado Turístico y Pesquero de Sokcho funciona mejor dentro de un itinerario por la costa del mar del Este junto con la playa. Los restaurantes de Wonju, Cheorwon y Yanggu están repartidos por el interior de Gangwon, así que conviene tomarlos como parada para comer al pasar por cada localidad. Aquí no se indican horarios ni días de cierre, así que compruébalos antes de ir.</p>",
+    "fr": "<h2>Gangwon : manger entre montagnes et mer</h2><p>Le Gangwon est la région nature de la Corée, avec la côte de la mer de l'Est, le mont Seoraksan et l'île de Nami. Beaucoup de ses plats portent un nom de lieu : le dakgalbi de Chuncheon (poulet sauté épicé), le crabe des neiges et les nouilles au poisson cru de Sokcho, le tofu soyeux de Chodang à Gangneung, ou encore les makguksu, des nouilles de sarrasin. Voici, classés par secteur, les restaurants et lieux apparus dans des vidéos de voyage et des émissions coréennes.</p><h2>Sokcho</h2><h3>Marché touristique et aux poissons de Sokcho</h3><p>Un marché où l'on peut goûter en une seule visite le dakgangjeong (poulet frit croustillant et sucré), le sundae de calmar (calmar farci) et le crabe des neiges. Il apparaît dans <strong>Gangwon-do Signature Dishes at Sokcho Traditional Market</strong> et dans <strong>Sokcho Trip – Beach, Cafes, Central Market &amp; Makgeolli Bread</strong>, qui montre aussi la plage, les cafés et le pain au makgeolli. L'émission culinaire coréenne <strong>Heo Young-man's Baekban Gihaeng</strong> (épisode 159) a présenté ses étals de crabe des neiges.</p><h2>Chuncheon et l'île de Nami</h2><h3>Chuncheon Myeongmul Dakgalbi</h3><p>Un restaurant de dakgalbi sur la route de l'île de Nami, pratique pour goûter le plat emblématique de Chuncheon. Il fait partie de l'itinéraire de <strong>Chuncheon Dakgalbi &amp; Nami Island</strong> et de <strong>Seoul to Chuncheon Korea</strong>.</p><h3>Île de Nami</h3><p>Une île connue pour ses allées bordées de grands métaséquoias. On la voit dans <strong>Chuncheon Dakgalbi &amp; Nami Island</strong>, qui associe la visite de l'île à un repas de dakgalbi.</p><h2>Wonju</h2><h3>Gohyang Boribap</h3><p>Un restaurant qui sert un menu ssambap (riz à envelopper dans des feuilles) et de la poitrine de porc. Il a été présenté dans l'épisode 15 (Wonju) de l'émission de Baek Jong-won sur les marchés, <strong>Nima Geu Sijangeul Gao</strong>, centré sur la poitrine de porc enveloppée de légumes-feuilles, accompagnée d'alcool traditionnel coréen.</p><h2>Cheorwon</h2><h3>Seonghwan Sikdang</h3><p>Connu pour son mulhoe de calmar, une soupe froide de poisson cru. L'épisode 21 (Cheorwon) de <strong>Nima Geu Sijangeul Gao</strong> l'a présenté sous le titre « C'est ça, du mulhoe ? », laissant entendre qu'il ne ressemble pas tout à fait à la version que l'on attend.</p><h2>Yanggu</h2><h3>Paroho Gukbap</h3><p>Une adresse pour le yukgaejang (soupe de bœuf épicée) et le gukbap (soupe de riz). L'épisode 25 (Yanggu) de <strong>Nima Geu Sijangeul Gao</strong> l'a montré servant du yukgaejang en portions gigantesques.</p><h2>Spot photo</h2><h3>Arrêt de bus BTS</h3><p>Un arrêt de bus connu pour avoir servi de décor à un album de BTS, apprécié des fans et des voyageurs pour les photos souvenirs. Pour un aperçu de la côte de la mer de l'Est, l'extrait de <strong>Welcome, First Time in Korea?</strong> où des visiteurs découvrent la mer de Gangneung vaut le coup d'œil.</p><h2>Se déplacer</h2><p>Le Gangwon est vaste : mieux vaut organiser son voyage par secteur plutôt que de vouloir tout voir d'un coup. Chuncheon Myeongmul Dakgalbi et l'île de Nami se combinent bien en excursion d'une journée, tandis que le marché de Sokcho s'intègre plutôt dans un itinéraire sur la côte de la mer de l'Est, avec la plage. Les restaurants de Wonju, Cheorwon et Yanggu sont dispersés dans l'intérieur du Gangwon : considérez-les comme des haltes repas lorsque vous traversez ces villes. Les horaires et jours de fermeture ne sont pas indiqués ici, pensez à les vérifier avant d'y aller.</p>",
+    "de": "<h2>Gangwon: Essen zwischen Bergen und Meer</h2><p>Gangwon ist Koreas Ziel für Naturliebhaber – mit der Küste am Ostmeer, dem Seoraksan und der Insel Nami. Viele Gerichte der Region tragen einen Ortsnamen: Chuncheon Dakgalbi (scharf gebratenes Hähnchen), Schneekrabben und Nudeln mit rohem Fisch aus Sokcho, weicher Tofu aus Chodang in Gangneung und Makguksu-Buchweizennudeln. Im Folgenden finden Sie Restaurants und Orte, die in Reisevideos und koreanischen TV-Sendungen vorkamen, nach Gegend sortiert.</p><h2>Sokcho</h2><h3>Sokcho Tourist &amp; Fishery Market</h3><p>Ein Markt, auf dem man bei einem Besuch Dakgangjeong (süß-knusprig frittiertes Hähnchen), Tintenfisch-Sundae (gefüllter Tintenfisch) und Schneekrabben probieren kann. Er ist zu sehen in <strong>Gangwon-do Signature Dishes at Sokcho Traditional Market</strong> sowie in <strong>Sokcho Trip – Beach, Cafes, Central Market &amp; Makgeolli Bread</strong>, das auch Strand, Cafés und Makgeolli-Brot zeigt. Die koreanische Food-Sendung <strong>Heo Young-man's Baekban Gihaeng</strong> (Folge 159) stellte die Stände mit Schneekrabben vor.</p><h2>Chuncheon und die Insel Nami</h2><h3>Chuncheon Myeongmul Dakgalbi</h3><p>Ein Dakgalbi-Restaurant auf dem Weg zur Insel Nami – ein praktischer Halt, um Chuncheons bekanntestes Gericht zu probieren. Es liegt auf der Route in <strong>Chuncheon Dakgalbi &amp; Nami Island</strong> und <strong>Seoul to Chuncheon Korea</strong>.</p><h3>Insel Nami (Namiseom)</h3><p>Eine Insel, bekannt für ihre Wege, die von hohen Metasequoien gesäumt sind. Zu sehen in <strong>Chuncheon Dakgalbi &amp; Nami Island</strong>, wo der Inselbesuch mit einem Dakgalbi-Essen kombiniert wird.</p><h2>Wonju</h2><h3>Gohyang Boribap</h3><p>Ein Restaurant mit Ssambap-Set (Reis mit Blattgemüse zum Einwickeln) und Schweinebauch. Es war in Folge 15 (Wonju) von Baek Jong-wons Marktsendung <strong>Nima Geu Sijangeul Gao</strong> zu sehen, in der es um in Blätter gewickelten Schweinebauch und traditionellen koreanischen Alkohol geht.</p><h2>Cheorwon</h2><h3>Seonghwan Sikdang</h3><p>Bekannt für Tintenfisch-Mulhoe, eine kalte Suppe mit rohem Fisch. Folge 21 (Cheorwon) von <strong>Nima Geu Sijangeul Gao</strong> stellte das Lokal unter dem Titel „Ist das Mulhoe?“ vor – ein Hinweis darauf, dass es nicht ganz der Version entspricht, die die meisten erwarten.</p><h2>Yanggu</h2><h3>Paroho Gukbap</h3><p>Ein Lokal für Yukgaejang (scharfe Rindfleischsuppe) und Gukbap (Reissuppe). Folge 25 (Yanggu) von <strong>Nima Geu Sijangeul Gao</strong> zeigte, wie hier Yukgaejang in bergeshohen Portionen serviert wird.</p><h2>Fotospot</h2><h3>BTS-Bushaltestelle</h3><p>Eine Bushaltestelle, die als Fotomotiv eines BTS-Albums bekannt ist und bei Fans und Reisenden für Erinnerungsfotos beliebt ist. Wer einen Eindruck von der Küste am Ostmeer bekommen möchte, sollte sich den Highlight-Clip aus <strong>Welcome, First Time in Korea?</strong> ansehen, in dem Besucher das Meer bei Gangneung sehen.</p><h2>Unterwegs in Gangwon</h2><p>Gangwon ist weitläufig, daher plant man am besten nach Gegenden, statt alles auf einer Reise sehen zu wollen. Chuncheon Myeongmul Dakgalbi und die Insel Nami lassen sich gut zu einem Tagesausflug verbinden, während der Sokcho Tourist &amp; Fishery Market am besten in eine Route entlang der Ostküste samt Strandbesuch passt. Die Restaurants in Wonju, Cheorwon und Yanggu liegen verstreut im Landesinneren von Gangwon – planen Sie sie jeweils als Essensstopp ein, wenn Sie durch den Ort kommen. Öffnungszeiten und Ruhetage sind hier nicht angegeben, bitte prüfen Sie diese vor dem Besuch.</p>",
+    "vi": "<h2>Gangwon: Ăn uống giữa núi và biển</h2><p>Gangwon là nơi nghỉ dưỡng thiên nhiên của Hàn Quốc, với bờ biển Đông, núi Seoraksan và đảo Nami. Nhiều món ăn ở đây gắn liền với tên địa danh: dakgalbi Chuncheon (gà xào cay), cua tuyết và mì cá sống Sokcho, đậu phụ non Chodang Gangneung, và mì kiều mạch makguksu. Dưới đây là các nhà hàng và địa điểm từng xuất hiện trong video du lịch và chương trình truyền hình Hàn Quốc, được chia theo khu vực.</p><h2>Sokcho</h2><h3>Chợ Du lịch Thủy sản Sokcho</h3><p>Khu chợ nơi bạn có thể thưởng thức dakgangjeong (gà rán giòn sốt ngọt), sundae mực (mực nhồi) và cua tuyết trong cùng một lần ghé. Chợ xuất hiện trong <strong>Gangwon-do Signature Dishes at Sokcho Traditional Market</strong> và <strong>Sokcho Trip – Beach, Cafes, Central Market &amp; Makgeolli Bread</strong>, video này còn giới thiệu bãi biển, quán cà phê và bánh mì makgeolli. Chương trình ẩm thực Hàn Quốc <strong>Heo Young-man's Baekban Gihaeng</strong> (tập 159) cũng giới thiệu các sạp bán cua tuyết tại đây.</p><h2>Chuncheon và đảo Nami</h2><h3>Chuncheon Myeongmul Dakgalbi</h3><p>Quán dakgalbi nằm trên đường đến đảo Nami, điểm dừng tiện lợi để thử món đặc trưng của Chuncheon. Quán nằm trong lộ trình của <strong>Chuncheon Dakgalbi &amp; Nami Island</strong> và <strong>Seoul to Chuncheon Korea</strong>.</p><h3>Đảo Nami</h3><p>Hòn đảo nổi tiếng với những con đường rợp hàng cây metasequoia cao vút. Bạn có thể xem đảo trong <strong>Chuncheon Dakgalbi &amp; Nami Island</strong>, video kết hợp chuyến thăm đảo với bữa dakgalbi.</p><h2>Wonju</h2><h3>Gohyang Boribap</h3><p>Quán phục vụ set ssambap (cơm cuốn rau) và thịt ba chỉ. Quán từng xuất hiện trong tập 15 (Wonju) của chương trình về chợ truyền thống do Baek Jong-won dẫn, <strong>Nima Geu Sijangeul Gao</strong>, tập trung vào món ba chỉ cuốn rau cùng rượu truyền thống Hàn Quốc.</p><h2>Cheorwon</h2><h3>Seonghwan Sikdang</h3><p>Nổi tiếng với mulhoe mực, món canh cá sống lạnh. Tập 21 (Cheorwon) của <strong>Nima Geu Sijangeul Gao</strong> giới thiệu quán với tiêu đề \"Đây là mulhoe sao?\", ngụ ý rằng món này không hẳn giống phiên bản mà nhiều người vẫn hình dung.</p><h2>Yanggu</h2><h3>Paroho Gukbap</h3><p>Quán chuyên yukgaejang (canh thịt bò cay) và gukbap (canh cơm). Tập 25 (Yanggu) của <strong>Nima Geu Sijangeul Gao</strong> cho thấy quán phục vụ yukgaejang với khẩu phần đầy như núi.</p><h2>Điểm chụp ảnh</h2><h3>Trạm xe buýt BTS</h3><p>Trạm xe buýt nổi tiếng là địa điểm chụp ảnh album của BTS, được người hâm mộ và du khách yêu thích để chụp ảnh lưu niệm. Để cảm nhận bờ biển Đông, bạn có thể xem đoạn clip nổi bật của <strong>Welcome, First Time in Korea?</strong> về cảnh các vị khách ngắm biển Gangneung.</p><h2>Di chuyển</h2><p>Gangwon trải rộng trên một vùng lớn, nên lên kế hoạch theo từng khu vực sẽ dễ hơn là cố đi hết trong một chuyến. Chuncheon Myeongmul Dakgalbi và đảo Nami rất hợp để ghép thành chuyến đi trong ngày, còn Chợ Du lịch Thủy sản Sokcho phù hợp nhất khi nằm trong hành trình dọc bờ biển Đông cùng với bãi biển. Các quán ở Wonju, Cheorwon và Yanggu nằm rải rác ở vùng nội địa Gangwon, nên hãy coi mỗi quán là một điểm dừng ăn khi đi qua thị trấn đó. Bài viết không ghi giờ mở cửa và ngày nghỉ, vì vậy hãy kiểm tra trước khi đi.</p>",
+    "th": "<h2>กังวอน: กินอยู่ระหว่างภูเขาและทะเล</h2><p>กังวอนคือแหล่งพักผ่อนท่ามกลางธรรมชาติของเกาหลี มีทั้งชายฝั่งทะเลตะวันออก ภูเขาซอรักซาน และเกาะนามิ อาหารหลายอย่างที่นี่มีชื่อเมืองติดอยู่ด้วย เช่น ทักคาลบีชุนชอน (ไก่ผัดซอสเผ็ด) ปูหิมะและบะหมี่ปลาดิบซกโช เต้าหู้อ่อนโชดังแห่งคังนึง และมักกุกซู บะหมี่โซบะเกาหลี ด้านล่างนี้คือร้านอาหารและสถานที่ที่เคยปรากฏในวิดีโอท่องเที่ยวและรายการทีวีเกาหลี โดยจัดกลุ่มตามพื้นที่</p><h2>ซกโช</h2><h3>ตลาดท่องเที่ยวและอาหารทะเลซกโช</h3><p>ตลาดที่คุณสามารถลองทั้งทักกังจอง (ไก่ทอดกรอบเคลือบซอสหวาน) ซุนแดปลาหมึก (ปลาหมึกยัดไส้) และปูหิมะได้ในการไปครั้งเดียว ตลาดนี้ปรากฏใน <strong>Gangwon-do Signature Dishes at Sokcho Traditional Market</strong> และ <strong>Sokcho Trip – Beach, Cafes, Central Market &amp; Makgeolli Bread</strong> ซึ่งพาไปชมชายหาด คาเฟ่ และขนมปังมักกอลลีด้วย ส่วนรายการอาหารเกาหลี <strong>Heo Young-man's Baekban Gihaeng</strong> (ตอนที่ 159) ก็เคยแนะนำร้านขายปูหิมะในตลาดนี้</p><h2>ชุนชอนและเกาะนามิ</h2><h3>ชุนชอนมยองมุลทักคาลบี</h3><p>ร้านทักคาลบีระหว่างทางไปเกาะนามิ แวะชิมอาหารขึ้นชื่อของชุนชอนได้สะดวก ร้านนี้เป็นส่วนหนึ่งของเส้นทางใน <strong>Chuncheon Dakgalbi &amp; Nami Island</strong> และ <strong>Seoul to Chuncheon Korea</strong></p><h3>เกาะนามิ</h3><p>เกาะที่ขึ้นชื่อเรื่องทางเดินเรียงรายด้วยต้นเมทาเซควอยาสูงตระหง่าน ชมได้ใน <strong>Chuncheon Dakgalbi &amp; Nami Island</strong> ซึ่งจับคู่การเที่ยวเกาะกับมื้อทักคาลบี</p><h2>วอนจู</h2><h3>โคฮยังโบรีบับ</h3><p>ร้านที่เสิร์ฟชุดซัมบับ (ข้าวกับผักห่อ) และหมูสามชั้น เคยออกอากาศในตอนที่ 15 (วอนจู) ของรายการตลาดของแบคจงวอน <strong>Nima Geu Sijangeul Gao</strong> ซึ่งเน้นการกินหมูสามชั้นห่อผักคู่กับเหล้าพื้นบ้านเกาหลี</p><h2>ชอลวอน</h2><h3>ซองฮวันซิกดัง</h3><p>ขึ้นชื่อเรื่องมุลโฮปลาหมึก ซุปปลาดิบเย็น ตอนที่ 21 (ชอลวอน) ของ <strong>Nima Geu Sijangeul Gao</strong> แนะนำร้านนี้ภายใต้ชื่อ \"นี่คือมุลโฮเหรอ?\" ซึ่งบอกเป็นนัยว่าไม่ใช่แบบที่คนส่วนใหญ่คุ้นเคย</p><h2>ยังกู</h2><h3>พาโรโฮกุกบับ</h3><p>ร้านยุกเกจัง (ซุปเนื้อรสเผ็ด) และกุกบับ (ข้าวต้มซุป) ตอนที่ 25 (ยังกู) ของ <strong>Nima Geu Sijangeul Gao</strong> แสดงให้เห็นยุกเกจังที่เสิร์ฟมาพูนเป็นภูเขา</p><h2>จุดถ่ายรูป</h2><h3>ป้ายรถเมล์ BTS</h3><p>ป้ายรถเมล์ที่เป็นที่รู้จักในฐานะสถานที่ถ่ายภาพอัลบั้มของ BTS เป็นที่นิยมทั้งในหมู่แฟนคลับและนักท่องเที่ยวสำหรับถ่ายรูปเป็นที่ระลึก หากอยากสัมผัสบรรยากาศชายฝั่งทะเลตะวันออก คลิปไฮไลต์จากรายการ <strong>Welcome, First Time in Korea?</strong> ที่แขกรับเชิญได้เห็นทะเลคังนึงก็น่าดู</p><h2>การเดินทาง</h2><p>กังวอนกินพื้นที่กว้าง จึงวางแผนเที่ยวทีละพื้นที่จะง่ายกว่าพยายามเที่ยวให้ครบในทริปเดียว ชุนชอนมยองมุลทักคาลบีกับเกาะนามิไปด้วยกันได้ดีในทริปไปกลับหนึ่งวัน ส่วนตลาดท่องเที่ยวและอาหารทะเลซกโชเหมาะจะรวมในแผนเที่ยวชายฝั่งทะเลตะวันออกคู่กับชายหาด ร้านอาหารในวอนจู ชอลวอน และยังกูกระจายอยู่ทั่วพื้นที่ตอนในของกังวอน จึงควรถือเป็นจุดแวะกินเมื่อผ่านเมืองนั้น ๆ บทความนี้ไม่ได้ระบุเวลาเปิดปิดและวันหยุด ควรตรวจสอบก่อนเดินทาง</p>",
+    "id": "<h2>Gangwon: Makan di Antara Gunung dan Laut</h2><p>Gangwon adalah tujuan wisata alam Korea, tempat pesisir Laut Timur, Gunung Seorak (Seoraksan), dan Pulau Nami berada. Banyak hidangannya yang membawa nama daerah: dakgalbi Chuncheon (ayam tumis pedas), kepiting salju dan mi ikan mentah Sokcho, tahu lembut Chodang Gangneung, serta makguksu (mi soba). Berikut restoran dan tempat yang pernah muncul di video perjalanan dan acara TV Korea, dikelompokkan per daerah.</p><h2>Sokcho</h2><h3>Pasar Wisata &amp; Perikanan Sokcho</h3><p>Pasar tempat Anda bisa mencicipi dakgangjeong (ayam goreng renyah bersaus manis), squid sundae (cumi isi), dan kepiting salju dalam sekali kunjungan. Pasar ini muncul di <strong>Gangwon-do Signature Dishes at Sokcho Traditional Market</strong> dan <strong>Sokcho Trip – Beach, Cafes, Central Market &amp; Makgeolli Bread</strong>, yang juga mengulas pantai, kafe, dan roti makgeolli. Acara kuliner Korea <strong>Heo Young-man's Baekban Gihaeng</strong> (episode 159) menampilkan kios-kios penjual kepiting salju di sini.</p><h2>Chuncheon dan Pulau Nami</h2><h3>Chuncheon Myeongmul Dakgalbi</h3><p>Restoran dakgalbi di jalan menuju Pulau Nami, tempat singgah praktis untuk mencicipi hidangan khas Chuncheon. Restoran ini termasuk dalam rute <strong>Chuncheon Dakgalbi &amp; Nami Island</strong> dan <strong>Seoul to Chuncheon Korea</strong>.</p><h3>Pulau Nami</h3><p>Pulau yang terkenal dengan jalan setapak berjajar pohon metasequoia yang tinggi. Anda bisa melihatnya di <strong>Chuncheon Dakgalbi &amp; Nami Island</strong>, yang memadukan kunjungan ke pulau ini dengan makan dakgalbi.</p><h2>Wonju</h2><h3>Gohyang Boribap</h3><p>Restoran yang menyajikan set ssambap (nasi dengan sayuran daun untuk membungkus) dan samgyeopsal (perut babi). Tempat ini tampil di episode 15 (Wonju) acara pasar Baek Jong-won <strong>Nima Geu Sijangeul Gao</strong>, yang menyoroti cara makan perut babi dibungkus sayuran, disertai minuman keras tradisional Korea.</p><h2>Cheorwon</h2><h3>Seonghwan Sikdang</h3><p>Dikenal dengan mulhoe cumi, sup dingin berisi ikan mentah. Episode 21 (Cheorwon) <strong>Nima Geu Sijangeul Gao</strong> memperkenalkannya dengan judul \"Ini mulhoe?\", mengisyaratkan bahwa versinya agak berbeda dari yang dibayangkan kebanyakan orang.</p><h2>Yanggu</h2><h3>Paroho Gukbap</h3><p>Tempat makan yukgaejang (sup daging sapi pedas) dan gukbap (sup nasi). Episode 25 (Yanggu) <strong>Nima Geu Sijangeul Gao</strong> memperlihatkan yukgaejang di sini disajikan dengan porsi menggunung.</p><h2>Spot Foto</h2><h3>Halte Bus BTS</h3><p>Halte bus yang dikenal sebagai lokasi foto album BTS, populer di kalangan penggemar dan wisatawan untuk foto kenang-kenangan. Untuk merasakan suasana pesisir Laut Timur, cuplikan <strong>Welcome, First Time in Korea?</strong> saat para tamu melihat laut Gangneung layak ditonton.</p><h2>Tips Berkeliling</h2><p>Wilayah Gangwon sangat luas, jadi lebih mudah merencanakan perjalanan per daerah daripada mencoba melihat semuanya sekaligus. Chuncheon Myeongmul Dakgalbi dan Pulau Nami cocok digabung untuk perjalanan sehari, sedangkan Pasar Wisata &amp; Perikanan Sokcho paling pas dimasukkan ke rencana perjalanan pesisir Laut Timur bersama pantai. Restoran di Wonju, Cheorwon, dan Yanggu tersebar di pedalaman Gangwon, jadi jadikan masing-masing sebagai tempat makan saat Anda melewati kota tersebut. Jam buka dan hari libur tidak dicantumkan di sini, jadi periksa dulu sebelum berangkat.</p>",
+    "ru": "<h2>Канвондо: еда между горами и морем</h2><p>Канвондо — главное направление Кореи для отдыха на природе: здесь побережье Восточного моря, гора Сораксан и остров Нами. Многие местные блюда носят название места: чхунчхонское тактальби (острая жареная курица), краб-стригун и лапша с сырой рыбой из Сокчхо, мягкий тофу Чходан из Каннына, гречневая лапша маккуксу. Ниже — рестораны и места, которые появлялись в тревел-видео и корейских телепередачах, сгруппированные по районам.</p><h2>Сокчхо</h2><h3>Туристический рыбный рынок Сокчхо</h3><p>Рынок, где за один визит можно попробовать такканджон (хрустящую курицу в сладком соусе), оджинъо-сундэ (фаршированного кальмара) и краба-стригуна. Он показан в видео <strong>Gangwon-do Signature Dishes at Sokcho Traditional Market</strong> и <strong>Sokcho Trip – Beach, Cafes, Central Market &amp; Makgeolli Bread</strong>, где также есть пляж, кафе и хлеб на макколли. В корейской гастрономической передаче <strong>«Пэкпан кихэн» с Хо Ёнманом</strong> (159-й выпуск) показывали прилавки с крабом-стригуном.</p><h2>Чхунчхон и остров Нами</h2><h3>Chuncheon Myeongmul Dakgalbi</h3><p>Ресторан тактальби по дороге на остров Нами — удобная остановка, чтобы попробовать фирменное блюдо Чхунчхона. Он входит в маршрут видео <strong>Chuncheon Dakgalbi &amp; Nami Island</strong> и <strong>Seoul to Chuncheon Korea</strong>.</p><h3>Остров Нами</h3><p>Остров, известный аллеями высоких метасеквой. Его можно увидеть в видео <strong>Chuncheon Dakgalbi &amp; Nami Island</strong>, где прогулка по острову сочетается с обедом из тактальби.</p><h2>Вонджу</h2><h3>Kohyang Poribap</h3><p>Ресторан, где подают сет ссамбап (рис с листьями для заворачивания) и свиную грудинку. Он появился в 15-м выпуске (Вонджу) рыночной передачи Пэк Чонвона <strong>«Ниму кы сиджанъыль када»</strong>, посвящённом свиной грудинке, завёрнутой в зелень, и традиционному корейскому алкоголю.</p><h2>Чхорвон</h2><h3>Sonhwan Sikttang</h3><p>Известен кальмаровым мульхве — холодным супом с сырой рыбой. В 21-м выпуске (Чхорвон) передачи <strong>«Ниму кы сиджанъыль када»</strong> его представили под заголовком «Это мульхве?», намекая, что это не совсем тот вариант, которого ждёт большинство.</p><h2>Янгу</h2><h3>Pharoho Kukpap</h3><p>Заведение с юккеджаном (острым супом с говядиной) и кукпапом (супом с рисом). В 25-м выпуске (Янгу) передачи <strong>«Ниму кы сиджанъыль када»</strong> показали, как здесь подают юккеджан порциями размером с гору.</p><h2>Место для фото</h2><h3>Автобусная остановка BTS</h3><p>Остановка, известная как локация фотосессии для альбома BTS; фанаты и путешественники любят делать здесь памятные снимки. Чтобы почувствовать атмосферу побережья Восточного моря, стоит посмотреть фрагмент шоу <strong>Welcome, First Time in Korea?</strong>, где гости впервые видят море в Канныне.</p><h2>Как передвигаться</h2><p>Канвондо — большая провинция, поэтому удобнее планировать поездку по районам, а не пытаться увидеть всё за один раз. Chuncheon Myeongmul Dakgalbi и остров Нами хорошо сочетаются в однодневной поездке, а туристический рыбный рынок Сокчхо лучше включить в маршрут по побережью Восточного моря вместе с пляжем. Рестораны в Вонджу, Чхорвоне и Янгу разбросаны по внутренним районам Канвондо, так что считайте каждый из них остановкой на обед, когда будете проезжать через этот город. Часы работы и выходные дни здесь не указаны, поэтому уточняйте их перед поездкой.</p>"
   },
   "places": [
     {
@@ -102,5 +132,307 @@
       "id": "3v4YvmiZFzw",
       "title": "[하이라이트] 강릉 바다 보고 초흥분한 4남매"
     }
-  ]
+  ],
+  "placesI18n": {
+    "ja": [
+      {
+        "name": "束草観光水産市場（속초관광수산시장）",
+        "menu": "タッカンジョン、イカスンデ、ズワイガニ"
+      },
+      {
+        "name": "春川名物タッカルビ（춘천명물닭갈비）",
+        "menu": "南怡島近くのタッカルビ"
+      },
+      {
+        "name": "南怡島（남이섬）",
+        "menu": "並木道"
+      },
+      {
+        "name": "コヒャンボリバプ（原州）（고향보리밥）",
+        "menu": "サムパプ定食、サムギョプサル"
+      },
+      {
+        "name": "ソンファン食堂（鉄原）（성환식당）",
+        "menu": "イカのムルフェ"
+      },
+      {
+        "name": "パロホクッパ（楊口）（파로호국밥）",
+        "menu": "ユッケジャン、クッパ"
+      },
+      {
+        "name": "BTSバス停（BTS 정류장）",
+        "menu": "BTSのアルバム撮影地、記念撮影スポットとして人気"
+      }
+    ],
+    "zh-Hans": [
+      {
+        "name": "束草观光水产市场",
+        "menu": "甜辣炸鸡块、鱿鱼米肠、雪蟹"
+      },
+      {
+        "name": "春川名物辣炒鸡排",
+        "menu": "南怡岛附近的辣炒鸡排"
+      },
+      {
+        "name": "南怡岛",
+        "menu": "林荫小道"
+      },
+      {
+        "name": "故乡大麦饭（原州）",
+        "menu": "包饭套餐、五花肉"
+      },
+      {
+        "name": "成焕食堂（铁原）",
+        "menu": "鱿鱼水拌生鱼片"
+      },
+      {
+        "name": "破虏湖汤饭（杨口）",
+        "menu": "辣牛肉汤、汤饭"
+      },
+      {
+        "name": "BTS公交车站（BTS专辑拍摄地）",
+        "menu": "BTS专辑拍摄地，适合拍照留念"
+      }
+    ],
+    "zh-Hant": [
+      {
+        "name": "束草觀光水產市場",
+        "menu": "甜辣炸雞、魷魚米腸、松葉蟹"
+      },
+      {
+        "name": "春川名物辣炒雞排",
+        "menu": "南怡島附近的辣炒雞排"
+      },
+      {
+        "name": "南怡島",
+        "menu": "林蔭步道"
+      },
+      {
+        "name": "故鄉大麥飯（原州）",
+        "menu": "包飯套餐、五花肉"
+      },
+      {
+        "name": "成歡食堂（鐵原）",
+        "menu": "魷魚水拌生魚片"
+      },
+      {
+        "name": "破虜湖湯飯（楊口）",
+        "menu": "辣牛肉湯、湯飯"
+      },
+      {
+        "name": "BTS公車站（BTS專輯拍攝地）",
+        "menu": "BTS專輯拍攝地，熱門紀念照景點"
+      }
+    ],
+    "es": [
+      {
+        "name": "Mercado Turístico y Pesquero de Sokcho (속초관광수산시장)",
+        "menu": "Dakgangjeong, sundae de calamar, cangrejo de las nieves"
+      },
+      {
+        "name": "Chuncheon Myeongmul Dakgalbi (춘천명물닭갈비)",
+        "menu": "Dakgalbi cerca de la isla Nami"
+      },
+      {
+        "name": "Isla Nami (남이섬)",
+        "menu": "Caminos flanqueados de árboles"
+      },
+      {
+        "name": "Gohyang Boribap (Wonju)",
+        "menu": "Menú de ssambap, panceta de cerdo"
+      },
+      {
+        "name": "Seonghwan Sikdang (Cheorwon)",
+        "menu": "Mulhoe de calamar"
+      },
+      {
+        "name": "Paroho Gukbap (Yanggu)",
+        "menu": "Yukgaejang, gukbap"
+      },
+      {
+        "name": "Parada de autobús de BTS (BTS 정류장)",
+        "menu": "Lugar de fotos de un álbum de BTS, popular para fotos de recuerdo"
+      }
+    ],
+    "fr": [
+      {
+        "name": "Marché touristique et aux poissons de Sokcho",
+        "menu": "Dakgangjeong, sundae de calmar, crabe des neiges"
+      },
+      {
+        "name": "Chuncheon Myeongmul Dakgalbi",
+        "menu": "Dakgalbi près de l'île de Nami"
+      },
+      {
+        "name": "Île de Nami",
+        "menu": "Allées bordées d'arbres"
+      },
+      {
+        "name": "Gohyang Boribap (Wonju)",
+        "menu": "Menu ssambap, poitrine de porc"
+      },
+      {
+        "name": "Seonghwan Sikdang (Cheorwon)",
+        "menu": "Mulhoe de calmar"
+      },
+      {
+        "name": "Paroho Gukbap (Yanggu)",
+        "menu": "Yukgaejang, gukbap"
+      },
+      {
+        "name": "Arrêt de bus BTS (lieu photo d'un album de BTS)",
+        "menu": "Lieu photo d'un album de BTS, prisé pour les photos souvenirs"
+      }
+    ],
+    "de": [
+      {
+        "name": "Sokcho Tourist & Fishery Market (속초관광수산시장)",
+        "menu": "Dakgangjeong, Tintenfisch-Sundae, Schneekrabben"
+      },
+      {
+        "name": "Chuncheon Myeongmul Dakgalbi (춘천명물닭갈비)",
+        "menu": "Dakgalbi in der Nähe der Insel Nami"
+      },
+      {
+        "name": "Insel Nami (Namiseom, 남이섬)",
+        "menu": "Von Bäumen gesäumte Wege"
+      },
+      {
+        "name": "Gohyang Boribap (Wonju, 고향보리밥)",
+        "menu": "Ssambap-Set, Schweinebauch"
+      },
+      {
+        "name": "Seonghwan Sikdang (Cheorwon, 성환식당)",
+        "menu": "Tintenfisch-Mulhoe"
+      },
+      {
+        "name": "Paroho Gukbap (Yanggu, 파로호국밥)",
+        "menu": "Yukgaejang, Gukbap"
+      },
+      {
+        "name": "BTS-Bushaltestelle (BTS 정류장)",
+        "menu": "Fotomotiv eines BTS-Albums, beliebt für Erinnerungsfotos"
+      }
+    ],
+    "vi": [
+      {
+        "name": "Chợ Du lịch Thủy sản Sokcho (속초관광수산시장)",
+        "menu": "Dakgangjeong, sundae mực, cua tuyết"
+      },
+      {
+        "name": "Chuncheon Myeongmul Dakgalbi (춘천명물닭갈비)",
+        "menu": "Dakgalbi gần đảo Nami"
+      },
+      {
+        "name": "Đảo Nami (남이섬)",
+        "menu": "Những con đường rợp bóng cây"
+      },
+      {
+        "name": "Gohyang Boribap (Wonju)",
+        "menu": "Set ssambap, thịt ba chỉ"
+      },
+      {
+        "name": "Seonghwan Sikdang (Cheorwon)",
+        "menu": "Mulhoe mực"
+      },
+      {
+        "name": "Paroho Gukbap (Yanggu)",
+        "menu": "Yukgaejang, gukbap"
+      },
+      {
+        "name": "Trạm xe buýt BTS (điểm chụp ảnh album BTS)",
+        "menu": "Điểm chụp ảnh album của BTS, được yêu thích để chụp ảnh lưu niệm"
+      }
+    ],
+    "th": [
+      {
+        "name": "ตลาดท่องเที่ยวและอาหารทะเลซกโช (속초관광수산시장)",
+        "menu": "ทักกังจอง ซุนแดปลาหมึก ปูหิมะ"
+      },
+      {
+        "name": "ชุนชอนมยองมุลทักคาลบี (춘천명물닭갈비)",
+        "menu": "ทักคาลบี ใกล้เกาะนามิ"
+      },
+      {
+        "name": "เกาะนามิ (남이섬)",
+        "menu": "ทางเดินเรียงรายด้วยต้นไม้"
+      },
+      {
+        "name": "โคฮยังโบรีบับ (วอนจู) (고향보리밥)",
+        "menu": "ชุดซัมบับ หมูสามชั้น"
+      },
+      {
+        "name": "ซองฮวันซิกดัง (ชอลวอน) (성환식당)",
+        "menu": "มุลโฮปลาหมึก"
+      },
+      {
+        "name": "พาโรโฮกุกบับ (ยังกู) (파로호국밥)",
+        "menu": "ยุกเกจัง กุกบับ"
+      },
+      {
+        "name": "ป้ายรถเมล์ BTS (BTS 정류장)",
+        "menu": "จุดถ่ายภาพอัลบั้ม BTS นิยมถ่ายรูปเป็นที่ระลึก"
+      }
+    ],
+    "id": [
+      {
+        "name": "Pasar Wisata & Perikanan Sokcho (Sokcho Tourist & Fishery Market)",
+        "menu": "Dakgangjeong, squid sundae (cumi isi), kepiting salju"
+      },
+      {
+        "name": "Chuncheon Myeongmul Dakgalbi",
+        "menu": "Dakgalbi dekat Pulau Nami"
+      },
+      {
+        "name": "Pulau Nami (Nami Island)",
+        "menu": "Jalan setapak berjajar pohon"
+      },
+      {
+        "name": "Gohyang Boribap (Wonju)",
+        "menu": "Set ssambap, perut babi"
+      },
+      {
+        "name": "Seonghwan Sikdang (Cheorwon)",
+        "menu": "Mulhoe cumi"
+      },
+      {
+        "name": "Paroho Gukbap (Yanggu)",
+        "menu": "Yukgaejang, gukbap"
+      },
+      {
+        "name": "Halte Bus BTS (spot foto album BTS)",
+        "menu": "Lokasi foto album BTS, populer untuk foto kenang-kenangan"
+      }
+    ],
+    "ru": [
+      {
+        "name": "Туристический рыбный рынок Сокчхо (속초관광수산시장)",
+        "menu": "Такканджон, фаршированный кальмар (оджинъо-сундэ), краб-стригун"
+      },
+      {
+        "name": "Chuncheon Myeongmul Dakgalbi (춘천명물닭갈비)",
+        "menu": "Тактальби рядом с островом Нами"
+      },
+      {
+        "name": "Остров Нами (남이섬)",
+        "menu": "Аллеи с деревьями"
+      },
+      {
+        "name": "Kohyang Poribap, Вонджу (고향보리밥)",
+        "menu": "Сет ссамбап, свиная грудинка"
+      },
+      {
+        "name": "Sonhwan Sikttang, Чхорвон (성환식당)",
+        "menu": "Мульхве с кальмаром"
+      },
+      {
+        "name": "Pharoho Kukpap, Янгу (파로호국밥)",
+        "menu": "Юккеджан, кукпап"
+      },
+      {
+        "name": "Автобусная остановка BTS (BTS 정류장)",
+        "menu": "Локация фотосессии альбома BTS, популярное место для памятных фото"
+      }
+    ]
+  }
 }
