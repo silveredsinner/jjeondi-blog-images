@@ -29,3 +29,4 @@
 @media (max-width: 400px) { .bp-nav { gap: 6px; } .bp-nav a, .bp-switch { padding: 6px 7px; font-size: 13px; } }
 .bp-kk ins { display: block; min-height: 120px; }
 .bp-kk iframe { max-width: 100%; }
+.bp-langsel { font: inherit; font-size: 13px; color: var(--text); background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 6px 6px; max-width: 130px; }

@@ -5,6 +5,9 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>서울 영상 속 맛집·명소: 광장시장부터 남산서울타워까지 | Let's Visit Korea</title>
   <meta name="description" content="광장시장의 빈대떡과 육회, 노량진수산시장의 모듬회와 해물라면, 경복궁·남산서울타워·봉은사·국립민속박물관까지 여행 영상과 &#39;어서와 한국은 처음이지&#39;에 나온 서울의 장소를 정리했습니다.">
+  <link rel="alternate" hreflang="ko" href="https://letsvisitkorea.com/blog/posts/2026-10-11-seoul.html">
+  <link rel="alternate" hreflang="en" href="https://letsvisitkorea.com/blog/posts/2026-10-11-seoul.html?lang=en">
+  <link rel="alternate" hreflang="x-default" href="https://letsvisitkorea.com/blog/posts/2026-10-11-seoul.html">
   <meta property="og:type" content="article">
   <meta property="og:site_name" content="Let's Visit Korea">
   <meta property="og:title" content="서울 영상 속 맛집·명소: 광장시장부터 남산서울타워까지">
@@ -20,8 +23,7 @@
     <a class="brand" href="../../index.html"><span class="logo" aria-hidden="true">▶</span><h1>Let's Visit Korea</h1></a>
     <nav class="bp-nav">
       <a href="../index.html">Blog</a>
-      <button class="bp-switch" data-to="ko">한국어</button>
-      <button class="bp-switch" data-to="en">English</button>
+      <select class="bp-langsel" aria-label="language" onchange="location.href=this.value"><option value="../posts/2026-10-11-seoul.html?lang=ko" selected>한국어</option><option value="../posts/2026-10-11-seoul.html?lang=en">English</option></select>
     </nav>
   </header>
   <main class="bp-main">
@@ -240,8 +242,17 @@
         document.querySelectorAll(".bp-lang").forEach(function (a) { a.hidden = a.dataset.lang !== l; });
         document.documentElement.lang = l;
       }
-      show((q || saved) === "ko" ? "ko" : (q || saved) ? "en" : "ko");
-      document.querySelectorAll(".bp-switch").forEach(function (b) { b.onclick = function () { show(b.dataset.to); }; });
+      var l = (q || saved) === "ko" ? "ko" : (q || saved) ? "en" : "ko";
+      show(l);
+      // 언어 선택: 한국어·영어는 이 페이지에서 바로 바꾸고, 다른 언어는 언어별 페이지로 이동
+      var sel = document.querySelector(".bp-langsel");
+      if (sel) {
+        sel.selectedIndex = l === "en" ? 1 : 0;
+        sel.onchange = function () {
+          var v = sel.value, m = /[?&]lang=(ko|en)$/.exec(v);
+          if (m) { show(m[1]); try { localStorage.setItem("kt.lang", m[1]); } catch (e) {} } else location.href = v;
+        };
+      }
     })();
   </script>
 </body>
