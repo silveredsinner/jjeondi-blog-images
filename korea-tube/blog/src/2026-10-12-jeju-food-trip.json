@@ -5,15 +5,45 @@
   "topic": "jeju-food-trip",
   "title": {
     "ko": "제주 먹방 여행 가이드: 흑돼지, 해산물, 동문시장 야시장과 그 사이의 명소들",
-    "en": "Jeju Island Food Guide: Black Pork, Seafood, Dongmun Night Market and Sights Along the Way"
+    "en": "Jeju Island Food Guide: Black Pork, Seafood, Dongmun Night Market and Sights Along the Way",
+    "ja": "済州島グルメガイド：黒豚、海鮮、東門ナイトマーケットと道中の名所",
+    "zh-Hans": "济州岛美食指南：黑猪肉、海鲜、东门夜市与沿途景点",
+    "zh-Hant": "濟州島美食指南：黑豚、海鮮、東門夜市與沿途景點",
+    "es": "Guía de comida de la isla de Jeju: cerdo negro, mariscos, el mercado nocturno Dongmun y los lugares para visitar",
+    "fr": "Guide gourmand de Jeju : porc noir, fruits de mer, marché de nuit Dongmun et sites en chemin",
+    "de": "Jeju-Insel Essensführer: Schwarzes Schweinefleisch, Meeresfrüchte, Dongmun-Nachtmarkt und Sehenswürdigkeiten unterwegs",
+    "vi": "Hướng dẫn ăn uống ở đảo Jeju: thịt heo đen, hải sản, chợ đêm Dongmun và các điểm tham quan trên đường",
+    "th": "คู่มือกินอาหารในเกาะเชจู: หมูดำ อาหารทะเล ตลาดกลางคืนดงมุน และสถานที่ท่องเที่ยวระหว่างทาง",
+    "id": "Panduan Kuliner Pulau Jeju: Babi Hitam, Seafood, Pasar Malam Dongmun, dan Tempat Wisata di Sepanjang Jalan",
+    "ru": "Гид по еде на Чеджу: чёрная свинина, морепродукты, ночной рынок Тонмун и достопримечательности по пути"
   },
   "summary": {
     "ko": "영상 속 여행자들이 찾은 제주 흑돼지 구이집, 동문시장 야시장의 길거리 음식, 보말칼국수·고등어회·전복 등 해산물 식당을 정리하고, 용두암·천제연폭포·성산일출봉 같은 명소와 묶어 동선을 짜는 방법을 소개합니다.",
-    "en": "A video-based Jeju food trip: where creators ate black pork BBQ, what they tried at Dongmun Night Market, seafood stops from Moseulpo to Seongsan, and how to pair them with Yongduam, Cheonjeyeon Waterfall and Sunrise Peak."
+    "en": "A video-based Jeju food trip: where creators ate black pork BBQ, what they tried at Dongmun Night Market, seafood stops from Moseulpo to Seongsan, and how to pair them with Yongduam, Cheonjeyeon Waterfall and Sunrise Peak.",
+    "ja": "動画をもとにした済州島のグルメ旅：クリエイターたちが食べた黒豚BBQ、東門ナイトマーケットで試した料理、牟瑟浦から城山までの海鮮スポットを紹介し、龍頭岩、天帝淵瀑布、城山日出峰と組み合わせる方法を解説します。",
+    "zh-Hans": "一份以视频为基础的济州美食之旅：创作者们吃了哪些黑猪肉烧烤，在东门夜市尝了什么，从摩瑟浦到城山的海鲜店，以及如何搭配龙头岩、天帝渊瀑布和日出峰一起游览。",
+    "zh-Hant": "以影片為基礎的濟州美食之旅：創作者們吃了哪些黑豚烤肉、在東門夜市嘗試了什麼、從摩寫浦到城山的海鮮餐廳，以及如何搭配龍頭岩、天帝淵瀑布和城山日出峰一起安排行程。",
+    "es": "Una ruta gastronómica por Jeju basada en vídeos: dónde los creadores comieron barbacoa de cerdo negro, qué probaron en el mercado nocturno Dongmun, las paradas de mariscos desde Moseulpo hasta Seongsan, y cómo combinarlas con Yongduam, la cascada Cheonjeyeon y Seongsan Ilchulbong.",
+    "fr": "Un itinéraire gourmand à Jeju inspiré de vidéos de voyage : où les créateurs ont mangé du porc noir grillé, ce qu'ils ont goûté au marché de nuit Dongmun, les arrêts fruits de mer de Moseulpo à Seongsan, et comment les associer à Yongduam, la cascade Cheonjeyeon et le pic du Lever de soleil.",
+    "de": "Eine videobasierte Essensreise über Jeju: wo Creator Schwarzschwein-BBQ gegessen haben, was sie auf dem Dongmun-Nachtmarkt probiert haben, Meeresfrucht-Stopps von Moseulpo bis Seongsan und wie man das mit Yongduam, dem Cheonjeyeon-Wasserfall und dem Seongsan Ilchulbong (Sonnenaufganggipfel) kombiniert.",
+    "vi": "Chuyến ăn uống ở Jeju qua các video du lịch: nơi người làm nội dung đã thưởng thức thịt heo đen nướng, những món đã thử ở chợ đêm Dongmun, các quán hải sản từ Moseulpo đến Seongsan, và cách kết hợp với Yongduam, thác Cheonjeyeon và Seongsan Ilchulbong.",
+    "th": "ทริปกินอาหารเกาะเชจูจากคลิปวิดีโอ: ร้านที่คนทำคลิปไปกินหมูดำย่าง สิ่งที่ลองกินที่ตลาดกลางคืนดงมุน ร้านอาหารทะเลตั้งแต่มอซึลโพถึงซองซาน และวิธีแวะชมยงดูอัมวัดน้ำตกชอนเจยอนและยอดซองซานอิลชุลบงไปพร้อมกัน",
+    "id": "Panduan wisata kuliner Jeju berdasarkan video perjalanan: tempat para kreator makan BBQ babi hitam, makanan yang dicoba di Pasar Malam Dongmun, tempat seafood dari Moseulpo sampai Seongsan, dan cara memadukannya dengan Yongduam, Air Terjun Cheonjeyeon, dan Puncak Sunrise.",
+    "ru": "Гастрономический маршрут по Чеджу по мотивам видео: где авторы ели чёрную свинину на гриле, что пробовали на ночном рынке Тонмун, морские остановки от Мосыльпо до Соннсана и как сочетать их с Ёндуам, водопадом Чонджеён и пиком Сончульбон."
   },
   "body": {
     "ko": "<p>제주는 해녀와 흑돼지, 바다 풍경의 화산섬입니다. 이번 글은 여러 여행 영상에 나온 식당과 시장, 명소만 골라 정리했습니다. 흑돼지 한 끼, 동문시장 야시장 한 바퀴, 그리고 해안을 따라 이어지는 해산물 식당을 중심으로 동선을 짜보세요.</p><h2>제주 흑돼지</h2><h3>늘봄흑돼지</h3><p>영상에 등장한 흑돼지 구이집으로, 메뉴는 흑돼지 구이입니다. 제주에 와서 첫 고기 한 끼를 정할 때 후보로 삼기 좋습니다.</p><h3>돈사돈 중문점</h3><p>영국 고등학생들과 함께한 영상에서는 7년 전 처음 맛본 제주 흑돼지를 잊지 못해 다시 찾았다고 소개합니다. 광고 없는 영상이라고 밝히며 들른 곳은 서귀포시 천제연로의 돈사돈 중문점이고, 진행자는 예전에 먹었던 맛보다 더 맛있었다고 말합니다.</p><h3>캠핑 감성 흑돼지 구이</h3><p>MBC every1 「어서와 한국은 처음이지?」의 제주 편에서는 뉴질랜드 앤디가 캠핑 분위기 속에서 흑돼지를 직접 구워 친구들에게 대접합니다. 식당이 아니어도 흑돼지를 즐기는 방식이 다양하다는 걸 보여주는 장면입니다.</p><h2>동문시장과 흑돼지거리</h2><p>제주시의 동문시장은 흑돼지와 길거리 음식으로 알려진 곳입니다. 야시장을 다룬 한 영상에 따르면, 매일 저녁 6시쯤부터 수산·농산물 시장 안쪽 끝 골목 하나가 통째로 야시장 먹거리로 채워집니다. 제주 흑돼지와 감귤을 활용한, 다른 지역에서는 보기 어려운 메뉴가 많다는 점이 특징으로 소개됩니다.</p><h3>야시장에서 먹은 것들</h3><p>Best Ever Food Review Show의 \"10만 원 길거리 음식 챌린지\" 영상에서 맛본 메뉴입니다.</p><ul><li>마늘 치즈 돼지고기 롤 – 10,000원</li><li>전복 거북손 모양 주먹밥(김) – 5,500원</li><li>전복김밥(계란말이 감싼 형태) – 3줄 9,000원</li><li>치즈 랍스터 – 19,800원</li><li>흑돼지 튀김을 담은 먹는 그릇 – 13,000원</li><li>곱창 튀김(반 매운맛/반 순한맛)</li></ul><h3>수산시장 쪽</h3><p>같은 채널의 \"싼 해산물 vs 비싼 해산물\" 영상은 동문수산시장에서 시작합니다. 오징어와 생선 모둠이 10,000원, 멍게가 10,000원으로 소개됩니다. 또 다른 24시간 제주 먹방 영상에는 동진식당 동문시장점도 등장합니다.</p><p>「어서와 한국은 처음이지?」에서도 천제연폭포 산책 뒤 제주 핫플레이스로 야시장을 찾아 음식을 즐기는 장면이 나옵니다.</p><h2>제주 해산물 식당</h2><h3>제주시 아침: 몸국과 성게미역국</h3><p>24시간 먹방 영상은 아침으로 김희선 제주몸국에서 몸국과 성게미역국을 먹으며 시작합니다(전체 33,000원). 이어 순옥이네명가에서는 물회와 제주식 조개 전골을 먹었고 총 34,000원이었다고 합니다.</p><h3>모슬포와 사계</h3><p>제주 해산물 영상에서는 모슬포의 옥돔식당에서 보말칼국수(한 그릇 12,000원)를, 같은 모슬포의 미영이네식당에서 다양한 곁들이 음식과 함께 고등어회(총 72,000원)를 먹습니다. 이어 사계해녀의집도 방문합니다.</p><h3>동쪽 해안: 전복과 고등어쌈밥</h3><p>해산물 투어 영상은 생선조림 집 명물식당(제주시 삼도2동)에서 시작해, 구좌읍 해맞이해안로의 명진전복에서 전복을, 성산읍 고성리의 성산 고등어 쌈밥에서 식사를 합니다. 진행자는 특히 구운 전복을 강력히 추천합니다.</p><h3>통갈치와 대게</h3><p>「어서와 한국은 처음이지?」에서는 BTS 진이 다녀간 것으로 알려진 통갈치 식당과 대게 한 상도 나옵니다. 제주를 대표하는 음식으로는 갈치구이와 자리물회도 꼽힙니다.</p><h2>먹는 사이 들를 명소</h2><ul><li><strong>용두암</strong> – 제주 설화를 품은 바위. 방송에서는 용연구름다리와 같은 회차에 이어서 방문합니다.</li><li><strong>용연구름다리</strong> – 제주 자연과 어우러진 출렁다리.</li><li><strong>협재 바다</strong> – 오션뷰 카페에서 바다를 바라보며 쉬어가기 좋은 곳. 방송에서도 에메랄드빛 해변 산책 후 해변 카페에서 커피 시간을 가집니다.</li><li><strong>천제연폭포</strong> – 폭포 산책로가 있는 서귀포의 명소.</li><li><strong>성산일출봉</strong> – 일출봉 등반 코스.</li></ul><h2>동선 짜기 팁</h2><ul><li><strong>제주시 하루</strong>: 아침 몸국·성게미역국 → 용두암과 용연구름다리 → 저녁 6시 무렵 동문시장 야시장. 야시장은 저녁부터 열리니 낮에는 수산시장 쪽을 먼저 둘러보세요.</li><li><strong>서귀포·중문</strong>: 천제연폭포를 걸은 뒤 같은 천제연로에 있는 돈사돈 중문점에서 흑돼지로 마무리하는 동선이 영상 속 장소만으로 가능합니다.</li><li><strong>동쪽</strong>: 성산일출봉 등반 후 성산읍의 고등어쌈밥이나 구좌읍의 명진전복을 묶어보세요.</li><li><strong>서남쪽</strong>: 모슬포의 보말칼국수·고등어회와 사계해녀의집을 하루에 묶을 수 있습니다.</li><li><strong>가격 참고</strong>: 영상 속 가격은 촬영 시점 기준이므로 현장에서 다를 수 있습니다.</li></ul>",
-    "en": "<p>Jeju is a volcanic island known for its haenyeo divers, black pork and sea views. This guide pulls together only the restaurants, markets and sights that appear in travel videos about the island, so you can plan a food trip around black pork BBQ, Dongmun Night Market and seafood stops along the coast.</p><h2>Jeju Black Pork</h2><h3>Neulbom Heukdwaeji</h3><p>A black pork restaurant featured in the videos, serving grilled black pork. A straightforward choice for your first Jeju BBQ meal.</p><h3>Donsadon Jungmoon</h3><p>In the video where British high schoolers try Jeju black pork, the hosts explain they first tasted it on Jeju seven years earlier and never forgot it. They bring the boys to Donsadon Jungmoon on Chunjaeyeon-ro in Seogwipo (the video notes it is not sponsored) and say it was even better than they remembered.</p><h3>Camping-style black pork</h3><p>On MBC every1's \"Welcome, First Time in Korea?\", New Zealander Andy grills Jeju black pork for his friends in a camping-style setting, a reminder that black pork isn't only a restaurant experience.</p><h2>Dongmun Market and Black Pork Street</h2><p>Dongmun Market in Jeju City is the island's go-to spot for black pork and street food. According to one night market video, every evening from about 6 pm an entire lane on the far side of the fresh wet market fills with street food stalls. The video points out that many items use Jeju black pork and Jeju tangerines, creations you won't easily find elsewhere in Korea.</p><h3>What was eaten at the night market</h3><p>In Best Ever Food Review Show's \"$100 street food challenge\" at Dongmun Market, the dishes included:</p><ul><li>Garlic cheese white pork roll – ₩10,000</li><li>Abalone \"turtle shell\" rice with seaweed – ₩5,500</li><li>Abalone gimbap wrapped in egg roll – ₩9,000 for 3 rolls</li><li>Cheese lobster – ₩19,800</li><li>Edible bowl with fried black pork – ₩13,000</li><li>Fried intestine (half spicy, half mild)</li></ul><h3>The fish market side</h3><p>The same channel's \"cheap vs expensive seafood\" episode starts at Dongmun Fish Market, where squid and a fish platter cost ₩10,000 and sea squirt ₩10,000. A separate \"24 hours of Korean food in Jeju\" video also stops at Dongjin Restaurant's Dongmun Market branch. \"Welcome, First Time in Korea?\" visits the night market too, right after a walk at Cheonjeyeon Waterfall.</p><h2>Seafood Around the Island</h2><h3>Jeju City breakfast: momguk and sea urchin soup</h3><p>The 24-hour video opens with breakfast at Kim Hee-seon Jeju Momguk: gulfweed soup (momguk) and sea urchin seaweed soup (seonggi miyeokguk), ₩33,000 for everything. Next is Sun Okine Myungga for cold seafood soup (mulhoe) and a Jeju-style shellfish hotpot, ₩34,000 in total.</p><h3>Moseulpo and Sagye</h3><p>In the \"Korea's Best Seafood in Jeju\" video, the host eats sea snail knife-cut noodles (bomal kalguksu, ₩12,000 per bowl) at Okdom Sikdang in Moseulpo, then raw mackerel with plenty of sides at Miyeongine Sikdang, also in Moseulpo (₩72,000 total), before visiting the Sagye Haenyeo divers' shack.</p><h3>East coast: abalone and mackerel ssam</h3><p>The \"Massive Korean Seafood Hotpot\" tour starts with braised fish (jorim) at Myeongmul Sikdang in Samdo 2-dong, Jeju City, moves to Myeongjin Jeonbok on Haemajihaean-ro in Gujwa-eup for abalone, and includes Seongsan Godeungeo Ssambap (mackerel ssam rice) in Goseong-ri, Seongsan-eup. The creator singles out the grilled abalone as the highlight.</p><h3>Cutlassfish and snow crab</h3><p>\"Welcome, First Time in Korea?\" also features a whole grilled cutlassfish restaurant said to be endorsed by BTS's Jin, plus a snow crab feast. Grilled cutlassfish and jari mulhoe (cold raw damselfish soup) are among Jeju's signature foods.</p><h2>Sights Between Meals</h2><ul><li><strong>Yongduam Rock (Dragon Head Rock)</strong> – a rock formation tied to Jeju folklore; the TV show visits it in the same episode as Yongyeon Cloud Bridge.</li><li><strong>Yongyeon Cloud Bridge</strong> – a suspension bridge set in Jeju's natural scenery.</li><li><strong>Hyeopjae Beach</strong> – relax and watch the sea from an ocean-view cafe; the show's cast takes a walk on an emerald beach followed by coffee at a beach cafe.</li><li><strong>Cheonjeyeon Waterfall</strong> – a waterfall walk in Seogwipo.</li><li><strong>Seongsan Ilchulbong (Sunrise Peak)</strong> – a hike up the crater peak.</li></ul><h2>Planning Tips</h2><ul><li><strong>Jeju City day</strong>: momguk breakfast, then Yongduam and Yongyeon Cloud Bridge, and Dongmun Night Market from around 6 pm. Browse the fish market side earlier in the day.</li><li><strong>Seogwipo / Jungmun</strong>: walk Cheonjeyeon Waterfall, then eat black pork at Donsadon Jungmoon, which sits on Chunjaeyeon-ro.</li><li><strong>East side</strong>: hike Seongsan Ilchulbong and pair it with mackerel ssam rice in Seongsan-eup or abalone at Myeongjin Jeonbok in Gujwa-eup.</li><li><strong>Southwest</strong>: combine bomal kalguksu and raw mackerel in Moseulpo with the Sagye Haenyeo shack.</li><li><strong>Prices</strong>: figures quoted are from the time of filming and may have changed.</li></ul>"
+    "en": "<p>Jeju is a volcanic island known for its haenyeo divers, black pork and sea views. This guide pulls together only the restaurants, markets and sights that appear in travel videos about the island, so you can plan a food trip around black pork BBQ, Dongmun Night Market and seafood stops along the coast.</p><h2>Jeju Black Pork</h2><h3>Neulbom Heukdwaeji</h3><p>A black pork restaurant featured in the videos, serving grilled black pork. A straightforward choice for your first Jeju BBQ meal.</p><h3>Donsadon Jungmoon</h3><p>In the video where British high schoolers try Jeju black pork, the hosts explain they first tasted it on Jeju seven years earlier and never forgot it. They bring the boys to Donsadon Jungmoon on Chunjaeyeon-ro in Seogwipo (the video notes it is not sponsored) and say it was even better than they remembered.</p><h3>Camping-style black pork</h3><p>On MBC every1's \"Welcome, First Time in Korea?\", New Zealander Andy grills Jeju black pork for his friends in a camping-style setting, a reminder that black pork isn't only a restaurant experience.</p><h2>Dongmun Market and Black Pork Street</h2><p>Dongmun Market in Jeju City is the island's go-to spot for black pork and street food. According to one night market video, every evening from about 6 pm an entire lane on the far side of the fresh wet market fills with street food stalls. The video points out that many items use Jeju black pork and Jeju tangerines, creations you won't easily find elsewhere in Korea.</p><h3>What was eaten at the night market</h3><p>In Best Ever Food Review Show's \"$100 street food challenge\" at Dongmun Market, the dishes included:</p><ul><li>Garlic cheese white pork roll – ₩10,000</li><li>Abalone \"turtle shell\" rice with seaweed – ₩5,500</li><li>Abalone gimbap wrapped in egg roll – ₩9,000 for 3 rolls</li><li>Cheese lobster – ₩19,800</li><li>Edible bowl with fried black pork – ₩13,000</li><li>Fried intestine (half spicy, half mild)</li></ul><h3>The fish market side</h3><p>The same channel's \"cheap vs expensive seafood\" episode starts at Dongmun Fish Market, where squid and a fish platter cost ₩10,000 and sea squirt ₩10,000. A separate \"24 hours of Korean food in Jeju\" video also stops at Dongjin Restaurant's Dongmun Market branch. \"Welcome, First Time in Korea?\" visits the night market too, right after a walk at Cheonjeyeon Waterfall.</p><h2>Seafood Around the Island</h2><h3>Jeju City breakfast: momguk and sea urchin soup</h3><p>The 24-hour video opens with breakfast at Kim Hee-seon Jeju Momguk: gulfweed soup (momguk) and sea urchin seaweed soup (seonggi miyeokguk), ₩33,000 for everything. Next is Sun Okine Myungga for cold seafood soup (mulhoe) and a Jeju-style shellfish hotpot, ₩34,000 in total.</p><h3>Moseulpo and Sagye</h3><p>In the \"Korea's Best Seafood in Jeju\" video, the host eats sea snail knife-cut noodles (bomal kalguksu, ₩12,000 per bowl) at Okdom Sikdang in Moseulpo, then raw mackerel with plenty of sides at Miyeongine Sikdang, also in Moseulpo (₩72,000 total), before visiting the Sagye Haenyeo divers' shack.</p><h3>East coast: abalone and mackerel ssam</h3><p>The \"Massive Korean Seafood Hotpot\" tour starts with braised fish (jorim) at Myeongmul Sikdang in Samdo 2-dong, Jeju City, moves to Myeongjin Jeonbok on Haemajihaean-ro in Gujwa-eup for abalone, and includes Seongsan Godeungeo Ssambap (mackerel ssam rice) in Goseong-ri, Seongsan-eup. The creator singles out the grilled abalone as the highlight.</p><h3>Cutlassfish and snow crab</h3><p>\"Welcome, First Time in Korea?\" also features a whole grilled cutlassfish restaurant said to be endorsed by BTS's Jin, plus a snow crab feast. Grilled cutlassfish and jari mulhoe (cold raw damselfish soup) are among Jeju's signature foods.</p><h2>Sights Between Meals</h2><ul><li><strong>Yongduam Rock (Dragon Head Rock)</strong> – a rock formation tied to Jeju folklore; the TV show visits it in the same episode as Yongyeon Cloud Bridge.</li><li><strong>Yongyeon Cloud Bridge</strong> – a suspension bridge set in Jeju's natural scenery.</li><li><strong>Hyeopjae Beach</strong> – relax and watch the sea from an ocean-view cafe; the show's cast takes a walk on an emerald beach followed by coffee at a beach cafe.</li><li><strong>Cheonjeyeon Waterfall</strong> – a waterfall walk in Seogwipo.</li><li><strong>Seongsan Ilchulbong (Sunrise Peak)</strong> – a hike up the crater peak.</li></ul><h2>Planning Tips</h2><ul><li><strong>Jeju City day</strong>: momguk breakfast, then Yongduam and Yongyeon Cloud Bridge, and Dongmun Night Market from around 6 pm. Browse the fish market side earlier in the day.</li><li><strong>Seogwipo / Jungmun</strong>: walk Cheonjeyeon Waterfall, then eat black pork at Donsadon Jungmoon, which sits on Chunjaeyeon-ro.</li><li><strong>East side</strong>: hike Seongsan Ilchulbong and pair it with mackerel ssam rice in Seongsan-eup or abalone at Myeongjin Jeonbok in Gujwa-eup.</li><li><strong>Southwest</strong>: combine bomal kalguksu and raw mackerel in Moseulpo with the Sagye Haenyeo shack.</li><li><strong>Prices</strong>: figures quoted are from the time of filming and may have changed.</li></ul>",
+    "ja": "<p>済州島は、海女（ヘニョ）、黒豚、海の眺めで知られる火山島です。このガイドでは、島の旅行動画に登場したレストラン、市場、名所だけをまとめました。黒豚BBQ、東門ナイトマーケット、海沿いの海鮮店を中心に、食べ歩きの旅程を組んでみてください。</p><h2>済州の黒豚</h2><h3>ヌルボム黒豚（늘봄흑돼지）</h3><p>動画で紹介された黒豚の店で、炭火焼きの黒豚を出します。済州で初めて黒豚BBQを食べるなら、わかりやすい選択肢です。</p><h3>ドンサドン 中文（정문）</h3><p>イギリスの高校生が済州の黒豚を味わう動画では、ホストが7年前に初めて済州で食べて以来忘れられなかったと語ります。西帰浦の春再淵路にあるドンサドン 中文に一行を連れて行き、記憶以上に美味しかったと話しています。（動画によると、これは広告ではありません。）</p><h3>キャンプ風の黒豚焼き</h3><p>MBC every1の「Welcome, First Time in Korea?」では、ニュージーランド出身のアンディさんが、キャンプ風の setting で友人たちに済州黒豚を焼いています。黒豚は店で食べるだけではない、という一例です。</p><h2>東門市場と黒豚通り</h2><p>済州市の東門市場は、島で黒豚と屋台料理を楽しむ定番の場所です。ある夜市の動画によると、毎晩午後6時頃から、生鮮市場の奥側の一本の通り全体に屋台が並びます。動画では、多くの料理に済州の黒豚と済州のミカンが使われていて、韓国の他の場所ではなかなか見つけられない料理だと紹介されています。</p><h3>夜市で食べたもの</h3><p>Best Ever Food Review Showの「$100 street food challenge」では、東門市場で次の料理を食べました。</p><ul><li>ガーリックチーズ白豚ロール – ₩10,000</li><li>アワビの「亀の甲羅」ご飯（海苔添え） – ₩5,500</li><li>アワビのキンパプ、卵焼きで巻いたもの – 3本で ₩9,000</li><li>チーズロブスター – ₩19,800</li><li>揚げ黒豚入りの食べられる器 – ₩13,000</li><li>テチュ（ホルモン揚げ、半分辛口・半分マイルド）</li></ul><h3>魚市場エリア</h3><p>同チャンネルの「安い海鮮 vs 高い海鮮」の回は、東門魚市場から始まります。イカと魚の盛り合わせが ₩10,000、ホヤが ₩10,000でした。別の「済州で24時間韓国料理」の動画では、東津食堂の東門市場店にも立ち寄っています。「Welcome, First Time in Korea?」では、天帝淵瀑布を歩いた後に夜市を訪れています。</p><h2>島内の海鮮</h2><h3>済州市の朝食：モムグクとウニのスープ</h3><p>24時間の動画は、金熙善済州モムグクでの朝食から始まります。ホンダワラのスープ（モムグク）とウニ入りの海藻スープ（ソンギミヨックク）で、全部で ₩33,000です。次は、冷たい海鮮スープ（ムルフェ）と済州風の貝鍋を出す順天食堂 明家です。合計 ₩34,000でした。</p><h3>牟瑟浦とサギェ</h3><p>「済州の最高の海鮮」の動画では、ホストが牟瑟浦の食堂「オクトム食堂」でボマル（巻貝）の包丁切り麺（ボマルカルグクス、1杯 ₩12,000）を食べ、同じく牟瑟浦の「ミヨンイネ食堂」で、副菜をたくさん添えた生サバを食べます（合計 ₩72,000）。その後、サギェの海女の小屋を訪れます。</p><h3>東海岸：アワビとサバのサムパプ</h3><p>「韓国の大海鮮鍋ツアー」は、済州市三徒2洞の「ミョンムル食堂」で魚の煮付け（チョリム）から始まり、旧邑の海馬之海岸路にある「ミョンジン チョンボク」でアワビを食べ、城山邑の古水里にある「城山ゴドゥンオ・サムパプ」のサバのサムパプ（包み飯）も含まれています。動画の制作者は、焼きアワビを一番の見どころに挙げています。</p><h3>タチウオと雪蟹</h3><p>「Welcome, First Time in Korea?」では、BTSのジンが推薦したと言われる丸焼きタチウオの店や、雪蟹の宴も紹介されています。丸焼きタチウオと、チャリ・ムルフェ（冷たい生ハナダイの汁）は、済州を代表する料理です。</p><h2>食事の合間の名所</h2><ul><li><strong>龍頭岩（용두암）</strong> – 済州の伝説と結びつく岩の造形。テレビ番組は、龍淵雲橋と同じ回でここを訪れています。</li><li><strong>龍淵雲橋（용연구름다리）</strong> – 済州の自然の中に架かる吊り橋。</li><li><strong>協災海岸（협재 바다）</strong> – 海の見えるカフェで海を眺めてくつろげます。番組の出演者は、エメラルド色の海辺を散歩した後、海辺のカフェでコーヒーを飲みます。</li><li><strong>天帝淵瀑布（천제연폭포）</strong> – 西帰浦にある滝の散策路。</li><li><strong>城山日出峰（성산일출봉）</strong> – 火口丘に登るハイキング。</li></ul><h2>計画のヒント</h2><ul><li><strong>済州市の日</strong>：モムグクの朝食、そのあと龍頭岩と龍淵雲橋、午後6時頃から東門ナイトマーケット。魚市場エリアは日中に見て回るとよいでしょう。</li><li><strong>西帰浦・中文</strong>：天帝淵瀑布を歩き、春再淵路にあるドンサドン 中文で黒豚を食べます。</li><li><strong>東側</strong>：城山日出峰に登り、城山邑でサバのサムパプ、または旧邑の明珍チョンボクでアワビを楽しみましょう。</li><li><strong>南西部</strong>：牟瑟浦のボマルカルグクスと生サバを、サギェの海女の小屋と組み合わせます。</li><li><strong>価格</strong>：記載の金額は撮影時のもので、変わっている可能性があります。</li></ul>",
+    "zh-Hans": "<p>济州岛是一座火山岛，以海女潜水员、黑猪肉和海景闻名。本指南只汇总旅游视频中出现过的餐厅、市场和景点，方便你围绕黑猪肉烧烤、东门夜市和沿海海鲜店规划一次美食之旅。</p><h2>济州黑猪肉</h2><h3>Neulbom Heukdwaeji（늘봄흑돼지）</h3><p>视频中出现的一家黑猪肉餐厅，供应烤黑猪肉。对于第一次在济州吃烤肉的人来说，是个直接了当的选择。</p><h3>Donsadon Jungmoon（돈사돈 중문점）</h3><p>在英国高中生尝试济州黑猪肉的那段视频里，主持人说他们七年前第一次在济州吃到这种猪肉，一直念念不忘。他们带孩子们来到西归浦市春再园路上的돈사돈中文店（视频注明并非广告合作），并表示味道比记忆中还要好。</p><h3>露营风格的黑猪肉</h3><p>在MBC every1的《Welcome, First Time in Korea?》中，新西兰人Andy在露营风格的场景里为朋友们烤济州黑猪肉，提醒大家黑猪肉不只是餐厅里的体验。</p><h2>东门市场与黑猪肉街</h2><p>济州市的东门市场是岛上吃黑猪肉和街头小吃的首选之地。据一则夜市视频介绍，每天傍晚约六点起，生鲜湿市场另一侧的整条街都会摆满小吃摊。视频指出，许多食物都用到济州黑猪肉和济州橘子，这些创意在韩国其他地方不容易吃到。</p><h3>夜市吃了什么</h3><p>在Best Ever Food Review Show的“100美元街头小吃挑战”中，于东门市场吃到的菜品包括：</p><ul><li>大蒜芝士白猪肉卷 – 10,000韩元</li><li>鲍鱼“龟壳”海苔饭 – 5,500韩元</li><li>鲍鱼紫菜包饭蛋卷 – 3卷9,000韩元</li><li>芝士龙虾 – 19,800韩元</li><li>炸黑猪肉可食用碗 – 13,000韩元</li><li>炸猪肠（半辣、半不辣）</li></ul><h3>鱼市一侧</h3><p>同一频道的“便宜与昂贵的海鲜”一集从东门鱼市开始，那里的鱿鱼和鱼拼盘10,000韩元，海鞘10,000韩元。另一支“在济州吃24小时韩食”的视频则停在东进餐厅的东门市场分店。《Welcome, First Time in Korea?》在天帝渊瀑布散步后也去了夜市。</p><h2>岛上各地的海鲜</h2><h3>济州市早餐：海带汤与海胆汤</h3><p>这支24小时视频以金熙善济州海带汤店的早餐开场：海带汤（momguk）和海胆海藻汤（seonggi miyeokguk），全部合计33,000韩元。接着是Sun Okine Myungga，点了冷海鲜汤（mulhoe）和济州风味的贝类火锅，合计34,000韩元。</p><h3>摩瑟浦与沙溪</h3><p>在“济州岛韩国最好的海鲜”视频中，主持人在摩瑟浦的Okdom Sikdang吃了螺肉刀切面（bomal kalguksu，每碗12,000韩元），然后在同样位于摩瑟浦的Miyeongine Sikdang吃了配有很多小菜的生鲱鱼（合计72,000韩元），之后前往沙溪海女小屋。</p><h3>东海岸：鲍鱼与鲭鱼包饭</h3><p>“韩国海鲜火锅大餐”的行程从济州市三道2洞的Myeongmul Sikdang开始，吃红烧鱼（jorim）；随后到古左邑海边之路上的Myeongjin Jeonbok吃鲍鱼；行程还包括城山邑古城里的城山古登语包饭（鲭鱼包饭）。创作者特别推荐烤鲍鱼是亮点。</p><h3>带鱼与雪蟹</h3><p>《Welcome, First Time in Korea?》还介绍了一家整条烤带鱼的餐厅，据说曾获防弹少年团Jin推荐，另外还有一顿雪蟹大餐。烤带鱼和济州刺鳈鱼冷汤（jari mulhoe）都是济州的代表美食。</p><h2>餐间景点</h2><ul><li><strong>龙头岩（용두암）</strong> – 与济州传说相关的岩石景观；这档电视节目在同一集中也去了龙渊云桥。</li><li><strong>龙渊云桥（용연구름다리）</strong> – 设在济州自然风景中的吊桥。</li><li><strong>协材海滩（협재 바다）</strong> – 在能看到海景的咖啡馆里放松观海；节目嘉宾在翡翠色的海滩散步，之后在海滩咖啡馆喝咖啡。</li><li><strong>天帝渊瀑布（천제연폭포）</strong> – 西归浦的瀑布步道。</li><li><strong>城山日出峰（성산일출봉）</strong> – 攀登火山口山峰。</li></ul><h2>行程建议</h2><ul><li><strong>济州市一日</strong>：吃海带汤早餐，然后去龙头岩和龙渊云桥，傍晚约六点后逛东门夜市。白天可以先逛鱼市一侧。</li><li><strong>西归浦／中文</strong>：走天帝渊瀑布，然后到位于春再园路的돈사돈中文店吃黑猪肉。</li><li><strong>东部</strong>：爬城山日出峰，搭配城山邑的鲭鱼包饭，或古左邑明镇甲鲍（Myeongjin Jeonbok）的鲍鱼。</li><li><strong>西南部</strong>：把摩瑟浦的螺肉刀切面和生鲱鱼，与沙溪海女小屋结合在一起。</li><li><strong>价格</strong>：文中的价格为拍摄时的数字，可能已有变动。</li></ul>",
+    "zh-Hant": "<p>濟州是以海女、黑豚和海景聞名的火山島。這份指南只整理旅遊影片中出現過的餐廳、市場與景點，方便你以黑豚烤肉、東門夜市和沿海海鮮店為核心規劃美食行程。</p><h2>濟州黑豚</h2><h3>늘봄흑돼지（Neulbom Heukdwaeji）</h3><p>影片中介紹的黑豚烤肉店，供應炭烤黑豚。如果是第一次在濟州吃烤肉，這是一個單純實在的選擇。</p><h3>Donsadon Jungmoon（돈사돈 중문）</h3><p>在英國高中生嘗試濟州黑豚的影片中，主持人表示七年前第一次在濟州吃到黑豚，一直念念不忘。他們帶男孩們來到西歸浦春災路上的돈사돈 중문（影片註明並非贊助內容），並說這次比記憶中還要好吃。</p><h3>露營風格的黑豚烤肉</h3><p>在 MBC every1 的《Welcome, First Time in Korea?》中，紐西蘭人 Andy 以露營風格為朋友烤濟州黑豚，提醒大家黑豚並不只能在餐廳裡吃到。</p><h2>東門市場與黑豚街</h2><p>位於濟州市的東門市場是島上吃黑豚與街頭小吃的熱門地點。一支夜市影片指出，每天傍晚約六點起，生鮮濕市場遠側的整條巷子會擺滿小吃攤。影片提到，許多餐點使用濟州黑豚與濟州橘子，這類料理在韓國其他地方不容易找到。</p><h3>夜市吃了什麼</h3><p>在 Best Ever Food Review Show 於東門市場拍攝的「100美元街頭小吃挑戰」中，品嚐的餐點包括：</p><ul><li>蒜味起司白豬肉捲 – ₩10,000</li><li>鮑魚「龜殼」海苔飯 – ₩5,500</li><li>鮑魚紫菜包飯蛋卷 – 3條 ₩9,000</li><li>起司龍蝦 – ₩19,800</li><li>炸黑豚碗 – ₩13,000</li><li>炸豬腸（半辣、半不辣）</li></ul><h3>魚市場這一側</h3><p>同一頻道的「便宜 vs 昂貴海鮮」集數從東門魚市場開始，其中魷魚與魚拼盤 ₩10,000，海鞘 ₩10,000。另一支「在濟州吃24小時韓食」的影片也停在東津餐廳的東門市場分店。《Welcome, First Time in Korea?》則在天帝淵瀑布散步之後，接著前往夜市。</p><h2>環島海鮮</h2><h3>濟州市早餐：海藻湯與海膽海藻湯</h3><p>24小時影片以金喜善濟州海藻湯店的早餐開場：海藻湯（momguk）與海膽海藻湯（seonggi miyeokguk），全部一共 ₩33,000。接著是 Sun Okine Myungga，供應冷湯海鮮湯（mulhoe）與濟州風格的貝類火鍋，總共 ₩34,000。</p><h3>摩寫浦與沙溪</h3><p>在「濟州最好的韓國海鮮」影片中，主持人在摩寫浦的 Okdom Sikdang 吃了海螺刀切麵（bomal kalguksu，每碗 ₩12,000），接著在同樣位於摩寫浦的 Miyeongine Sikdang 吃了生鯖魚配上許多小菜（共 ₩72,000），然後前往沙溪海女小屋。</p><h3>東海岸：鮑魚與鯖魚包飯</h3><p>「韓國海鮮火鍋大集合」行程從濟州市三都二洞的 Myeongmul Sikdang 燉魚（jorim）開始，接著前往舊左邑海邊路上的明津傳鮑吃鮑魚，並包括城山邑古城里的城山古等어 Ssambap（鯖魚包飯）。創作者特別推薦烤鮑魚是最大亮點。</p><h3>白帶魚與雪蟹</h3><p>《Welcome, First Time in Korea?》也介紹一家據稱受到 BTS 成員 Jin 推薦的整條烤白帶魚餐廳，還有雪蟹大餐。烤白帶魚與冷生魚湯（jari mulhoe）是濟州的代表料理。</p><h2>餐與餐之間的景點</h2><ul><li><strong>龍頭岩（용두암）</strong> – 與濟州民間傳說相關的岩石地形；電視節目在同一集中也造訪了龍淵雲橋。</li><li><strong>龍淵雲橋（용연구름다리）</strong> – 融入濟州自然景觀的吊橋。</li><li><strong>協才海灘（협재 바다）</strong> – 在可俯瞰海景的咖啡廳放鬆、看海；節目成員漫步在翡翠色海灘，之後到海邊咖啡廳喝咖啡。</li><li><strong>天帝淵瀑布（천제연폭포）</strong> – 西歸浦的瀑布步道。</li><li><strong>城山日出峰（성산일출봉）</strong> – 攀登火山口峰頂的健行路線。</li></ul><h2>行程規劃建議</h2><ul><li><strong>濟州市一日</strong>：早上吃海藻湯早餐，接著前往龍頭岩與龍淵雲橋，傍晚約六點後逛東門夜市。魚市場那一側可以白天先逛。</li><li><strong>西歸浦／中文</strong>：走天帝淵瀑布，然後到位於春災路的돈사돈 중문吃黑豚。</li><li><strong>東側</strong>：爬城山日出峰，搭配城山邑的鯖魚包飯，或到城山邑舊左邑的明津傳鮑吃鮑魚。</li><li><strong>西南部</strong>：在摩寫浦吃海螺刀切麵與生鯖魚，再順路去沙溪海女小屋。</li><li><strong>價格</strong>：文中標示的價格為拍攝當時的資訊，可能已有變動。</li></ul>",
+    "es": "<p>Jeju es una isla volcánica conocida por sus buceadoras haenyeo, su cerdo negro y sus vistas al mar. Esta guía reúne solo los restaurantes, mercados y lugares que aparecen en vídeos de viaje sobre la isla, para que puedas planear una ruta gastronómica alrededor de la barbacoa de cerdo negro, el mercado nocturno Dongmun y las paradas de mariscos a lo largo de la costa.</p><h2>Cerdo negro de Jeju</h2><h3>Neulbom Heukdwaeji</h3><p>Un restaurante de cerdo negro que aparece en los vídeos, con cerdo negro a la parrilla. Una opción sencilla para tu primera comida de barbacoa en Jeju.</p><h3>Donsadon Jungmoon</h3><p>En el vídeo en el que unos estudiantes británicos de secundaria prueban el cerdo negro de Jeju, los presentadores explican que lo probaron por primera vez en Jeju siete años antes y que nunca lo olvidaron. Llevan a los chicos a Donsadon Jungmoon, en Chunjaeyeon-ro, en Seogwipo (el vídeo aclara que no es un patrocinio) y dicen que estaba aún mejor de lo que recordaban.</p><h3>Cerdo negro al estilo camping</h3><p>En \"Welcome, First Time in Korea?\" de MBC every1, el neozelandés Andy asa cerdo negro de Jeju para sus amigos en un ambiente de camping, un recordatorio de que el cerdo negro no es solo una experiencia de restaurante.</p><h2>Mercado Dongmun y calle del cerdo negro</h2><p>El mercado Dongmun, en la ciudad de Jeju, es el lugar al que acude la gente de la isla para cerdo negro y comida callejera. Según un vídeo sobre el mercado nocturno, cada tarde, desde alrededor de las 18:00, un callejón completo al otro lado del mercado de productos frescos se llena de puestos de comida callejera. El vídeo señala que muchos platos usan cerdo negro de Jeju y mandarinas de Jeju, creaciones que no es fácil encontrar en otras partes de Corea.</p><h3>Lo que se comió en el mercado nocturno</h3><p>En el \"reto de comida callejera de 100 dólares\" de Best Ever Food Review Show, en el mercado Dongmun, los platos incluyeron:</p><ul><li>Rollo de cerdo blanco con ajo y queso – ₩10.000</li><li>Arroz con abulón \"caparazón de tortuga\" y alga – ₩5.500</li><li>Gimbap de abulón envuelto en tortilla – ₩9.000 por 3 rollos</li><li>Langosta con queso – ₩19.800</li><li>Cuenco comestible con cerdo negro frito – ₩13.000</li><li>Intestino frito (mitad picante, mitad suave)</li></ul><h3>El lado del mercado de pescado</h3><p>El episodio \"mariscos baratos vs. caros\" del mismo canal empieza en el mercado de pescado Dongmun, donde el calamar y una bandeja de pescado cuestan ₩10.000 y el ascidia ₩10.000. Otro vídeo, \"24 horas de comida coreana en Jeju\", también para en la sucursal del mercado Dongmun del restaurante Dongjin. \"Welcome, First Time in Korea?\" visita el mercado nocturno justo después de pasear por la cascada Cheonjeyeon.</p><h2>Mariscos por toda la isla</h2><h3>Desayuno en la ciudad de Jeju: momguk y sopa de erizo de mar</h3><p>El vídeo de 24 horas empieza con el desayuno en Kim Hee-seon Jeju Momguk: sopa de algas momguk y sopa de algas con erizo de mar (seonggi miyeokguk), ₩33.000 en total. Después, Sun Okine Myungga, para la sopa fría de mariscos (mulhoe) y un guiso de moluscos al estilo de Jeju, ₩34.000 en total.</p><h3>Moseulpo y Sagye</h3><p>En el vídeo \"Los mejores mariscos de Corea en Jeju\", el presentador come fideos cortados a cuchillo con caracol de mar (bomal kalguksu, ₩12.000 el cuenco) en Okdom Sikdang, en Moseulpo, y luego caballa cruda con muchos acompañamientos en Miyeongine Sikdang, también en Moseulpo (₩72.000 en total), antes de visitar la casa de las buceadoras haenyeo de Sagye.</p><h3>Costa este: abulón y ssam de caballa</h3><p>El recorrido \"Gran olla de mariscos coreanos\" empieza con pescado estofado (jorim) en Myeongmul Sikdang, en Samdo 2-dong, ciudad de Jeju; sigue a Myeongjin Jeonbok, en Haemajihaean-ro, en Gujwa-eup, para el abulón, e incluye el arroz con ssam de caballa Seongsan Godeungeo Ssambap, en Goseong-ri, Seongsan-eup. La creadora destaca el abulón a la parrilla como lo mejor.</p><h3>Pez sable y cangrejo de nieve</h3><p>\"Welcome, First Time in Korea?\" también presenta un restaurante de pez sable entero a la parrilla que, según se dice, es recomendado por Jin de BTS, además de un festín de cangrejo de nieve. El pez sable a la parrilla y el jari mulhoe (sopa fría de pez damisela crudo) están entre los platos típicos de Jeju.</p><h2>Lugares entre comidas</h2><ul><li><strong>Roca Yongduam (roca de la cabeza de dragón)</strong> – una formación rocosa ligada al folclore de Jeju; el programa de televisión la visita en el mismo episodio que el puente de nubes Yongyeon.</li><li><strong>Puente de nubes Yongyeon</strong> – un puente colgante situado en el paisaje natural de Jeju.</li><li><strong>Playa de Hyeopjae</strong> – relájate y mira el mar desde una cafetería con vistas al océano; el reparto del programa pasea por una playa color esmeralda y luego toma café en una cafetería junto a la playa.</li><li><strong>Cascada Cheonjeyeon</strong> – un paseo por la cascada en Seogwipo.</li><li><strong>Seongsan Ilchulbong (Pico del Amanecer)</strong> – una subida al pico del cráter.</li></ul><h2>Consejos para planear</h2><ul><li><strong>Día en la ciudad de Jeju</strong>: desayuno momguk, luego Yongduam y el puente de nubes Yongyeon, y el mercado nocturno Dongmun desde alrededor de las 18:00. Visita la zona del mercado de pescado temprano en el día.</li><li><strong>Seogwipo / Jungmun</strong>: pasea por la cascada Cheonjeyeon y luego come cerdo negro en Donsadon Jungmoon, situado en Chunjaeyeon-ro.</li><li><strong>Lado este</strong>: sube a Seongsan Ilchulbong y combínalo con el arroz con ssam de caballa en Seongsan-eup o con abulón en Myeongjin Jeonbok, en Gujwa-eup.</li><li><strong>Suroeste</strong>: combina bomal kalguksu y caballa cruda en Moseulpo con la casa de las haenyeo de Sagye.</li><li><strong>Precios</strong>: las cifras indicadas son del momento del rodaje y pueden haber cambiado.</li></ul>",
+    "fr": "<p>Jeju est une île volcanique connue pour ses plongeuses haenyeo, son porc noir et ses vues sur la mer. Ce guide rassemble uniquement les restaurants, marchés et sites qui apparaissent dans les vidéos de voyage consacrées à l'île, afin de vous aider à organiser un voyage gourmand autour du barbecue au porc noir, du marché de nuit Dongmun et des arrêts fruits de mer le long de la côte.</p><h2>Le porc noir de Jeju</h2><h3>Neulbom Heukdwaeji</h3><p>Un restaurant de porc noir présenté dans les vidéos, qui sert du porc noir grillé. Un choix simple pour votre premier repas de barbecue à Jeju.</p><h3>Donsadon Jungmoon</h3><p>Dans la vidéo où des lycéens britanniques goûtent le porc noir de Jeju, les hôtes expliquent qu'ils l'avaient goûté pour la première fois à Jeju sept ans plus tôt et ne l'avaient jamais oublié. Ils emmènent les jeunes au Donsadon Jungmoon, sur Chunjaeyeon-ro à Seogwipo (la vidéo précise qu'il ne s'agit pas d'un partenariat publicitaire) et disent qu'il était encore meilleur que dans leurs souvenirs.</p><h3>Porc noir façon camping</h3><p>Dans « Welcome, First Time in Korea ? » de MBC every1, Andy, un Néo-Zélandais, grille du porc noir de Jeju pour ses amis dans un cadre de camping, un rappel que le porc noir ne se limite pas à l'expérience du restaurant.</p><h2>Marché Dongmun et rue du porc noir</h2><p>Le marché Dongmun, à Jeju-si, est le lieu de référence de l'île pour le porc noir et la cuisine de rue. Selon une vidéo consacrée à un marché de nuit, chaque soir à partir d'environ 18 h, une rue entière, de l'autre côté du marché frais, se remplit de stands de street food. La vidéo souligne que de nombreux plats utilisent du porc noir de Jeju et des mandarines de Jeju, des créations que l'on ne trouve pas facilement ailleurs en Corée.</p><h3>Ce qui a été goûté au marché de nuit</h3><p>Dans le « défi street food à 100 dollars » de Best Ever Food Review Show au marché Dongmun, les plats comprenaient :</p><ul><li>Rouleau de porc blanc au fromage et à l'ail : 10 000 ₩</li><li>Riz « carapace de tortue » à l'ormeau et aux algues : 5 500 ₩</li><li>Gimbap à l'ormeau enveloppé d'omelette : 9 000 ₩ les 3 rouleaux</li><li>Homard au fromage : 19 800 ₩</li><li>Bol comestible au porc noir frit : 13 000 ₩</li><li>Intestin frit (moitié épicé, moitié doux)</li></ul><h3>Le côté marché aux poissons</h3><p>L'épisode « fruits de mer bon marché vs chers » de la même chaîne commence au marché aux poissons Dongmun, où le calamar et un plateau de poisson coûtent 10 000 ₩, et l'ascidie 10 000 ₩. Une autre vidéo, « 24 heures de cuisine coréenne à Jeju », s'arrête aussi à la succursale du marché Dongmun du restaurant Dongjin. « Welcome, First Time in Korea ? » visite également le marché de nuit, juste après une promenade à la cascade Cheonjeyeon.</p><h2>Fruits de mer sur toute l'île</h2><h3>Petit-déjeuner à Jeju-si : momguk et soupe d'oursin</h3><p>La vidéo de 24 heures commence par le petit-déjeuner au Kim Hee-seon Jeju Momguk : soupe de laitue de mer (momguk) et soupe d'algues à l'oursin (seonggi miyeokguk), 33 000 ₩ au total. Vient ensuite Sun Okine Myungga pour la soupe de fruits de mer froide (mulhoe) et un pot-au-feu de coquillages à la manière de Jeju, 34 000 ₩ au total.</p><h3>Moseulpo et Sagye</h3><p>Dans la vidéo « Les meilleurs fruits de mer de Corée à Jeju », l'hôte mange des nouilles découpées au couteau aux bigorneaux (bomal kalguksu, 12 000 ₩ le bol) à Okdom Sikdang, à Moseulpo, puis du maquereau cru avec de nombreux accompagnements à Miyeongine Sikdang, également à Moseulpo (72 000 ₩ au total), avant de visiter la cabane des plongeuses haenyeo de Sagye.</p><h3>Côte est : ormeau et ssam de maquereau</h3><p>Le circuit « Énorme pot-au-feu de fruits de mer coréen » commence par du poisson braisé (jorim) au Myeongmul Sikdang, à Samdo 2-dong, à Jeju-si, passe au Myeongjin Jeonbok, sur Haemajihaean-ro à Gujwa-eup, pour l'ormeau, et comprend le riz ssam au maquereau Seongsan Godeungeo à Goseong-ri, Seongsan-eup. Le créateur met en avant l'ormeau grillé comme point fort.</p><h3>Sabre et crabe des neiges</h3><p>« Welcome, First Time in Korea ? » présente aussi un restaurant de sabre noir grillé entier, que l'on dit recommandé par Jin de BTS, ainsi qu'un festin de crabe des neiges. Le sabre noir grillé et le jari mulhoe (soupe froide de poisson demoiselle cru) font partie des spécialités emblématiques de Jeju.</p><h2>Sites entre les repas</h2><ul><li><strong>Rocher Yongduam (rocher de la tête de dragon)</strong> : une formation rocheuse liée au folklore de Jeju ; l'émission de télévision le visite dans le même épisode que le pont des nuages de Yongyeon.</li><li><strong>Pont des nuages de Yongyeon</strong> : un pont suspendu situé dans les paysages naturels de Jeju.</li><li><strong>Plage de Hyeopjae</strong> : détendez-vous et regardez la mer depuis un café avec vue sur l'océan ; les membres de l'émission marchent sur une plage couleur émeraude, puis prennent un café dans un café de plage.</li><li><strong>Cascade Cheonjeyeon</strong> : une promenade le long d'une cascade à Seogwipo.</li><li><strong>Seongsan Ilchulbong (pic du Lever de soleil)</strong> : une randonnée jusqu'au sommet du cratère.</li></ul><h2>Conseils pour organiser votre voyage</h2><ul><li><strong>Journée à Jeju-si</strong> : petit-déjeuner momguk, puis Yongduam et le pont des nuages de Yongyeon, et le marché de nuit Dongmun à partir d'environ 18 h. Parcourez le côté marché aux poissons plus tôt dans la journée.</li><li><strong>Seogwipo / Jungmun</strong> : promenez-vous à la cascade Cheonjeyeon, puis mangez du porc noir au Donsadon Jungmoon, situé sur Chunjaeyeon-ro.</li><li><strong>Côte est</strong> : randonnée au pic Seongsan Ilchulbong, associée au riz ssam au maquereau à Seongsan-eup ou à l'ormeau au Myeongjin Jeonbok à Gujwa-eup.</li><li><strong>Sud-ouest</strong> : associez bomal kalguksu et maquereau cru à Moseulpo avec la cabane des plongeuses haenyeo de Sagye.</li><li><strong>Prix</strong> : les montants indiqués datent du tournage et ont pu changer.</li></ul>",
+    "de": "<p>Jeju ist eine vulkanische Insel, bekannt für ihre Haenyeo-Taucherinnen, das schwarze Schweinefleisch und die Meerblicke. Dieser Führer fasst nur die Restaurants, Märkte und Sehenswürdigkeiten zusammen, die in Reisevideos über die Insel vorkommen, damit Sie eine Essensreise rund um Schwarzschwein-BBQ, den Dongmun-Nachtmarkt und Meeresfrucht-Stopps an der Küste planen können.</p><h2>Schwarzes Schweinefleisch aus Jeju</h2><h3>Neulbom Heukdwaeji</h3><p>Ein Restaurant für schwarzes Schweinefleisch, das in den Videos vorkommt und gegrilltes schwarzes Schweinefleisch serviert. Eine unkomplizierte Wahl für Ihr erstes BBQ-Essen auf Jeju.</p><h3>Donsadon Jungmoon</h3><p>In dem Video, in dem britische Highschool-Schüler Jeju-Schwarzschwein probieren, erklären die Gastgeber, dass sie es vor sieben Jahren auf Jeju zum ersten Mal gegessen und nie vergessen haben. Sie bringen die Jungs zum Donsadon Jungmoon in der Chunjaeyeon-ro in Seogwipo (das Video weist darauf hin, dass es nicht gesponsert ist) und sagen, es sei noch besser gewesen, als sie es in Erinnerung hatten.</p><h3>Schwarzes Schwein im Campingstil</h3><p>In „Welcome, First Time in Korea?“ von MBC every1 grillt der Neuseeländer Andy Jeju-Schwarzschwein für seine Freunde im Campingstil. Es zeigt, dass schwarzes Schweinefleisch nicht nur ein Restaurant-Erlebnis ist.</p><h2>Dongmun-Markt und Schwarzschwein-Straße</h2><p>Der Dongmun-Markt in Jeju-Stadt ist der wichtigste Ort der Insel für schwarzes Schweinefleisch und Straßenessen. Laut einem Nachtmarkt-Video füllt sich jeden Abend ab etwa 18 Uhr eine ganze Gasse auf der Rückseite des Frischmarkts mit Imbissständen. Das Video weist darauf hin, dass viele Gerichte Jeju-Schweinefleisch und Jeju-Mandarinen verwenden, Kreationen, die man im übrigen Korea so nicht leicht findet.</p><h3>Was beim Nachtmarkt gegessen wurde</h3><p>In der „$100 street food challenge“ von Best Ever Food Review Show auf dem Dongmun-Markt gehörten zu den Gerichten:</p><ul><li>Knoblauch-Käse-Schweinerolle – ₩10.000</li><li>Abalone-„Schildkrötenpanzer“-Reis mit Seetang – ₩5.500</li><li>Abalone-Gimbap im Omelettmantel – ₩9.000 für 3 Rollen</li><li>Käse-Hummer – ₩19.800</li><li>Essbare Schale mit frittiertem schwarzen Schweinefleisch – ₩13.000</li><li>Frittierter Darm (halb scharf, halb mild)</li></ul><h3>Die Fischmarkt-Seite</h3><p>Die Folge „günstiges vs. teures Seafood“ desselben Kanals beginnt auf dem Dongmun-Fischmarkt, wo Tintenfisch und eine Fischplatte ₩10.000 kosten und Seescheide ₩10.000. Ein weiteres Video, „24 Stunden koreanisches Essen auf Jeju“, hält außerdem an der Filiale des Dongjin Restaurant auf dem Dongmun-Markt. „Welcome, First Time in Korea?“ besucht den Nachtmarkt ebenfalls, direkt nach einem Spaziergang am Cheonjeyeon-Wasserfall.</p><h2>Meeresfrüchte rund um die Insel</h2><h3>Frühstück in Jeju-Stadt: Momguk und Seeigelsuppe</h3><p>Das 24-Stunden-Video beginnt mit einem Frühstück im Kim Hee-seon Jeju Momguk: Tangsuppe (Momguk) und Seeigel-Seetangsuppe (Seonggi Miyeokguk), insgesamt ₩33.000. Danach geht es zum Sun Okine Myungga für kalte Meeresfrüchtesuppe (Mulhoe) und einen Muschel-Eintopf im Jeju-Stil, zusammen ₩34.000.</p><h3>Moseulpo und Sagye</h3><p>Im Video „Korea's Best Seafood in Jeju“ isst der Gastgeber im Okdom Sikdang in Moseulpo Bomal-Kalguksu mit Meeresschnecken (₩12.000 pro Schüssel), danach roten Fisch-Sashimi mit vielen Beilagen im Miyeongine Sikdang, ebenfalls in Moseulpo (insgesamt ₩72.000), bevor er die Hütte der Sagye-Haenyeo-Taucherinnen besucht.</p><h3>Ostküste: Abalone und Makrelen-Ssam</h3><p>Die Tour „Massive Korean Seafood Hotpot“ beginnt mit geschmortem Fisch (Jorim) im Myeongmul Sikdang in Samdo 2-dong, Jeju-Stadt, führt weiter zum Myeongjin Jeonbok in der Haemajihaean-ro in Gujwa-eup für Abalone und umfasst Seongsan Godeungeo Ssambap (Makrelen-Ssam mit Reis) in Goseong-ri, Seongsan-eup. Der Creator hebt die gegrillte Abalone als Highlight hervor.</p><h3>Degenfisch und Schneekrabbe</h3><p>„Welcome, First Time in Korea?“ zeigt außerdem ein Restaurant für ganzen gegrillten Degenfisch, das laut Video von BTS' Jin empfohlen wird, dazu ein Schneekrabben-Festmahl. Gegrillter Degenfisch und Jari-Mulhoe (kalte rohe Riffbarsch-Suppe) gehören zu Jejus typischen Gerichten.</p><h2>Sehenswürdigkeiten zwischen den Mahlzeiten</h2><ul><li><strong>Yongduam-Felsen (Drachenkopf-Felsen)</strong> – eine Felsformation, die mit der Jeju-Folklore verbunden ist; die TV-Show besucht sie in derselben Folge wie die Yongyeon-Wolkenbrücke.</li><li><strong>Yongyeon-Wolkenbrücke</strong> – eine Hängebrücke inmitten der Naturlandschaft Jejus.</li><li><strong>Hyeopjae-Strand</strong> – entspannen und vom Meerblick-Café aus das Meer betrachten; die Gruppe der Show spaziert an einem smaragdgrünen Strand und trinkt danach einen Kaffee in einem Strandcafé.</li><li><strong>Cheonjeyeon-Wasserfall</strong> – ein Spaziergang zum Wasserfall in Seogwipo.</li><li><strong>Seongsan Ilchulbong (Sonnenaufganggipfel)</strong> – eine Wanderung hinauf zum Kraterberg.</li></ul><h2>Planungstipps</h2><ul><li><strong>Tag in Jeju-Stadt</strong>: Momguk-Frühstück, dann Yongduam und die Yongyeon-Wolkenbrücke, ab etwa 18 Uhr der Dongmun-Nachtmarkt. Den Fischmarkt tagsüber vorher ansehen.</li><li><strong>Seogwipo / Jungmun</strong>: Spaziergang zum Cheonjeyeon-Wasserfall, danach Schwarzschwein im Donsadon Jungmoon an der Chunjaeyeon-ro.</li><li><strong>Ostseite</strong>: Seongsan Ilchulbong besteigen und dazu Makrelen-Ssam-Reis in Seongsan-eup oder Abalone im Myeongjin Jeonbok in Gujwa-eup genießen.</li><li><strong>Südwesten</strong>: Bomal-Kalguksu und rohe Makrele in Moseulpo mit der Hütte der Sagye-Haenyeo verbinden.</li><li><strong>Preise</strong>: Die genannten Preise stammen aus der Zeit der Aufnahme und können sich inzwischen geändert haben.</li></ul>",
+    "vi": "<p>Jeju là hòn đảo núi lửa nổi tiếng với những người thợ lặn haenyeo, thịt heo đen và cảnh biển đẹp. Hướng dẫn này chỉ tổng hợp các nhà hàng, chợ và điểm tham quan xuất hiện trong video du lịch về đảo, giúp bạn lên kế hoạch cho chuyến ăn uống quanh thịt heo đen nướng, chợ đêm Dongmun và các quán hải sản dọc bờ biển.</p><h2>Thịt heo đen Jeju</h2><h3>Neulbom Heukdwaeji</h3><p>Quán thịt heo đen được giới thiệu trong video, phục vụ thịt heo đen nướng. Đây là lựa chọn đơn giản cho bữa nướng đầu tiên ở Jeju.</p><h3>Donsadon Jungmoon</h3><p>Trong video có các học sinh trung học người Anh thử thịt heo đen Jeju, người dẫn chương trình kể họ đã nếm món này ở Jeju bảy năm trước và không bao giờ quên. Họ đưa các bạn đến Donsadon Jungmoon trên đường Chunjaeyeon ở Seogwipo (video ghi chú quán không phải tài trợ) và nói món này còn ngon hơn trong ký ức của họ.</p><h3>Thịt heo đen kiểu cắm trại</h3><p>Trong chương trình \"Welcome, First Time in Korea?\" của MBC every1, Andy người New Zealand nướng thịt heo đen Jeju cho bạn bè theo kiểu cắm trại, nhắc rằng thịt heo đen không chỉ là trải nghiệm trong nhà hàng.</p><h2>Chợ Dongmun và phố thịt heo đen</h2><p>Chợ Dongmun ở thành phố Jeju là điểm đến quen thuộc của đảo để ăn thịt heo đen và đồ ăn đường phố. Theo một video về chợ đêm, mỗi tối từ khoảng 6 giờ, cả một dãy phía xa của chợ cá tươi lại đầy các quầy đồ ăn đường phố. Video lưu ý nhiều món dùng thịt heo đen Jeju và quýt Jeju, những món khó tìm ở nơi khác trên đất Hàn Quốc.</p><h3>Các món đã ăn ở chợ đêm</h3><p>Trong thử thách \"$100 street food\" của Best Ever Food Review Show tại chợ Dongmun, các món gồm:</p><ul><li>Cuốn thịt heo trắng phô mai tỏi – 10.000 won</li><li>Cơm bào ngư \"mai rùa\" với rong biển – 5.500 won</li><li>Gimbap bào ngư cuốn trứng – 9.000 won cho 3 cuốn</li><li>Tôm hùm phô mai – 19.800 won</li><li>Bát ăn được chiên thịt heo đen – 13.000 won</li><li>Ruột chiên (nửa cay, nửa không cay)</li></ul><h3>Khu chợ cá</h3><p>Tập \"hải sản rẻ và đắt\" của cùng kênh bắt đầu tại chợ cá Dongmun, nơi mực và một đĩa cá có giá 10.000 won, còn hải tiêu biển là 10.000 won. Một video riêng \"24 giờ ăn đồ Hàn Quốc ở Jeju\" cũng ghé chi nhánh chợ Dongmun của nhà hàng Dongjin. \"Welcome, First Time in Korea?\" ghé chợ đêm ngay sau khi đi dạo ở thác Cheonjeyeon.</p><h2>Hải sản quanh đảo</h2><h3>Bữa sáng ở thành phố Jeju: canh momguk và canh nhím biển</h3><p>Video 24 giờ mở đầu bằng bữa sáng tại Kim Hee-seon Jeju Momguk: canh rong biển momguk và canh rong nhím biển (seonggi miyeokguk), tổng cộng 33.000 won. Tiếp theo là Sun Okine Myungga, nơi có canh hải sản lạnh (mulhoe) và lẩu hải sản kiểu Jeju, tổng cộng 34.000 won.</p><h3>Moseulpo và Sagye</h3><p>Trong video \"Hải sản ngon nhất Hàn Quốc ở Jeju\", người dẫn ăn mì cắt dao ốc biển (bomal kalguksu, 12.000 won một tô) tại Okdom Sikdang ở Moseulpo, rồi cá thu sống với nhiều món ăn kèm tại Miyeongine Sikdang, cũng ở Moseulpo (tổng 72.000 won), trước khi ghé lều của các thợ lặn haenyeo ở Sagye.</p><h3>Bờ đông: bào ngư và cá thu cuốn</h3><p>Chuyến \"Lẩu hải sản Hàn Quốc\" bắt đầu bằng cá kho (jorim) tại Myeongmul Sikdang ở Samdo 2-dong, thành phố Jeju, chuyển đến Myeongjin Jeonbok trên đường Haemajihaean ở Gujwa-eup để ăn bào ngư, và bao gồm Seongsan Godeungeo Ssambap (cơm cá thu cuốn) ở Goseong-ri, Seongsan-eup. Người làm video chọn bào ngư nướng làm điểm nhấn.</p><h3>Cá hố và cua tuyết</h3><p>\"Welcome, First Time in Korea?\" cũng giới thiệu một quán cá hố nướng nguyên con được cho là có Jin của BTS ủng hộ, cùng bữa cua tuyết. Cá hố nướng và jari mulhoe (canh cá thiên thần sống lạnh) là một trong những món đặc trưng của Jeju.</p><h2>Điểm tham quan giữa các bữa ăn</h2><ul><li><strong>Đá Yongduam (Đá Đầu Rồng)</strong> – khối đá gắn với truyền thuyết Jeju; chương trình truyền hình ghé đây trong cùng tập với cầu mây Yongyeon.</li><li><strong>Cầu mây Yongyeon</strong> – cầu treo giữa cảnh thiên nhiên Jeju.</li><li><strong>Bãi biển Hyeopjae</strong> – thư giãn và ngắm biển từ một quán cà phê nhìn ra biển; dàn diễn viên đi dạo trên bãi biển xanh ngọc rồi uống cà phê ở quán bên bờ.</li><li><strong>Thác Cheonjeyeon</strong> – đi dạo ngắm thác ở Seogwipo.</li><li><strong>Seongsan Ilchulbong (Đỉnh Mặt Trời Mọc)</strong> – leo lên đỉnh miệng núi lửa.</li></ul><h2>Gợi ý lên kế hoạch</h2><ul><li><strong>Một ngày ở thành phố Jeju</strong>: ăn sáng momguk, rồi đến Yongduam và cầu mây Yongyeon, và chợ đêm Dongmun từ khoảng 6 giờ chiều. Nên xem khu chợ cá vào buổi sáng sớm hơn trong ngày.</li><li><strong>Seogwipo / Jungmun</strong>: đi dạo thác Cheonjeyeon, rồi ăn thịt heo đen tại Donsadon Jungmoon, nằm trên đường Chunjaeyeon.</li><li><strong>Phía đông</strong>: leo Seongsan Ilchulbong và ăn cơm cá thu cuốn ở Seongsan-eup hoặc bào ngư ở Myeongjin Jeonbok thuộc Gujwa-eup.</li><li><strong>Phía tây nam</strong>: kết hợp bomal kalguksu và cá thu sống ở Moseulpo với lều haenyeo Sagye.</li><li><strong>Giá cả</strong>: các mức giá được ghi nhận vào thời điểm quay phim và có thể đã thay đổi.</li></ul>",
+    "th": "<p>เกาะเชจูเป็นเกาะภูเขาไฟที่ขึ้นชื่อเรื่องนักดำน้ำแฮนยอ หมูดำ และทิวทัศน์ริมทะเล คู่มือนี้รวบรวมเฉพาะร้านอาหาร ตลาด และสถานที่ท่องเที่ยวที่ปรากฏในคลิปท่องเที่ยวเกี่ยวกับเกาะนี้ เพื่อให้คุณวางแผนทริปกินอาหารรอบหมูดำย่าง ตลาดกลางคืนดงมุน และร้านอาหารทะเลตามชายฝั่ง</p><h2>หมูดำเชจู</h2><h3>ร้านหมูดำนึลบม ฮึกแดจี</h3><p>ร้านหมูดำที่ปรากฏในคลิป เสิร์ฟหมูดำย่าง เป็นตัวเลือกตรงไปตรงมาสำหรับมื้อย่างหมูดำมื้อแรกในเชจู</p><h3>ร้านดนซาดน จองมุน</h3><p>ในคลิปที่นักเรียนมัธยมปลายชาวอังกฤษลองหมูดำเชจู ผู้ดำเนินรายการเล่าว่าเคยลองหมูดำที่เชจูเมื่อเจ็ดปีก่อนและไม่เคยลืม พวกเขาพาเด็กๆ ไปที่ร้านดนซาดน จองมุน บนถนนชุนแจเยอนโร เมืองซอกวิโป (คลิประบุว่าไม่ได้เป็นการสปอนเซอร์) และบอกว่ามันอร่อยกว่าที่จำได้เสียอีก</p><h3>หมูดำย่างแบบแคมป์ปิ้ง</h3><p>ในรายการ \"Welcome, First Time in Korea?\" ทางช่อง MBC every1 แอนดี้ชาวนิวซีแลนด์ย่างหมูดำเชจูให้เพื่อนๆ ในบรรยากาศแบบแคมป์ปิ้ง ซึ่งเตือนว่าหมูดำไม่ได้มีให้กินแค่ในร้านอาหาร</p><h2>ตลาดดงมุนและถนนหมูดำ</h2><p>ตลาดดงมุนในเมืองเชจูเป็นจุดหมายหลักสำหรับหมูดำและอาหารข้างทางของเกาะ จากคลิปตลาดกลางคืนหนึ่ง ทุกเย็นราวหกโมงเย็น ซอยฝั่งไกลของตลาดสดจะเต็มไปด้วยแผงอาหารข้างทาง คลิปชี้ว่าหลายเมนูใช้หมูดำเชจูและส้มเชจู ซึ่งเป็นเมนูที่หาได้ยากในที่อื่นของเกาหลี</p><h3>สิ่งที่กินในตลาดกลางคืน</h3><p>ในรายการ \"$100 street food challenge\" ของ Best Ever Food Review Show ที่ตลาดดงมุน เมนูที่ลองกิน ได้แก่:</p><ul><li>หมูขาวม้วนชีสกระเทียม – 10,000 วอน</li><li>ข้าวหอยเป๋าฮื้อ \"กระดองเต่า\" กับสาหร่าย – 5,500 วอน</li><li>กิมบับเป๋าฮื้อห่อไข่ม้วน – 9,000 วอน สำหรับ 3 ชิ้น</li><li>กุ้งล็อบสเตอร์ชีส – 19,800 วอน</li><li>ชามกินได้ใส่หมูดำทอด – 13,000 วอน</li><li>ไส้ทอด (ครึ่งเผ็ด ครึ่งไม่เผ็ด)</li></ul><h3>ฝั่งตลาดปลา</h3><p>ตอน \"อาหารทะเลถูกvsแพง\" ของช่องเดียวกันเริ่มที่ตลาดปลาดงมุน ซึ่งปลาหมึกและจานปลารวมราคา 10,000 วอน และเพรียงทะเลราคา 10,000 วอน อีกคลิปชื่อ \"24 ชั่วโมงกับอาหารเกาหลีในเชจู\" ก็แวะที่สาขาตลาดดงมุนของร้านดงจิน ส่วน \"Welcome, First Time in Korea?\" ก็ไปตลาดกลางคืนเช่นกัน หลังเดินเล่นที่น้ำตกชอนเจยอน</p><h2>อาหารทะเลทั่วเกาะ</h2><h3>อาหารเช้าในเมืองเชจู: มกุกและซุปเม่น</h3><p>คลิป 24 ชั่วโมงเปิดด้วยมื้อเช้าที่ร้านคิม ฮีซอน เชจู มกุก ได้แก่ ซุปสาหร่ายมกุก และซุปสาหร่ายไข่เม่น (ซองกีมิยอกกุก) รวมทั้งหมด 33,000 วอน ต่อด้วยร้านซุน โอคิเน มยองกา สำหรับซุปอาหารทะเลเย็น (มุลโฮ) และหม้ออาหารหอยสไตล์เชจู รวม 34,000 วอน</p><h3>มอซึลโพและซากเย</h3><p>ในคลิป \"อาหารทะเลที่ดีที่สุดของเกาหลีในเชจู\" ผู้ดำเนินรายการกินก๋วยเตี๋ยวหอยทากมีดตัด (โบมัลคาลกุกซู ชามละ 12,000 วอน) ที่ร้านอกดมซิกดังในมอซึลโพ จากนั้นกินปลาซาบะดิบพร้อมกับข้างเคียงมากมายที่ร้านมิยองอินซิกดัง ซึ่งอยู่ในมอซึลโพเช่นกัน (รวม 72,000 วอน) ก่อนไปเยี่ยมกระท่อมนักดำน้ำแฮนยอที่ซากเย</p><h3>ชายฝั่งตะวันออก: เป๋าฮื้อและซัมปลาซาบะ</h3><p>ทัวร์ \"หม้ออาหารทะเลเกาหลีขนาดใหญ่\" เริ่มที่ร้านมยองมุลซิกดัง ในซัมโด 2-ดง เมืองเชจู ซึ่งเป็นปลาตุ๋น (โจริม) จากนั้นไปร้านมยองจินจอนบกบนถนนแฮมาจีแฮอันโร ในอึบกูจวา เพื่อกินเป๋าฮื้อ และแวะที่ซองซานโกดึงอออซัมบับ (ข้าวห่อซัมซาบะย่าง) ในโกซองนี เมืองซองซาน-อึบ ผู้ทำคลิปเลือกเป๋าฮื้อย่างเป็นไฮไลต์</p><h3>ปลาดาบเงินและปูหิมะ</h3><p>\"Welcome, First Time in Korea?\" ยังมีร้านปลาดาบเงินย่างทั้งตัวที่กล่าวกันว่าได้รับการรับรองจากจิน แห่ง BTS รวมถึงมื้อปูหิมะ ปลาดาบเงินย่างและจารีมุลโฮ (ซุปปลาเขียวดิบเย็น) เป็นอาหารประจำถิ่นของเชจู</p><h2>สถานที่ระหว่างมื้ออาหาร</h2><ul><li><strong>หินยงดูอัม (หินหัวมังกร)</strong> – หินธรรมชาติที่เชื่อมโยงกับนิทานพื้นบ้านของเชจู รายการทีวีไปที่นี่ในตอนเดียวกับสะพานเมฆยงยอน</li><li><strong>สะพานเมฆยงยอน</strong> – สะพานแขวนที่ตั้งอยู่ท่ามกลางธรรมชาติของเชจู</li><li><strong>หาดฮยอบแจ</strong> – พักผ่อนและมองทะเลจากคาเฟ่วิวทะเล นักแสดงในรายการเดินบนหาดสีมรกตแล้วดื่มกาแฟที่คาเฟ่ริมหาด</li><li><strong>น้ำตกชอนเจยอน</strong> – เดินชมน้ำตกที่ซอกวิโป</li><li><strong>ซองซานอิลชุลบง (ยอดพระอาทิตย์ขึ้น)</strong> – เดินป่าขึ้นยอดปล่องภูเขาไฟ</li></ul><h2>เคล็ดลับการวางแผน</h2><ul><li><strong>วันในเมืองเชจู</strong>: อาหารเช้ามกุก จากนั้นยงดูอัมและสะพานเมฆยงยอน และตลาดกลางคืนดงมุนตั้งแต่ราวหกโมงเย็น ควรเดินชมฝั่งตลาดปลาตั้งแต่ช่วงกลางวัน</li><li><strong>ซอกวิโป / จองมุน</strong>: เดินชมน้ำตกชอนเจยอน แล้วกินหมูดำที่ดนซาดน จองมุน ซึ่งอยู่บนถนนชุนแจเยอนโร</li><li><strong>ฝั่งตะวันออก</strong>: เดินป่าซองซานอิลชุลบง แล้วกินข้าวห่อซัมซาบะในซองซาน-อึบ หรือเป๋าฮื้อที่มยองจินจอนบกในอึบกูจวา</li><li><strong>ตะวันตกเฉียงใต้</strong>: รวมโบมัลคาลกุกซูและปลาซาบะดิบในมอซึลโพเข้ากับกระท่อมนักดำน้ำแฮนยอที่ซากเย</li><li><strong>ราคา</strong>: ราคาที่ระบุเป็นราคา ณ เวลาถ่ายทำ และอาจมีการเปลี่ยนแปลงแล้ว</li></ul>",
+    "id": "<p>Jeju adalah pulau vulkanik yang terkenal dengan penyelam haenyeo, babi hitam, dan pemandangan lautnya. Panduan ini hanya merangkum restoran, pasar, dan tempat wisata yang muncul dalam video perjalanan tentang pulau ini, sehingga Anda bisa merencanakan wisata kuliner seputar BBQ babi hitam, Pasar Malam Dongmun, dan tempat makan seafood di sepanjang pantai.</p><h2>Babi Hitam Jeju</h2><h3>Neulbom Heukdwaeji</h3><p>Restoran babi hitam yang tampil dalam video, menyajikan babi hitam panggang. Pilihan yang sederhana untuk makan BBQ pertama Anda di Jeju.</p><h3>Donsadon Jungmoon</h3><p>Dalam video ketika remaja SMA asal Inggris mencoba babi hitam Jeju, para pembawa acara menjelaskan bahwa mereka pertama kali mencobanya di Jeju tujuh tahun sebelumnya dan tidak pernah melupakannya. Mereka membawa anak-anak itu ke Donsadon Jungmoon di Chunjaeyeon-ro, Seogwipo (video mencatat bahwa tempat ini tidak disponsori) dan mengatakan rasanya bahkan lebih enak daripada yang mereka ingat.</p><h3>Babi hitam ala camping</h3><p>Di acara MBC every1 \"Welcome, First Time in Korea?\", Andy dari Selandia Baru memanggang babi hitam Jeju untuk teman-temannya dengan suasana ala camping, sebagai pengingat bahwa babi hitam tidak hanya bisa dinikmati di restoran.</p><h2>Pasar Dongmun dan Jalan Babi Hitam</h2><p>Pasar Dongmun di Kota Jeju adalah tempat utama di pulau ini untuk babi hitam dan jajanan kaki lima. Menurut salah satu video pasar malam, setiap malam mulai sekitar pukul 18.00, satu lorong di sisi seberang pasar basah tradisional dipenuhi gerai jajanan kaki lima. Video itu menunjukkan bahwa banyak menu memakai babi hitam Jeju dan jeruk Jeju, kreasi yang tidak mudah ditemukan di tempat lain di Korea.</p><h3>Yang dimakan di pasar malam</h3><p>Dalam \"$100 street food challenge\" dari Best Ever Food Review Show di Pasar Dongmun, hidangannya meliputi:</p><ul><li>Roti gulung babi putih keju bawang putih – ₩10.000</li><li>Nasi \"cangkang kura-kura\" abalon dengan rumput laut – ₩5.500</li><li>Gimbap abalon dibungkus gulungan telur – ₩9.000 untuk 3 gulung</li><li>Keju lobster – ₩19.800</li><li>Mangkuk yang bisa dimakan berisi babi hitam goreng – ₩13.000</li><li>Usus goreng (setengah pedas, setengah tidak pedas)</li></ul><h3>Sisi pasar ikan</h3><p>Episode \"cheap vs expensive seafood\" dari kanal yang sama dimulai di Pasar Ikan Dongmun, tempat cumi dan sepiring ikan dijual ₩10.000 dan sea squirt ₩10.000. Video terpisah \"24 hours of Korean food in Jeju\" juga berhenti di cabang Pasar Dongmun dari Dongjin Restaurant. \"Welcome, First Time in Korea?\" juga mengunjungi pasar malam, tepat setelah berjalan-jalan di Air Terjun Cheonjeyeon.</p><h2>Seafood di Seluruh Pulau</h2><h3>Sarapan di Kota Jeju: momguk dan sup bulu babi</h3><p>Video 24 jam dibuka dengan sarapan di Kim Hee-seon Jeju Momguk: sup rumput laut (momguk) dan sup rumput laut bulu babi (seonggi miyeokguk), ₩33.000 untuk semuanya. Berikutnya adalah Sun Okine Myungga untuk sup seafood dingin (mulhoe) dan hot pot kerang ala Jeju, total ₩34.000.</p><h3>Moseulpo dan Sagye</h3><p>Dalam video \"Korea's Best Seafood in Jeju\", pembawa acara makan bomal kalguksu (mie potong siput laut, ₩12.000 per mangkuk) di Okdom Sikdang di Moseulpo, lalu ikan kembung mentah dengan banyak lauk di Miyeongine Sikdang, juga di Moseulpo (total ₩72.000), sebelum mengunjungi gubuk penyelam haenyeo Sagye.</p><h3>Pantai timur: abalon dan ssam kembung</h3><p>Tur \"Massive Korean Seafood Hotpot\" dimulai dengan ikan rebus (jorim) di Myeongmul Sikdang di Samdo 2-dong, Kota Jeju, lalu pindah ke Myeongjin Jeonbok di Haemajihaean-ro, Gujwa-eup, untuk abalon, dan mencakup Seongsan Godeungeo Ssambap (nasi ssam kembung) di Goseong-ri, Seongsan-eup. Kreator menyoroti abalon panggang sebagai sorotan utama.</p><h3>Ikan layur dan kepiting salju</h3><p>\"Welcome, First Time in Korea?\" juga menampilkan restoran ikan layur panggang utuh yang disebut mendapat dukungan dari Jin BTS, serta pesta kepiting salju. Ikan layur panggang dan jari mulhoe (sup ikan damsel mentah dingin) termasuk makanan khas Jeju.</p><h2>Tempat Wisata di Antara Waktu Makan</h2><ul><li><strong>Batu Yongduam (Batu Kepala Naga)</strong> – formasi batu yang terkait dengan cerita rakyat Jeju; acara TV mengunjunginya dalam episode yang sama dengan Jembatan Awan Yongyeon.</li><li><strong>Jembatan Awan Yongyeon</strong> – jembatan gantung di tengah alam Jeju.</li><li><strong>Pantai Hyeopjae</strong> – bersantai dan memandang laut dari kafe dengan pemandangan laut; para pengisi acara berjalan di pantai berwarna zamrud lalu minum kopi di kafe pantai.</li><li><strong>Air Terjun Cheonjeyeon</strong> – jalan-jalan menyusuri air terjun di Seogwipo.</li><li><strong>Seongsan Ilchulbong (Puncak Sunrise)</strong> – mendaki puncak kawah.</li></ul><h2>Tips Perencanaan</h2><ul><li><strong>Hari di Kota Jeju</strong>: sarapan momguk, lalu Yongduam dan Jembatan Awan Yongyeon, dan Pasar Malam Dongmun mulai sekitar pukul 18.00. Jelajahi sisi pasar ikan lebih awal di siang hari.</li><li><strong>Seogwipo / Jungmun</strong>: jalan-jalan di Air Terjun Cheonjeyeon, lalu makan babi hitam di Donsadon Jungmoon, yang berada di Chunjaeyeon-ro.</li><li><strong>Sisi timur</strong>: mendaki Seongsan Ilchulbong dan padukan dengan nasi ssam kembung di Seongsan-eup atau abalon di Myeongjin Jeonbok di Gujwa-eup.</li><li><strong>Barat daya</strong>: gabungkan bomal kalguksu dan ikan kembung mentah di Moseulpo dengan gubuk haenyeo Sagye.</li><li><strong>Harga</strong>: angka yang disebutkan berasal dari saat pengambilan video dan mungkin sudah berubah.</li></ul>",
+    "ru": "<p>Чеджу — вулканический остров, известный своими ныряльщицами хэнё, чёрной свиньёй и видами на море. Этот гид собирает только рестораны, рынки и достопримечательности, которые появляются в видео о путешествиях по острову, чтобы вы могли спланировать гастрономический маршрут вокруг гриля из чёрной свинины, ночного рынка Тонмун и морских остановок вдоль побережья.</p><h2>Чёрная свинина Чеджу</h2><h3>Неульбом Хыкдвэджи</h3><p>Ресторан чёрной свинины, показанный в видео, где подают свинину на гриле. Простой и понятный выбор для первого ужина с барбекю на Чеджу.</p><h3>Донсадон Чунмун</h3><p>В видео, где британские старшеклассники пробуют чёрную свинину с Чеджу, ведущие рассказывают, что впервые попробовали её на острове семь лет назад и так и не забыли. Они приводят ребят в Донсадон Чунмун на улице Чунчэён-ро в Сокхвипхо (в видео отмечено, что это не реклама) и говорят, что на вкус он оказался ещё лучше, чем они помнили.</p><h3>Барбекю в походном стиле</h3><p>В программе MBC every1 «Welcome, First Time in Korea?» новозеландец Энди жарит чёрную свинину для друзей в походной обстановке, что напоминает: чёрная свинина — это не только ресторанный опыт.</p><h2>Рынок Тонмун и улица чёрной свинины</h2><p>Рынок Тонмун в городе Чеджу — главное место на острове для чёрной свинины и уличной еды. По одному из видео о ночном рынке, каждый вечер примерно с 18:00 целая улица за свежим мокрым рынком заполняется лотками с уличной едой. В видео отмечено, что многие блюда готовятся с чёрной свиньёй с Чеджу и мандаринами с Чеджу, и таких блюд трудно найти где-либо ещё в Корее.</p><h3>Что ели на ночном рынке</h3><p>В выпуске Best Ever Food Review Show «Испытание уличной едой за 100 долларов» на рынке Тонмун попробовали:</p><ul><li>Белый свиной рулет с чесноком и сыром — 10 000 вон</li><li>Рис «черепаший панцирь» с абалоном и морской капустой — 5 500 вон</li><li>Гимбап с абалоном в яичной оболочке — 9 000 вон за 3 рулета</li><li>Лобстер с сыром — 19 800 вон</li><li>Съедобная миска с жареной чёрной свининой — 13 000 вон</li><li>Жареные потроха (половина острые, половина неострые)</li></ul><h3>Рыбный рынок</h3><p>В эпизоде «дешёвые и дорогие морепродукты» того же канала съёмка начинается на рыбном рынке Тонмун, где кальмар и рыбное ассорти стоят 10 000 вон, а морской гребешок — 10 000 вон. Отдельное видео «24 часа корейской еды на Чеджу» также заходит в ресторан Дончжин на рынке Тонмун. «Welcome, First Time in Korea?» тоже приходит на ночной рынок, сразу после прогулки по водопаду Чонджеён.</p><h2>Морепродукты по всему острову</h2><h3>Завтрак в городе Чеджу: момгук и суп с морским ежом</h3><p>Видео о 24 часах начинается с завтрака в ресторане Ким Хи Сон Чеджу Момгук: суп из водорослей момгук и суп с морским ежом и морскими водорослями (сонги миёккук), всё вместе за 33 000 вон. Далее — Сун Оккине Мёнгва с холодным морским супом мульхве и чеджуским моллюсковым хотпотом, всего 34 000 вон.</p><h3>Мосыльпо и Сагье</h3><p>В видео «Лучшие морепродукты Кореи на Чеджу» ведущая ест лапшу кальгуксу с улитками бомаль (12 000 вон за порцию) в ресторане Окдом Сикдан в Мосыльпо, затем сырую скумбрию с большим количеством закусок в ресторане Мийонгине Сикдан, тоже в Мосыльпо (всего 72 000 вон), и затем посещает хижину ныряльщиц хэнё в Сагье.</p><h3>Восточное побережье: абалон и ссам из скумбрии</h3><p>Тур «Огромный корейский хотпот из морепродуктов» начинается с тушёной рыбы (чорим) в ресторане Мёнмуль Сикдан в районе Самдо 2-дон города Чеджу, затем переходит в Мёнджин Чонбок на улице Хэмаджихэан-ро в Кучхва-ыпе за абалоном и заканчивается ссам-рисом из скумбрии Сончжан Кодынгхо в Коседжон-ри, Сончжан-ыпе. Автор выделяет жареный абалон как главное блюдо.</p><h3>Сабля-рыба и снежный краб</h3><p>«Welcome, First Time in Korea?» также показывает ресторан целой жареной сабля-рыбы, о котором говорят, что его рекомендует Джин из BTS, а также пир из снежного краба. Жареная сабля-рыба и чари мульхве (холодный суп из сырой рыбы чари) относятся к фирменным блюдам Чеджу.</p><h2>Достопримечательности между едой</h2><ul><li><strong>Скала Ёндуам (Скала драконьей головы)</strong> — скальное образование, связанное с фольклором Чеджу; телешоу посещает её в том же эпизоде, что и мост Ёнён Куреммдари.</li><li><strong>Мост Ёнён Куреммдари</strong> — подвесной мост в живописной природе Чеджу.</li><li><strong>Пляж Хёпчэ</strong> — отдых и вид на море из кафе с видом на океан; участники шоу гуляют по изумрудному пляжу, а затем пьют кофе в пляжном кафе.</li><li><strong>Водопад Чонджеён</strong> — прогулка к водопаду в Сокхвипхо.</li><li><strong>Сончульбон (Пик восхода)</strong> — подъём на кратерный пик.</li></ul><h2>Советы по планированию</h2><ul><li><strong>День в городе Чеджу</strong>: завтрак момгук, затем Ёндуам и мост Ёнён Куреммдари, а с 18:00 — ночной рынок Тонмун. Рыбную часть рынка лучше посмотреть днём.</li><li><strong>Сокхвипхо / Чунмун</strong>: прогулка к водопаду Чонджеён, затем чёрная свинина в Донсадон Чунмун на улице Чунчэён-ро.</li><li><strong>Восточная часть</strong>: подъём на Сончульбон и ссам-рис из скумбрии в Сончжан-ыпе или абалон в Мёнджин Чонбок в Кучхва-ыпе.</li><li><strong>Юго-запад</strong>: бомаль кальгуксу и сырая скумбрия в Мосыльпо в сочетании с хижиной ныряльщиц хэнё в Сагье.</li><li><strong>Цены</strong>: указанные суммы взяты на момент съёмок и могли измениться.</li></ul>"
   },
   "places": [
     {
@@ -99,5 +129,307 @@
       "id": "qsA0YfKQ4Uo",
       "title": "Jeju Island Korean Seafood Tour!! (From $1 to $350)"
     }
-  ]
+  ],
+  "placesI18n": {
+    "ja": [
+      {
+        "name": "ヌルボム黒豚（늘봄흑돼지）",
+        "menu": "炭火焼きの黒豚"
+      },
+      {
+        "name": "東門市場・黒豚通り（동문시장 · 흑돼지거리）",
+        "menu": "黒豚、屋台料理"
+      },
+      {
+        "name": "協災海岸（협재 바다）",
+        "menu": "海の見えるカフェで海を眺めてくつろぐ"
+      },
+      {
+        "name": "龍頭岩（용두암）",
+        "menu": "済州の伝説と結びつく岩の造形"
+      },
+      {
+        "name": "龍淵雲橋（용연구름다리）",
+        "menu": "済州の自然に調和した吊り橋"
+      },
+      {
+        "name": "天帝淵瀑布（천제연폭포）",
+        "menu": "滝の散策路"
+      },
+      {
+        "name": "城山日出峰（성산일출봉）",
+        "menu": "日出峰のハイキング"
+      }
+    ],
+    "zh-Hans": [
+      {
+        "name": "Neulbom Heukdwaeji（늘봄흑돼지）",
+        "menu": "烤黑猪肉"
+      },
+      {
+        "name": "东门市场与黑猪肉街（동문시장 · 흑돼지거리）",
+        "menu": "黑猪肉、街头小吃"
+      },
+      {
+        "name": "协材海滩（협재 바다）",
+        "menu": "在海景咖啡馆放松，远眺大海"
+      },
+      {
+        "name": "龙头岩（용두암）",
+        "menu": "与济州传说相关的岩石景观"
+      },
+      {
+        "name": "龙渊云桥（용연구름다리）",
+        "menu": "与济州自然风景融为一体的吊桥"
+      },
+      {
+        "name": "天帝渊瀑布（천제연폭포）",
+        "menu": "瀑布步道"
+      },
+      {
+        "name": "城山日出峰（성산일출봉）",
+        "menu": "登山攀登日出峰"
+      }
+    ],
+    "zh-Hant": [
+      {
+        "name": "늘봄흑돼지（Neulbom Heukdwaeji）",
+        "menu": "炭烤黑豚"
+      },
+      {
+        "name": "東門市場・黑豚街（동문시장 · 흑돼지거리）",
+        "menu": "黑豚、街頭小吃"
+      },
+      {
+        "name": "協才海灘（협재 바다）",
+        "menu": "在可俯瞰海景的咖啡廳放鬆、看海"
+      },
+      {
+        "name": "龍頭岩（용두암）",
+        "menu": "與濟州民間傳說相關的岩石地形"
+      },
+      {
+        "name": "龍淵雲橋（용연구름다리）",
+        "menu": "融入濟州自然景觀的吊橋"
+      },
+      {
+        "name": "天帝淵瀑布（천제연폭포）",
+        "menu": "瀑布步道"
+      },
+      {
+        "name": "城山日出峰（성산일출봉）",
+        "menu": "攀登日出峰健行"
+      }
+    ],
+    "es": [
+      {
+        "name": "Neulbom Heukdwaeji (늘봄흑돼지)",
+        "menu": "Cerdo negro a la parrilla"
+      },
+      {
+        "name": "Mercado Dongmun y calle del cerdo negro (동문시장 · 흑돼지거리)",
+        "menu": "Cerdo negro, comida callejera"
+      },
+      {
+        "name": "Playa de Hyeopjae (협재 바다)",
+        "menu": "Relajarse y mirar el mar desde una cafetería con vistas al océano"
+      },
+      {
+        "name": "Roca Yongduam (용두암)",
+        "menu": "Formación rocosa ligada al folclore de Jeju"
+      },
+      {
+        "name": "Puente de nubes Yongyeon (용연구름다리)",
+        "menu": "Puente colgante en armonía con la naturaleza de Jeju"
+      },
+      {
+        "name": "Cascada Cheonjeyeon (천제연폭포)",
+        "menu": "Paseo por la cascada"
+      },
+      {
+        "name": "Seongsan Ilchulbong (성산일출봉)",
+        "menu": "Subida al Pico del Amanecer"
+      }
+    ],
+    "fr": [
+      {
+        "name": "Neulbom Heukdwaeji (늘봄흑돼지)",
+        "menu": "Porc noir grillé"
+      },
+      {
+        "name": "Marché Dongmun et rue du porc noir (동문시장 · 흑돼지거리)",
+        "menu": "Porc noir, cuisine de rue"
+      },
+      {
+        "name": "Plage de Hyeopjae (협재 바다)",
+        "menu": "Se détendre et admirer la mer depuis un café avec vue sur l'océan"
+      },
+      {
+        "name": "Rocher Yongduam (용두암)",
+        "menu": "Formation rocheuse liée au folklore de Jeju"
+      },
+      {
+        "name": "Pont des nuages de Yongyeon (용연구름다리)",
+        "menu": "Pont suspendu en harmonie avec la nature de Jeju"
+      },
+      {
+        "name": "Cascade Cheonjeyeon (천제연폭포)",
+        "menu": "Promenade le long de la cascade"
+      },
+      {
+        "name": "Seongsan Ilchulbong (성산일출봉)",
+        "menu": "Randonnée jusqu'au pic du Lever de soleil"
+      }
+    ],
+    "de": [
+      {
+        "name": "Neulbom Heukdwaeji (늘봄흑돼지)",
+        "menu": "Gegrilltes schwarzes Schweinefleisch"
+      },
+      {
+        "name": "Dongmun-Markt & Schwarzschwein-Straße (동문시장 · 흑돼지거리)",
+        "menu": "Schwarzes Schweinefleisch, Straßenessen"
+      },
+      {
+        "name": "Hyeopjae-Strand (협재 바다)",
+        "menu": "Entspannen und das Meer vom Meerblick-Café aus betrachten"
+      },
+      {
+        "name": "Yongduam-Felsen / Drachenkopf-Felsen (용두암)",
+        "menu": "Felsformation, die mit der Jeju-Folklore verbunden ist"
+      },
+      {
+        "name": "Yongyeon-Wolkenbrücke (용연구름다리)",
+        "menu": "Hängebrücke im Einklang mit der Natur Jejus"
+      },
+      {
+        "name": "Cheonjeyeon-Wasserfall (천제연폭포)",
+        "menu": "Spaziergang zum Wasserfall"
+      },
+      {
+        "name": "Seongsan Ilchulbong (Sonnenaufganggipfel) (성산일출봉)",
+        "menu": "Wanderung zum Sonnenaufganggipfel"
+      }
+    ],
+    "vi": [
+      {
+        "name": "Neulbom Heukdwaeji (늘봄흑돼지)",
+        "menu": "Thịt heo đen nướng"
+      },
+      {
+        "name": "Chợ Dongmun & Phố thịt heo đen (동문시장 · 흑돼지거리)",
+        "menu": "Thịt heo đen, đồ ăn đường phố"
+      },
+      {
+        "name": "Bãi biển Hyeopjae (협재 바다)",
+        "menu": "Thư giãn và ngắm biển từ quán cà phê nhìn ra biển"
+      },
+      {
+        "name": "Đá Yongduam – Đá Đầu Rồng (용두암)",
+        "menu": "Khối đá gắn với truyền thuyết Jeju"
+      },
+      {
+        "name": "Cầu mây Yongyeon (용연구름다리)",
+        "menu": "Cầu treo hòa hợp với thiên nhiên Jeju"
+      },
+      {
+        "name": "Thác Cheonjeyeon (천제연폭포)",
+        "menu": "Đi dạo ngắm thác"
+      },
+      {
+        "name": "Seongsan Ilchulbong – Đỉnh Mặt Trời Mọc (성산일출봉)",
+        "menu": "Leo núi Đỉnh Mặt Trời Mọc"
+      }
+    ],
+    "th": [
+      {
+        "name": "ร้านนึลบม ฮึกแดจี",
+        "menu": "หมูดำย่าง"
+      },
+      {
+        "name": "ตลาดดงมุนและถนนหมูดำ",
+        "menu": "หมูดำ อาหารข้างทาง"
+      },
+      {
+        "name": "หาดฮยอบแจ",
+        "menu": "ผ่อนคลายและมองทะเลจากคาเฟ่วิวทะเล"
+      },
+      {
+        "name": "หินยงดูอัม (หินหัวมังกร)",
+        "menu": "หินธรรมชาติที่เชื่อมโยงกับนิทานพื้นบ้านเชจู"
+      },
+      {
+        "name": "สะพานเมฆยงยอน",
+        "menu": "สะพานแขวนที่กลมกลืนกับธรรมชาติเชจู"
+      },
+      {
+        "name": "น้ำตกชอนเจยอน",
+        "menu": "เดินชมน้ำตก"
+      },
+      {
+        "name": "ซองซานอิลชุลบง (ยอดพระอาทิตย์ขึ้น)",
+        "menu": "เดินป่าขึ้นยอดพระอาทิตย์ขึ้น"
+      }
+    ],
+    "id": [
+      {
+        "name": "Neulbom Heukdwaeji",
+        "menu": "Babi hitam panggang"
+      },
+      {
+        "name": "Pasar Dongmun & Jalan Babi Hitam",
+        "menu": "Babi hitam, jajanan kaki lima"
+      },
+      {
+        "name": "Pantai Hyeopjae",
+        "menu": "Bersantai dan memandang laut dari kafe dengan pemandangan laut"
+      },
+      {
+        "name": "Batu Yongduam (Batu Kepala Naga)",
+        "menu": "Formasi batu yang terkait dengan cerita rakyat Jeju"
+      },
+      {
+        "name": "Jembatan Awan Yongyeon",
+        "menu": "Jembatan gantung yang menyatu dengan alam Jeju"
+      },
+      {
+        "name": "Air Terjun Cheonjeyeon",
+        "menu": "Jalan-jalan menyusuri air terjun"
+      },
+      {
+        "name": "Seongsan Ilchulbong (Puncak Sunrise)",
+        "menu": "Mendaki Puncak Sunrise"
+      }
+    ],
+    "ru": [
+      {
+        "name": "Неульбом Хыкдвэджи (늘봄흑돼지)",
+        "menu": "Жареная чёрная свинина на гриле"
+      },
+      {
+        "name": "Рынок Тонмун и улица чёрной свинины (동문시장 · 흑돼지거리)",
+        "menu": "Чёрная свинина и уличная еда"
+      },
+      {
+        "name": "Пляж Хёпчэ (협재 바다)",
+        "menu": "Отдых и вид на море из кафе с видом на океан"
+      },
+      {
+        "name": "Скала Ёндуам (Скала драконьей головы) (용두암)",
+        "menu": "Скальное образование, связанное с фольклором Чеджу"
+      },
+      {
+        "name": "Мост Ёнён Куреммдари (용연구름다리)",
+        "menu": "Подвесной мост в гармонии с природой Чеджу"
+      },
+      {
+        "name": "Водопад Чонджеён (천제연폭포)",
+        "menu": "Прогулка к водопаду"
+      },
+      {
+        "name": "Сончульбон (Пик восхода) (성산일출봉)",
+        "menu": "Подъём на Пик восхода"
+      }
+    ]
+  }
 }
