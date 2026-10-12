@@ -11,6 +11,8 @@ export const SITE = path.resolve(here, "..");
 export const p = (...xs) => path.join(SITE, ...xs);
 
 export const MODEL = "claude-opus-5-5";
+// 번역처럼 원문을 옮기기만 하는 대량 작업용 (Opus 보다 약 40배 저렴)
+export const MODEL_BULK = "claude-haiku-5-5";
 const FAVICON = `<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' rx='8' fill='%23d9480f'/%3E%3Cpath d='M12 9l12 7-12 7z' fill='white'/%3E%3C/svg%3E">`;
 
 // 브라우저용 data/*.js 파일들을 window 객체에 실행해서 그대로 읽는다.
@@ -44,12 +46,13 @@ function anthropic() {
 }
 
 // 구조화된 JSON 응답 한 번 받기. 거절(refusal)이면 null.
-export async function askJson({ system, prompt, schema, effort = "medium", maxTokens = 16000 }) {
+export async function askJson({ system, prompt, schema, effort = "medium", maxTokens = 16000, model = MODEL }) {
+  // 거절 시 다른 모델로 넘기는 server-side fallback 은 Opus 에서만 (Haiku 는 지원 안 함)
+  const fallback = model === MODEL ? { betas: ["server-side-fallback-2026-07-01"], fallbacks: "default" } : {};
   const res = await anthropic().beta.messages.create({
-    model: MODEL,
+    model,
     max_tokens: maxTokens,
-    betas: ["server-side-fallback-2026-07-01"],
-    fallbacks: "default",
+    ...fallback,
     system,
     messages: [{ role: "user", content: prompt }],
     output_config: { effort, format: { type: "json_schema", schema } },
