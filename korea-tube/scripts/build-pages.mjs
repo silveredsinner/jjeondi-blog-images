@@ -259,18 +259,35 @@ for (const l of ["ja", "zh-Hans", "zh-Hant", "es", "fr", "de", "vi", "th", "id",
   const hreflang = ALL.map((l) => `<link rel="alternate" hreflang="${l}" href="${kbUrl(l)}">`).join("\n  ") + `\n  <link rel="alternate" hreflang="x-default" href="${kbUrl("en")}">`;
   fs.rmSync(p("kbeauty"), { recursive: true, force: true });
   fs.mkdirSync(p("kbeauty"), { recursive: true });
+  // 올리브영 글로벌 코드: 링크로 넣은 코드는 로그인하면 지워져서, 복사 버튼과 "로그인 후 결제할 때 붙여넣기" 안내를 단다.
+  // 올리브영 버튼을 누를 때도 코드를 클립보드에 복사한다.
+  const OY_HELP = {
+    ko: ["복사", "복사됨", "올리브영 글로벌 버튼을 누르면 코드가 복사돼요. 로그인한 뒤 결제 화면의 프로모션 코드 칸에 붙여 넣으세요."],
+    en: ["Copy", "Copied", "Tapping an Olive Young Global button copies the code. Log in first, then paste it in the promo code box at checkout."],
+    ja: ["コピー", "コピーしました", "オリーブヤング・グローバルのボタンを押すとコードがコピーされます。ログインしてから、決済画面のプロモーションコード欄に貼り付けてください。"],
+    "zh-Hans": ["复制", "已复制", "点击 Olive Young Global 按钮会自动复制代码。请先登录，再在结账页面的优惠码栏粘贴。"],
+    "zh-Hant": ["複製", "已複製", "點選 Olive Young Global 按鈕會自動複製代碼。請先登入，再於結帳頁面的優惠碼欄位貼上。"],
+    es: ["Copiar", "Copiado", "Al tocar un botón de Olive Young Global se copia el código. Inicia sesión primero y pégalo en la casilla de código promocional al pagar."],
+    fr: ["Copier", "Copié", "Un appui sur un bouton Olive Young Global copie le code. Connectez-vous d'abord, puis collez-le dans le champ code promo au paiement."],
+    de: ["Kopieren", "Kopiert", "Beim Tippen auf einen Olive-Young-Global-Button wird der Code kopiert. Erst einloggen, dann an der Kasse ins Gutscheincode-Feld einfügen."],
+    vi: ["Sao chép", "Đã sao chép", "Bấm nút Olive Young Global sẽ sao chép mã. Hãy đăng nhập trước, rồi dán mã vào ô mã khuyến mãi khi thanh toán."],
+    th: ["คัดลอก", "คัดลอกแล้ว", "กดปุ่ม Olive Young Global แล้วโค้ดจะถูกคัดลอก เข้าสู่ระบบก่อน แล้ววางโค้ดในช่องโค้ดโปรโมชันตอนชำระเงิน"],
+    id: ["Salin", "Tersalin", "Menekan tombol Olive Young Global akan menyalin kodenya. Masuk dulu, lalu tempel di kolom kode promo saat checkout."],
+    ru: ["Копировать", "Скопировано", "При нажатии кнопки Olive Young Global код копируется. Сначала войдите в аккаунт, затем вставьте его в поле промокода при оформлении заказа."],
+  };
   for (const lang of ALL) {
     const base = window.KBEAUTY_TEXT[lang] || { ...window.KBEAUTY_TEXT.en, ...(TR[lang] || {}) };
     const tr = TR[lang] || {};
     const why = (x) => (lang === "ko" ? x.ko : lang === "en" ? x.en : tr.products?.[x.id] || x.en);
     const secTitle = (s) => (lang === "ko" ? s.ko : lang === "en" ? s.en : tr.sections?.[s.key] || s.en);
+    const oyCode = window.KBEAUTY_STORES.oyGlobal.code, help = OY_HELP[lang] || OY_HELP.en;
     const anyTracked = Object.values(window.KBEAUTY_STORES).some((s) => s.tracked);
     const btn = (key, x) => {
       const s = window.KBEAUTY_STORES[key];
       if (!s.url) return "";
       const href = key === "oyGlobal" && x.oy ? s.productUrl.replace("{id}", encodeURIComponent(x.oy)) : s.url.replace("{q}", encodeURIComponent(x.q));
       const label = s.kind === "compare" ? base.compare : s.name;
-      return `<a class="kb-btn${s.kind === "compare" ? " kb-compare" : ""}" href="${esc(href)}" target="_blank" rel="noopener${s.tracked ? " sponsored" : ""}">${esc(label)}</a>`;
+      return `<a class="kb-btn${s.kind === "compare" ? " kb-compare" : ""}${s.code ? " kb-oy" : ""}" href="${esc(href)}" target="_blank" rel="noopener${s.tracked ? " sponsored" : ""}">${esc(label)}</a>`;
     };
     const src = (x) => !x.source ? "" : x.source.video
       ? `<a href="../index.html?v=${esc(x.source.video)}&amp;lang=${lang}">${esc(base.watch)}</a>`
@@ -321,7 +338,16 @@ for (const l of ["ja", "zh-Hans", "zh-Hant", "es", "fr", "de", "vi", "th", "id",
       <p class="bp-summary">${esc(base.intro)}</p>
       <h2>${esc(base.tipsTitle)}</h2>
       <ul>${(base.tips || []).map((t) => `<li>${esc(t)}</li>`).join("")}</ul>
-      ${window.KBEAUTY_STORES.oyGlobal.code ? `<p class="kb-code">${esc(base.code || window.KBEAUTY_TEXT.en.code)}: <strong>${esc(window.KBEAUTY_STORES.oyGlobal.code)}</strong></p>` : ""}${sections}
+      ${oyCode ? `<div class="kb-codebox"><p class="kb-code">${esc(base.code || window.KBEAUTY_TEXT.en.code)}: <strong>${esc(oyCode)}</strong> <button type="button" class="kb-copy" id="kbCopy">${esc(help[0])}</button></p>
+      <p class="kb-code-hint">${esc(help[2])}</p></div>
+      <script>
+      (function () {
+        var code = ${JSON.stringify(oyCode)}, btn = document.getElementById("kbCopy");
+        function copy() { try { navigator.clipboard.writeText(code); } catch (e) {} }
+        btn.addEventListener("click", function () { copy(); btn.textContent = ${JSON.stringify(help[1])}; });
+        document.querySelectorAll(".kb-oy").forEach(function (a) { a.addEventListener("click", copy); });
+      })();
+      </script>` : ""}${sections}
       <p class="bp-note">${esc(base.note)}</p>
       <p><a class="bp-cta" href="../index.html?cat=beauty&amp;lang=${lang}">${esc(uiText(lang, "mapCta"))}</a></p>
     </article>
