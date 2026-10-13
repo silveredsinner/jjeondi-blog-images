@@ -5,8 +5,10 @@
 // 제휴에 가입하면 STORES 의 url 을 제휴 링크로 바꾸고 tracked: true 로.
 window.KBEAUTY_STORES = {
   oyStore: { name: "Olive Young", kind: "store", url: null, tracked: false },
-  oyGlobal: { name: "Olive Young Global", kind: "online", url: "https://global.oliveyoung.com/", tracked: false },
-  amazon: { name: "Amazon", kind: "online", url: "https://www.amazon.com/s?k={q}", tracked: false },
+  // 올리브영 글로벌 제휴: 결제할 때 입력하는 리워드 코드 (제품별 추적 링크는 제휴 화면 Creating Content 에서 만듦)
+  oyGlobal: { name: "Olive Young Global", kind: "online", url: "https://global.oliveyoung.com/", code: "OKG9RP1P", tracked: true },
+  // 아마존 캐나다 어소시에이트 (tag). amazon.ca 에서만 수수료가 잡힘
+  amazon: { name: "Amazon.ca", kind: "online", url: "https://www.amazon.ca/s?k={q}&tag=awesomekbeaut-20", tracked: true },
   yesstyle: { name: "YesStyle", kind: "online", url: "https://www.yesstyle.com/", tracked: false },
   lotteDfs: { name: "Lotte Duty Free", kind: "dutyfree", url: "https://eng.lottedfs.com/kr/shopmain/home", tracked: false },
   compare: { name: "Google Shopping", kind: "compare", url: "https://www.google.com/search?tbm=shop&q={q}", tracked: false },
@@ -76,6 +78,7 @@ window.KBEAUTY_TEXT = {
       "같은 제품도 나라·쇼핑몰마다 가격 차이가 커요. 특히 기기는 꼭 비교해 보세요.",
     ],
     compare: "가격 비교", inKorea: "한국 매장에서", source: "출처", watch: "영상 보기",
+    code: "올리브영 글로벌 결제 시 리워드 코드",
     note: "일부 링크는 제휴 링크일 수 있어요. 구매하시면 사이트 운영에 도움이 되는 수수료가 지급될 수 있지만 가격은 같아요.",
   },
   en: {
@@ -88,6 +91,7 @@ window.KBEAUTY_TEXT = {
       "The same product can cost very different amounts by country and store. Always compare, especially for devices.",
     ],
     compare: "Compare prices", inKorea: "In stores in Korea", source: "Source", watch: "Watch the video",
+    code: "Olive Young Global reward code at checkout",
     note: "Some links may be affiliate links. If you buy through them, this site may earn a commission at no extra cost to you.",
   },
 };

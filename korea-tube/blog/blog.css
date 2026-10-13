@@ -42,3 +42,5 @@
 .kb-store { font-size: 12px; color: var(--muted); margin-right: 4px; }
 .kb-src { font-size: 12px; color: var(--muted); }
 .kb-src a { color: var(--muted); }
+.kb-code { display: inline-block; padding: 8px 12px; border: 1px dashed var(--accent); border-radius: 10px; background: var(--surface); font-size: 14px; }
+.kb-code strong { font-size: 16px; letter-spacing: 1px; color: var(--accent-strong); }

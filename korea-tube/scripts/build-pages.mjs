@@ -320,7 +320,8 @@ for (const l of ["ja", "zh-Hans", "zh-Hant", "es", "fr", "de", "vi", "th", "id",
       <h1>${esc(base.title)}</h1>
       <p class="bp-summary">${esc(base.intro)}</p>
       <h2>${esc(base.tipsTitle)}</h2>
-      <ul>${(base.tips || []).map((t) => `<li>${esc(t)}</li>`).join("")}</ul>${sections}
+      <ul>${(base.tips || []).map((t) => `<li>${esc(t)}</li>`).join("")}</ul>
+      ${window.KBEAUTY_STORES.oyGlobal.code ? `<p class="kb-code">${esc(base.code || window.KBEAUTY_TEXT.en.code)}: <strong>${esc(window.KBEAUTY_STORES.oyGlobal.code)}</strong></p>` : ""}${sections}
       <p class="bp-note">${esc(base.note)}</p>
       <p><a class="bp-cta" href="../index.html?cat=beauty&amp;lang=${lang}">${esc(uiText(lang, "mapCta"))}</a></p>
     </article>
