@@ -12,7 +12,7 @@ const window = {};
 vm.runInContext(fs.readFileSync(p("data/kbeauty.js"), "utf8"), vm.createContext({ window }));
 const en = window.KBEAUTY_TEXT.en;
 const source = {
-  text: { title: en.title, intro: en.intro, tipsTitle: en.tipsTitle, tips: en.tips, compare: en.compare, inKorea: en.inKorea, source: en.source, watch: en.watch, note: en.note },
+  text: { title: en.title, intro: en.intro, tipsTitle: en.tipsTitle, tips: en.tips, compare: en.compare, inKorea: en.inKorea, source: en.source, watch: en.watch, note: en.note, code: en.code },
   sections: Object.fromEntries(window.KBEAUTY_SECTIONS.map((s) => [s.key, s.en])),
   products: Object.fromEntries(window.KBEAUTY.map((x) => [x.id, x.en])),
 };
