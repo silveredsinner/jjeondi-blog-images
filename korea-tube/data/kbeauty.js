@@ -3,10 +3,12 @@
 // why 의 근거는 source 에 적는다 (기사·사이트 영상 설명란). 근거 없는 효능·순위는 쓰지 않는다.
 // 다른 언어 번역: data/auto/kbeauty-i18n.json (scripts/translate-kbeauty.mjs). 없으면 영어로 표시.
 // 제휴에 가입하면 STORES 의 url 을 제휴 링크로 바꾸고 tracked: true 로.
+// 제품의 oy: 올리브영 글로벌 제품 번호 (product/detail?prdtNo=GA… 의 GA… 부분). 모르면 비워 두면 홈으로 연결.
 window.KBEAUTY_STORES = {
   oyStore: { name: "Olive Young", kind: "store", url: null, tracked: false },
-  // 올리브영 글로벌 제휴: 결제할 때 입력하는 리워드 코드 (제품별 추적 링크는 제휴 화면 Creating Content 에서 만듦)
-  oyGlobal: { name: "Olive Young Global", kind: "online", url: "https://global.oliveyoung.com/", code: "OKG9RP1P", tracked: true },
+  // 올리브영 글로벌 제휴: 리워드 코드 OKG9RP1P. 제품에 oy(제품 번호 prdtNo)가 있으면 productUrl 로 그 제품 페이지에 바로 연결
+  oyGlobal: { name: "Olive Young Global", kind: "online", url: "https://global.oliveyoung.com/?rwardCode=OKG9RP1P", code: "OKG9RP1P", tracked: true,
+    productUrl: "https://global.oliveyoung.com/product/detail?accParam=30&prdtNo={id}&rwardCode=OKG9RP1P" },
   // 아마존 캐나다 어소시에이트 (tag). amazon.ca 에서만 수수료가 잡힘
   amazon: { name: "Amazon.ca", kind: "online", url: "https://www.amazon.ca/s?k={q}&tag=awesomekbeaut-20", tracked: true },
   yesstyle: { name: "YesStyle", kind: "online", url: "https://www.yesstyle.com/", tracked: false },
