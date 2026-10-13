@@ -268,7 +268,7 @@ for (const l of ["ja", "zh-Hans", "zh-Hant", "es", "fr", "de", "vi", "th", "id",
     const btn = (key, x) => {
       const s = window.KBEAUTY_STORES[key];
       if (!s.url) return "";
-      const href = s.url.replace("{q}", encodeURIComponent(x.q));
+      const href = key === "oyGlobal" && x.oy ? s.productUrl.replace("{id}", encodeURIComponent(x.oy)) : s.url.replace("{q}", encodeURIComponent(x.q));
       const label = s.kind === "compare" ? base.compare : s.name;
       return `<a class="kb-btn${s.kind === "compare" ? " kb-compare" : ""}" href="${esc(href)}" target="_blank" rel="noopener${s.tracked ? " sponsored" : ""}">${esc(label)}</a>`;
     };
