@@ -4,7 +4,7 @@ import path from "node:path";
 import vm from "node:vm";
 import { fileURLToPath } from "node:url";
 import Anthropic from "@anthropic-ai/sdk";
-import { hreflangTags, langSelect, buildBlogLangs, placePhoto } from "./blog-i18n.mjs";
+import { hreflangTags, langSelect, buildBlogLangs, placePhoto, inlinePlaces } from "./blog-i18n.mjs";
 
 const here = path.dirname(fileURLToPath(import.meta.url));
 export const SITE = path.resolve(here, "..");
@@ -89,9 +89,10 @@ const gmapUrl = (q) => `https://www.google.com/maps/search/?api=1&query=${encode
 
 // post: { slug, date, region, title:{ko,en}, summary:{ko,en}, body:{ko,en}, places:[...], videos:[{id,title}] }
 export function renderPost(post) {
+  const bodies = { ko: inlinePlaces(sanitize(post.body.ko), post.places, "ko"), en: inlinePlaces(sanitize(post.body.en), post.places, "en") };
   const placeList = (lang) => post.places.map((pl) => `
         <li class="bp-place">
-          ${placePhoto(pl, lang)}<strong>${esc(lang === "ko" ? pl.ko : `${pl.en} (${pl.ko})`)}</strong>
+          ${bodies[lang].used.has(pl.ko) ? "" : placePhoto(pl, lang)}<strong>${esc(lang === "ko" ? pl.ko : `${pl.en} (${pl.ko})`)}</strong>
           <span>${esc(lang === "ko" ? pl.menu_ko : pl.menu_en)}</span>
           <a href="${mapUrl(pl.q)}" target="_blank" rel="noopener">${lang === "ko" ? "네이버 지도" : "Naver Map"}</a>
           <a href="${gmapUrl(pl.q)}" target="_blank" rel="noopener">${lang === "ko" ? "구글 지도" : "Google Maps"}</a>
@@ -106,7 +107,7 @@ export function renderPost(post) {
       <h1>${esc(post.title[lang])}</h1>
       <p class="bp-meta">${esc(post.date)}</p>
       <p class="bp-summary">${esc(post.summary[lang])}</p>
-      <div class="bp-body">${sanitize(post.body[lang])}</div>
+      <div class="bp-body">${bodies[lang].html}</div>
       ${post.places.length ? `<h2>${lang === "ko" ? "소개한 가게·장소" : "Places in this post"}</h2>
       <ul class="bp-places">${placeList(lang)}</ul>
       <p class="bp-note">${lang === "ko" ? "영업시간·위치는 바뀔 수 있으니 방문 전 지도에서 확인하세요." : "Hours and locations change — check the map before you go."}</p>` : ""}
