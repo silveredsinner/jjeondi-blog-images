@@ -4,7 +4,7 @@ import path from "node:path";
 import vm from "node:vm";
 import { fileURLToPath } from "node:url";
 import Anthropic from "@anthropic-ai/sdk";
-import { hreflangTags, langSelect, buildBlogLangs } from "./blog-i18n.mjs";
+import { hreflangTags, langSelect, buildBlogLangs, placePhoto } from "./blog-i18n.mjs";
 
 const here = path.dirname(fileURLToPath(import.meta.url));
 export const SITE = path.resolve(here, "..");
@@ -91,7 +91,7 @@ const gmapUrl = (q) => `https://www.google.com/maps/search/?api=1&query=${encode
 export function renderPost(post) {
   const placeList = (lang) => post.places.map((pl) => `
         <li class="bp-place">
-          <strong>${esc(lang === "ko" ? pl.ko : `${pl.en} (${pl.ko})`)}</strong>
+          ${placePhoto(pl, lang)}<strong>${esc(lang === "ko" ? pl.ko : `${pl.en} (${pl.ko})`)}</strong>
           <span>${esc(lang === "ko" ? pl.menu_ko : pl.menu_en)}</span>
           <a href="${mapUrl(pl.q)}" target="_blank" rel="noopener">${lang === "ko" ? "네이버 지도" : "Naver Map"}</a>
           <a href="${gmapUrl(pl.q)}" target="_blank" rel="noopener">${lang === "ko" ? "구글 지도" : "Google Maps"}</a>

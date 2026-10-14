@@ -31,19 +31,28 @@ function ui() {
   return UI;
 }
 const EXTRA = {
-  ko: { related: "관련 영상", more: "다른 글", mapCta: "지도에서 영상 보기 →", langs: "다른 언어" },
-  en: { related: "Related videos", more: "More posts", mapCta: "Browse the videos on the map →", langs: "Other languages" },
-  ja: { related: "関連動画", more: "ほかの記事", mapCta: "地図で動画を見る →", langs: "他の言語" },
-  "zh-Hans": { related: "相关视频", more: "更多文章", mapCta: "在地图上看视频 →", langs: "其他语言" },
-  "zh-Hant": { related: "相關影片", more: "更多文章", mapCta: "在地圖上看影片 →", langs: "其他語言" },
-  es: { related: "Vídeos relacionados", more: "Más artículos", mapCta: "Ver los vídeos en el mapa →", langs: "Otros idiomas" },
-  fr: { related: "Vidéos associées", more: "Autres articles", mapCta: "Voir les vidéos sur la carte →", langs: "Autres langues" },
-  de: { related: "Passende Videos", more: "Weitere Artikel", mapCta: "Videos auf der Karte ansehen →", langs: "Andere Sprachen" },
-  vi: { related: "Video liên quan", more: "Bài viết khác", mapCta: "Xem video trên bản đồ →", langs: "Ngôn ngữ khác" },
-  th: { related: "วิดีโอที่เกี่ยวข้อง", more: "บทความอื่น", mapCta: "ดูวิดีโอบนแผนที่ →", langs: "ภาษาอื่น" },
-  id: { related: "Video terkait", more: "Artikel lainnya", mapCta: "Lihat video di peta →", langs: "Bahasa lain" },
-  ru: { related: "Похожие видео", more: "Другие статьи", mapCta: "Смотреть видео на карте →", langs: "Другие языки" },
+  ko: { related: "관련 영상", more: "다른 글", mapCta: "지도에서 영상 보기 →", langs: "다른 언어", dishPhoto: "음식 예시 사진" },
+  en: { related: "Related videos", more: "More posts", mapCta: "Browse the videos on the map →", langs: "Other languages", dishPhoto: "Example photo of the dish" },
+  ja: { related: "関連動画", more: "ほかの記事", mapCta: "地図で動画を見る →", langs: "他の言語", dishPhoto: "料理のイメージ写真" },
+  "zh-Hans": { related: "相关视频", more: "更多文章", mapCta: "在地图上看视频 →", langs: "其他语言", dishPhoto: "菜品示意图" },
+  "zh-Hant": { related: "相關影片", more: "更多文章", mapCta: "在地圖上看影片 →", langs: "其他語言", dishPhoto: "菜色示意圖" },
+  es: { related: "Vídeos relacionados", more: "Más artículos", mapCta: "Ver los vídeos en el mapa →", langs: "Otros idiomas", dishPhoto: "Foto de ejemplo del plato" },
+  fr: { related: "Vidéos associées", more: "Autres articles", mapCta: "Voir les vidéos sur la carte →", langs: "Autres langues", dishPhoto: "Photo d'illustration du plat" },
+  de: { related: "Passende Videos", more: "Weitere Artikel", mapCta: "Videos auf der Karte ansehen →", langs: "Andere Sprachen", dishPhoto: "Beispielfoto des Gerichts" },
+  vi: { related: "Video liên quan", more: "Bài viết khác", mapCta: "Xem video trên bản đồ →", langs: "Ngôn ngữ khác", dishPhoto: "Ảnh minh họa món ăn" },
+  th: { related: "วิดีโอที่เกี่ยวข้อง", more: "บทความอื่น", mapCta: "ดูวิดีโอบนแผนที่ →", langs: "ภาษาอื่น", dishPhoto: "ภาพตัวอย่างอาหาร" },
+  id: { related: "Video terkait", more: "Artikel lainnya", mapCta: "Lihat video di peta →", langs: "Bahasa lain", dishPhoto: "Foto contoh hidangan" },
+  ru: { related: "Похожие видео", more: "Другие статьи", mapCta: "Смотреть видео на карте →", langs: "Другие языки", dishPhoto: "Фото блюда для примера" },
 };
+// 블로그 장소 사진 (scripts/fetch-photos.mjs 가 모음). 글 페이지(blog/posts, blog/<lang>)에서 ../../photos/ 로 연결
+let PHOTOS;
+export function placePhoto(pl, lang) {
+  PHOTOS ||= (() => { try { return JSON.parse(fs.readFileSync(p("data/auto/place-photos.json"), "utf8")); } catch { return {}; } })();
+  const x = PHOTOS[pl.ko];
+  if (!x?.file) return "";
+  const credit = `${x.kind === "dish" ? `${T(lang, "dishPhoto")} · ` : ""}${lang === "ko" && x.credit_ko ? x.credit_ko : x.credit}`;
+  return `<figure class="bp-photo"><img loading="lazy" src="../../${esc(x.file)}" alt="${esc(pl.en || pl.ko)}"><figcaption>${x.page ? `<a href="${esc(x.page)}" target="_blank" rel="noopener">${esc(credit)}</a>` : esc(credit)}</figcaption></figure>`;
+}
 export const T = (lang, key) => EXTRA[lang]?.[key] ?? ui().I18N[lang]?.[key] ?? ui().I18N.en[key] ?? EXTRA.en[key];
 
 export const hasLang = (post, lang) => Boolean(post.title?.[lang] && post.summary?.[lang] && post.body?.[lang]);
@@ -74,7 +83,7 @@ export function renderPostLang(post, lang, others = []) {
   const names = post.placesI18n?.[lang] || [];
   const places = post.places.map((pl, i) => `
         <li class="bp-place">
-          <strong>${esc(names[i]?.name || pl.en)} (${esc(pl.ko)})</strong>
+          ${placePhoto(pl, lang)}<strong>${esc(names[i]?.name || pl.en)} (${esc(pl.ko)})</strong>
           <span>${esc(names[i]?.menu || pl.menu_en)}</span>
           <a href="${mapUrl(pl.q)}" target="_blank" rel="noopener">${esc(T(lang, "naverMap"))}</a>
           <a href="${gmapUrl(pl.q)}" target="_blank" rel="noopener">${esc(T(lang, "googleMap"))}</a>

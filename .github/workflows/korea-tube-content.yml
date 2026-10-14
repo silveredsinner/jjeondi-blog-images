@@ -1,5 +1,5 @@
 # Korea Tube: 영상 설명란·댓글에서 맛집을 뽑고 블로그 글 초안을 만들어 PR 로 올린다.
-# 필요한 저장소 Secrets: YOUTUBE_API_KEY, ANTHROPIC_API_KEY
+# 필요한 저장소 Secrets: YOUTUBE_API_KEY, ANTHROPIC_API_KEY.  선택: TOUR_API_KEY (한국관광공사 사진)
 # 필요한 설정: Settings → Actions → General → "Allow GitHub Actions to create and approve pull requests" 체크
 name: Korea Tube content
 
@@ -28,6 +28,9 @@ on:
         default: "0"
       translate_blog:
         description: "블로그 글을 10개 언어로 번역 (1 = 예). 매주 실행 때는 새 글만 자동 번역"
+        default: "0"
+      photos:
+        description: "블로그 장소 사진 찾기 (1 = 예). 매주 실행 때는 사진 없는 장소만 자동으로"
         default: "0"
       only_check:
         description: "영상 점검(삭제 영상 숨기기·조회수·자막)만 하기 (1 = 예, Claude API 안 씀)"
@@ -113,6 +116,13 @@ jobs:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           REVIEW_FILE: ${{ runner.temp }}/review.md
         run: node translate-kbeauty.mjs
+      - name: 블로그 장소 사진 찾기 (한국관광공사·위키미디어, 이용 허락된 사진만)
+        if: inputs.only_check != '1' || inputs.photos == '1'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          TOUR_API_KEY: ${{ secrets.TOUR_API_KEY }}
+          REVIEW_FILE: ${{ runner.temp }}/review.md
+        run: node fetch-photos.mjs
       - name: 새 영상 찾기 (먹방·K-뷰티, 퍼가기 허용 영상만)
         if: inputs.discover != ''
         env:
@@ -143,6 +153,7 @@ jobs:
             korea-tube/data/blog-langs.js
             korea-tube/data/auto/**
             korea-tube/blog/**
+            korea-tube/photos/**
           commit-message: "Korea Tube: 영상 속 맛집 자동 추출 + 블로그 초안"
           title: "Korea Tube 자동 업데이트: 맛집 정보·블로그 초안"
           body-path: ${{ runner.temp }}/review.md
