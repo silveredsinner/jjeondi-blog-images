@@ -29,14 +29,37 @@ async function getJson(url) {
   return res.json();
 }
 
-// 한국관광공사 TourAPI: 제목이 장소 이름과 겹치는 결과의 대표 사진
-async function tourCandidates(pl) {
-  if (!TOUR_KEY) return [];
+// 한국관광공사 TourAPI: 이름으로 찾은 결과의 대표 사진 (공공누리 1·3유형만)
+// tour.ok: API 가 정상 응답했는지 (실패하면 그 장소는 다음 실행에 다시 찾음). tour.stats: 리뷰에 남길 진단
+const tour = { stats: { calls: 0, errors: 0, items: 0, withImage: 0, licenses: {} }, lastError: "" };
+async function tourSearch(keyword) {
   const url = new URL("https://apis.data.go.kr/B551011/KorService2/searchKeyword2");
-  url.search = new URLSearchParams({ serviceKey: TOUR_KEY, MobileOS: "ETC", MobileApp: "LetsVisitKorea", _type: "json", keyword: pl.ko.replace(/\(.*?\)/g, "").trim(), numOfRows: "8", pageNo: "1", arrange: "A" });
-  let items;
-  try { items = (await getJson(url)).response?.body?.items?.item || []; } catch (e) { console.log(`  TourAPI 실패: ${e.message}`); return []; }
-  return (Array.isArray(items) ? items : [items])
+  url.search = new URLSearchParams({ serviceKey: TOUR_KEY, MobileOS: "ETC", MobileApp: "LetsVisitKorea", _type: "json", keyword, numOfRows: "8", pageNo: "1", arrange: "A" });
+  tour.stats.calls++;
+  const res = await fetch(url, { headers: { "User-Agent": UA } });
+  const text = await res.text();
+  let data;
+  try { data = JSON.parse(text); } catch { throw new Error(`HTTP ${res.status}: ${text.replace(/\s+/g, " ").slice(0, 160)}`); }
+  const code = data.response?.header?.resultCode;
+  if (!res.ok || (code && code !== "0000")) throw new Error(`HTTP ${res.status} ${code || ""} ${data.response?.header?.resultMsg || text.slice(0, 160)}`);
+  const items = data.response?.body?.items?.item || [];
+  return Array.isArray(items) ? items : [items];
+}
+async function tourCandidates(pl) {
+  if (!TOUR_KEY) return { ok: false, cands: [] };
+  const name = pl.ko.replace(/\(.*?\)/g, "").trim();
+  const keywords = [...new Set([name, name.split(/\s+/)[0]])].filter((k) => k.length >= 2);
+  let items = [], ok = false;
+  for (const kw of keywords) {
+    try { items = await tourSearch(kw); ok = true; } catch (e) { tour.stats.errors++; tour.lastError = e.message; console.log(`  TourAPI 실패 (${kw}): ${e.message}`); }
+    if (items.length) break;
+  }
+  tour.stats.items += items.length;
+  for (const it of items) {
+    if (it.firstimage) tour.stats.withImage++;
+    tour.stats.licenses[it.cpyrhtDivCd || "(없음)"] = (tour.stats.licenses[it.cpyrhtDivCd || "(없음)"] || 0) + 1;
+  }
+  const cands = items
     .filter((it) => it.firstimage && ["Type1", "Type3"].includes(it.cpyrhtDivCd))
     .slice(0, 3)
     .map((it) => ({
@@ -46,6 +69,7 @@ async function tourCandidates(pl) {
       credit_ko: "사진: 한국관광공사 (공공누리 제" + (it.cpyrhtDivCd === "Type1" ? "1" : "3") + "유형)",
       page: it.cpyrhtDivCd === "Type1" ? "https://www.kogl.or.kr/info/licenseType1.do" : "https://www.kogl.or.kr/info/licenseType3.do",
     }));
+  return { ok, cands };
 }
 
 // 위키미디어 공용: 자유 이용 라이선스만
@@ -95,8 +119,9 @@ for (const [ko, pl] of places) {
   if (!due(store[ko])) continue;
   tried++;
   const dish = String(pl.menu_en || "").split(/[,(;/]/)[0].trim();
+  const t = await tourCandidates(pl);
   const cands = [
-    ...(await tourCandidates(pl)),
+    ...t.cands,
     ...(await commonsCandidates(`${pl.en.replace(/\(.*?\)/g, "").trim()} Korea`, 3)),
     ...(dish ? await commonsCandidates(`${dish} Korean food`, 2) : []),
   ].filter((c, i, a) => a.findIndex((x) => x.url === c.url) === i).slice(0, 6);
@@ -116,7 +141,7 @@ for (const [ko, pl] of places) {
   }
   const c = out && out.kind !== "none" ? imgs[out.pick - 1] : null;
   if (!c) {
-    store[ko] = { checked: today, kto: !!TOUR_KEY };
+    store[ko] = { checked: today, kto: t.ok };
     console.log(`- ${ko}: 맞는 사진 없음 (후보 ${imgs.length}장)`);
     continue;
   }
@@ -124,14 +149,16 @@ for (const [ko, pl] of places) {
   const file = `photos/${crypto.createHash("sha1").update(ko).digest("hex").slice(0, 12)}.${ext}`;
   fs.mkdirSync(p("photos"), { recursive: true });
   fs.writeFileSync(p(file), c.buf);
-  store[ko] = { file, kind: out.kind, source: c.source, credit: c.credit, ...(c.credit_ko ? { credit_ko: c.credit_ko } : {}), page: c.page, checked: today, kto: !!TOUR_KEY };
+  store[ko] = { file, kind: out.kind, source: c.source, credit: c.credit, ...(c.credit_ko ? { credit_ko: c.credit_ko } : {}), page: c.page, checked: today, kto: t.ok };
   done++;
   report.push(`- ${ko}: ${out.kind === "place" ? "가게·장소 사진" : "음식 예시 사진"} (${c.source === "kto" ? "한국관광공사" : "위키미디어"})`);
   console.log(`- ${ko}: ${out.kind} · ${c.credit}`);
 }
 writeJson("data/auto/place-photos.json", store);
 if (done) rebuildBlog();
+const tourNote = TOUR_KEY ? `TourAPI: 호출 ${tour.stats.calls}번, 오류 ${tour.stats.errors}번, 결과 ${tour.stats.items}건 (사진 있음 ${tour.stats.withImage}), 라이선스 ${JSON.stringify(tour.stats.licenses)}${tour.lastError ? `, 마지막 오류: ${tour.lastError}` : ""}` : "TourAPI: 키 없음";
+console.log(tourNote);
 console.log(`사진 ${done}장 (확인한 장소 ${tried}곳, TourAPI ${TOUR_KEY ? "사용" : "키 없음"})`);
 if (process.env.REVIEW_FILE && tried) {
-  fs.appendFileSync(process.env.REVIEW_FILE, `\n## 📷 장소 사진: ${done}장 (확인 ${tried}곳${TOUR_KEY ? "" : ", 한국관광공사 키 없음"})\n${report.join("\n")}\n사진은 \`korea-tube/photos/\`, 출처는 \`data/auto/place-photos.json\`. 엉뚱한 사진은 그 장소 값을 { "blocked": true } 로 바꾸면 다시 안 붙어요.\n`);
+  fs.appendFileSync(process.env.REVIEW_FILE, `\n## 📷 장소 사진: ${done}장 (확인 ${tried}곳${TOUR_KEY ? "" : ", 한국관광공사 키 없음"})\n- ${tourNote}\n${report.join("\n")}\n사진은 \`korea-tube/photos/\`, 출처는 \`data/auto/place-photos.json\`. 엉뚱한 사진은 그 장소 값을 { "blocked": true } 로 바꾸면 다시 안 붙어요.\n`);
 }
