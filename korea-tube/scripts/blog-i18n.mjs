@@ -53,6 +53,28 @@ export function placePhoto(pl, lang) {
   const credit = `${x.kind === "dish" ? `${T(lang, "dishPhoto")} · ` : ""}${lang === "ko" && x.credit_ko ? x.credit_ko : x.credit}`;
   return `<figure class="bp-photo"><img loading="lazy" src="../../${esc(x.file)}" alt="${esc(pl.en || pl.ko)}"><figcaption>${x.page ? `<a href="${esc(x.page)}" target="_blank" rel="noopener">${esc(credit)}</a>` : esc(credit)}</figcaption></figure>`;
 }
+// 본문에서 장소 이름이 처음 나오는 제목(h2·h3)이나 문단 바로 아래에 그 장소의 사진·지도 링크를 넣는다.
+// names: 이 언어의 장소 이름 [{ name }] (번역판). 본문에 이름이 안 나오는 장소는 used 에 안 들어가고, 글 아래 목록에만 남는다.
+const plain = (s) => String(s || "").replace(/\(.*?\)|（.*?）/g, "").trim();
+export function inlinePlaces(bodyHtml, places, lang, names = []) {
+  const blocks = bodyHtml.match(/<(h2|h3|p|ul|ol)>[\s\S]*?<\/\1>/g) || [];
+  if (!blocks.length) return { html: bodyHtml, used: new Set() };
+  const text = blocks.map((b) => b.replace(/<[^>]*>/g, "").toLowerCase());
+  const after = blocks.map(() => []);
+  const used = new Set();
+  places.forEach((pl, i) => {
+    const keys = [...new Set([names[i]?.name, pl.en, pl.ko].map(plain).filter((k) => k.length >= 2).map((k) => k.toLowerCase()))];
+    const has = (j) => keys.some((k) => text[j].includes(k));
+    let j = blocks.findIndex((b, j) => /^<h[23]>/.test(b) && has(j));
+    if (j < 0) j = blocks.findIndex((b, j) => has(j));
+    if (j < 0) return;
+    used.add(pl.ko);
+    const name = lang === "ko" ? pl.ko : names[i]?.name || pl.en;
+    after[j].push(`<figure class="bp-inline">${placePhoto(pl, lang).replace(/^<figure class="bp-photo">|<\/figure>$/g, "")}<p class="bp-inline-map">📍 <strong>${esc(plain(name))}</strong> · <a href="${mapUrl(pl.q)}" target="_blank" rel="noopener">${esc(T(lang, "naverMap"))}</a> · <a href="${gmapUrl(pl.q)}" target="_blank" rel="noopener">${esc(T(lang, "googleMap"))}</a></p></figure>`);
+  });
+  let k = 0;
+  return { html: bodyHtml.replace(/<(h2|h3|p|ul|ol)>[\s\S]*?<\/\1>/g, (b) => b + after[k++].join("")), used };
+}
 export const T = (lang, key) => EXTRA[lang]?.[key] ?? ui().I18N[lang]?.[key] ?? ui().I18N.en[key] ?? EXTRA.en[key];
 
 export const hasLang = (post, lang) => Boolean(post.title?.[lang] && post.summary?.[lang] && post.body?.[lang]);
@@ -81,9 +103,10 @@ export function langSelect(post, current, rel) {
 
 export function renderPostLang(post, lang, others = []) {
   const names = post.placesI18n?.[lang] || [];
+  const body = inlinePlaces(sanitize(post.body[lang]), post.places, lang, names);
   const places = post.places.map((pl, i) => `
         <li class="bp-place">
-          ${placePhoto(pl, lang)}<strong>${esc(names[i]?.name || pl.en)} (${esc(pl.ko)})</strong>
+          ${body.used.has(pl.ko) ? "" : placePhoto(pl, lang)}<strong>${esc(names[i]?.name || pl.en)} (${esc(pl.ko)})</strong>
           <span>${esc(names[i]?.menu || pl.menu_en)}</span>
           <a href="${mapUrl(pl.q)}" target="_blank" rel="noopener">${esc(T(lang, "naverMap"))}</a>
           <a href="${gmapUrl(pl.q)}" target="_blank" rel="noopener">${esc(T(lang, "googleMap"))}</a>
@@ -130,7 +153,7 @@ export function renderPostLang(post, lang, others = []) {
       <p class="bp-meta">${esc(post.date)}</p>
       <p class="bp-summary">${esc(post.summary[lang])}</p>
       <p><a class="bp-cta" href="../../index.html?region=${esc(post.region)}&amp;lang=${lang}">${esc(T(lang, "mapCta"))}</a></p>
-      <div class="bp-body">${sanitize(post.body[lang])}</div>
+      <div class="bp-body">${body.html}</div>
       ${post.places.length ? `<h2>${esc(T(lang, "places"))}</h2>
       <ul class="bp-places">${places}</ul>
       <p class="bp-note">${esc(T(lang, "placeNote"))}</p>` : ""}
