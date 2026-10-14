@@ -1,7 +1,7 @@
 {
   "황령산 정상": {
     "checked": "2026-10-14",
-    "kto": false
+    "kto": true
   },
   "부산 족발 거리": {
     "file": "photos/3935f0095f68.jpg",
@@ -14,11 +14,11 @@
   },
   "토종마을 (음성 감곡시장)": {
     "checked": "2026-10-14",
-    "kto": false
+    "kto": true
   },
   "할매묵은지지짐이 (천안)": {
     "checked": "2026-10-14",
-    "kto": false
+    "kto": true
   },
   "우암설렁탕 (청주)": {
     "file": "photos/f639944c54de.jpg",
@@ -31,7 +31,7 @@
   },
   "월성집 (제천)": {
     "checked": "2026-10-14",
-    "kto": false
+    "kto": true
   },
   "행복분식 (대전)": {
     "file": "photos/0fccb1dfa538.jpg",
@@ -53,15 +53,15 @@
   },
   "서문시장": {
     "checked": "2026-10-14",
-    "kto": false
+    "kto": true
   },
   "할매묵집 (대구 달서구)": {
     "checked": "2026-10-14",
-    "kto": false
+    "kto": true
   },
   "팔공산 소원바위": {
     "checked": "2026-10-14",
-    "kto": false
+    "kto": true
   },
   "속초관광수산시장": {
     "file": "photos/ff5a2d77ea5b.jpg",
@@ -74,7 +74,7 @@
   },
   "춘천명물닭갈비": {
     "checked": "2026-10-14",
-    "kto": false
+    "kto": true
   },
   "남이섬": {
     "file": "photos/b8951288a444.jpg",
@@ -87,7 +87,7 @@
   },
   "고향보리밥 (원주)": {
     "checked": "2026-10-14",
-    "kto": false
+    "kto": true
   },
   "성환식당 (철원)": {
     "file": "photos/6405a5267816.jpg",
@@ -109,7 +109,7 @@
   },
   "BTS 정류장": {
     "checked": "2026-10-14",
-    "kto": false
+    "kto": true
   },
   "국립경주박물관": {
     "file": "photos/9e27de0e3d7a.jpg",
@@ -140,15 +140,15 @@
   },
   "진량돼지찌개 (경산)": {
     "checked": "2026-10-14",
-    "kto": false
+    "kto": true
   },
   "도산식육식당 (구미)": {
     "checked": "2026-10-14",
-    "kto": false
+    "kto": true
   },
   "우현해물찜 (포항)": {
     "checked": "2026-10-14",
-    "kto": false
+    "kto": true
   },
   "불국사": {
     "file": "photos/8857f2a66644.jpg",
@@ -179,7 +179,7 @@
   },
   "황남빵": {
     "checked": "2026-10-14",
-    "kto": false
+    "kto": true
   },
   "문학 경기장": {
     "file": "photos/ef0778a4b6a3.jpg",
@@ -192,11 +192,11 @@
   },
   "랜더스 펍": {
     "checked": "2026-10-14",
-    "kto": false
+    "kto": true
   },
   "박군자진주냉면": {
     "checked": "2026-10-14",
-    "kto": false
+    "kto": true
   },
   "해인사": {
     "file": "photos/62d62eafcb03.jpg",
@@ -209,15 +209,15 @@
   },
   "진해 군항제": {
     "checked": "2026-10-14",
-    "kto": false
+    "kto": true
   },
   "달동네식당 (함양)": {
     "checked": "2026-10-14",
-    "kto": false
+    "kto": true
   },
   "통영 서호시장": {
     "checked": "2026-10-14",
-    "kto": false
+    "kto": true
   },
   "늘봄흑돼지": {
     "file": "photos/163a7e7590c8.jpg",
@@ -229,8 +229,13 @@
     "kto": false
   },
   "동문시장 · 흑돼지거리": {
+    "file": "photos/966cdced5730.jpg",
+    "kind": "dish",
+    "source": "commons",
+    "credit": "Photo: eommina, CC0, Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Korean_BBQ.jpg",
     "checked": "2026-10-14",
-    "kto": false
+    "kto": true
   },
   "협재 바다": {
     "file": "photos/3530b55ea7ea.jpg",
@@ -252,7 +257,7 @@
   },
   "용연구름다리": {
     "checked": "2026-10-14",
-    "kto": false
+    "kto": true
   },
   "천제연폭포": {
     "file": "photos/e50bcaa31295.jpg",
@@ -274,11 +279,11 @@
   },
   "전주 한옥마을": {
     "checked": "2026-10-14",
-    "kto": false
+    "kto": true
   },
   "시골순대 (진안)": {
     "checked": "2026-10-14",
-    "kto": false
+    "kto": true
   },
   "경기전": {
     "file": "photos/da1e468bd5cd.jpg",
@@ -291,11 +296,11 @@
   },
   "돌집식당": {
     "checked": "2026-10-14",
-    "kto": false
+    "kto": true
   },
   "석곡 전통 시장": {
     "checked": "2026-10-14",
-    "kto": false
+    "kto": true
   },
   "광장시장": {
     "file": "photos/f188d2bd6769.jpg",
@@ -335,7 +340,7 @@
   },
   "봉은사 템플스테이": {
     "checked": "2026-10-14",
-    "kto": false
+    "kto": true
   },
   "국립민속박물관": {
     "file": "photos/8a4816f9e289.jpg",
@@ -357,7 +362,7 @@
   },
   "부전시장": {
     "checked": "2026-10-14",
-    "kto": false
+    "kto": true
   },
   "내호냉면": {
     "file": "photos/02929ed7c211.jpg",
