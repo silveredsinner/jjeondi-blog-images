@@ -1,0 +1,253 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex">
+<title>트래픽 관리자</title>
+<style>
+:root {
+  color-scheme: light;
+  --page: #f9f9f7; --surface: #fcfcfb; --ink: #0b0b0b; --ink-2: #52514e; --muted: #898781;
+  --grid: #e1e0d9; --axis: #c3c2b7; --border: rgba(11,11,11,0.10); --up: #006300;
+  --series-1: #2a78d6; --series-1-wash: rgba(42,120,214,0.12); --hover: rgba(11,11,11,0.04);
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --page: #0d0d0d; --surface: #1a1a19; --ink: #f0efec; --ink-2: #c3c2b7; --muted: #898781;
+    --grid: #2c2c2a; --axis: #383835; --border: rgba(255,255,255,0.10); --up: #0ca30c;
+    --series-1: #3987e5; --series-1-wash: rgba(57,135,229,0.18); --hover: rgba(255,255,255,0.05);
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --page: #0d0d0d; --surface: #1a1a19; --ink: #f0efec; --ink-2: #c3c2b7; --muted: #898781;
+  --grid: #2c2c2a; --axis: #383835; --border: rgba(255,255,255,0.10); --up: #0ca30c;
+  --series-1: #3987e5; --series-1-wash: rgba(57,135,229,0.18); --hover: rgba(255,255,255,0.05);
+}
+* { box-sizing: border-box; }
+body { margin: 0; background: var(--page); color: var(--ink); font: 14px/1.45 system-ui, -apple-system, "Segoe UI", sans-serif; }
+main { max-width: 1080px; margin: 0 auto; padding: 20px 16px 48px; }
+header { display: flex; flex-wrap: wrap; align-items: baseline; gap: 6px 14px; margin-bottom: 14px; }
+h1 { font-size: 20px; margin: 0; }
+.sub { color: var(--muted); font-size: 13px; }
+.filters { display: flex; flex-wrap: wrap; gap: 6px; margin: 0 0 16px; }
+.filters button { font: inherit; padding: 6px 12px; border-radius: 8px; border: 1px solid var(--border); background: var(--surface); color: var(--ink-2); cursor: pointer; }
+.filters button[aria-pressed="true"] { color: var(--ink); font-weight: 650; border-color: var(--series-1); }
+.filters button:hover { background: var(--hover); }
+.kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 10px; margin-bottom: 14px; }
+.card { background: var(--surface); border: 1px solid var(--border); border-radius: 12px; padding: 14px 16px; min-width: 0; }
+.kpi .label { color: var(--ink-2); font-size: 13px; }
+.kpi .value { font-size: 28px; font-weight: 650; margin: 2px 0; }
+.kpi .delta { font-size: 12px; color: var(--muted); }
+.kpi .delta.up { color: var(--up); }
+.grid2 { display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 14px; margin-top: 14px; }
+h2 { font-size: 15px; margin: 0 0 10px; }
+.chart { position: relative; }
+.chart svg { display: block; width: 100%; height: 240px; overflow: visible; }
+.chart text { fill: var(--muted); font-size: 11px; font-variant-numeric: tabular-nums; }
+.tip { position: absolute; pointer-events: none; background: var(--surface); border: 1px solid var(--border); border-radius: 8px; padding: 6px 10px; font-size: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.12); white-space: nowrap; display: none; }
+.tip b { display: block; font-size: 14px; }
+.tip span { color: var(--ink-2); }
+.bars { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+.bars li { display: grid; grid-template-columns: minmax(0, 1fr) auto; gap: 2px 10px; align-items: center; border-radius: 6px; padding: 2px 4px; }
+.bars li:hover, .bars li:focus { background: var(--hover); outline: none; }
+.bars .name { overflow: hidden; text-overflow: ellipsis; white-space: nowrap; color: var(--ink); font-size: 13px; }
+.bars .num { color: var(--ink-2); font-size: 12px; font-variant-numeric: tabular-nums; text-align: right; }
+.bars .track { grid-column: 1 / -1; height: 6px; }
+.bars .fill { height: 6px; border-radius: 0 4px 4px 0; background: var(--series-1); min-width: 2px; }
+.empty { color: var(--muted); font-size: 13px; padding: 8px 0; }
+.err { background: var(--surface); border: 1px solid var(--border); border-left: 3px solid var(--muted); border-radius: 8px; padding: 10px 12px; margin-bottom: 14px; color: var(--ink-2); }
+details { margin-top: 8px; color: var(--ink-2); font-size: 13px; }
+table { border-collapse: collapse; width: 100%; font-variant-numeric: tabular-nums; margin-top: 6px; }
+th, td { text-align: left; padding: 3px 6px; border-bottom: 1px solid var(--grid); font-size: 12px; }
+td.n, th.n { text-align: right; }
+.loading { opacity: 0.5; transition: opacity .15s; }
+.note { color: var(--muted); font-size: 12px; margin-top: 18px; }
+</style>
+</head>
+<body>
+<main id="root">
+  <header>
+    <h1>letsvisitkorea.com 트래픽</h1>
+    <span class="sub" id="rangeText"></span>
+  </header>
+  <div class="filters" role="group" aria-label="기간">
+    <button data-days="1">오늘(24시간)</button>
+    <button data-days="7">최근 7일</button>
+    <button data-days="30">최근 30일</button>
+    <button data-days="90">최근 90일</button>
+  </div>
+  <div id="error" class="err" hidden></div>
+  <section class="kpis">
+    <div class="card kpi"><div class="label">방문 (Visits)</div><div class="value" id="kVisits">–</div><div class="delta" id="dVisits"></div></div>
+    <div class="card kpi"><div class="label">페이지뷰</div><div class="value" id="kViews">–</div><div class="delta" id="dViews"></div></div>
+    <div class="card kpi"><div class="label">방문당 페이지</div><div class="value" id="kPer">–</div><div class="delta" id="dPer"></div></div>
+    <div class="card kpi"><div class="label">블로그 방문 비중</div><div class="value" id="kBlog">–</div><div class="delta" id="dBlog">블로그 글 페이지 방문 / 전체 방문</div></div>
+  </section>
+  <section class="card">
+    <h2 id="seriesTitle">날짜별 방문</h2>
+    <div class="chart" id="seriesChart"><svg role="img" aria-label="방문 추이"></svg><div class="tip"></div></div>
+    <details><summary>표로 보기</summary><table id="seriesTable"></table></details>
+  </section>
+  <div class="grid2">
+    <section class="card"><h2>구역별 방문</h2><ul class="bars" id="sections"></ul></section>
+    <section class="card"><h2>언어별 방문 (블로그·지역·K-뷰티 페이지)</h2><ul class="bars" id="langs"></ul></section>
+    <section class="card"><h2>많이 본 페이지</h2><ul class="bars" id="pages"></ul></section>
+    <section class="card"><h2>방문 국가</h2><ul class="bars" id="countries"></ul></section>
+    <section class="card"><h2>들어온 경로 (Referrer)</h2><ul class="bars" id="referers"></ul></section>
+    <section class="card"><h2>기기</h2><ul class="bars" id="devices"></ul></section>
+  </div>
+  <p class="note">데이터: Cloudflare Web Analytics (봇 제외, 표본 기반이라 실제와 조금 다를 수 있음). 이 페이지는 Cloudflare Access 로그인으로 보호돼요.</p>
+</main>
+<script>
+(function () {
+  var LANG = { ko: "한국어", en: "영어", ja: "일본어", "zh-Hans": "중국어(간체)", "zh-Hant": "중국어(번체)", es: "스페인어", fr: "프랑스어", de: "독일어", vi: "베트남어", th: "태국어", id: "인도네시아어", ru: "러시아어" };
+  var DEVICE = { desktop: "데스크톱", mobile: "휴대폰", tablet: "태블릿" };
+  var fmt = new Intl.NumberFormat("ko-KR");
+  var root = document.getElementById("root");
+  var current = 7, last = null;
+  try { var saved = Number(localStorage.getItem("days")); if ([1, 7, 30, 90].indexOf(saved) >= 0) current = saved; } catch (e) {}
+
+  function $(id) { return document.getElementById(id); }
+  function el(tag, cls, text) { var n = document.createElement(tag); if (cls) n.className = cls; if (text != null) n.textContent = text; return n; }
+
+  // 경로 → 구역·언어
+  function classify(path) {
+    var p = (path || "/").split("?")[0], m;
+    if (p === "/" || p === "/index.html") return { section: "홈 (지도)", lang: null };
+    if ((m = p.match(/^\/blog\/posts\//))) return { section: "블로그 글", lang: "ko/en" };
+    if ((m = p.match(/^\/blog\/([A-Za-z-]+)\/(.+)/))) return { section: m[2] === "index.html" ? "블로그 목록" : "블로그 글", lang: m[1] };
+    if (/^\/blog\/?(index\.html)?$/.test(p)) return { section: "블로그 목록", lang: "ko/en" };
+    if ((m = p.match(/^\/r\/([A-Za-z-]+)\//))) return { section: "지역 페이지", lang: m[1] };
+    if (/^\/r\//.test(p)) return { section: "지역 페이지", lang: "ko/en" };
+    if ((m = p.match(/^\/kbeauty\/([A-Za-z-]+)\.html/))) return { section: "K-뷰티 가이드", lang: m[1] };
+    return { section: "기타 (소개·개인정보 등)", lang: null };
+  }
+  function langName(code) { return code === "ko/en" ? "한국어·영어 (같은 페이지)" : LANG[code] || code; }
+
+  function bars(id, rows, nameFn) {
+    var ul = $(id); ul.textContent = "";
+    if (!rows.length) { ul.appendChild(el("li", "empty", "데이터 없음")); return; }
+    var max = Math.max.apply(null, rows.map(function (r) { return r.visits; })) || 1;
+    rows.forEach(function (r) {
+      var li = el("li"); li.tabIndex = 0;
+      var name = nameFn ? nameFn(r.key) : r.key;
+      li.title = name + " · 방문 " + fmt.format(r.visits) + (r.views != null ? " · 페이지뷰 " + fmt.format(r.views) : "");
+      li.appendChild(el("span", "name", name || "(알 수 없음)"));
+      li.appendChild(el("span", "num", fmt.format(r.visits)));
+      var track = el("div", "track"), fill = el("div", "fill");
+      fill.style.width = (r.visits / max * 100).toFixed(1) + "%";
+      track.appendChild(fill); li.appendChild(track); ul.appendChild(li);
+    });
+  }
+  function sumBy(rows, keyFn) {
+    var acc = {};
+    rows.forEach(function (r) { var k = keyFn(r.key); if (k == null) return; acc[k] = acc[k] || { key: k, visits: 0, views: 0 }; acc[k].visits += r.visits; acc[k].views += r.views; });
+    return Object.keys(acc).map(function (k) { return acc[k]; }).sort(function (a, b) { return b.visits - a.visits; });
+  }
+  function delta(id, now, prev, unit) {
+    var n = $(id); n.className = "delta";
+    if (!prev) { n.textContent = "이전 기간 데이터 없음"; return; }
+    var pct = (now - prev) / prev * 100;
+    n.textContent = (pct >= 0 ? "▲ " : "▼ ") + Math.abs(pct).toFixed(0) + "% · 이전 기간 " + (unit ? unit(prev) : fmt.format(prev));
+    if (pct > 0) n.className = "delta up";
+  }
+
+  function lineChart(d) {
+    var box = $("seriesChart"), svg = box.querySelector("svg"), tip = box.querySelector(".tip");
+    var pts = d.series;
+    svg.textContent = "";
+    var W = box.clientWidth || 600, H = 240, L = 40, R = 8, T = 10, B = 26;
+    svg.setAttribute("viewBox", "0 0 " + W + " " + H);
+    var NS = "http://www.w3.org/2000/svg";
+    function s(tag, attrs) { var n = document.createElementNS(NS, tag); for (var k in attrs) n.setAttribute(k, attrs[k]); svg.appendChild(n); return n; }
+    if (!pts.length) { var t = s("text", { x: W / 2, y: H / 2, "text-anchor": "middle" }); t.textContent = "이 기간에 방문 데이터가 없어요"; return; }
+    var max = Math.max.apply(null, pts.map(function (p) { return p.visits; }));
+    var step = Math.pow(10, Math.floor(Math.log10(Math.max(max, 1))));
+    var top = Math.ceil(Math.max(max, 1) / step) * step; if (top / step > 6) step *= 2;
+    var x = function (i) { return L + (pts.length === 1 ? (W - L - R) / 2 : i * (W - L - R) / (pts.length - 1)); };
+    var y = function (v) { return T + (H - T - B) * (1 - v / top); };
+    for (var v = 0; v <= top; v += step) {
+      s("line", { x1: L, x2: W - R, y1: y(v), y2: y(v), stroke: v === 0 ? "var(--axis)" : "var(--grid)", "stroke-width": 1 });
+      var lab = s("text", { x: L - 6, y: y(v) + 4, "text-anchor": "end" }); lab.textContent = fmt.format(v);
+    }
+    var label = function (k) { return d.hourly ? k.slice(11, 13) + "시" : k.slice(5).replace("-", "/"); };
+    var every = Math.max(1, Math.ceil(pts.length / Math.max(2, Math.floor((W - L) / 60))));
+    pts.forEach(function (p, i) { if (i % every === 0 || i === pts.length - 1) { var tx = s("text", { x: x(i), y: H - 8, "text-anchor": "middle" }); tx.textContent = label(p.key); } });
+    var line = pts.map(function (p, i) { return (i ? "L" : "M") + x(i).toFixed(1) + " " + y(p.visits).toFixed(1); }).join(" ");
+    s("path", { d: line + " L" + x(pts.length - 1).toFixed(1) + " " + y(0) + " L" + x(0).toFixed(1) + " " + y(0) + " Z", fill: "var(--series-1-wash)" });
+    s("path", { d: line, fill: "none", stroke: "var(--series-1)", "stroke-width": 2, "stroke-linejoin": "round", "stroke-linecap": "round" });
+    var cross = s("line", { y1: T, y2: H - B, stroke: "var(--axis)", "stroke-width": 1, visibility: "hidden" });
+    var dot = s("circle", { r: 4.5, fill: "var(--series-1)", stroke: "var(--surface)", "stroke-width": 2, visibility: "hidden" });
+    var hit = s("rect", { x: L, y: T, width: W - L - R, height: H - T - B, fill: "transparent", tabindex: 0 });
+    function show(i) {
+      var p = pts[i]; cross.setAttribute("x1", x(i)); cross.setAttribute("x2", x(i)); cross.setAttribute("visibility", "visible");
+      dot.setAttribute("cx", x(i)); dot.setAttribute("cy", y(p.visits)); dot.setAttribute("visibility", "visible");
+      tip.textContent = ""; tip.appendChild(el("b", null, fmt.format(p.visits) + " 방문"));
+      tip.appendChild(el("span", null, (d.hourly ? p.key.replace("T", " ").slice(0, 16) : p.key) + " · 페이지뷰 " + fmt.format(p.views)));
+      tip.style.display = "block";
+      var px = x(i) / W * box.clientWidth, tw = tip.offsetWidth;
+      tip.style.left = Math.min(Math.max(px - tw / 2, 0), box.clientWidth - tw) + "px"; tip.style.top = "-6px";
+    }
+    function hide() { cross.setAttribute("visibility", "hidden"); dot.setAttribute("visibility", "hidden"); tip.style.display = "none"; }
+    var idx = pts.length - 1;
+    hit.addEventListener("pointermove", function (e) {
+      var r = svg.getBoundingClientRect(), mx = (e.clientX - r.left) / r.width * W;
+      var best = 0; pts.forEach(function (_, i) { if (Math.abs(x(i) - mx) < Math.abs(x(best) - mx)) best = i; });
+      idx = best; show(best);
+    });
+    hit.addEventListener("pointerleave", hide);
+    hit.addEventListener("focus", function () { show(idx); });
+    hit.addEventListener("blur", hide);
+    hit.addEventListener("keydown", function (e) { if (e.key === "ArrowLeft") idx = Math.max(0, idx - 1); else if (e.key === "ArrowRight") idx = Math.min(pts.length - 1, idx + 1); else return; e.preventDefault(); show(idx); });
+
+    var table = $("seriesTable"); table.textContent = "";
+    var hr = el("tr"); hr.appendChild(el("th", null, d.hourly ? "시간" : "날짜")); hr.appendChild(el("th", "n", "방문")); hr.appendChild(el("th", "n", "페이지뷰")); table.appendChild(hr);
+    pts.forEach(function (p) { var tr = el("tr"); tr.appendChild(el("td", null, d.hourly ? p.key.replace("T", " ").slice(0, 16) : p.key)); tr.appendChild(el("td", "n", fmt.format(p.visits))); tr.appendChild(el("td", "n", fmt.format(p.views))); table.appendChild(tr); });
+  }
+
+  function render(d) {
+    last = d;
+    var f = new Date(d.from), t = new Date(d.to);
+    $("rangeText").textContent = f.toLocaleString("ko-KR", { dateStyle: "medium", timeStyle: d.hourly ? "short" : undefined }) + " ~ " + t.toLocaleString("ko-KR", { dateStyle: "medium", timeStyle: "short" });
+    $("kVisits").textContent = fmt.format(d.total.visits);
+    $("kViews").textContent = fmt.format(d.total.views);
+    var per = d.total.visits ? d.total.views / d.total.visits : 0, prevPer = d.prev.visits ? d.prev.views / d.prev.visits : 0;
+    $("kPer").textContent = per ? per.toFixed(2) : "–";
+    delta("dVisits", d.total.visits, d.prev.visits);
+    delta("dViews", d.total.views, d.prev.views);
+    delta("dPer", per, prevPer, function (v) { return v.toFixed(2); });
+    var sections = sumBy(d.pages, function (k) { return classify(k).section; });
+    var blog = sections.filter(function (r) { return r.key.indexOf("블로그") === 0; }).reduce(function (a, r) { return a + r.visits; }, 0);
+    var all = sections.reduce(function (a, r) { return a + r.visits; }, 0);
+    $("kBlog").textContent = all ? Math.round(blog / all * 100) + "%" : "–";
+    $("seriesTitle").textContent = d.hourly ? "시간별 방문 (최근 24시간)" : "날짜별 방문";
+    lineChart(d);
+    bars("sections", sections);
+    bars("langs", sumBy(d.pages, function (k) { return classify(k).lang; }), langName);
+    bars("pages", d.pages.slice(0, 15), function (k) { try { return decodeURIComponent(k); } catch (e) { return k; } });
+    bars("countries", d.countries.slice(0, 12));
+    bars("referers", d.referers.slice(0, 12), function (k) { return k || "직접 방문·북마크"; });
+    bars("devices", d.devices, function (k) { return DEVICE[k] || k; });
+  }
+
+  function load(days) {
+    current = days;
+    try { localStorage.setItem("days", String(days)); } catch (e) {}
+    document.querySelectorAll(".filters button").forEach(function (b) { b.setAttribute("aria-pressed", String(Number(b.dataset.days) === days)); });
+    root.classList.add("loading");
+    fetch("/api/stats?days=" + days, { cache: "no-store", credentials: "same-origin" })
+      .then(function (r) { return r.json().then(function (j) { if (!r.ok) throw new Error(j.error || "HTTP " + r.status); return j; }); })
+      .then(function (d) { $("error").hidden = true; render(d); })
+      .catch(function (e) { var n = $("error"); n.hidden = false; n.textContent = "데이터를 불러오지 못했어요: " + e.message; })
+      .finally(function () { root.classList.remove("loading"); });
+  }
+  document.querySelectorAll(".filters button").forEach(function (b) { b.addEventListener("click", function () { load(Number(b.dataset.days)); }); });
+  var rt; window.addEventListener("resize", function () { clearTimeout(rt); rt = setTimeout(function () { if (last) lineChart(last); }, 150); });
+  load(current);
+})();
+</script>
+</body>
+</html>

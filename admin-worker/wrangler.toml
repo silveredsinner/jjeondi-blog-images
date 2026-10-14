@@ -1,0 +1,13 @@
+# letsvisitkorea.com 트래픽 관리자 페이지 (Cloudflare Worker). 배포: .github/workflows/admin-worker-deploy.yml
+name = "letsvisitkorea-admin"
+main = "worker.js"
+compatibility_date = "2026-09-01"
+workers_dev = true
+
+[[rules]]
+type = "Text"
+globs = ["**/*.html"]
+fallthrough = false
+
+[vars]
+SITE_HOST = "letsvisitkorea.com"
