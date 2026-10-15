@@ -151,6 +151,7 @@ jobs:
             korea-tube/data/video-views.js
             korea-tube/data/videos-auto.js
             korea-tube/data/blog-langs.js
+            korea-tube/data/blog-index.js
             korea-tube/data/auto/**
             korea-tube/blog/**
             korea-tube/photos/**

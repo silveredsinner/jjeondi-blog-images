@@ -246,6 +246,14 @@ export function buildBlogLangs(posts) {
     fs.writeFileSync(path.join(dir, "index.html"), renderLangIndex(mine, lang));
     langs.push(lang);
   }
+  // 지역 패널(메인 지도)에 보여 줄 글 목록: 지역·제목(언어별)·대표 영상. korea-* 주제 글은 전국 글로 모든 지역에 보여 준다
+  const index = posts.map((x) => ({
+    slug: x.slug, region: x.region, nation: /^korea-/.test(x.topic || ""), topic: x.topic || "",
+    video: x.videos?.[0]?.id || "", title: Object.fromEntries(Object.entries(x.title).filter(([l]) => l === "ko" || l === "en" || hasLang(x, l))),
+  }));
+  fs.writeFileSync(p("data/blog-index.js"),
+    `// 자동 생성 파일: scripts/blog-i18n.mjs 가 만듦. 메인 지도의 지역 패널에 보여 줄 블로그 글 목록\n` +
+    `window.BLOG_POSTS = ${JSON.stringify(index)};\n`);
   fs.writeFileSync(p("data/blog-langs.js"),
     `// 자동 생성 파일: scripts/build-blog.mjs 가 만듦. 번역된 블로그 글이 있는 언어 (blog/<lang>/index.html)\n` +
     `window.BLOG_LANGS = ${JSON.stringify(langs)};\n`);
