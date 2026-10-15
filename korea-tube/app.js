@@ -365,6 +365,31 @@
       box.appendChild(el("p", "info-note", t("placeNote")));
     }
 
+    // 이 지역 블로그 글 (주제 글 먼저, K-뷰티 탭에서는 뷰티 글 먼저). 번역판이 있으면 그 언어 페이지로
+    const posts = (window.BLOG_POSTS || []).filter((x) => x.region === r.key || x.nation)
+      .map((x) => ({ x, score: (x.nation ? 0 : 2) + (x.topic ? 1 : 0) + (state.cat === "beauty" && /beauty/.test(x.topic) ? 4 : 0) + (state.cat === "beauty" && !/beauty/.test(x.topic) ? -2 : 0) }))
+      .sort((a, b) => b.score - a.score).map((y) => y.x);
+    if (posts.length) {
+      box.appendChild(el("h3", null, t("blogPosts")));
+      const list = el("div", "blog-cards");
+      const langs = window.BLOG_LANGS || [];
+      for (const x of posts) {
+        const own = x.title[state.lang] && (state.lang === "ko" || state.lang === "en" || langs.includes(state.lang));
+        const lang = own ? state.lang : "en";
+        const href = lang === "ko" || lang === "en" ? `blog/posts/${x.slug}.html?lang=${lang}` : `blog/${lang}/${x.slug}.html`;
+        const a = el("a", "blog-card");
+        a.href = href;
+        if (x.video) {
+          const img = el("img");
+          img.loading = "lazy"; img.alt = ""; img.src = `https://i.ytimg.com/vi/${x.video}/mqdefault.jpg`;
+          a.appendChild(img);
+        }
+        a.appendChild(el("span", null, x.title[lang] || x.title.en));
+        list.appendChild(a);
+      }
+      box.appendChild(list);
+    }
+
     // 여행 예약 (제휴)
     const affs = window.AFFILIATES || [];
     if (affs.length) {
