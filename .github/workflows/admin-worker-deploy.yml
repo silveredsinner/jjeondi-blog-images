@@ -30,7 +30,7 @@ jobs:
         run: node admin-worker/auth.test.mjs
       - name: Deploy Worker
         if: steps.check.outputs.ready == 'true'
-        uses: cloudflare/wrangler-action@v3
+        uses: cloudflare/wrangler-action@v4
         env:
           CF_ANALYTICS_TOKEN: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           ADMIN_PASSWORD: ${{ secrets.LVK_ADMIN_PASSWORD }}
