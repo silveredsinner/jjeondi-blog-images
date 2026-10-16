@@ -27,7 +27,7 @@ export default {
       }
     }
     if (url.pathname === "/" || url.pathname === "/index.html") {
-      return new Response(DASHBOARD, { headers: { "content-type": "text/html; charset=utf-8", "cache-control": "no-store", "x-robots-tag": "noindex", "x-frame-options": "DENY", "referrer-policy": "no-referrer" } });
+      return new Response(DASHBOARD, { headers: { "content-type": "text/html; charset=utf-8", "cache-control": "no-store", "x-robots-tag": "noindex", "x-frame-options": "DENY", "referrer-policy": "same-origin" } });
     }
     return new Response("Not found", { status: 404 });
   },

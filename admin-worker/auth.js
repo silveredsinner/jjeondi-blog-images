@@ -4,7 +4,7 @@ const enc = new TextEncoder();
 const encode = bytes => btoa(String.fromCharCode(...bytes)).replace(/=/g, '').replace(/\+/g, '-').replace(/\//g, '_');
 const digest = async s => new Uint8Array(await crypto.subtle.digest('SHA-256', enc.encode(s)));
 const equal = (a,b) => { let d=a.length^b.length; for(let i=0;i<a.length;i++)d|=a[i]^(b[i]||0); return d===0; };
-const headers = {'cache-control':'no-store','x-robots-tag':'noindex','x-frame-options':'DENY','referrer-policy':'no-referrer','content-type':'text/html; charset=utf-8'};
+const headers = {'cache-control':'no-store','x-robots-tag':'noindex','x-frame-options':'DENY','referrer-policy':'same-origin','content-type':'text/html; charset=utf-8'};
 const clear = `${COOKIE}=; Path=/; Secure; HttpOnly; SameSite=Strict; Max-Age=0`;
 const ready = env => typeof env.ADMIN_PASSWORD === 'string' && env.ADMIN_PASSWORD.length >= 20 && !!env.ADMIN_EMAIL;
 async function sign(payload,env) {

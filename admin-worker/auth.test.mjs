@@ -3,6 +3,9 @@ import assert from 'node:assert/strict';
 const src=readFileSync(new URL('./auth.js',import.meta.url),'utf8');
 const {authRoute,checkSession}=await import('data:text/javascript;base64,'+Buffer.from(src).toString('base64'));
 const env={ADMIN_EMAIL:'owner@example.com',ADMIN_PASSWORD:'test-only-long-password-9876',LOGIN_LIMITER:{limit:async()=>({success:true})}};
+// no-referrer makes browser form POST Origin opaque/null, breaking strict CSRF checks.
+const formPage=await authRoute(new Request('https://admin.example.com/login'),env);
+assert.equal(formPage.headers.get('referrer-policy'),'same-origin');
 const req=(body,origin='https://admin.example.com')=>new Request('https://admin.example.com/login',{method:'POST',headers:{origin,'content-type':'application/x-www-form-urlencoded'},body:new URLSearchParams(body)});
 assert.equal((await checkSession(new Request('https://admin.example.com'),{})).status,503);
 assert.equal((await checkSession(new Request('https://admin.example.com'),env)).status,401);
