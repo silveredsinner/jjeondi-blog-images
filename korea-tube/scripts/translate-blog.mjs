@@ -3,7 +3,7 @@
 // 필요한 환경변수: ANTHROPIC_API_KEY
 // 선택: BLOG_LANGS=ja,es (이 언어만), MAX_TRANSLATIONS (한 번에 최대 번역 수, 기본 150), REVIEW_FILE
 import fs from "node:fs";
-import { readJson, writeJson, askJson, MODEL_BULK, rebuildBlog, p } from "./lib.mjs";
+import { readJson, writeJson, askJson, MODEL, MODEL_BULK, rebuildBlog, p } from "./lib.mjs";
 import { MORE_LANGS, hasLang } from "./blog-i18n.mjs";
 
 const LANGS = process.env.BLOG_LANGS ? process.env.BLOG_LANGS.split(",").map((s) => s.trim()).filter((l) => MORE_LANGS.includes(l)) : MORE_LANGS;
@@ -58,14 +58,20 @@ ${post.places.map((x, i) => `${i + 1}. ${x.en} (Korean: ${x.ko}) — ${x.menu_en
 [Korean title, for reference] ${post.title.ko}
 [Korean summary, for reference] ${post.summary.ko}`;
     let out;
+    const ok = (o) => o && o.places.length === post.places.length && o.title.trim() && o.body.trim();
     try {
-      out = await askJson({ system: SYSTEM, prompt, schema: SCHEMA, model: MODEL_BULK, effort: "low", maxTokens: 12000 });
+      out = await askJson({ system: SYSTEM, prompt, schema: SCHEMA, model: MODEL_BULK, effort: "low", maxTokens: 24000 });
+      // Haiku 가 거절하거나 응답이 잘리면(긴 글·일부 언어) 같은 요청을 상위 모델로 한 번 더
+      if (!ok(out)) {
+        console.log(`  ${post.slug} ${lang}: Haiku 응답이 이상해서 상위 모델로 다시`);
+        out = await askJson({ system: SYSTEM, prompt, schema: SCHEMA, model: MODEL, effort: "low", maxTokens: 24000 });
+      }
     } catch (e) {
       console.log(`- ${post.slug} ${lang}: 실패, 다음에 다시 (${e.message})`);
       await new Promise((r) => setTimeout(r, 30000)); // 한도에 걸렸으면 잠깐 쉬고 다음 글로
       continue;
     }
-    if (!out || out.places.length !== post.places.length || !out.title.trim() || !out.body.trim()) {
+    if (!ok(out)) {
       console.log(`- ${post.slug} ${lang}: 응답이 이상해서 건너뜀`);
       continue;
     }
