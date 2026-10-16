@@ -78,6 +78,7 @@
       fetch("posts.json").then(function (r) { return r.json(); }).then(function (x) { posts = x; render(); }).catch(render);
     })();
   </script>
-  <!-- Cloudflare Web Analytics --><script type='module' src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{"token": "f1ff71bafbf847e3889b206b4c4268f1"}'></script><!-- End Cloudflare Web Analytics -->
+  
+  <script src="/analytics.js" defer></script>
 </body>
 </html>
