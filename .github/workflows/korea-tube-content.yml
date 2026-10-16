@@ -132,6 +132,12 @@ jobs:
           DISCOVER_REGIONS: ${{ inputs.discover_regions }}
           REVIEW_FILE: ${{ runner.temp }}/review.md
         run: node discover.mjs
+      - name: 영상 제목 번역 (12개 언어, 새 영상·바뀐 제목만)
+        if: inputs.only_check != '1' || inputs.translate_blog == '1'
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          REVIEW_FILE: ${{ runner.temp }}/review.md
+        run: node translate-titles.mjs
       - name: 영상 상태 점검 (삭제·비공개 영상 숨기기, 조회수)
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
@@ -152,6 +158,8 @@ jobs:
             korea-tube/data/videos-auto.js
             korea-tube/data/blog-langs.js
             korea-tube/data/blog-index.js
+            korea-tube/data/video-titles.js
+            korea-tube/data/video-titles/**
             korea-tube/data/auto/**
             korea-tube/blog/**
             korea-tube/photos/**

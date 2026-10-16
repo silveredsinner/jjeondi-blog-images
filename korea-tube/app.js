@@ -207,6 +207,23 @@
   const subsFilterOn = () => state.subsOnly && state.lang !== "ko" && hasSubsData();
 
   // 조회수 많은 순 (조회수 정보가 없는 영상은 뒤로, 같으면 원래 순서)
+  // 영상 제목 번역 (data/video-titles/<lang>.js 를 보고 있는 언어만 불러옴). 없으면 원래 제목
+  const vTitle = (v) => (window.VIDEO_TITLES && VIDEO_TITLES[state.lang] && VIDEO_TITLES[state.lang][v.id]) || v.title;
+  const titleLoading = {};
+  function loadTitles(lang) {
+    const ver = window.VIDEO_TITLES_VER && VIDEO_TITLES_VER[lang];
+    if (!ver || titleLoading[lang]) return;
+    titleLoading[lang] = true;
+    const s = document.createElement("script");
+    s.src = `data/video-titles/${lang}.js?v=${ver}`;
+    s.onload = () => {
+      if (state.lang !== lang) return;
+      renderGrid();
+      if (currentVideo) $("playerTitle").textContent = vTitle(currentVideo);
+    };
+    document.head.appendChild(s);
+  }
+
   const VIEWS = window.VIDEO_VIEWS || {};
   const views = (v) => (v.id in VIEWS ? VIEWS[v.id] : -1);
 
@@ -217,7 +234,7 @@
       (state.cat === "all" || v.cats.includes(state.cat)) &&
       matchShow(v, state.show) &&
       (!subsFilterOn() || hasMySubs(v)) &&
-      (!q || `${v.title} ${showName(v)}`.toLowerCase().includes(q))
+      (!q || `${v.title} ${vTitle(v)} ${showName(v)}`.toLowerCase().includes(q))
     ).sort((a, b) => views(b) - views(a));
   }
 
@@ -237,7 +254,7 @@
           <div class="show"></div>
           <div class="tags">${state.lang !== "ko" && hasMySubs(v) ? '<span class="tag subs"></span>' : ""}${regionsOf(v).map(() => '<span class="tag region"></span>').join("")}${v.cats.map((c) => `<span class="tag">${t(c)}</span>`).join("")}</div>
         </div>`;
-      card.querySelector(".title").textContent = v.title;
+      card.querySelector(".title").textContent = vTitle(v);
       card.querySelector(".show").textContent = showName(v);
       const subsTag = card.querySelector(".tag.subs");
       if (subsTag) subsTag.textContent = "CC " + t("subsBadge", { lang: langLabel(state.lang) });
@@ -437,6 +454,7 @@
   }
 
   function renderAll() {
+    loadTitles(state.lang);
     renderStatic();
     renderTabs();
     renderChips();
@@ -498,7 +516,7 @@
   let currentVideo = null;
   function openPlayer(v) {
     currentVideo = v;
-    $("playerTitle").textContent = v.title;
+    $("playerTitle").textContent = vTitle(v);
     setCapStatus("");
     if (!dialog.open) dialog.showModal();
     if (!apiReady) { pending = v; return; }
