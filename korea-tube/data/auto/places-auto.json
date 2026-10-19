@@ -308,5 +308,103 @@
     "source": "description",
     "evidence": "▶ ＂비나이다 비나이다＂ 팔공산 소원바위 앞에서 간절히 바란 소원은?",
     "added": "2026-10-11"
+  },
+  {
+    "region": "jeonnam",
+    "type": "spot",
+    "ko": "여수 해상케이블카",
+    "en": "Yeosu Maritime Cable Car",
+    "q": "여수 해상케이블카",
+    "menu_ko": "유리 바닥 해상 케이블카",
+    "menu_en": "Glass-floor sea cable car",
+    "videos": [
+      "_QKj8dcPqis"
+    ],
+    "auto": true,
+    "source": "description",
+    "evidence": "▶ ‘누가 내 손 좀 잡아줘’ 유리 바닥 해상 케이블카에 탄 ‘고소공포증’ 레나토 셰프의 운명은?",
+    "added": "2026-10-19"
+  },
+  {
+    "region": "jeonnam",
+    "type": "spot",
+    "ko": "오동도",
+    "en": "Odongdo Island",
+    "q": "여수 오동도",
+    "menu_ko": "소원나무",
+    "menu_en": "Wish tree",
+    "videos": [
+      "_QKj8dcPqis"
+    ],
+    "auto": true,
+    "source": "description",
+    "evidence": "#MBCevery1 #어서와한국은처음이지 #어한국 #헝가리 #여수 #해상케이블카 #케이블카 #소원나무 #오동도",
+    "added": "2026-10-19"
+  },
+  {
+    "region": "seoul",
+    "type": "spot",
+    "ko": "롯데타워",
+    "en": "Lotte World Tower",
+    "q": "서울 롯데월드타워",
+    "menu_ko": "지상 541m 초고층 타워 야외계단 액티비티",
+    "menu_en": "Outdoor stair activity 541m above ground at the skyscraper",
+    "videos": [
+      "HRmmssvPlsQ"
+    ],
+    "auto": true,
+    "source": "description",
+    "evidence": "#어한국 #한국살이 #프랑스 #롯데타워 #야외계단",
+    "added": "2026-10-19"
+  },
+  {
+    "region": "seoul",
+    "type": "spot",
+    "ko": "전쟁기념관",
+    "en": "The War Memorial of Korea",
+    "q": "서울 용산 전쟁기념관",
+    "menu_ko": "한국 전쟁사 전시, 분단의 역사",
+    "menu_en": "Exhibits on Korean war history and division",
+    "videos": [
+      "wr-aNkV_KzQ"
+    ],
+    "auto": true,
+    "source": "description",
+    "evidence": "한국의 전쟁사를 공부하기 위해 전쟁 기념관을 찾은 친구들",
+    "added": "2026-10-19"
+  },
+  {
+    "needs_check": true,
+    "region": "gyeongnam",
+    "type": "spot",
+    "ko": "가야대장간",
+    "en": "Gaya Daejanggan (Gaya Blacksmith Workshop)",
+    "q": "김해 가야대장간",
+    "menu_ko": "47년 경력 대장장이의 수제 칼",
+    "menu_en": "Handmade knives by a blacksmith with 47 years of experience",
+    "videos": [
+      "WiYtJv2v8Ro"
+    ],
+    "auto": true,
+    "source": "viewer_comment",
+    "evidence": "오호! 김해에 있는 가야대장간이네요!!",
+    "added": "2026-10-19"
+  },
+  {
+    "needs_check": true,
+    "region": "jeonnam",
+    "type": "restaurant",
+    "ko": "여수 낭만포차",
+    "en": "Yeosu Nangman Pocha (Romantic Street Food Tents)",
+    "q": "여수 낭만포차",
+    "menu_ko": "낙지호롱, 문어삼합",
+    "menu_en": "Nakji-horong (grilled octopus on a stick), octopus samhap",
+    "videos": [
+      "0ksxWiHD-sM"
+    ],
+    "auto": true,
+    "source": "viewer_comment",
+    "evidence": "여수 낭만포차 사장님 손님이 외국인인데도 불구하고 최선을 다해 응대해주신거같아 다행이네요 ㅋ",
+    "added": "2026-10-19"
   }
 ]
