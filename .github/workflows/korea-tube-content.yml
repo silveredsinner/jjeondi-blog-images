@@ -39,6 +39,7 @@ on:
 permissions:
   contents: write
   pull-requests: write
+  actions: write # 자동 병합 후 배포 워크플로를 실행하기 위해
 
 concurrency:
   group: korea-tube-content
@@ -123,12 +124,14 @@ jobs:
           TOUR_API_KEY: ${{ secrets.TOUR_API_KEY }}
           REVIEW_FILE: ${{ runner.temp }}/review.md
         run: node fetch-photos.mjs
-      - name: 새 영상 찾기 (먹방·K-뷰티, 퍼가기 허용 영상만)
-        if: inputs.discover != ''
+      - name: 새 영상 찾기 (먹방·K-뷰티, 퍼가기 허용 영상만. 매주 정기 실행 때도 지역마다 2개까지)
+        if: inputs.discover != '' || github.event_name == 'schedule'
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          DISCOVER: ${{ inputs.discover }}
+          DISCOVER: ${{ inputs.discover || 'mukbang,beauty' }}
+          PER_REGION: ${{ github.event_name == 'schedule' && '2' || '' }}
+          MAX_NEW: ${{ github.event_name == 'schedule' && '12' || '' }}
           DISCOVER_REGIONS: ${{ inputs.discover_regions }}
           REVIEW_FILE: ${{ runner.temp }}/review.md
         run: node discover.mjs
@@ -145,6 +148,7 @@ jobs:
         run: node check-videos.mjs
       - name: 확인용 PR 만들기
         # 앞 단계 하나가 실패해도 그때까지 만든 결과(번역·글 등)는 PR 로 남긴다
+        id: cpr
         if: ${{ !cancelled() }}
         uses: peter-evans/create-pull-request@v7
         with:
@@ -166,3 +170,17 @@ jobs:
           commit-message: "Korea Tube: 영상 속 맛집 자동 추출 + 블로그 초안"
           title: "Korea Tube 자동 업데이트: 맛집 정보·블로그 초안"
           body-path: ${{ runner.temp }}/review.md
+      # 매주 정기 실행은 사람 확인 없이 바로 병합하고 배포한다. (댓글만 근거인 장소는 needs_check 로 숨긴 채 남음)
+      # GITHUB_TOKEN 으로 병합한 push 는 다른 워크플로를 깨우지 않아서 배포 워크플로를 직접 실행한다.
+      - name: 자동 병합 + 사이트 배포 (정기 실행만)
+        if: ${{ !cancelled() && github.event_name == 'schedule' && steps.cpr.outputs.pull-request-number != '' }}
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PR: ${{ steps.cpr.outputs.pull-request-number }}
+        run: |
+          for i in 1 2 3 4 5; do
+            gh pr merge "$PR" -R "${{ github.repository }}" --merge --delete-branch && break
+            echo "병합 재시도 ($i)"; sleep 15
+          done
+          gh pr view "$PR" -R "${{ github.repository }}" --json state --jq .state | grep -q MERGED
+          gh workflow run korea-tube-deploy.yml -R "${{ github.repository }}" --ref main
