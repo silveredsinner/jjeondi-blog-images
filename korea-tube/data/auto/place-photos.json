@@ -433,5 +433,42 @@
     "page": "https://commons.wikimedia.org/wiki/File:Sliced_Raw_Octopus.jpg",
     "checked": "2026-10-14",
     "kto": false
+  },
+  "여수 해상케이블카": {
+    "file": "photos/70f49fec9f11.png",
+    "kind": "place",
+    "source": "kto",
+    "credit": "Photo: Korea Tourism Organization (KOGL Type 1)",
+    "credit_ko": "사진: 한국관광공사 (공공누리 제1유형)",
+    "page": "https://www.kogl.or.kr/info/licenseType1.do",
+    "checked": "2026-10-19",
+    "kto": true
+  },
+  "오동도": {
+    "file": "photos/aff0d8c46e99.jpg",
+    "kind": "place",
+    "source": "commons",
+    "credit": "Photo: Mobius6, CC BY-SA 4.0, Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Yeosu_Odongdo_20180929_001.jpg",
+    "checked": "2026-10-19",
+    "kto": true
+  },
+  "롯데타워": {
+    "file": "photos/2454b7ab4ae8.jpg",
+    "kind": "place",
+    "source": "commons",
+    "credit": "Photo: kallerna, CC BY-SA 4.0, Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Lotte_World_morning_view_8.jpg",
+    "checked": "2026-10-19",
+    "kto": true
+  },
+  "전쟁기념관": {
+    "file": "photos/e9ae9aa5d71b.jpg",
+    "kind": "place",
+    "source": "commons",
+    "credit": "Photo: Adbar, CC BY-SA 3.0, Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:War_Memorial_Korea_entrance.JPG",
+    "checked": "2026-10-19",
+    "kto": true
   }
 }

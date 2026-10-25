@@ -1,5 +1,80 @@
 [
   {
+    "slug": "2026-10-19-seoul",
+    "date": "2026-10-19",
+    "region": "seoul",
+    "title": {
+      "ko": "서울 영상 속 명소: 롯데타워 541m 액티비티와 전쟁기념관",
+      "en": "Seoul Spots Seen on TV: Lotte World Tower at 541m and the War Memorial of Korea",
+      "ja": "テレビで見たソウルのスポット：541mのロッテワールドタワーと戦争記念館",
+      "zh-Hans": "荧幕上的首尔景点：乐天世界塔541米高空体验与韩国战争纪念馆",
+      "zh-Hant": "電視上的首爾景點：樂天世界塔541公尺高空體驗與韓國戰爭紀念館",
+      "es": "Lugares de Seúl vistos en la tele: Lotte World Tower a 541 m y el Museo Memorial de la Guerra de Corea",
+      "fr": "Lieux de Séoul vus à la télé : la Lotte World Tower à 541 m et le Mémorial de la Guerre de Corée",
+      "de": "Seoul-Orte aus dem Fernsehen: Lotte World Tower mit 541 m und das Kriegsmuseum Koreas",
+      "vi": "Các địa điểm Seoul lên sóng truyền hình: Lotte World Tower cao 541m và Bảo tàng Chiến tranh Hàn Quốc",
+      "th": "ชมโซลผ่านจอทีวี: ลอตเต้ เวิลด์ ทาวเวอร์ สูง 541 เมตร และพิพิธภัณฑ์สงครามแห่งเกาหลี",
+      "id": "Tempat Seoul di Acara TV: Lotte World Tower 541m dan Museum Perang Korea",
+      "ru": "Места Сеула из телешоу: Лотте уорлд тауэр на высоте 541 м и Военный мемориал Кореи"
+    },
+    "summary": {
+      "ko": "'어서와 한국은 처음이지'에 나온 서울의 두 장소, 롯데타워의 지상 541m 야외계단 액티비티와 한국 전쟁사와 분단의 역사를 다루는 전쟁기념관을 소개합니다.",
+      "en": "Two Seoul spots featured on 'Welcome, First Time in Korea?': an outdoor stair activity 541m up Lotte World Tower, and the War Memorial of Korea, which covers Korea's war history and division.",
+      "ja": "『어서와 한국은 처음이지』に登場したソウルの2か所を紹介します。地上541mの屋外階段アクティビティができるロッテワールドタワーと、朝鮮半島の戦争の歴史と分断を扱う戦争記念館です。",
+      "zh-Hans": "两个曾出现在韩国综艺《欢迎来到韩国（第一次来韩国？）》中的首尔地点：乐天世界塔地上541米的户外阶梯体验，以及讲述韩国战争历史与国土分裂的韩国战争纪念馆。",
+      "zh-Hant": "兩個曾在《어서와 한국은 처음이지》（歡迎來到韓國）中登場的首爾地點：樂天世界塔地上541公尺的戶外階梯體驗，以及介紹韓國戰爭史與分斷歷史的韓國戰爭紀念館。",
+      "es": "Dos lugares de Seúl que aparecieron en 'Welcome, First Time in Korea?': una actividad de escaleras al aire libre a 541 m de altura en la Lotte World Tower, y el Museo Memorial de la Guerra de Corea, que recorre la historia bélica y la división del país.",
+      "fr": "Deux lieux de Séoul présentés dans l'émission « Welcome, First Time in Korea? » : une activité d'escalier en extérieur à 541 m d'altitude à la Lotte World Tower, et le Mémorial de la Guerre de Corée, consacré à l'histoire des guerres et de la division de la Corée.",
+      "de": "Zwei Orte in Seoul, die in der Sendung „Welcome, First Time in Korea?“ vorgestellt wurden: eine Outdoor-Treppenaktivität 541 m über dem Boden im Lotte World Tower und das Kriegsmuseum Koreas, das die Kriegsgeschichte und die Teilung Koreas behandelt.",
+      "vi": "Hai địa điểm ở Seoul từng xuất hiện trong chương trình 'Chào mừng, lần đầu đến Hàn Quốc?': hoạt động leo cầu thang ngoài trời ở độ cao 541m của Lotte World Tower, và Bảo tàng Chiến tranh Hàn Quốc, nơi trưng bày lịch sử chiến tranh và sự chia cắt của đất nước.",
+      "th": "สองสถานที่ในโซลที่ปรากฏในรายการ 'Welcome, First Time in Korea?' ได้แก่ กิจกรรมบันไดกลางแจ้งที่ความสูง 541 เมตรของลอตเต้ เวิลด์ ทาวเวอร์ และพิพิธภัณฑ์สงครามแห่งเกาหลีที่เล่าประวัติศาสตร์สงครามและการแบ่งแยกของเกาหลี",
+      "id": "Dua tempat di Seoul yang tampil di acara 'Welcome, First Time in Korea?': aktivitas tangga luar ruangan 541m di atas Lotte World Tower, dan Museum Perang Korea yang membahas sejarah perang dan pembagian Korea.",
+      "ru": "Два места Сеула, показанные в программе «Добро пожаловать, впервые в Корее?»: активность на наружной лестнице на высоте 541 м в башне Лотте уорлд тауэр и Военный мемориал Кореи, посвящённый истории войн и разделения страны."
+    },
+    "cover": "HRmmssvPlsQ",
+    "videos": [
+      "HRmmssvPlsQ",
+      "wr-aNkV_KzQ"
+    ]
+  },
+  {
+    "slug": "2026-10-19-jeonnam",
+    "date": "2026-10-19",
+    "region": "jeonnam",
+    "title": {
+      "ko": "영상 속 전남 명소: 여수 해상케이블카와 오동도",
+      "en": "Jeonnam on Screen: Yeosu Maritime Cable Car and Odongdo Island",
+      "ja": "全羅南道映像の舞台：麗水の海上ケーブルカーと梧桐島",
+      "zh-Hans": "荧屏上的全南：丽水海上缆车与梧桐岛",
+      "zh-Hant": "電影場景中的全羅南道：麗水海上纜車與梧桐島",
+      "es": "Jeonnam en pantalla: Teleférico marítimo de Yeosu e isla Odongdo",
+      "fr": "Jeonnam à l'écran : téléphérique maritime de Yeosu et île d'Odongdo",
+      "de": "Jeonnam im Film: Seilbahn über dem Meer in Yeosu und die Insel Odongdo",
+      "vi": "Jeonnam trên màn ảnh: Cáp treo vượt biển Yeosu và đảo Odongdo",
+      "th": "จอนนัม บนจอทีวี: กระเช้าลอยฟ้าทะเลยอซูและเกาะโอดงโด",
+      "id": "Jeonnam di Layar: Kereta Gantung Laut Yeosu dan Pulau Odongdo",
+      "ru": "Чоннам на экране: морская канатная дорога и остров Одондо в Ёсу"
+    },
+    "summary": {
+      "ko": "'어서와 한국은 처음이지' EP.352에서 헝가리 셰프들이 찾은 여수의 해상케이블카와 오동도를 소개합니다.",
+      "en": "Two Yeosu stops featured in EP.352 of 'Welcome, First Time in Korea?', where Hungarian chefs explored the coast: the Maritime Cable Car and Odongdo Island.",
+      "ja": "韓国旅番組『初めての韓国、いらっしゃい（Welcome, First Time in Korea?）』EP.352で、ハンガリーのシェフたちが訪れた麗水の海上ケーブルカーと梧桐島を紹介します。",
+      "zh-Hans": "《欢迎来韩国，第一次吗？》第352集中，匈牙利厨师们探访了沿海风光，其中两处丽水景点入镜：海上缆车与梧桐岛。",
+      "zh-Hant": "《歡迎來到韓國》第352集中，匈牙利主廚們探訪沿海風光，這篇文章介紹其中兩個麗水景點：海上纜車與梧桐島。",
+      "es": "Dos lugares de Yeosu que aparecen en el episodio 352 de 'Welcome, First Time in Korea?', donde chefs húngaros recorrieron la costa: el teleférico marítimo y la isla Odongdo.",
+      "fr": "Deux lieux de Yeosu présentés dans l'épisode 352 de « Welcome, First Time in Korea? », où des chefs hongrois ont exploré la côte : le téléphérique maritime et l'île d'Odongdo.",
+      "de": "Zwei Orte in Yeosu, die in Folge 352 von „Welcome, First Time in Korea?“ vorkommen, in der ungarische Köche die Küste erkunden: die Seilbahn über dem Meer und die Insel Odongdo.",
+      "vi": "Hai địa điểm ở Yeosu xuất hiện trong tập EP.352 của chương trình 'Welcome, First Time in Korea?', nơi các đầu bếp Hungary khám phá vùng biển: cáp treo vượt biển Yeosu và đảo Odongdo.",
+      "th": "สองสถานที่ในยอซูจากตอน EP.352 ของรายการ 'Welcome, First Time in Korea?' ซึ่งเชฟชาวฮังการีเดินทางสำรวจชายฝั่ง ได้แก่ กระเช้าลอยฟ้าทะเลและเกาะโอดงโด",
+      "id": "Dua tempat di Yeosu yang tampil di EP.352 'Welcome, First Time in Korea?', ketika koki asal Hungaria menjelajahi pesisir: Kereta Gantung Laut Yeosu dan Pulau Odongdo.",
+      "ru": "Два места в Ёсу, показанные в 352-м выпуске шоу «Добро пожаловать в Корею, вы здесь впервые?», где венгерские повара исследовали побережье: морская канатная дорога и остров Одондо."
+    },
+    "cover": "_QKj8dcPqis",
+    "videos": [
+      "_QKj8dcPqis"
+    ]
+  },
+  {
     "slug": "2026-10-12-yeosu-mokpo-seafood",
     "date": "2026-10-12",
     "region": "jeonnam",

@@ -3,9 +3,9 @@
     "seoul": {
       "foods": [
         "サムギョプサル（豚バラ肉）",
-        "広蔵市場のピンデトッ＆ユッケ",
-        "コプチャン",
-        "鷺梁津の海鮮ラーメン"
+        "広蔵市場のビンデトックとユッケ",
+        "ゴプチャン（ホルモン）",
+        "老量津のシーフードラーメン"
       ],
       "spots": [
         "景福宮",
@@ -17,11 +17,11 @@
       "places": {
         "광장시장": [
           "広蔵市場",
-          "ピンデトッ、ユッケ、麻薬キンパ"
+          "ビンデトック、ユッケ、マヤクキンパ"
         ],
         "노량진수산시장": [
-          "鷺梁津水産市場",
-          "刺身盛り合わせ、海鮮ラーメン"
+          "ノリャンジン水産市場",
+          "刺身盛り合わせ、シーフードラーメン"
         ],
         "경복궁": [
           "景福宮",
@@ -33,14 +33,22 @@
         ],
         "봉은사 템플스테이": [
           "奉恩寺テンプルステイ",
-          "テンプルステイ体験"
+          "寺院滞在プログラム"
         ],
         "국립민속박물관": [
           "国立民俗博物館",
-          "博物館見学"
+          "博物館ツアー"
+        ],
+        "롯데타워": [
+          "ロッテワールドタワー",
+          "高さ541mの屋外階段アクティビティ"
+        ],
+        "전쟁기념관": [
+          "戦争記念館",
+          "朝鮮戦争と分断の歴史の展示"
         ]
       },
-      "src": "9042bd3b23"
+      "src": "8015f9d2c3"
     },
     "gyeonggi": {
       "foods": [
@@ -194,15 +202,15 @@
     },
     "jeonnam": {
       "foods": [
-        "麗水カンジャンケジャン",
-        "木浦のチュンカン＆ホンオ",
-        "潭陽トッカルビ",
+        "ヨソ産ワタリガニの醤油漬け",
+        "木浦チョンカンとホンオ",
+        "潭陽テクカルビ",
         "南道韓定食"
       ],
       "spots": [
         "麗水海上ケーブルカー",
         "順天湾",
-        "楽安邑城",
+        "乃禄邑城",
         "潭陽竹緑苑"
       ],
       "places": {
@@ -211,7 +219,7 @@
           "葦原と湿地"
         ],
         "낙안읍성": [
-          "楽安邑城民俗村",
+          "洛安邑城民俗村",
           "朝鮮時代の村"
         ],
         "담양 죽녹원": [
@@ -223,19 +231,27 @@
           "コングクス（冷たい豆乳麺）"
         ],
         "신성식당 (고흥 녹동)": [
-          "シンソン食堂（高興）",
+          "シンソン食堂（高興鹿洞）",
           "タコ料理（季節限定）"
         ],
         "돌집식당": [
-          "トルチプ食堂（木浦の韓定食店）",
-          "おかず17品の白飯定食"
+          "ドルジップ食堂（木浦）",
+          "17種のおかず付き白飯定食"
         ],
         "석곡 전통 시장": [
           "石谷伝統市場",
-          "昔ながらの趣が残る谷城の伝統市場"
+          "昔ながらの雰囲気を残す谷城の伝統市場"
+        ],
+        "여수 해상케이블카": [
+          "麗水海上ケーブルカー",
+          "ガラス床のケーブルカー"
+        ],
+        "오동도": [
+          "梧桐島",
+          "願いの木"
         ]
       },
-      "src": "41f48733bc"
+      "src": "ac0d04002b"
     },
     "gyeongbuk": {
       "foods": [
@@ -455,22 +471,22 @@
   "zh-Hans": {
     "seoul": {
       "foods": [
-        "五花肉",
-        "广藏市场绿豆煎饼和生拌牛肉",
-        "烤肠",
-        "鹭梁津海鲜拉面"
+        "五花肉（삼겹살）",
+        "绿豆煎饼与生牛肉（광장시장）",
+        "烤小肠（곱창）",
+        "首尔海鲜拉面（노량진）"
       ],
       "spots": [
         "景福宫",
         "北村韩屋村",
         "N首尔塔",
         "广藏市场",
-        "乐天世界塔"
+        "乐天世界大厦"
       ],
       "places": {
         "광장시장": [
           "广藏市场",
-          "绿豆煎饼、生拌牛肉、麻药紫菜包饭"
+          "绿豆煎饼、生牛肉、麻药紫菜包饭"
         ],
         "노량진수산시장": [
           "鹭梁津水产市场",
@@ -478,22 +494,30 @@
         ],
         "경복궁": [
           "景福宫",
-          "穿韩服游览宫殿"
+          "穿韩服漫步宫殿"
         ],
         "남산서울타워": [
           "N首尔塔",
           "夜景、爱情锁"
         ],
         "봉은사 템플스테이": [
-          "奉恩寺寺院寄宿",
-          "寺院寄宿体验"
+          "奉恩寺寺庙住宿体验",
+          "寺庙住宿体验项目"
         ],
         "국립민속박물관": [
           "国立民俗博物馆",
           "博物馆参观"
+        ],
+        "롯데타워": [
+          "乐天世界大厦",
+          "户外阶梯活动，位于摩天大楼541米高处"
+        ],
+        "전쟁기념관": [
+          "战争纪念馆",
+          "展示韩国战争史与分裂历史"
         ]
       },
-      "src": "9042bd3b23"
+      "src": "8015f9d2c3"
     },
     "gyeonggi": {
       "foods": [
@@ -647,10 +671,10 @@
     },
     "jeonnam": {
       "foods": [
-        "丽水酱蟹",
-        "木浦中间鱼和斑鳐",
-        "潭阳肉饼",
-        "南道韩定食"
+        "酱油螃蟹（여수 간장게장）",
+        "木浦炖章鱼与海螺（목포 중깐·홍어）",
+        "潭阳烤牛排骨（담양 떡갈비）",
+        "南道韩式套餐（남도 한정식）"
       ],
       "spots": [
         "丽水海上缆车",
@@ -661,7 +685,7 @@
       "places": {
         "순천만습지": [
           "顺天湾湿地",
-          "芦苇荡与湿地"
+          "芦苇田与湿地"
         ],
         "낙안읍성": [
           "乐安邑城民俗村",
@@ -673,22 +697,30 @@
         ],
         "청보석 (곡성)": [
           "青宝石（谷城）",
-          "豆浆冷面"
+          "冷豆汤面（콩국수）"
         ],
         "신성식당 (고흥 녹동)": [
-          "新星食堂（高兴）",
-          "章鱼料理（季节限定）"
+          "新城食堂（高兴鹿洞）",
+          "章鱼料理（季节性）"
         ],
         "돌집식당": [
-          "石屋食堂（木浦韩式套餐店）",
-          "17道小菜白饭套餐"
+          "石屋食堂（木浦）",
+          "白饭套餐，含17种小菜"
         ],
         "석곡 전통 시장": [
           "石谷传统市场",
-          "谷城保留旧时风貌的传统市场"
+          "保留旧时风貌的谷城传统市场"
+        ],
+        "여수 해상케이블카": [
+          "丽水海上缆车",
+          "玻璃底海上缆车"
+        ],
+        "오동도": [
+          "梧桐岛",
+          "许愿树"
         ]
       },
-      "src": "41f48733bc"
+      "src": "ac0d04002b"
     },
     "gyeongbuk": {
       "foods": [
@@ -908,10 +940,10 @@
   "zh-Hant": {
     "seoul": {
       "foods": [
-        "五花肉",
-        "廣藏市場綠豆煎餅與生拌牛肉",
-        "烤牛腸",
-        "鷺梁津海鮮拉麵"
+        "五花肉（삼겹살）",
+        "綠豆煎餅與生牛肉拌飯（광장시장）",
+        "烤小腸（곱창）",
+        "諾量津海鮮拉麵（노량진）"
       ],
       "spots": [
         "景福宮",
@@ -923,30 +955,38 @@
       "places": {
         "광장시장": [
           "廣藏市場",
-          "綠豆煎餅、生拌牛肉、麻藥飯捲"
+          "綠豆煎餅、生牛肉拌飯、馬鈐苦蔘飯捲"
         ],
         "노량진수산시장": [
-          "鷺梁津水產市場",
+          "諾量津水產市場",
           "生魚片拼盤、海鮮拉麵"
         ],
         "경복궁": [
           "景福宮",
-          "穿韓服遊宮"
+          "穿韓服漫步宮殿"
         ],
         "남산서울타워": [
           "N首爾塔",
           "夜景、愛情鎖"
         ],
         "봉은사 템플스테이": [
-          "奉恩寺寺廟寄宿",
-          "寺廟寄宿體驗"
+          "奉恩寺寺廟住宿體驗",
+          "寺廟生活體驗行程"
         ],
         "국립민속박물관": [
           "國立民俗博物館",
-          "參觀博物館"
+          "博物館導覽"
+        ],
+        "롯데타워": [
+          "樂天世界塔",
+          "戶外階梯體驗，位於高541公尺的摩天大樓"
+        ],
+        "전쟁기념관": [
+          "戰爭紀念館",
+          "韓國戰爭歷史與分裂展覽"
         ]
       },
-      "src": "9042bd3b23"
+      "src": "8015f9d2c3"
     },
     "gyeonggi": {
       "foods": [
@@ -1100,16 +1140,16 @@
     },
     "jeonnam": {
       "foods": [
-        "麗水醬蟹",
-        "木浦中鱭魚與斑鰩",
-        "潭陽烤肉餅",
-        "南道韓定食"
+        "醬油醃蟹（여수 간장게장）",
+        "木浦雞腳與海蔘（목포 점간·홍어）",
+        "潭陽烤牛排（담양 떡갈비）",
+        "南道韓式定食（남도 한정식）"
       ],
       "spots": [
         "麗水海上纜車",
         "順天灣",
-        "樂安邑城",
-        "潭陽竹綠苑"
+        "奈宏邑城",
+        "潭陽竹林園"
       ],
       "places": {
         "순천만습지": [
@@ -1118,30 +1158,38 @@
         ],
         "낙안읍성": [
           "樂安邑城民俗村",
-          "朝鮮時代村落"
+          "朝鮮時代古村落"
         ],
         "담양 죽녹원": [
-          "潭陽竹綠苑",
-          "竹林"
+          "潭陽竹綠園",
+          "竹林步道"
         ],
         "청보석 (곡성)": [
           "青寶石（谷城）",
-          "豆漿冷麵"
+          "冷豆漿麵（콩국수）"
         ],
         "신성식당 (고흥 녹동)": [
-          "新城食堂（高興）",
+          "新星食堂（高興鹿洞）",
           "章魚料理（季節限定）"
         ],
         "돌집식당": [
-          "石屋食堂（木浦韓式套餐）",
-          "17道小菜的白飯套餐"
+          "石屋食堂（木浦）",
+          "白飯定食，附17道小菜"
         ],
         "석곡 전통 시장": [
           "石谷傳統市場",
-          "保留古早風情的谷城傳統市場"
+          "保留舊時風情的谷城傳統市場"
+        ],
+        "여수 해상케이블카": [
+          "麗水海上纜車",
+          "玻璃底海上纜車"
+        ],
+        "오동도": [
+          "梧桐島",
+          "許願樹"
         ]
       },
-      "src": "41f48733bc"
+      "src": "ac0d04002b"
     },
     "gyeongbuk": {
       "foods": [
@@ -1363,8 +1411,8 @@
       "foods": [
         "Samgyeopsal (panceta de cerdo)",
         "Bindaetteok y yukhoe en Gwangjang",
-        "Gopchang",
-        "Ramyeon de mariscos en Noryangjin"
+        "Gopchang (intestino de vaca)",
+        "Ramyeon de marisco en Noryangjin"
       ],
       "spots": [
         "Palacio Gyeongbokgung",
@@ -1379,12 +1427,12 @@
           "Bindaetteok, yukhoe, mayak gimbap"
         ],
         "노량진수산시장": [
-          "Mercado de pescado Noryangjin",
-          "Bandeja de sashimi, ramyeon de mariscos"
+          "Mercado de Pescado Noryangjin",
+          "Plato de sashimi, ramyeon de marisco"
         ],
         "경복궁": [
           "Palacio Gyeongbokgung",
-          "Paseo por el palacio en hanbok"
+          "Paseo por el palacio con hanbok"
         ],
         "남산서울타워": [
           "Torre N Seúl",
@@ -1395,11 +1443,19 @@
           "Programa de templestay"
         ],
         "국립민속박물관": [
-          "Museo Nacional del Folclore de Corea",
+          "Museo Nacional de Folclore de Corea",
           "Visita al museo"
+        ],
+        "롯데타워": [
+          "Lotte World Tower",
+          "Actividad de escaleras al aire libre a 541 m de altura en el rascacielos"
+        ],
+        "전쟁기념관": [
+          "Museo Memorial de la Guerra de Corea",
+          "Exposiciones sobre la historia de la guerra y la división de Corea"
         ]
       },
-      "src": "9042bd3b23"
+      "src": "8015f9d2c3"
     },
     "gyeonggi": {
       "foods": [
@@ -1553,25 +1609,25 @@
     },
     "jeonnam": {
       "foods": [
-        "Cangrejo en salsa de soja de Yeosu",
+        "Cangrejo de Yeosu en salsa de soja",
         "Jung-kkan y hongeo de Mokpo",
         "Tteokgalbi de Damyang",
         "Hanjeongsik de Namdo"
       ],
       "spots": [
         "Teleférico marítimo de Yeosu",
-        "Bahía de Suncheon",
+        "Humedal de Suncheonman",
         "Naganeupseong",
         "Juknokwon de Damyang"
       ],
       "places": {
         "순천만습지": [
-          "Humedal de la bahía de Suncheon",
-          "Campos de juncos y humedales"
+          "Humedal de Suncheonman",
+          "Campos de cañas y humedales"
         ],
         "낙안읍성": [
-          "Aldea folclórica Naganeupseong",
-          "Aldea de la era Joseon"
+          "Aldea fortificada de Naganeupseong",
+          "Aldea de la época Joseon"
         ],
         "담양 죽녹원": [
           "Juknokwon de Damyang",
@@ -1579,22 +1635,30 @@
         ],
         "청보석 (곡성)": [
           "Cheongboseok (Gokseong)",
-          "Kongguksu (fideos fríos en caldo de soja)"
+          "Kongguksu (fideos fríos de soja)"
         ],
         "신성식당 (고흥 녹동)": [
           "Sinseong Sikdang (Goheung)",
           "Platos de pulpo (de temporada)"
         ],
         "돌집식당": [
-          "Doljip Sikdang (restaurante de menú coreano en Mokpo)",
-          "Menú baekban con 17 guarniciones"
+          "Doljip Sikdang (restaurante de comidas coreanas en Mokpo)",
+          "Menú baekban con 17 acompañamientos"
         ],
         "석곡 전통 시장": [
           "Mercado tradicional de Seokgok",
-          "Mercado tradicional de Gokseong que conserva su carácter antiguo"
+          "Mercado tradicional de Gokseong que conserva su carácter de antaño"
+        ],
+        "여수 해상케이블카": [
+          "Teleférico marítimo de Yeosu",
+          "Teleférico con suelo de cristal"
+        ],
+        "오동도": [
+          "Isla Odongdo",
+          "Árbol de los deseos"
         ]
       },
-      "src": "41f48733bc"
+      "src": "ac0d04002b"
     },
     "gyeongbuk": {
       "foods": [
@@ -1816,43 +1880,51 @@
       "foods": [
         "Samgyeopsal (poitrine de porc)",
         "Bindaetteok et yukhoe à Gwangjang",
-        "Gopchang",
+        "Gopchang (intestins de bœuf grillés)",
         "Ramyeon aux fruits de mer à Noryangjin"
       ],
       "spots": [
         "Palais Gyeongbokgung",
-        "Village hanok de Bukchon",
-        "N Seoul Tower",
-        "Marché de Gwangjang",
+        "Village de hanok de Bukchon",
+        "Tour N Séoul",
+        "Marché Gwangjang",
         "Lotte World Tower"
       ],
       "places": {
         "광장시장": [
-          "Marché de Gwangjang",
+          "Marché Gwangjang",
           "Bindaetteok, yukhoe, mayak gimbap"
         ],
         "노량진수산시장": [
           "Marché aux poissons de Noryangjin",
-          "Plateau de sashimis, ramyeon aux fruits de mer"
+          "Plateau de sashimi, ramyeon aux fruits de mer"
         ],
         "경복궁": [
           "Palais Gyeongbokgung",
           "Promenade au palais en hanbok"
         ],
         "남산서울타워": [
-          "N Seoul Tower",
-          "Vue nocturne, cadenas d'amour"
+          "Tour N Séoul",
+          "Vues nocturnes, cadenas d'amour"
         ],
         "봉은사 템플스테이": [
           "Templestay au temple Bongeunsa",
           "Programme de templestay"
         ],
         "국립민속박물관": [
-          "Musée national du folklore de Corée",
+          "Musée national d'ethnologie coréenne",
           "Visite du musée"
+        ],
+        "롯데타워": [
+          "Lotte World Tower",
+          "Activité d'escalier extérieur à 541 m de hauteur au gratte-ciel"
+        ],
+        "전쟁기념관": [
+          "Mémorial de la guerre de Corée",
+          "Expositions sur l'histoire de la guerre et de la division de la Corée"
         ]
       },
-      "src": "9042bd3b23"
+      "src": "8015f9d2c3"
     },
     "gyeonggi": {
       "foods": [
@@ -2006,24 +2078,24 @@
     },
     "jeonnam": {
       "foods": [
-        "Crabe mariné au soja de Yeosu",
-        "Jung-kkan et hongeo de Mokpo",
+        "Crabe de Yeosu à la sauce soja",
+        "Mokpo jung-kkan et hongeo",
         "Tteokgalbi de Damyang",
         "Hanjeongsik de Namdo"
       ],
       "spots": [
         "Téléphérique maritime de Yeosu",
-        "Baie de Suncheon",
+        "Baie de Suncheonman",
         "Naganeupseong",
         "Juknokwon de Damyang"
       ],
       "places": {
         "순천만습지": [
-          "Zone humide de la baie de Suncheon",
-          "Roselières et zones humides"
+          "Zone humide de la baie de Suncheonman",
+          "Champs de roseaux et zones humides"
         ],
         "낙안읍성": [
-          "Village folklorique de Naganeupseong",
+          "Village fortifié de Naganeupseong",
           "Village de l'époque Joseon"
         ],
         "담양 죽녹원": [
@@ -2032,22 +2104,30 @@
         ],
         "청보석 (곡성)": [
           "Cheongboseok (Gokseong)",
-          "Kongguksu (nouilles froides au lait de soja)"
+          "Kongguksu (nouilles froides au soja)"
         ],
         "신성식당 (고흥 녹동)": [
           "Sinseong Sikdang (Goheung)",
-          "Plats de poulpe (de saison)"
+          "Plats de poulpe (selon la saison)"
         ],
         "돌집식당": [
-          "Doljip Sikdang (restaurant de menus coréens à Mokpo)",
-          "Menu baekban avec 17 accompagnements"
+          "Doljip Sikdang (restaurant de repas coréen à Mokpo)",
+          "Repas baekban avec 17 accompagnements"
         ],
         "석곡 전통 시장": [
           "Marché traditionnel de Seokgok",
-          "Marché traditionnel de Gokseong au charme d'antan préservé"
+          "Marché traditionnel de Gokseong qui conserve son caractère d'antan"
+        ],
+        "여수 해상케이블카": [
+          "Téléphérique maritime de Yeosu",
+          "Téléphérique au sol vitré"
+        ],
+        "오동도": [
+          "Île d'Odongdo",
+          "Arbre des vœux"
         ]
       },
-      "src": "41f48733bc"
+      "src": "ac0d04002b"
     },
     "gyeongbuk": {
       "foods": [
@@ -2268,13 +2348,13 @@
     "seoul": {
       "foods": [
         "Samgyeopsal (Schweinebauch)",
-        "Bindaetteok & Yukhoe im Gwangjang-Markt",
-        "Gopchang",
-        "Meeresfrüchte-Ramyeon in Noryangjin"
+        "Bindaetteok & Yukhoe am Gwangjang",
+        "Gopchang (Rindermagen-Darm)",
+        "Meeresfrüchte-Ramyeon am Noryangjin"
       ],
       "spots": [
         "Gyeongbokgung-Palast",
-        "Bukchon Hanok Village",
+        "Bukchon Hanok-Dorf",
         "N Seoul Tower",
         "Gwangjang-Markt",
         "Lotte World Tower"
@@ -2290,22 +2370,30 @@
         ],
         "경복궁": [
           "Gyeongbokgung-Palast",
-          "Palastspaziergang im Hanbok"
+          "Spaziergang im Palast in Hanbok"
         ],
         "남산서울타워": [
           "N Seoul Tower",
-          "Nachtaussicht, Liebesschlösser"
+          "Nachtansichten, Liebesschlösser"
         ],
         "봉은사 템플스테이": [
           "Bongeunsa Templestay",
           "Templestay-Programm"
         ],
         "국립민속박물관": [
-          "Koreanisches Nationales Volkskundemuseum",
-          "Museumsbesuch"
+          "Nationalmuseum für Volkskunde",
+          "Museumsführung"
+        ],
+        "롯데타워": [
+          "Lotte World Tower",
+          "Outdoor-Treppenaktivität 541 m über dem Boden am Wolkenkratzer"
+        ],
+        "전쟁기념관": [
+          "Kriegsgedächtnismuseum Korea",
+          "Ausstellungen zur koreanischen Kriegsgeschichte und Teilung"
         ]
       },
-      "src": "9042bd3b23"
+      "src": "8015f9d2c3"
     },
     "gyeonggi": {
       "foods": [
@@ -2460,23 +2548,23 @@
     "jeonnam": {
       "foods": [
         "Yeosu-Krabben in Sojasauce",
-        "Jung-kkan & Hongeo aus Mokpo",
-        "Damyang-Tteokgalbi",
-        "Namdo-Hanjeongsik"
+        "Mokpo Jung-kkan & Hongeo",
+        "Damyang Tteokgalbi",
+        "Namdo Hanjeongsik"
       ],
       "spots": [
-        "Yeosu Maritime Cable Car",
+        "Yeosu Maritime Seilbahn",
         "Suncheonman-Bucht",
         "Naganeupseong",
         "Damyang Juknokwon"
       ],
       "places": {
         "순천만습지": [
-          "Feuchtgebiet Suncheonman-Bucht",
+          "Suncheonman-Bucht Feuchtgebiet",
           "Schilffelder & Feuchtgebiete"
         ],
         "낙안읍성": [
-          "Volksdorf Naganeupseong",
+          "Naganeupseong Volksdorf",
           "Dorf aus der Joseon-Zeit"
         ],
         "담양 죽녹원": [
@@ -2485,22 +2573,30 @@
         ],
         "청보석 (곡성)": [
           "Cheongboseok (Gokseong)",
-          "Kongguksu (kalte Sojabohnennudeln)"
+          "Kongguksu (kalte Sojabohnen-Nudeln)"
         ],
         "신성식당 (고흥 녹동)": [
           "Sinseong Sikdang (Goheung)",
-          "Oktopusgerichte (saisonal)"
+          "Oktopus-Gerichte (saisonal)"
         ],
         "돌집식당": [
-          "Doljip Sikdang (koreanisches Menürestaurant in Mokpo)",
+          "Doljip Sikdang (koreanisches Set-Restaurant in Mokpo)",
           "Baekban-Menü mit 17 Beilagen"
         ],
         "석곡 전통 시장": [
-          "Traditioneller Markt Seokgok",
+          "Seokgok-Traditionsmarkt",
           "Traditioneller Markt in Gokseong mit altem Charme"
+        ],
+        "여수 해상케이블카": [
+          "Yeosu Maritime Seilbahn",
+          "Seilbahn mit Glasboden"
+        ],
+        "오동도": [
+          "Odongdo-Insel",
+          "Wunschbaum"
         ]
       },
-      "src": "41f48733bc"
+      "src": "ac0d04002b"
     },
     "gyeongbuk": {
       "foods": [
@@ -2721,9 +2817,9 @@
     "seoul": {
       "foods": [
         "Samgyeopsal (thịt ba chỉ nướng)",
-        "Bindaetteok & yukhoe ở chợ Gwangjang",
-        "Gopchang (lòng nướng)",
-        "Mì ramyeon hải sản ở Noryangjin"
+        "Bindaetteok & yukhoe tại Gwangjang",
+        "Gopchang (lòng non nướng)",
+        "Ramyeon hải sản tại Noryangjin"
       ],
       "spots": [
         "Cung Gyeongbokgung",
@@ -2738,27 +2834,35 @@
           "Bindaetteok, yukhoe, mayak gimbap"
         ],
         "노량진수산시장": [
-          "Chợ hải sản Noryangjin",
-          "Đĩa sashimi, mì ramyeon hải sản"
+          "Chợ Hải sản Noryangjin",
+          "Đĩa sashimi, ramyeon hải sản"
         ],
         "경복궁": [
           "Cung Gyeongbokgung",
-          "Dạo cung điện trong trang phục hanbok"
+          "Dạo cung điện mặc hanbok"
         ],
         "남산서울타워": [
           "Tháp N Seoul",
-          "Ngắm cảnh đêm, ổ khóa tình yêu"
+          "Ngắm cảnh đêm, khóa tình yêu"
         ],
         "봉은사 템플스테이": [
-          "Templestay chùa Bongeunsa",
+          "Chương trình Templestay Bongeunsa",
           "Chương trình lưu trú chùa"
         ],
         "국립민속박물관": [
-          "Bảo tàng Dân gian Quốc gia Hàn Quốc",
+          "Bảo tàng Dân tục Quốc gia Hàn Quốc",
           "Tham quan bảo tàng"
+        ],
+        "롯데타워": [
+          "Tháp Lotte World",
+          "Hoạt động leo cầu thang ngoài trời ở độ cao 541m"
+        ],
+        "전쟁기념관": [
+          "Bảo tàng Chiến tranh Hàn Quốc",
+          "Triển lãm lịch sử chiến tranh và chia cắt Hàn Quốc"
         ]
       },
-      "src": "9042bd3b23"
+      "src": "8015f9d2c3"
     },
     "gyeonggi": {
       "foods": [
@@ -2912,48 +3016,56 @@
     },
     "jeonnam": {
       "foods": [
-        "Cua ngâm tương Yeosu",
-        "Jung-kkan & cá đuối hongeo Mokpo",
+        "Cua Yeosu nấu nước tương",
+        "Jung-kkan & hongeo Mokpo",
         "Tteokgalbi Damyang",
         "Hanjeongsik Namdo"
       ],
       "spots": [
         "Cáp treo biển Yeosu",
-        "Vịnh Suncheon",
+        "Vịnh Suncheonman",
         "Naganeupseong",
-        "Rừng tre Juknokwon Damyang"
+        "Damyang Juknokwon"
       ],
       "places": {
         "순천만습지": [
-          "Đầm lầy vịnh Suncheon",
+          "Đầm lầy Suncheonman",
           "Cánh đồng lau sậy & đầm lầy"
         ],
         "낙안읍성": [
-          "Làng dân gian Naganeupseong",
-          "Làng thời Joseon"
+          "Làng cổ Naganeupseong",
+          "Làng cổ thời Joseon"
         ],
         "담양 죽녹원": [
-          "Rừng tre Juknokwon Damyang",
+          "Damyang Juknokwon",
           "Rừng tre"
         ],
         "청보석 (곡성)": [
           "Cheongboseok (Gokseong)",
-          "Kongguksu (mì lạnh nước đậu nành)"
+          "Kongguksu (mì đậu nành lạnh)"
         ],
         "신성식당 (고흥 녹동)": [
           "Sinseong Sikdang (Goheung)",
-          "Món bạch tuộc (theo mùa)"
+          "Các món bạch tuộc (theo mùa)"
         ],
         "돌집식당": [
-          "Doljip Sikdang (quán cơm Hàn ở Mokpo)",
-          "Set cơm baekban với 17 món phụ"
+          "Doljip Sikdang (nhà hàng cơm hàn quốc ở Mokpo)",
+          "Suất baekban với 17 món phụ"
         ],
         "석곡 전통 시장": [
           "Chợ truyền thống Seokgok",
-          "Chợ truyền thống ở Gokseong giữ nét xưa"
+          "Chợ truyền thống Gokseong giữ nét xưa"
+        ],
+        "여수 해상케이블카": [
+          "Cáp treo biển Yeosu",
+          "Cáp treo sàn kính nhìn biển"
+        ],
+        "오동도": [
+          "Đảo Odongdo",
+          "Cây ước nguyện"
         ]
       },
-      "src": "41f48733bc"
+      "src": "ac0d04002b"
     },
     "gyeongbuk": {
       "foods": [
@@ -3173,45 +3285,53 @@
   "th": {
     "seoul": {
       "foods": [
-        "ซัมกyeopซัล (หมูสามชั้น)",
-        "บินแดต็อกและยุกเฮที่ตลาดควังจัง",
-        "กopชัง (ไส้วัวย่าง)",
-        "ราเมียนทะเลที่โนรยังจิน"
+        "ซัมgyeopซัล (สามชั้นหมู)",
+        "บินแดตต็อกและยุกฮเว ที่กวางจัง",
+        "จ็อปชัง (ไส้หมู)",
+        "ราเมียนซีฟู้ดที่โนรยังจิน"
       ],
       "spots": [
-        "พระราชวังคยองบกกุง",
-        "หมู่บ้านฮันอกบุกชอน",
-        "N โซลทาวเวอร์",
-        "ตลาดควังจัง",
-        "ล็อตเต้เวิลด์ทาวเวอร์"
+        "พระราชวังคย็องบก",
+        "หมู่บ้านฮันอกบุกชน",
+        "หอคอยเอ็นโซล",
+        "ตลาดกวางจัง",
+        "ลอตเต้ เวิลด์ ทาวเวอร์"
       ],
       "places": {
         "광장시장": [
-          "ตลาดควังจัง",
-          "บินแดต็อก, ยุกเฮ, มายักคิมบับ"
+          "ตลาดกวางจัง",
+          "บินแดตต็อก ยุกฮเว มายักคิมบับ"
         ],
         "노량진수산시장": [
-          "ตลาดปลาโนรยังจิน",
-          "ซาชิมิรวม, ราเมียนทะเล"
+          "ตลาดปลานอรยังจิน",
+          "ซาชิมิรวม ราเมียนซีฟู้ด"
         ],
         "경복궁": [
-          "พระราชวังคยองบกกุง",
+          "พระราชวังคย็องบก",
           "เดินชมวังในชุดฮันบก"
         ],
         "남산서울타워": [
-          "N โซลทาวเวอร์",
-          "วิวกลางคืน, กุญแจคู่รัก"
+          "หอคอยเอ็นโซล (นัมซาน)",
+          "วิวกลางคืน กุญแจรักแขวนรั้ว"
         ],
         "봉은사 템플스테이": [
-          "เทมเพิลสเตย์วัดบงอึนซา",
-          "โปรแกรมเทมเพิลสเตย์"
+          "บงอึนซา เทมเพิลสเตย์",
+          "โปรแกรมพักที่วัด"
         ],
         "국립민속박물관": [
           "พิพิธภัณฑ์พื้นบ้านแห่งชาติเกาหลี",
-          "ชมพิพิธภัณฑ์"
+          "ทัวร์ชมพิพิธภัณฑ์"
+        ],
+        "롯데타워": [
+          "ลอตเต้ ทาวเวอร์",
+          "กิจกรรมเดินบันไดกลางแจ้ง สูง 541 ม. เหนือพื้นดิน"
+        ],
+        "전쟁기념관": [
+          "อนุสรณ์สถานสงครามเกาหลี",
+          "นิทรรศการประวัติสงครามเกาหลีและการแบ่งแยกประเทศ"
         ]
       },
-      "src": "9042bd3b23"
+      "src": "8015f9d2c3"
     },
     "gyeonggi": {
       "foods": [
@@ -3365,48 +3485,56 @@
     },
     "jeonnam": {
       "foods": [
-        "ปูดองซีอิ๊วยอซู",
-        "จุงกันและฮงออม็อกโพ",
-        "ต็อกคาลบีทัมยัง",
-        "ฮันจองชิกนัมโด"
+        "ปูยองจิ่มซอสซีอิ๊ว (ยอซู)",
+        "จุงคันและฮงออ โมโพ",
+        "ทันกัลบี ดัมยาง",
+        "ฮันจองสิก นัมโด"
       ],
       "spots": [
         "กระเช้าทะเลยอซู",
         "อ่าวซุนชอนมัน",
         "นากันอึบซอง",
-        "ป่าไผ่จุกนกวอนทัมยัง"
+        "ดัมยาง จูกโนวอน"
       ],
       "places": {
         "순천만습지": [
-          "พื้นที่ชุ่มน้ำอ่าวซุนชอนมัน",
-          "ทุ่งต้นอ้อและพื้นที่ชุ่มน้ำ"
+          "อ่าวซุนชอนมันชุ่มน้ำ",
+          "ทุ่งอ้อและพื้นที่ชุ่มน้ำ"
         ],
         "낙안읍성": [
-          "หมู่บ้านพื้นบ้านนากันอึบซอง",
+          "หมู่บ้านโบราณนากันอึบซอง",
           "หมู่บ้านสมัยโชซอน"
         ],
         "담양 죽녹원": [
-          "จุกนกวอนทัมยัง",
+          "จูกโนวอน ดัมยาง",
           "ป่าไผ่"
         ],
         "청보석 (곡성)": [
-          "ชองโบซอก (ก๊กซอง)",
-          "คงกุกซู (บะหมี่เย็นน้ำถั่วเหลือง)"
+          "ชองโบซ็อก (กokซอง)",
+          "กองกุกซู (บะหมี่ถั่วเหลืองเย็น)"
         ],
         "신성식당 (고흥 녹동)": [
-          "ชินซองชิกดัง (โคฮึง)",
-          "เมนูปลาหมึกยักษ์ (ตามฤดูกาล)"
+          "ร้านซินซอง (โกฮึง นokดง)",
+          "อาหารปลาหมึกตามฤดูกาล"
         ],
         "돌집식당": [
-          "ทลจิบชิกดัง (ร้านอาหารชุดเกาหลีในม็อกโพ)",
-          "ชุดแพ็กบันพร้อมเครื่องเคียง 17 อย่าง"
+          "ร้านดอลจิบ (โมโพ)",
+          "ชุดข้าวเพกบัน มีกับข้าว 17 อย่าง"
         ],
         "석곡 전통 시장": [
-          "ตลาดดั้งเดิมซอกก๊ก",
-          "ตลาดดั้งเดิมในก๊กซองที่คงบรรยากาศเก่า"
+          "ตลาดดั้งเดิมซอกกок",
+          "ตลาดดั้งเดิมในกokซอง ที่คงความเป็นตลาดเก่า"
+        ],
+        "여수 해상케이블카": [
+          "กระเช้าทะเลยอซู",
+          "กระเช้าพื้นกระจกมองทะเล"
+        ],
+        "오동도": [
+          "เกาะโอดงโด",
+          "ต้นไม้แห่งความปรารถนา"
         ]
       },
-      "src": "41f48733bc"
+      "src": "ac0d04002b"
     },
     "gyeongbuk": {
       "foods": [
@@ -3626,15 +3754,15 @@
   "id": {
     "seoul": {
       "foods": [
-        "Samgyeopsal (perut babi)",
+        "Samgyeopsal (daging perut babi)",
         "Bindaetteok & yukhoe di Gwangjang",
-        "Gopchang",
+        "Gopchang (usus sapi)",
         "Ramyeon seafood di Noryangjin"
       ],
       "spots": [
         "Istana Gyeongbokgung",
         "Desa Hanok Bukchon",
-        "N Seoul Tower",
+        "Menara N Seoul",
         "Pasar Gwangjang",
         "Lotte World Tower"
       ],
@@ -3645,14 +3773,14 @@
         ],
         "노량진수산시장": [
           "Pasar Ikan Noryangjin",
-          "Piring sashimi, ramyeon seafood"
+          "Sashimi, ramyeon seafood"
         ],
         "경복궁": [
           "Istana Gyeongbokgung",
           "Jalan-jalan di istana dengan hanbok"
         ],
         "남산서울타워": [
-          "N Seoul Tower",
+          "Menara N Seoul",
           "Pemandangan malam, gembok cinta"
         ],
         "봉은사 템플스테이": [
@@ -3662,9 +3790,17 @@
         "국립민속박물관": [
           "Museum Rakyat Nasional Korea",
           "Tur museum"
+        ],
+        "롯데타워": [
+          "Lotte World Tower",
+          "Aktivitas tangga luar ruangan 541 m di atas tanah"
+        ],
+        "전쟁기념관": [
+          "Museum Perang Korea",
+          "Pameran sejarah perang Korea dan pembagian negara"
         ]
       },
-      "src": "9042bd3b23"
+      "src": "8015f9d2c3"
     },
     "gyeonggi": {
       "foods": [
@@ -3818,48 +3954,56 @@
     },
     "jeonnam": {
       "foods": [
-        "Kepiting kecap Yeosu",
-        "Jung-kkan & hongeo Mokpo",
-        "Tteokgalbi Damyang",
+        "Kepiting Yeosu dengan kecap kedelai",
+        "Mokpo jung-kkan & hongeo",
+        "Damyang tteokgalbi",
         "Hanjeongsik Namdo"
       ],
       "spots": [
         "Kereta Gantung Laut Yeosu",
         "Teluk Suncheonman",
         "Naganeupseong",
-        "Juknokwon Damyang"
+        "Damyang Juknokwon"
       ],
       "places": {
         "순천만습지": [
           "Lahan Basah Teluk Suncheonman",
-          "Padang alang-alang & lahan basah"
+          "Ladang buluh & lahan basah"
         ],
         "낙안읍성": [
           "Desa Rakyat Naganeupseong",
           "Desa era Joseon"
         ],
         "담양 죽녹원": [
-          "Juknokwon Damyang",
+          "Damyang Juknokwon",
           "Hutan bambu"
         ],
         "청보석 (곡성)": [
           "Cheongboseok (Gokseong)",
-          "Kongguksu (mi kuah kedelai dingin)"
+          "Kongguksu (mie kedelai dingin)"
         ],
         "신성식당 (고흥 녹동)": [
           "Sinseong Sikdang (Goheung)",
           "Hidangan gurita (musiman)"
         ],
         "돌집식당": [
-          "Doljip Sikdang (restoran set Korea di Mokpo)",
-          "Set baekban dengan 17 lauk"
+          "Doljip Sikdang (restoran hanjeongsik di Mokpo)",
+          "Set makan baekban dengan 17 lauk"
         ],
         "석곡 전통 시장": [
           "Pasar Tradisional Seokgok",
-          "Pasar tradisional di Gokseong yang mempertahankan suasana tempo dulu"
+          "Pasar tradisional di Gokseong yang mempertahankan suasana lamanya"
+        ],
+        "여수 해상케이블카": [
+          "Kereta Gantung Laut Yeosu",
+          "Kereta gantung dengan lantai kaca"
+        ],
+        "오동도": [
+          "Pulau Odongdo",
+          "Pohon harapan"
         ]
       },
-      "src": "41f48733bc"
+      "src": "ac0d04002b"
     },
     "gyeongbuk": {
       "foods": [
@@ -4079,45 +4223,53 @@
   "ru": {
     "seoul": {
       "foods": [
-        "Самгёпсаль (свиная грудинка)",
-        "Пиндэттόк и юкхве на рынке Кванджан",
+        "Samgyeopsal (свиная грудинка)",
+        "Биндэтток и юкхе на Кванчжан",
         "Копчхан",
-        "Рамён с морепродуктами на Норянджине"
+        "Рамён с морепродуктами в Норянджине"
       ],
       "spots": [
         "Дворец Кёнбоккун",
-        "Деревня ханоков Пукчхон",
-        "Сеульская башня N",
-        "Рынок Кванджан",
-        "Лотте Ворлд Тауэр"
+        "Деревня ханок Пукчхон",
+        "Башня N Сеул",
+        "Рынок Кванчжан",
+        "Башня Лотте"
       ],
       "places": {
         "광장시장": [
-          "Рынок Кванджан",
-          "Пиндэттόк, юкхве, маяк-кимпап"
+          "Рынок Кванчжан",
+          "Биндэтток, юкхе, маяк кимпап"
         ],
         "노량진수산시장": [
           "Рыбный рынок Норянджин",
-          "Ассорти из сашими, рамён с морепродуктами"
+          "Блюдо из сашими, рамён с морепродуктами"
         ],
         "경복궁": [
           "Дворец Кёнбоккун",
           "Прогулка по дворцу в ханбоке"
         ],
         "남산서울타워": [
-          "Сеульская башня N",
+          "Башня N Сеул",
           "Ночные виды, замки любви"
         ],
         "봉은사 템플스테이": [
-          "Темплстей в храме Понынса",
+          "Темплстей в Понын-са",
           "Программа темплстей"
         ],
         "국립민속박물관": [
-          "Национальный фольклорный музей Кореи",
+          "Национальный музей фольклора Кореи",
           "Экскурсия по музею"
+        ],
+        "롯데타워": [
+          "Башня Лотте",
+          "Активность на открытой лестнице на высоте 541 м над землёй в небоскрёбе"
+        ],
+        "전쟁기념관": [
+          "Военный мемориал Кореи",
+          "Экспонаты об истории корейской войны и разделении"
         ]
       },
-      "src": "9042bd3b23"
+      "src": "8015f9d2c3"
     },
     "gyeonggi": {
       "foods": [
@@ -4271,48 +4423,56 @@
     },
     "jeonnam": {
       "foods": [
-        "Ёсуский краб в соевом соусе",
-        "Мокпхоские чжункан и хонъо",
-        "Тамъянский ттоккальби",
-        "Намдо ханджонсик"
+        "Крабы йосу в соевом соусе",
+        "Мокпо чжун-ккан и хонхо",
+        "Дамян тткальбіці (тт­калби)",
+        "Намдо ханчжонсик"
       ],
       "spots": [
-        "Морская канатная дорога Ёсу",
+        "Морская канатная дорога Йосу",
         "Залив Сунчхонман",
-        "Наганыпсон",
-        "Чуннокwon в Тамъяне"
+        "Нагансонсон",
+        "Дамян Чукнокwon"
       ],
       "places": {
         "순천만습지": [
           "Водно-болотные угодья залива Сунчхонман",
-          "Заросли тростника и болота"
+          "Тростниковые поля и болота"
         ],
         "낙안읍성": [
-          "Фольклорная деревня Наганыпсон",
+          "Народная деревня Нагансонсон",
           "Деревня эпохи Чосон"
         ],
         "담양 죽녹원": [
-          "Чуннокwon в Тамъяне",
+          "Чукнокwon в Дамяне",
           "Бамбуковый лес"
         ],
         "청보석 (곡성)": [
-          "Чхонбосок (Кoксон)",
-          "Конгуксу (холодная лапша на соевом бульоне)"
+          "Чхонбосок (Коксон)",
+          "Конгуксу (холодная лапша из соевых бобов)"
         ],
         "신성식당 (고흥 녹동)": [
-          "Синсон Сиктан (Кохын)",
-          "Блюда из осьминога (сезонно)"
+          "Синсон Сикдан (Коын, Нокдон)",
+          "Блюда из осьминога (по сезону)"
         ],
         "돌집식당": [
-          "Тольджип Сиктан (ресторан корейских сетов в Мокпхо)",
-          "Сет пэкпан с 17 закусками"
+          "Допчжип Сикдан (корейский обед в Мокпо)",
+          "Набор пэкбан с 17 закусками"
         ],
         "석곡 전통 시장": [
           "Традиционный рынок Соккок",
-          "Рынок в Коксоне, сохранивший старинный колорит"
+          "Традиционный рынок в Коксоне, сохранивший старинный облик"
+        ],
+        "여수 해상케이블카": [
+          "Морская канатная дорога Йосу",
+          "Канатная дорога со стеклянным полом"
+        ],
+        "오동도": [
+          "Остров Одонгдо",
+          "Дерево желаний"
         ]
       },
-      "src": "41f48733bc"
+      "src": "ac0d04002b"
     },
     "gyeongbuk": {
       "foods": [

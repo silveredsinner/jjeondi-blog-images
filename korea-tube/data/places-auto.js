@@ -260,5 +260,57 @@ window.PLACES_AUTO = [
       "8ul9Ntb1A-k"
     ],
     "auto": true
+  },
+  {
+    "region": "jeonnam",
+    "type": "spot",
+    "ko": "여수 해상케이블카",
+    "en": "Yeosu Maritime Cable Car",
+    "q": "여수 해상케이블카",
+    "menu_ko": "유리 바닥 해상 케이블카",
+    "menu_en": "Glass-floor sea cable car",
+    "videos": [
+      "_QKj8dcPqis"
+    ],
+    "auto": true
+  },
+  {
+    "region": "jeonnam",
+    "type": "spot",
+    "ko": "오동도",
+    "en": "Odongdo Island",
+    "q": "여수 오동도",
+    "menu_ko": "소원나무",
+    "menu_en": "Wish tree",
+    "videos": [
+      "_QKj8dcPqis"
+    ],
+    "auto": true
+  },
+  {
+    "region": "seoul",
+    "type": "spot",
+    "ko": "롯데타워",
+    "en": "Lotte World Tower",
+    "q": "서울 롯데월드타워",
+    "menu_ko": "지상 541m 초고층 타워 야외계단 액티비티",
+    "menu_en": "Outdoor stair activity 541m above ground at the skyscraper",
+    "videos": [
+      "HRmmssvPlsQ"
+    ],
+    "auto": true
+  },
+  {
+    "region": "seoul",
+    "type": "spot",
+    "ko": "전쟁기념관",
+    "en": "The War Memorial of Korea",
+    "q": "서울 용산 전쟁기념관",
+    "menu_ko": "한국 전쟁사 전시, 분단의 역사",
+    "menu_en": "Exhibits on Korean war history and division",
+    "videos": [
+      "wr-aNkV_KzQ"
+    ],
+    "auto": true
   }
 ];
