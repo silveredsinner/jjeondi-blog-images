@@ -1,0 +1,1350 @@
+{
+  "slug": "2026-10-26-gangwon",
+  "date": "2026-10-26",
+  "region": "gangwon",
+  "title": {
+    "ko": "강원 영상 속 맛집·명소: 속초 대포항부터 강릉 초당까지",
+    "en": "Gangwon Food and Places from the Videos: From Sokcho's Daepo Harbor to Gangneung's Chodang",
+    "ja": "江原道の動画に登場するグルメとスポット:束草の大浦港から江陵の草堂まで",
+    "zh-Hans": "江原道视频中的美食与景点：从束草大浦港到江陵草堂",
+    "zh-Hant": "影片中的江原道美食與景點：從束草大浦港到江陵草堂",
+    "es": "Gangwon: comida y lugares de los vídeos, desde el puerto de Daepo en Sokcho hasta Chodang en Gangneung",
+    "fr": "Gangwon : manger et visiter entre mer et montagnes, des vidéos à Daepo (Sokcho) et Chodang (Gangneung)",
+    "de": "Gangwon-Essen aus den Videos: Vom Daepo-Hafen in Sokcho bis Chodang in Gangneung",
+    "vi": "Ẩm thực và địa điểm Gangwon trong các video: Từ cảng Daepo ở Sokcho đến Chodang ở Gangneung",
+    "th": "ร้านอาหารและสถานที่จากคลิปในคังวอน: จากท่าเรือแดโพที่ซกโชถึงโชดังที่คังนึง",
+    "id": "Makanan dan Tempat Gangwon dari Video: Dari Pelabuhan Daepo di Sokcho hingga Chodang di Gangneung",
+    "ru": "Гангвон: еда и места из видео, от порта Тэпхо в Сокчхо до Чходана в Каннын"
+  },
+  "summary": {
+    "ko": "'Real Korean Food Tour – Sokcho Beach Town Guide'와 'Weekend in Gangneung' 영상에 나온 강원도 횟집, 노포, 카페, 해변과 산을 정리했습니다. 활어회부터 순두부, 막국수, 닭갈비까지 담았습니다.",
+    "en": "A guide to the raw fish spots, local restaurants, cafes, beaches, and mountains in Gangwon that appear in 'Real Korean Food Tour – Sokcho Beach Town Guide' and 'Weekend in Gangneung', from fresh fish to soft tofu, buckwheat noodles, and dak galbi.",
+    "ja": "動画「Real Korean Food Tour – Sokcho Beach Town Guide」と「Weekend in Gangneung」に登場した江原道の刺身店、地元の食堂、カフェ、海辺や山を、エリアごとにまとめました。新鮮な魚料理からスンドゥブ、ムクスー、タッカルビまで紹介します。",
+    "zh-Hans": "整理了《Real Korean Food Tour – Sokcho Beach Town Guide》和《Weekend in Gangneung》两部视频中出现的江原道生鱼片店、本地餐厅、咖啡馆、海滩和山区景点，从新鲜活鱼到软豆腐、荞麦面和辣炒鸡排应有尽有。",
+    "zh-Hant": "整理《Real Korean Food Tour – Sokcho Beach Town Guide》與《Weekend in Gangneung》兩支影片中出現的江原道生魚片店、在地餐廳、咖啡廳、海灘與山岳，從新鮮生魚片到嫩豆腐、蕎麥麵和辣炒雞排都有。",
+    "es": "Guía de los restaurantes de pescado crudo, restaurantes locales, cafeterías, playas y montañas de Gangwon que aparecen en 'Real Korean Food Tour – Sokcho Beach Town Guide' y 'Weekend in Gangneung', desde pescado fresco hasta tofu blando, fideos de trigo sarraceno y dak galbi.",
+    "fr": "Un guide des restaurants de poisson cru, des restaurants locaux, des cafés, des plages et des montagnes du Gangwon présentés dans « Real Korean Food Tour – Sokcho Beach Town Guide » et « Weekend in Gangneung », du poisson frais au tofu soyeux, aux nouilles de sarrasin et au dak galbi.",
+    "de": "Ein Leitfaden zu Sashimi-Lokalen, Restaurants, Cafés, Stränden und Bergen in Gangwon, die in „Real Korean Food Tour – Sokcho Beach Town Guide“ und „Weekend in Gangneung“ vorkommen, von frischem Fisch über weichen Tofu und Buchweizennudeln bis zu Dak Galbi.",
+    "vi": "Hướng dẫn các quán sashimi, quán ăn địa phương, quán cà phê, bãi biển và núi ở Gangwon xuất hiện trong video 'Real Korean Food Tour – Sokcho Beach Town Guide' và 'Weekend in Gangneung', từ cá tươi đến đậu phụ non, mì kiều mạch và gà xào cay dak galbi.",
+    "th": "แนะนำร้านปลาดิบ ร้านอาหารท้องถิ่น คาเฟ่ ชายหาด และภูเขาในคังวอนที่ปรากฏในคลิป 'Real Korean Food Tour – Sokcho Beach Town Guide' และ 'Weekend in Gangneung' ตั้งแต่ปลาสด เต้าหู้อ่อน มักกุกซู ไปจนถึงดักกัลบี",
+    "id": "Panduan tempat makan ikan mentah, restoran lokal, kafe, pantai, dan gunung di Gangwon yang muncul dalam video 'Real Korean Food Tour – Sokcho Beach Town Guide' dan 'Weekend in Gangneung', mulai dari ikan segar hingga tahu lembut, mi soba, dan dak galbi.",
+    "ru": "Путеводитель по ресторанам сырой рыбы, местным заведениям, кафе, пляжам и горам провинции Гангвон из видео «Real Korean Food Tour – Sokcho Beach Town Guide» и «Weekend in Gangneung». От свежей рыбы до мягкого тофу, гречишной лапши и тушёной курицы дак галь."
+  },
+  "body": {
+    "ko": "<h2>강원, 바다와 산 사이에서 먹는 여행</h2><p>강원도는 동해 바다와 설악산, 남이섬이 있는 자연 여행지입니다. 춘천 닭갈비, 속초 대게와 회국수, 강릉 초당순두부, 막국수가 이 지역의 대표 음식으로 꼽힙니다. 이 글에서는 <strong>Real Korean Food Tour – Sokcho Beach Town Guide</strong>와 <strong>Weekend in Gangneung</strong> 두 영상에 등장한 가게와 장소를 지역별로 묶어 소개합니다.</p><h2>속초 대포항</h2><h3>대포리횟집</h3><p>대포항에서 활어회를 먹을 수 있는 횟집입니다. 속초 해변 마을을 둘러보는 영상에 등장했습니다.</p><h3>머구리횟집</h3><p>역시 대포항의 활어회 집입니다. 항구 앞에서 갓 손질한 생선회를 맛보고 싶을 때 들러볼 만합니다.</p><h3>바우하우스 펜션</h3><p>대포항 근처의 숙소입니다. 항구 주변에서 하룻밤 머물며 횟집과 바다를 여유 있게 즐기고 싶은 여행자에게 참고가 됩니다.</p><h2>속초해수욕장 주변</h2><h3>속초해수욕장</h3><p>속초 시내에서 만나는 해변입니다. 영상 속 속초 여행의 중심이 되는 장소입니다.</p><h3>장수활어횟집</h3><p>속초해변에서 활어회를 내는 횟집입니다. 바다 구경 후 바로 식사하기 좋은 위치입니다.</p><h3>황구활어횟집</h3><p>활어회를 전문으로 하는 횟집으로, 속초 영상에서 소개되었습니다.</p><h3>브라더후드 커피</h3><p>속초해변의 카페입니다. 회를 먹고 난 뒤 커피 한 잔으로 쉬어 가기 좋습니다.</p><h3>탕후루 (속초)</h3><p>생과일에 설탕 코팅을 입힌 탕후루를 파는 가게입니다. 걸으면서 가볍게 먹을 간식으로 등장했습니다.</p><h2>속초의 다양한 한 끼</h2><h3>단천면옥</h3><p>냉면을 먹는 곳입니다. 회 위주의 식사 사이에 시원한 면 요리로 분위기를 바꿀 수 있습니다.</p><h3>영빈반점</h3><p>짜장면 등 한국식 중화요리를 내는 중식당입니다.</p><h3>콩서리</h3><p>두부 요리를 하는 식당입니다. 담백한 식사를 원할 때 고려해볼 만합니다.</p><h3>공가내</h3><p>감자옹심이를 먹을 수 있는 곳입니다. 감자 반죽을 빚어 국물에 끓여 낸 강원도식 음식입니다.</p><h3>연탄불생구이 속초맛집</h3><p>연탄불에 돼지고기를 구워 먹는 고깃집입니다. 해산물 대신 고기가 당길 때 선택지가 됩니다.</p><h2>속초·양양·고성의 자연과 명소</h2><h3>설악산</h3><p>국립공원으로 지정된 강원도의 대표 산입니다.</p><h3>영랑호</h3><p>속초에 있는 호수로, 바다와는 다른 잔잔한 풍경을 볼 수 있습니다.</p><h3>척산온천휴양촌</h3><p>온천 스파 시설입니다. 산행이나 바닷가 일정 뒤 몸을 풀기 좋습니다.</p><h3>양양 서핑 해변</h3><p>서핑을 즐길 수 있는 양양의 해변입니다.</p><h3>고성 통일전망타워</h3><p>고성에 있는 통일전망대입니다.</p><h3>아시안하이웨이 기념품샵</h3><p>영상에 등장한 기념품 가게입니다. 여행 기념품을 고를 때 들러볼 수 있습니다.</p><h2>강릉 주말 여행</h2><h3>초당순두부</h3><p>강릉을 대표하는 음식인 순두부를 먹는 곳입니다. 'Weekend in Gangneung' 영상에 나왔습니다.</p><h3>순두부젤라또</h3><p>순두부로 만든 젤라또를 파는 가게입니다. 순두부 식사 뒤 디저트로 이어가기 좋습니다.</p><h3>초당커피정미소</h3><p>초당 지역의 카페입니다.</p><h3>초당 고래 로스팅 카페</h3><p>역시 초당에 있는 로스팅 카페로, 영상에서 함께 소개되었습니다.</p><h3>경포막국수</h3><p>메밀로 만든 막국수를 먹는 곳입니다.</p><h3>춘천닭갈비 (강릉)</h3><p>강릉에서 춘천식 닭갈비를 맛볼 수 있는 식당입니다.</p><h3>안목해변</h3><p>강릉의 해변으로, 바다를 보며 쉬어 가기 좋은 장소입니다.</p><h3>삼양라운드힐</h3><p>산 정상에 있는 목장입니다. 바다 일정과 대비되는 고원 풍경을 볼 수 있습니다.</p><h2>동선 팁</h2><p>속초와 강릉은 성격이 다른 두 축으로 나눠 일정을 짜면 편합니다. 속초에서는 대포항 횟집과 바우하우스 펜션을 묶고, 다음 날 속초해수욕장 주변 횟집과 카페, 영랑호를 둘러본 뒤 설악산이나 척산온천휴양촌으로 이어가는 흐름을 고려해 보세요. 양양 서핑 해변은 속초와 강릉 사이 이동길에, 고성 통일전망타워는 속초에서 북쪽으로 하루 일정을 따로 잡는 편이 여유롭습니다. 강릉에서는 초당순두부와 순두부젤라또, 초당의 카페 두 곳을 한 번에 묶고, 안목해변과 경포막국수, 닭갈비로 나머지 식사를 채우면 됩니다. 삼양라운드힐은 산 정상 목장이라 이동 시간을 넉넉히 잡는 것이 좋습니다.</p>",
+    "en": "<h2>Gangwon: Eating Your Way Between Sea and Mountains</h2><p>Gangwon Province is a nature destination known for the East Sea coastline, Seoraksan, and Nami Island. Its signature foods include Chuncheon dak galbi, Sokcho snow crab and raw fish noodles (hoe-guksu), Gangneung's Chodang soft tofu, and makguksu buckwheat noodles. This guide groups the restaurants and places featured in two videos, <strong>Real Korean Food Tour – Sokcho Beach Town Guide</strong> and <strong>Weekend in Gangneung</strong>, by area.</p><h2>Daepo Harbor, Sokcho</h2><h3>DaePoRee HwetJip (Raw Fish Restaurant)</h3><p>A raw fish restaurant at Daepo Harbor serving fresh fish, featured in the Sokcho beach town video.</p><h3>MuhGuLee HwetJip (Raw Fish Restaurant)</h3><p>Another Daepo Harbor spot for fresh raw fish, a good option if you want to eat right by the boats.</p><h3>Bau-Haus Pension Lodging</h3><p>Lodging near Daepo Harbor, useful if you want to stay overnight and take your time with the harbor and its restaurants.</p><h2>Around Sokcho Beach</h2><h3>Sokcho Beach</h3><p>The town beach that anchors much of the Sokcho video.</p><h3>JangSu HwalUh HwetJip (Live Fish Restaurant)</h3><p>A live raw fish restaurant at Sokcho Beach, convenient for a meal after a walk along the sand.</p><h3>HwangGu HwalUh HwetJip (Live Fish Restaurant)</h3><p>Another live raw fish restaurant introduced in the Sokcho video.</p><h3>Brotherhood Coffee</h3><p>A cafe at Sokcho Beach, an easy place to sit down for coffee after a seafood meal.</p><h3>Tanghulu Shop (Sokcho)</h3><p>A shop selling tanghulu, fresh fruit coated in a hard sugar shell. It appears as a snack to eat while walking around.</p><h2>More Meals in Sokcho</h2><h3>DanChun MyunOak (Cold Noodle Restaurant)</h3><p>A place for naengmyeon, Korean cold noodles, which makes a nice change between raw fish meals.</p><h3>YoungBin BanJeom (Chinese Restaurant)</h3><p>A Korean-Chinese restaurant serving dishes such as jjajangmyeon, noodles in black bean sauce.</p><h3>KongSeuhLee (Tofu Restaurant)</h3><p>A restaurant focused on tofu dishes, worth considering when you want something mild.</p><h3>KongGaNeh (Potato Ongsimi Soup Restaurant)</h3><p>Serves gamja ongsimi, a Gangwon-style soup with small potato dumplings somewhat like gnocchi.</p><h3>YeonTan Bul SaengGuYi (Pork BBQ Restaurant)</h3><p>A barbecue spot where pork is grilled over yeontan charcoal briquettes, a good pick when you want meat instead of seafood.</p><h2>Nature and Sights in Sokcho, Yangyang, and Goseong</h2><h3>Seoraksan (Sorak National Park)</h3><p>Gangwon's best-known mountain, protected as a national park.</p><h3>Yeongnangho Lake</h3><p>A lake in Sokcho offering calmer scenery than the open sea.</p><h3>Cheoksan Hot Spring Resort</h3><p>A hot mineral spring spa, handy for relaxing after a hike or a day by the coast.</p><h3>Yangyang Surf Beach</h3><p>A beach in Yangyang known for surfing.</p><h3>Goseong Unification Observatory</h3><p>The unification observatory tower in Goseong.</p><h3>Asian Highway Gift Shop</h3><p>A gift shop shown in the video, an option for picking up souvenirs.</p><h2>A Weekend in Gangneung</h2><h3>Chodang Sundubu</h3><p>A place to try sundubu, the soft tofu Gangneung is known for. It appears in the Weekend in Gangneung video.</p><h3>Soon Tofu Gelato</h3><p>A shop making gelato from soft tofu, a natural dessert stop after a sundubu meal.</p><h3>Chodang Coffee Jeongmiso</h3><p>A cafe in the Chodang area.</p><h3>Chodang Whale Roasting Cafe</h3><p>Another Chodang cafe, this one a roastery, also featured in the video.</p><h3>Gyeongpo Makguksu</h3><p>A restaurant serving makguksu, buckwheat noodles.</p><h3>Chuncheon Dak Galbi (Gangneung)</h3><p>A place in Gangneung to try Chuncheon-style dak galbi, spicy stir-fried chicken.</p><h3>Anmok Beach</h3><p>A Gangneung beach that works well as a place to rest by the water.</p><h3>Samyang Roundhill</h3><p>A farm on a mountaintop, offering highland scenery as a contrast to the coast.</p><h2>Route Tips</h2><p>It helps to treat Sokcho and Gangneung as two separate bases. In Sokcho, pair the Daepo Harbor restaurants with a stay at Bau-Haus Pension, then spend the next day around Sokcho Beach's restaurants and cafe and Yeongnangho Lake before heading to Seoraksan or Cheoksan Hot Spring. Yangyang Surf Beach fits naturally on the drive between Sokcho and Gangneung, while the Goseong Unification Observatory to the north is easier as its own outing. In Gangneung, group Chodang Sundubu, Soon Tofu Gelato, and the two Chodang cafes together, then fill other meals with Anmok Beach, Gyeongpo Makguksu, and dak galbi. Samyang Roundhill sits on a mountaintop, so allow plenty of travel time.</p>",
+    "ja": "<h2>江原道:海と山のあいだで食べ歩く</h2><p>江原道は東海(トンへ)の海岸線、雪嶽山(ソラクサン)、ナミ島などで知られる自然の観光地です。名物料理には春川(チュンチョン)のタッカルビ、束草(ソクチョ)の雪蟹と刺身麺(フェグクス)、江陵(カンヌン)の草堂(チョダン)のスンドゥブ、そしてそば粉の冷麺ムクスーなどがあります。このガイドでは、二つの動画「Real Korean Food Tour – Sokcho Beach Town Guide」と「Weekend in Gangneung」で紹介された店や場所を、エリアごとに整理しました。</p><h2>束草の大浦港</h2><h3>대포리횟집(デポリフェジップ、刺身店)</h3><p>大浦港にある刺身店で、新鮮な魚料理を出します。束草の海辺の町の動画で紹介されています。</p><h3>머구리횟집(モグリフェジップ、刺身店)</h3><p>大浦港で新鮮な刺身が食べられるもう一つの店です。船のすぐそばで食事をしたい方におすすめです。</p><h3>バウハウス・ペンション</h3><p>大浦港の近くの宿泊施設です。港と周辺の食堂をゆっくり楽しみたい方に便利です。</p><h2>束草海水浴場の周辺</h2><h3>束草海水浴場</h3><p>束草の動画の多くで取り上げられている町の海水浴場です。</p><h3>장수활어횟집(チャンスファロフェジップ、活魚刺身店)</h3><p>束草海水浴場にある活魚刺身の店です。砂浜を散歩したあとの食事に便利です。</p><h3>황구활어횟집(ファングファロフェジップ、活魚刺身店)</h3><p>束草の動画で紹介されたもう一つの活魚刺身店です。</p><h3>ブラザーフッド・コーヒー</h3><p>束草海水浴場のカフェです。海鮮の食事のあとにコーヒーを飲むのに手軽な場所です。</p><h3>束草のタンフル店</h3><p>生のフルーツを硬い砂糖の殻でコーティングしたタンフルを売る店です。歩きながら食べるおやつとして登場します。</p><h2>束草のその他の食事</h2><h3>단천면옥(タンチョンミョノク、冷麺店)</h3><p>韓国式の冷たい麺、冷麺(ネンミョン)を食べられる店です。刺身が続いたときに良い変化になります。</p><h3>영빈반점(ヨンビンバンジョム、中華料理店)</h3><p>ジャージャーメンなどの料理を出す韓国式中華料理の店です。ジャジャンミョンは黒豆みそのソースで和えた麺料理です。</p><h3>콩서리(コンソリ、豆腐料理店)</h3><p>豆腐料理を中心にした店です。あっさりした料理を食べたいときに候補になります。</p><h3>공가내(コンガネ、ジャガイモのオンシミ汁店)</h3><p>江原道風のジャガイモ料理、カムジャ・オンシミを出します。小さなジャガイモの団子が入った汁物で、ニョッキに少し似ています。</p><h3>연탄불생구이 속초맛집(ヨンタンブルセングイ、豚肉焼き店)</h3><p>練炭の火で豚肉を焼く焼肉店です。海鮮ではなく肉料理が食べたいときにおすすめです。</p><h2>束草・襄陽・高城の自然と名所</h2><h3>雪嶽山(ソラク国立公園)</h3><p>江原道でもっとも有名な山で、国立公園に指定されています。</p><h3>靈郎湖(ヨンナンホ)</h3><p>束草にある湖で、外海よりも静かな景色が楽しめます。</p><h3>尺山温泉(チョクサンオンチョン)リゾート</h3><p>ミネラルを含む温泉のスパです。ハイキングや海辺での一日のあとに、ゆっくり休むのに便利です。</p><h3>襄陽サーフビーチ</h3><p>サーフィンで知られる襄陽の海辺です。</p><h3>高城統一展望台</h3><p>高城にある統一展望タワーです。</p><h3>アジアンハイウェイ記念品ショップ</h3><p>動画に登場したお土産店です。お土産を探すときに立ち寄れます。</p><h2>江陵での一週間末</h2><h3>草堂スンドゥブ</h3><p>江陵で有名な柔らかい豆腐、スンドゥブを食べられる店です。「Weekend in Gangneung」の動画に登場します。</p><h3>スン豆腐ジェラート</h3><p>柔らかい豆腐を使ったジェラートの店です。スンドゥブの食事のあとに、自然な感じのデザートとして立ち寄れます。</p><h3>草堂コーヒー精米所(チョンミソ)</h3><p>草堂エリアのカフェです。</p><h3>草堂クジラ焙煎カフェ</h3><p>草堂のもう一つのカフェで、コーヒーを焙煎している店です。動画にも登場します。</p><h3>慶浦ムクスー</h3><p>そば粉の麺、ムクスーを出す店です。</p><h3>春川タッカルビ(江陵)</h3><p>江陵で春川風のタッカルビを食べられる店です。鶏肉を辛く炒めた料理です。</p><h3>安木海岸</h3><p>江陵の海辺で、水辺で休むのに向いています。</p><h3>三陽ラウンドヒル</h3><p>山頂にある農場で、海辺とは違う高原の景色が楽しめます。</p><h2>移動のヒント</h2><p>束草と江陵は、別々の拠点として考えると回りやすくなります。束草では大浦港の刺身店とバウハウス・ペンションに泊まる組み合わせにし、翌日は束草海水浴場の食堂とカフェ、靈郎湖を回ってから雪嶽山や尺山温泉に向かうとよいでしょう。襄陽サーフビーチは束草と江陵のあいだの移動の途中に立ち寄りやすく、北側の高城統一展望台は単独で出かけるほうが楽です。江陵では草堂スンドゥブ、スン豆腐ジェラート、二つの草堂のカフェをまとめて回り、ほかの食事は安木海岸、慶浦ムクスー、タッカルビで組み立てると効率的です。三陽ラウンドヒルは山頂にあるため、移動に余裕を持たせてください。</p>",
+    "zh-Hans": "<h2>江原道：在大海与群山之间边走边吃</h2><p>江原道是以东海海岸线、雪岳山和南怡岛闻名的自然景区。招牌美食包括春川辣炒鸡排、束草雪蟹与生鱼面（回面）、江陵草堂豆腐，以及荞麦面（莫古面）。本指南按地区整理了两部视频<strong>《Real Korean Food Tour – Sokcho Beach Town Guide》</strong>和<strong>《Weekend in Gangneung》</strong>中介绍的餐厅与地点。</p><h2>束草大浦港</h2><h3>大浦里生鱼片店（Raw Fish Restaurant）</h3><p>位于大浦港的生鱼片店，供应新鲜鱼类，曾在束草海滨小镇视频中出现。</p><h3>木谷里生鱼片店（Raw Fish Restaurant）</h3><p>另一家大浦港的新鲜生鱼片店，如果想就着渔船吃饭，这里是不错的选择。</p><h3>Bau-Haus Pension 住宿</h3><p>大浦港附近的住宿，适合想在港口和周边餐厅之间慢慢逛、过夜停留的旅客。</p><h2>束草海水浴场周边</h2><h3>束草海水浴场</h3><p>束草海滨小镇的主要海滩，也是束草视频的重要取景地。</p><h3>长寿活鱼生鱼片店（Live Fish Restaurant）</h3><p>位于束草海水浴场的活鱼生鱼片店，沿沙滩散步后顺路用餐很方便。</p><h3>黄狗活鱼生鱼片店（Live Fish Restaurant）</h3><p>束草视频中介绍的另一家活鱼生鱼片店。</p><h3>Brotherhood Coffee</h3><p>位于束草海水浴场的咖啡馆，海鲜大餐后可以在这里坐下来喝杯咖啡。</p><h3>束草糖葫芦店</h3><p>售卖糖葫芦的小店，即裹着硬糖衣的新鲜水果，适合边走边吃的小零食。</p><h2>束草的其他美食</h2><h3>丹泉面屋（冷面餐厅）</h3><p>供应冷面（naengmyeon）的餐厅，在连续吃生鱼片之间换换口味很不错。</p><h3>永彬饭店（中式餐厅）</h3><p>韩式中餐馆，供应炸酱面等菜肴。</p><h3>孔瑟里（豆腐餐厅）</h3><p>以豆腐料理为主的餐厅，想吃清淡一点时可以考虑。</p><h3>孔加内（土豆汤丸餐厅）</h3><p>供应江原道风味的土豆汤丸（gamja ongsimi），汤里是类似意式小疙瘩的土豆团子。</p><h3>烟炭火生烤店（猪肉烧烤餐厅）</h3><p>用蜂窝煤烤猪肉的烧烤店，想吃肉而不是海鲜时是好选择。</p><h2>束草、襄阳与高城的自然与景点</h2><h3>雪岳山（雪岳山国家公园）</h3><p>江原道最著名的山岳，已列为国家公园加以保护。</p><h3>永郎湖</h3><p>位于束草的湖泊，景色比开阔的大海更为平静。</p><h3>竹山温泉度假村</h3><p>天然矿泉温泉，适合在徒步或海边一天之后放松身体。</p><h3>襄阳冲浪海滩</h3><p>襄阳以冲浪闻名的海滩。</p><h3>高城统一展望台</h3><p>高城的统一展望塔。</p><h3>亚洲公路纪念品店</h3><p>视频中出现的纪念品店，适合购买伴手礼。</p><h2>江陵周末行</h2><h3>草堂순두부（草堂豆腐）</h3><p>可以品尝江陵特色的软豆腐（sundubu）。该店出现在《Weekend in Gangneung》视频中。</p><h3>Soon Tofu Gelato</h3><p>用软豆腐制作冰淇淋的小店，吃完豆腐料理后可以顺路来一份天然的甜点。</p><h3>草堂咖啡精米所</h3><p>位于草堂地区的咖啡馆。</p><h3>草堂鲸鱼烘焙咖啡馆</h3><p>同样位于草堂的咖啡馆，这家是烘焙工坊，也在视频中有所介绍。</p><h3>庆浦莫古面</h3><p>供应莫古面（荞麦面）的餐厅。</p><h3>春川辣炒鸡排（江陵）</h3><p>在江陵品尝春川风味辣炒鸡排（dak galbi）的地方，即辣味炒鸡肉。</p><h3>安木海水浴场</h3><p>江陵的海滩，适合在水边休息。</p><h3>三养圆丘</h3><p>位于山顶的农场，高地景色与海岸形成对比。</p><h2>行程建议</h2><p>建议把束草和江陵当作两个独立的据点。在束草，可以安排大浦港的餐厅并住在Bau-Haus Pension，第二天在束草海水浴场的餐厅和咖啡馆一带活动，再去永郎湖，之后前往雪岳山或竹山温泉。襄阳冲浪海滩正好位于束草与江陵之间的路上，顺路即可；北边的高城统一展望台则更适合单独安排一次行程。在江陵，可以把草堂豆腐、Soon Tofu Gelato和两家草堂咖啡馆安排在一起，其余用餐选择安木海水浴场、庆浦莫古面和辣炒鸡排。三养圆丘位于山顶，请预留充足的车程时间。</p>",
+    "zh-Hant": "<h2>江原道：在海與山之間吃遍美食</h2><p>江原道以東海海岸線、雪嶽山和南怡島聞名，是熱門的自然旅遊地。代表美食包括春川辣炒雞排、束草帝王蟹與生魚片冷麵（회국수）、江陵草堂嫩豆腐，以及蕎麥冷麵（막국수）。本文將<strong>Real Korean Food Tour – Sokcho Beach Town Guide</strong>與<strong>Weekend in Gangneung</strong>兩支影片中介紹的餐廳與景點，依地區整理如下。</p><h2>束草大浦港</h2><h3>大浦里生魚片店（대포리횟집）</h3><p>位於大浦港的生魚片店，提供新鮮魚貨，曾出現在束草海邊小鎮的影片中。</p><h3>머구리生魚片店（머구리횟집）</h3><p>同樣位於大浦港的新鮮生魚片店，想在漁船旁邊用餐的話是不錯的選擇。</p><h3>Bau-Haus民宿（바우하우스 펜션）</h3><p>位於大浦港附近的住宿，適合想在當地過夜、慢慢逛港口和餐廳的旅客。</p><h2>束草海水浴場周邊</h2><h3>束草海水浴場</h3><p>束草市區的海灘，也是束草影片的主要舞台。</p><h3>長壽活魚生魚片店（장수활어횟집）</h3><p>位於束草海水浴場的活魚生魚片店，沿著沙灘散步後順道用餐很方便。</p><h3>黃狗活魚生魚片店（황구활어횟집）</h3><p>束草影片中介紹的另一家活魚生魚片店。</p><h3>Brotherhood Coffee（브라더후드 커피）</h3><p>位於束草海水浴場的咖啡廳，吃完海鮮後可以輕鬆坐下來喝杯咖啡。</p><h3>糖葫蘆店（束草）</h3><p>販售糖葫蘆的小店，新鮮水果外層裹上一層硬糖衣。在影片中是邊走邊吃的點心。</p><h2>束草的其他餐點</h2><h3>端川麵屋（단천면옥）</h3><p>吃韓式冷麵的地方，在連續吃生魚片之間換換口味正好。</p><h3>迎賓飯店（영빈반점）</h3><p>韓式中華料理店，提供炸醬麵等料理。</p><h3>콩서리（豆腐料理店）</h3><p>以豆腐料理為主的餐廳，想吃清淡一點時可以考慮。</p><h3>공가내（馬鈴薯丸子湯店）</h3><p>供應馬鈴薯丸子湯（감자옹심이），這是江原道風味的湯品，小顆馬鈴薯丸子口感有點像義式麵疙瘩。</p><h3>煤炭火生烤（연탄불생구이）</h3><p>用煤球（연탄）炭火烤豬肉的燒烤店，想吃肉不想吃海鮮時是好選擇。</p><h2>束草、襄陽、高城的自然與景點</h2><h3>雪嶽山（雪嶽山國家公園）</h3><p>江原道最有名的山，被劃為國家公園保護。</p><h3>永郎湖</h3><p>束草的湖泊，景色比開闊的大海更加寧靜。</p><h3>尺山溫泉休養村</h3><p>礦物質溫泉設施，適合在登山或海邊玩了一天後放鬆身心。</p><h3>襄陽衝浪海灘</h3><p>襄陽以衝浪聞名的海灘。</p><h3>高城統一瞭望塔</h3><p>位於高城的統一瞭望塔。</p><h3>Asian Highway紀念品店</h3><p>影片中出現的紀念品店，可以在這裡買伴手禮。</p><h2>江陵週末之旅</h2><h3>草堂嫩豆腐</h3><p>品嘗江陵知名嫩豆腐（순두부）的地方，曾出現在《Weekend in Gangneung》影片中。</p><h3>嫩豆腐義式冰淇淋（순두부젤라또）</h3><p>用嫩豆腐製作義式冰淇淋的店，吃完嫩豆腐後順道來吃甜點很自然。</p><h3>草堂咖啡精米所（초당커피정미소）</h3><p>位於草堂一帶的咖啡廳。</p><h3>草堂鯨魚烘焙咖啡廳</h3><p>草堂的另一家咖啡廳，是自家烘豆的店，同樣出現在影片中。</p><h3>鏡浦蕎麥冷麵（경포막국수）</h3><p>供應蕎麥冷麵的餐廳。</p><h3>春川辣炒雞排（江陵）</h3><p>在江陵就能吃到春川風味辣炒雞排的店。</p><h3>安木海邊</h3><p>江陵的海灘，很適合在海邊休息。</p><h3>三養牧場 Roundhill（삼양라운드힐）</h3><p>位於山頂的牧場，高原風景與海岸形成對比。</p><h2>路線建議</h2><p>建議把束草和江陵當作兩個不同的據點。在束草，可以把大浦港的餐廳和Bau-Haus民宿安排在一起，隔天再逛束草海水浴場周邊的餐廳、咖啡廳和永郎湖，之後前往雪嶽山或尺山溫泉。襄陽衝浪海灘剛好在束草往江陵的路上，順路很方便；北邊的高城統一瞭望塔則比較適合另外安排一趟。在江陵，可以把草堂嫩豆腐、嫩豆腐義式冰淇淋和兩家草堂咖啡廳排在一起，其他餐則搭配安木海邊、鏡浦蕎麥冷麵和辣炒雞排。三養牧場 Roundhill位於山頂，移動時間要預留充足。</p>",
+    "es": "<h2>Gangwon: comer entre el mar y la montaña</h2><p>La provincia de Gangwon es un destino de naturaleza conocido por la costa del Mar del Este, el Seoraksan y la isla de Nami. Entre sus platos más representativos están el dak galbi de Chuncheon, el cangrejo de las nieves y los fideos de pescado crudo (hoe-guksu) de Sokcho, el tofu blando de Chodang en Gangneung y los fideos de trigo sarraceno makguksu. Esta guía agrupa por zonas los restaurantes y lugares que aparecen en dos vídeos: <strong>Real Korean Food Tour – Sokcho Beach Town Guide</strong> y <strong>Weekend in Gangneung</strong>.</p><h2>Puerto de Daepo, Sokcho</h2><h3>DaePoRee HwetJip (restaurante de pescado crudo)</h3><p>Restaurante de pescado crudo en el puerto de Daepo que sirve pescado fresco. Aparece en el vídeo sobre el pueblo costero de Sokcho.</p><h3>MuhGuLee HwetJip (restaurante de pescado crudo)</h3><p>Otro local del puerto de Daepo con pescado crudo fresco, buena opción si quieres comer junto a los barcos.</p><h3>Alojamiento Bau-Haus Pension</h3><p>Alojamiento cerca del puerto de Daepo, útil si quieres pasar la noche y disfrutar con calma del puerto y sus restaurantes.</p><h2>Alrededores de la playa de Sokcho</h2><h3>Playa de Sokcho</h3><p>La playa del pueblo que sirve de eje a buena parte del vídeo de Sokcho.</p><h3>JangSu HwalUh HwetJip (restaurante de pescado vivo)</h3><p>Restaurante de pescado crudo con pescado vivo junto a la playa de Sokcho, cómodo para comer después de pasear por la arena.</p><h3>HwangGu HwalUh HwetJip (restaurante de pescado vivo)</h3><p>Otro restaurante de pescado crudo con pescado vivo que aparece en el vídeo de Sokcho.</p><h3>Brotherhood Coffee</h3><p>Cafetería junto a la playa de Sokcho, un lugar sencillo para tomar un café después de una comida de marisco.</p><h3>Tienda de tanghulu de Sokcho</h3><p>Tienda que vende tanghulu, fruta fresca cubierta de una capa dura de azúcar. Aparece como un tentempié para comer mientras paseas.</p><h2>Más comidas en Sokcho</h2><h3>DanChun MyunOak (restaurante de fideos fríos)</h3><p>Lugar para tomar naengmyeon, fideos fríos coreanos, que supone un buen cambio entre comidas de pescado crudo.</p><h3>YoungBin BanJeom (restaurante chino)</h3><p>Restaurante de cocina coreano-china que sirve platos como el jjajangmyeon, fideos con salsa de judías negras.</p><h3>KongSeuhLee (restaurante de tofu)</h3><p>Restaurante especializado en platos de tofu, buena opción si buscas algo suave.</p><h3>KongGaNeh (restaurante de sopa de bolitas de patata)</h3><p>Sirve gamja ongsimi, una sopa al estilo de Gangwon con pequeñas bolitas de patata parecidas a los ñoquis.</p><h3>YeonTan Bul SaengGuYi (restaurante de carne a la brasa)</h3><p>Local de barbacoa donde se asa cerdo sobre carbón de briquetas yeontan, una buena elección si prefieres carne en lugar de marisco.</p><h2>Naturaleza y lugares de interés en Sokcho, Yangyang y Goseong</h2><h3>Seoraksan (Parque Nacional Seoraksan)</h3><p>La montaña más conocida de Gangwon, protegida como parque nacional.</p><h3>Lago Yeongnangho</h3><p>Lago en Sokcho con un paisaje más tranquilo que el mar abierto.</p><h3>Balneario Cheoksan Hot Spring Resort</h3><p>Balneario de aguas termales minerales, práctico para relajarte después de una excursión o de un día junto a la costa.</p><h3>Playa de surf de Yangyang</h3><p>Playa de Yangyang conocida por el surf.</p><h3>Observatorio de la Unificación de Goseong</h3><p>Torre del observatorio de la unificación en Goseong.</p><h3>Tienda de recuerdos Asian Highway</h3><p>Tienda de recuerdos que aparece en el vídeo, una opción para llevarse algún souvenir.</p><h2>Un fin de semana en Gangneung</h2><h3>Chodang Sundubu</h3><p>Lugar para probar sundubu, el tofu blando por el que es conocida Gangneung. Aparece en el vídeo de Weekend in Gangneung.</p><h3>Soon Tofu Gelato</h3><p>Tienda que elabora helado a base de tofu blando, una parada natural para el postre después de comer sundubu.</p><h3>Chodang Coffee Jeongmiso</h3><p>Cafetería en la zona de Chodang.</p><h3>Chodang Whale Roasting Cafe</h3><p>Otra cafetería de Chodang, en este caso con tostadero de café, también presentada en el vídeo.</p><h3>Gyeongpo Makguksu</h3><p>Restaurante que sirve makguksu, fideos de trigo sarraceno.</p><h3>Chuncheon Dak Galbi (Gangneung)</h3><p>Lugar en Gangneung para probar el dak galbi al estilo de Chuncheon, pollo picante salteado.</p><h3>Playa de Anmok</h3><p>Playa de Gangneung que resulta ideal para descansar junto al agua.</p><h3>Samyang Roundhill</h3><p>Granja en lo alto de una montaña, con paisajes de altura que contrastan con la costa.</p><h2>Consejos de ruta</h2><p>Conviene tratar Sokcho y Gangneung como dos bases separadas. En Sokcho, combina los restaurantes del puerto de Daepo con una estancia en Bau-Haus Pension y, al día siguiente, dedica tiempo a los restaurantes y la cafetería de la playa de Sokcho y al lago Yeongnangho antes de dirigirte al Seoraksan o al balneario Cheoksan. La playa de surf de Yangyang encaja de forma natural en el trayecto entre Sokcho y Gangneung, mientras que el Observatorio de la Unificación de Goseong, al norte, es más fácil de visitar como excursión aparte. En Gangneung, agrupa el Chodang Sundubu, el Soon Tofu Gelato y las dos cafeterías de Chodang, y completa las demás comidas con la playa de Anmok, el Gyeongpo Makguksu y el dak galbi. Samyang Roundhill está en lo alto de una montaña, así que reserva tiempo suficiente para el desplazamiento.</p>",
+    "fr": "<h2>Gangwon : manger entre mer et montagnes</h2><p>La province de Gangwon est une destination de nature connue pour son littoral de la mer de l'Est, le parc national de Seoraksan et l'île de Nami. Ses spécialités comprennent le dak galbi de Chuncheon, le crabe des neiges et les nouilles de poisson cru (hoe-guksu) de Sokcho, le tofu soyeux de Chodang à Gangneung et les nouilles de sarrasin makguksu. Ce guide regroupe par zone les restaurants et lieux présentés dans deux vidéos, <strong>Real Korean Food Tour – Sokcho Beach Town Guide</strong> et <strong>Weekend in Gangneung</strong>.</p><h2>Port de Daepo, Sokcho</h2><h3>DaePoRee HwetJip (restaurant de poisson cru)</h3><p>Un restaurant de poisson cru au port de Daepo, qui sert du poisson frais, présenté dans la vidéo sur la ville balnéaire de Sokcho.</p><h3>MuhGuLee HwetJip (restaurant de poisson cru)</h3><p>Une autre adresse de poisson cru frais au port de Daepo, une bonne option si vous voulez manger à côté des bateaux.</p><h3>Bau-Haus Pension Lodging</h3><p>Hébergement près du port de Daepo, utile si vous souhaitez passer la nuit et prendre le temps de profiter du port et de ses restaurants.</p><h2>Autour de la plage de Sokcho</h2><h3>Plage de Sokcho</h3><p>La plage de la ville, au cœur d'une grande partie de la vidéo sur Sokcho.</p><h3>JangSu HwalUh HwetJip (restaurant de poisson vivant)</h3><p>Un restaurant de poisson cru vivant près de la plage de Sokcho, pratique pour un repas après une promenade sur le sable.</p><h3>HwangGu HwalUh HwetJip (restaurant de poisson vivant)</h3><p>Un autre restaurant de poisson cru vivant présenté dans la vidéo sur Sokcho.</p><h3>Brotherhood Coffee</h3><p>Un café près de la plage de Sokcho, facile pour s'asseoir et prendre un café après un repas de fruits de mer.</p><h3>Boutique de tanghulu (Sokcho)</h3><p>Une boutique de tanghulu, des fruits frais enrobés d'une fine couche de sucre dur. Il s'agit d'une friandise à manger en flânant.</p><h2>Autres repas à Sokcho</h2><h3>DanChun MyunOak (restaurant de nouilles froides)</h3><p>Une adresse de naengmyeon, des nouilles coréennes froides, une agréable pause entre deux repas de poisson cru.</p><h3>YoungBin BanJeom (restaurant chinois)</h3><p>Un restaurant sino-coréen qui sert des plats comme les jjajangmyeon, des nouilles à la sauce de haricots noirs.</p><h3>KongSeuhLee (restaurant de tofu)</h3><p>Un restaurant spécialisé dans les plats de tofu, à considérer si vous cherchez quelque chose de léger.</p><h3>KongGaNeh (restaurant de soupe ongsimi à la pomme de terre)</h3><p>Sert du gamja ongsimi, une soupe de style Gangwon avec de petits raviolis de pomme de terre, un peu semblables aux gnocchis.</p><h3>YeonTan Bul SaengGuYi (restaurant de porc grillé)</h3><p>Un barbecue où le porc est grillé sur des briquettes de charbon yeontan, une bonne option si vous préférez la viande aux fruits de mer.</p><h2>Nature et sites à Sokcho, Yangyang et Goseong</h2><h3>Seoraksan (parc national de Sorak)</h3><p>La montagne la plus connue du Gangwon, protégée en tant que parc national.</p><h3>Lac Yeongnangho</h3><p>Un lac à Sokcho, aux paysages plus calmes que ceux de la mer ouverte.</p><h3>Station thermale de Cheoksan</h3><p>Un spa aux sources thermales minérales, idéal pour se détendre après une randonnée ou une journée au bord de la mer.</p><h3>Plage de surf de Yangyang</h3><p>Une plage de Yangyang réputée pour le surf.</p><h3>Observatoire de l'unification de Goseong</h3><p>La tour d'observation de l'unification à Goseong.</p><h3>Boutique Asian Highway</h3><p>Une boutique de souvenirs présentée dans la vidéo, une option pour rapporter des cadeaux.</p><h2>Un week-end à Gangneung</h2><h3>Chodang Sundubu</h3><p>Une adresse pour goûter au sundubu, le tofu soyeux pour lequel Gangneung est connue. Elle apparaît dans la vidéo « Weekend in Gangneung ».</p><h3>Soon Tofu Gelato</h3><p>Une boutique qui fabrique des glaces italiennes à base de tofu soyeux, une halte gourmande naturelle après un repas de sundubu.</p><h3>Chodang Coffee Jeongmiso</h3><p>Un café dans le quartier de Chodang.</p><h3>Chodang Whale Roasting Cafe</h3><p>Un autre café de Chodang, qui est aussi une torréfaction, également présenté dans la vidéo.</p><h3>Gyeongpo Makguksu</h3><p>Un restaurant qui sert du makguksu, des nouilles de sarrasin.</p><h3>Dak galbi de Chuncheon (Gangneung)</h3><p>Une adresse à Gangneung pour goûter au dak galbi façon Chuncheon, du poulet sauté épicé.</p><h3>Plage d'Anmok</h3><p>Une plage de Gangneung qui convient bien pour se reposer au bord de l'eau.</p><h3>Samyang Roundhill</h3><p>Une ferme au sommet d'une montagne, offrant des paysages d'altitude en contraste avec le littoral.</p><h2>Conseils d'itinéraire</h2><p>Il est utile de considérer Sokcho et Gangneung comme deux bases distinctes. À Sokcho, associez les restaurants du port de Daepo à un séjour au Bau-Haus Pension, puis consacrez le lendemain aux restaurants et au café de la plage de Sokcho ainsi qu'au lac Yeongnangho, avant de vous rendre à Seoraksan ou à la station thermale de Cheoksan. La plage de surf de Yangyang se place naturellement sur le trajet entre Sokcho et Gangneung, tandis que l'observatoire de l'unification de Goseong, plus au nord, se visite plus facilement en sortie dédiée. À Gangneung, regroupez Chodang Sundubu, Soon Tofu Gelato et les deux cafés de Chodang, puis complétez vos repas avec la plage d'Anmok, Gyeongpo Makguksu et le dak galbi. Samyang Roundhill se trouve au sommet d'une montagne, prévoyez donc beaucoup de temps de trajet.</p>",
+    "de": "<h2>Gangwon: Zwischen Meer und Bergen essen</h2><p>Die Provinz Gangwon ist ein Naturreiseziel, bekannt für die Küste des Ostmeeres, den Seoraksan und die Nami-Insel. Typische Gerichte sind Chuncheon-Dak-Galbi, Sokchos Schneekrabbe und roher Fisch mit Nudeln (hoe-guksu), der weiche Chodang-Tofu aus Gangneung sowie Makguksu, Nudeln aus Buchweizen. Dieser Leitfaden ordnet die Restaurants und Orte aus zwei Videos, <strong>Real Korean Food Tour – Sokcho Beach Town Guide</strong> und <strong>Weekend in Gangneung</strong>, nach Gegend.</p><h2>Daepo-Hafen, Sokcho</h2><h3>DaePoRee HwetJip (Fischrestaurant)</h3><p>Ein Restaurant für rohen Fisch am Daepo-Hafen mit frischem Fisch, im Video aus dem Badeort Sokcho vorgestellt.</p><h3>MuhGuLee HwetJip (Fischrestaurant)</h3><p>Ein weiteres Lokal am Daepo-Hafen für frischen rohen Fisch, eine gute Wahl, wenn Sie direkt bei den Booten essen möchten.</p><h3>Bau-Haus Pension</h3><p>Unterkunft in der Nähe des Daepo-Hafens, praktisch, wenn Sie über Nacht bleiben und sich Zeit für den Hafen und seine Restaurants nehmen möchten.</p><h2>Rund um den Strand von Sokcho</h2><h3>Strand von Sokcho</h3><p>Der Stadtstrand, um den sich ein großer Teil des Sokcho-Videos dreht.</p><h3>JangSu HwalUh HwetJip (Lebendfisch-Restaurant)</h3><p>Ein Restaurant für rohen Lebendfisch am Strand von Sokcho, praktisch für eine Mahlzeit nach einem Spaziergang am Sand.</p><h3>HwangGu HwalUh HwetJip (Lebendfisch-Restaurant)</h3><p>Ein weiteres Lokal für rohen Lebendfisch, das im Sokcho-Video vorgestellt wird.</p><h3>Brotherhood Coffee</h3><p>Ein Café am Strand von Sokcho, ein einfacher Ort für einen Kaffee nach dem Meeresfrüchte-Essen.</p><h3>Tanghulu-Laden (Sokcho)</h3><p>Ein Laden, der Tanghulu verkauft, frisches Obst in einer harten Zuckerschicht. Er erscheint als Snack zum Essen beim Spazierengehen.</p><h2>Weitere Mahlzeiten in Sokcho</h2><h3>DanChun MyunOak (Kaltnudel-Restaurant)</h3><p>Ein Ort für Naengmyeon, koreanische kalte Nudeln, eine willkommene Abwechslung zwischen den Fischgerichten.</p><h3>YoungBin BanJeom (chinesisches Restaurant)</h3><p>Ein koreanisch-chinesisches Restaurant mit Gerichten wie Jjajangmyeon, Nudeln in schwarzer Bohnensauce.</p><h3>KongSeuhLee (Tofu-Restaurant)</h3><p>Ein Restaurant mit Schwerpunkt auf Tofu-Gerichten, eine gute Idee, wenn Sie etwas Mildes möchten.</p><h3>KongGaNeh (Kartoffel-Ongsimi-Suppe)</h3><p>Serviert wird Gamja Ongsimi, eine Suppe im Gangwon-Stil mit kleinen Kartoffelklößchen, die entfernt an Gnocchi erinnern.</p><h3>YeonTan Bul SaengGuYi (Schweinegrill-Restaurant)</h3><p>Ein Grill, auf dem Schweinefleisch über Yeontan-Holzkohlebriketts gegrillt wird, eine gute Wahl, wenn Sie statt Meeresfrüchten Fleisch möchten.</p><h2>Natur und Sehenswürdigkeiten in Sokcho, Yangyang und Goseong</h2><h3>Seoraksan (Sorak-Nationalpark)</h3><p>Gangwons bekanntester Berg, als Nationalpark geschützt.</p><h3>Yeongnangho-See</h3><p>Ein See in Sokcho mit ruhigerer Landschaft als das offene Meer.</p><h3>Cheoksan Hot Spring Resort</h3><p>Ein Mineralquellen-Spa, praktisch zum Entspannen nach einer Wanderung oder einem Tag an der Küste.</p><h3>Yangyang Surf Beach</h3><p>Ein Strand in Yangyang, der für Surfen bekannt ist.</p><h3>Goseong-Aussichtsturm zur Wiedervereinigung</h3><p>Der Aussichtsturm zur Wiedervereinigung in Goseong.</p><h3>Asian Highway Geschenkeladen</h3><p>Ein im Video gezeigter Geschenkeladen, eine Möglichkeit, Souvenirs mitzunehmen.</p><h2>Ein Wochenende in Gangneung</h2><h3>Chodang Sundubu</h3><p>Hier können Sie Sundubu probieren, den weichen Tofu, für den Gangneung bekannt ist. Der Ort erscheint im Video Weekend in Gangneung.</p><h3>Soon Tofu Gelato</h3><p>Ein Laden, der Gelato aus weichem Tofu macht, ein natürlicher Dessert-Stopp nach einem Sundubu-Essen.</p><h3>Chodang Coffee Jeongmiso</h3><p>Ein Café im Chodang-Viertel.</p><h3>Chodang Whale Roasting Cafe</h3><p>Ein weiteres Café in Chodang, diesmal mit eigener Rösterei, ebenfalls im Video zu sehen.</p><h3>Gyeongpo Makguksu</h3><p>Ein Restaurant, das Makguksu serviert, Nudeln aus Buchweizen.</p><h3>Chuncheon Dak Galbi (Gangneung)</h3><p>Ein Ort in Gangneung, an dem Sie Dak Galbi im Chuncheon-Stil probieren können, würziges Hähnchen aus der Pfanne.</p><h3>Anmok-Strand</h3><p>Ein Strand in Gangneung, der sich gut zum Ausruhen am Wasser eignet.</p><h3>Samyang Roundhill</h3><p>Eine Farm auf einem Berggipfel mit Hochlandlandschaft als Kontrast zur Küste.</p><h2>Reisetipps zur Route</h2><p>Es hilft, Sokcho und Gangneung als zwei getrennte Standorte zu betrachten. In Sokcho kombinieren Sie die Restaurants am Daepo-Hafen mit einem Aufenthalt in der Bau-Haus Pension und verbringen dann den nächsten Tag rund um den Strand von Sokcho mit seinen Restaurants und dem Café sowie am Yeongnangho-See, bevor Sie zum Seoraksan oder zum Cheoksan Hot Spring Resort fahren. Der Yangyang Surf Beach liegt auf der Fahrt zwischen Sokcho und Gangneung praktisch am Weg, während der Goseong-Aussichtsturm weiter nördlich besser als eigener Ausflug passt. In Gangneung lassen sich Chodang Sundubu, Soon Tofu Gelato und die beiden Cafés in Chodang gut zusammenlegen, die übrigen Mahlzeiten ergänzen Sie mit dem Anmok-Strand, Gyeongpo Makguksu und Dak Galbi. Der Samyang Roundhill liegt auf einem Berggipfel, planen Sie also reichlich Fahrzeit ein.</p>",
+    "vi": "<h2>Gangwon: Vừa ăn vừa đi giữa biển và núi</h2><p>Tỉnh Gangwon là điểm đến thiên nhiên nổi tiếng với bờ biển Biển Đông, núi Seoraksan và đảo Nami. Các món đặc trưng gồm dak galbi Chuncheon, cua tuyết và mì cá sống (hoe-guksu) ở Sokcho, đậu phụ non Chodang ở Gangneung và mì kiều mạch makguksu. Hướng dẫn này nhóm các nhà hàng và địa điểm xuất hiện trong hai video <strong>Real Korean Food Tour – Sokcho Beach Town Guide</strong> và <strong>Weekend in Gangneung</strong> theo khu vực.</p><h2>Cảng Daepo, Sokcho</h2><h3>Quán sashimi Daepo-ri (Nhà hàng cá sống)</h3><p>Nhà hàng sashimi tại cảng Daepo, phục vụ cá tươi, được giới thiệu trong video về thị trấn biển Sokcho.</p><h3>Quán sashimi Mugul-li (Nhà hàng cá sống)</h3><p>Một địa điểm khác ở cảng Daepo chuyên cá sống tươi, phù hợp nếu bạn muốn ăn ngay bên cạnh các thuyền đánh cá.</p><h3>Nhà nghỉ Bau-Haus Pension</h3><p>Chỗ nghỉ gần cảng Daepo, tiện lợi nếu bạn muốn ở lại qua đêm và thong thả dạo quanh cảng cùng các nhà hàng.</p><h2>Quanh bãi biển Sokcho</h2><h3>Bãi biển Sokcho</h3><p>Bãi biển trung tâm của thị trấn, là nơi diễn ra phần lớn nội dung video về Sokcho.</p><h3>Quán sashimi cá sống Jangsu</h3><p>Nhà hàng sashimi cá sống ngay bãi biển Sokcho, thuận tiện để ăn sau khi đi dạo trên cát.</p><h3>Quán sashimi cá sống Hwanggu</h3><p>Một nhà hàng sashimi cá sống khác được giới thiệu trong video Sokcho.</p><h3>Brotherhood Coffee</h3><p>Quán cà phê gần bãi biển Sokcho, dễ ghé ngồi uống cà phê sau bữa hải sản.</p><h3>Cửa hàng tanghulu Sokcho</h3><p>Cửa hàng bán tanghulu, trái cây tươi phủ lớp đường cứng giòn. Đây là món ăn vặt vừa đi vừa thưởng thức.</p><h2>Thêm bữa ăn ở Sokcho</h2><h3>Danchun Myeonok (Quán mì lạnh)</h3><p>Nơi bán naengmyeon, mì lạnh Hàn Quốc, là lựa chọn dễ chịu xen kẽ giữa các bữa sashimi.</p><h3>Yeongbin Banjeom (Nhà hàng Hoa-Hàn)</h3><p>Nhà hàng ẩm thực Hàn-Trung, phục vụ các món như jjajangmyeon, mì sốt tương đen.</p><h3>Kongseuhlee (Nhà hàng đậu phụ)</h3><p>Nhà hàng tập trung vào các món đậu phụ, đáng cân nhắc khi bạn muốn món ăn nhẹ nhàng.</p><h3>Kongganeh (Nhà hàng súp khoai tây Ongsimi)</h3><p>Phục vụ gamja ongsimi, món súp kiểu Gangwon với những viên khoai tây nhỏ, hơi giống gnocchi.</p><h3>Yeontan Bul Saenggui (Nhà hàng thịt heo nướng)</h3><p>Quán nướng thịt heo trên than tổ ong yeontan, phù hợp khi bạn muốn ăn thịt thay vì hải sản.</p><h2>Thiên nhiên và điểm tham quan ở Sokcho, Yangyang và Goseong</h2><h3>Seoraksan (Vườn quốc gia Sorak)</h3><p>Ngọn núi nổi tiếng nhất của Gangwon, được bảo vệ như một vườn quốc gia.</p><h3>Hồ Yeongnangho</h3><p>Hồ nước ở Sokcho với khung cảnh yên tĩnh hơn so với biển khơi.</p><h3>Khu nghỉ dưỡng suối nước nóng Cheoksan</h3><p>Spa suối khoáng nóng, tiện để thư giãn sau khi leo núi hoặc một ngày dạo biển.</p><h3>Bãi lướt sóng Yangyang</h3><p>Bãi biển ở Yangyang nổi tiếng với môn lướt sóng.</p><h3>Đài quan sát thống nhất Goseong</h3><p>Tháp quan sát thống nhất ở Goseong.</p><h3>Cửa hàng quà lưu niệm Asian Highway</h3><p>Cửa hàng quà lưu niệm xuất hiện trong video, là lựa chọn để mua quà về.</p><h2>Một ngày cuối tuần ở Gangneung</h2><h3>Chodang Sundubu</h3><p>Nơi thưởng thức sundubu, món đậu phụ non mà Gangneung nổi tiếng. Quán xuất hiện trong video Weekend in Gangneung.</p><h3>Soon Tofu Gelato</h3><p>Cửa hàng làm gelato từ đậu phụ non, là điểm tráng miệng tự nhiên sau bữa sundubu.</p><h3>Chodang Coffee Jeongmiso</h3><p>Quán cà phê trong khu vực Chodang.</p><h3>Chodang Whale Roasting Cafe</h3><p>Một quán cà phê khác ở Chodang, đây là xưởng rang cà phê và cũng xuất hiện trong video.</p><h3>Gyeongpo Makguksu</h3><p>Quán phục vụ makguksu, mì kiều mạch.</p><h3>Dak Galbi Chuncheon (Gangneung)</h3><p>Địa điểm ở Gangneung để thưởng thức dak galbi kiểu Chuncheon, gà xào cay.</p><h3>Bãi biển Anmok</h3><p>Bãi biển ở Gangneung, phù hợp để nghỉ ngơi bên mép nước.</p><h3>Samyang Roundhill</h3><p>Trang trại trên đỉnh núi, mang đến khung cảnh vùng cao đối lập với biển.</p><h2>Gợi ý lộ trình</h2><p>Nên coi Sokcho và Gangneung là hai điểm xuất phát riêng biệt. Ở Sokcho, hãy kết hợp các quán ở cảng Daepo với việc lưu trú tại Bau-Haus Pension, sau đó dành ngày hôm sau cho các nhà hàng và quán cà phê quanh bãi biển Sokcho cùng hồ Yeongnangho, rồi đi Seoraksan hoặc suối nước nóng Cheoksan. Bãi lướt sóng Yangyang nằm thuận đường trên hành trình từ Sokcho đến Gangneung, còn Đài quan sát thống nhất Goseong ở phía bắc phù hợp hơn khi đi riêng. Ở Gangneung, hãy gom Chodang Sundubu, Soon Tofu Gelato và hai quán cà phê Chodang lại với nhau, rồi bổ sung các bữa khác bằng bãi biển Anmok, Gyeongpo Makguksu và dak galbi. Samyang Roundhill nằm trên đỉnh núi nên hãy dành nhiều thời gian di chuyển.</p>",
+    "th": "<h2>คังวอน: กินระหว่างทะเลและภูเขา</h2><p>จังหวัดคังวอนเป็นแหล่งท่องเที่ยวธรรมชาติที่รู้จักกันดีจากแนวชายฝั่งทะเลตะวันออก อุทยานซอรักซาน และเกาะนามิ อาหารขึ้นชื่อของที่นี่ได้แก่ดักกัลบีชุนชอน ปลาดิบและก๋วยเตี๋ยวปลาดิบ (ฮเวกุกซู) ของซกโช เต้าหู้อ่อนโชดังของคังนึง และมักกุกซูซึ่งเป็นก๋วยเตี๋ยวแป้งบักวีท บทความนี้จัดกลุ่มร้านอาหารและสถานที่ที่ปรากฏในสองคลิป <strong>Real Korean Food Tour – Sokcho Beach Town Guide</strong> และ <strong>Weekend in Gangneung</strong> ตามพื้นที่</p><h2>ท่าเรือแดโพ ซกโช</h2><h3>ร้านปลาดิบแดโพรี (ร้านปลาดิบ)</h3><p>ร้านปลาดิบที่ท่าเรือแดโพ เสิร์ฟปลาสด ปรากฏในคลิปเกี่ยวกับเมืองชายหาดซกโช</p><h3>ร้านปลาดิบมูกูลี (ร้านปลาดิบ)</h3><p>อีกหนึ่งร้านที่ท่าเรือแดโพสำหรับปลาดิบสด เหมาะถ้าอยากกินข้าวใกล้เรือประมง</p><h3>เพนชั่น บาวฮอส</h3><p>ที่พักใกล้ท่าเรือแดโพ เหมาะถ้าอยากค้างคืนและเดินเล่นที่ท่าเรือกับร้านอาหารแบบไม่รีบ</p><h2>รอบชายหาดซกโช</h2><h3>ชายหาดซกโช</h3><p>ชายหาดประจำเมืองที่เป็นฉากหลักของคลิปซกโช</p><h3>ร้านปลาดิบมีชีวิตจางซู</h3><p>ร้านปลาดิบมีชีวิตที่ชายหาดซกโช สะดวกสำหรับมื้อค่ำหลังเดินเล่นบนชายหาด</p><h3>ร้านปลาดิบมีชีวิตฮวังกู</h3><p>อีกหนึ่งร้านปลาดิบมีชีวิตที่แนะนำในคลิปซกโช</p><h3>คาเฟ่บราเธอร์ฮูดคอฟฟี่</h3><p>คาเฟ่ที่ชายหาดซกโช เป็นที่นั่งพักดื่มกาแฟง่ายๆ หลังมื้ออาหารทะเล</p><h3>ร้านทังฮูลู (ซกโช)</h3><p>ร้านขายทังฮูลู ผลไม้สดเคลือบน้ำตาลแข็งกรอบ เป็นของว่างที่เหมาะกินระหว่างเดิน</p><h2>มื้ออาหารอื่นในซกโช</h2><h3>ร้านตันชอนเมียนอก (ร้านมยอนแช็งแซ็ง)</h3><p>ร้านที่ขึ้นชื่อเรื่องเมียนแช็งแซ็ง หรือก๋วยเตี๋ยวเย็นแบบเกาหลี เป็นทางเลือกที่ต่างจากมื้อปลาดิบ</p><h3>ร้านอาหารจีนเกาหลียองบินบันจอม</h3><p>ร้านอาหารจีนแบบเกาหลี เสิร์ฟเมนูอย่างจาจังมยอน ก๋วยเตี๋ยวราดซอสถั่วดำ</p><h3>ร้านคงซือลี (ร้านเต้าหู้)</h3><p>ร้านที่เน้นเมนูเต้าหู้ เหมาะถ้าอยากทานอาหารรสอ่อนๆ</p><h3>ร้านคงกาเน (ร้านซุปมันฝรั่งออมซิมี)</h3><p>เสิร์ฟกัมจาออมซิมี ซุปสไตล์คังวอนที่มีลูกมันฝรั่งเล็กๆ คล้ายนอกกี</p><h3>ร้านยอนทันบุลแซงกูยี (ร้านหมูย่าง)</h3><p>ร้านย่างหมูบนเตาถ่านยอนทัน เหมาะเมื่ออยากทานเนื้อมากกว่าอาหารทะเล</p><h2>ธรรมชาติและสถานที่ท่องเที่ยวในซกโช ยางยาง และโกซ็อง</h2><h3>ซอรักซาน (อุทยานแห่งชาติซอรัก)</h3><p>ภูเขาที่รู้จักมากที่สุดของคังวอน ได้รับการคุ้มครองเป็นอุทยานแห่งชาติ</p><h3>ทะเลสาบยองนังโฮ</h3><p>ทะเลสาบในซกโช ทิวทัศน์สงบกว่าทะเลเปิด</p><h3>รีสอร์ตน้ำพุร้อนชอกซาน</h3><p>สปาน้ำพุร้อนแร่ เหมาะสำหรับผ่อนคลายหลังเดินป่าหรือวันเที่ยวริมทะเล</p><h3>ชายหาดเซิร์ฟยางยาง</h3><p>ชายหาดในยางยางที่รู้จักกันดีว่าเป็นจุดเล่นเซิร์ฟ</p><h3>หอสังเกตการณ์ทงอิลโกซ็อง</h3><p>หอสังเกตการณ์การรวมชาติที่โกซ็อง</p><h3>ร้านของที่ระลึกอาเซียนไฮเวย์</h3><p>ร้านของที่ระลึกที่ปรากฏในคลิป เหมาะสำหรับซื้อของฝาก</p><h2>สุดสัปดาห์ในคังนึง</h2><h3>โชดังซุนดูบู</h3><p>ร้านที่ให้ลองซุนดูบู เต้าหู้อ่อนที่คังนึงขึ้นชื่อ ปรากฏในคลิป Weekend in Gangneung</p><h3>ซุนดูบูเจลาโต้</h3><p>ร้านทำไอศกรีมเจลาโต้จากเต้าหู้อ่อน เป็นของหวานธรรมชาติหลังมื้อซุนดูบู</p><h3>คาเฟ่โชดังคอฟฟี่จองมีโซ</h3><p>คาเฟ่ในย่านโชดัง</p><h3>คาเฟ่โชดังวาฬโรสติ้ง</h3><p>อีกหนึ่งคาเฟ่ในโชดังซึ่งเป็นโรงคั่วกาแฟ ปรากฏในคลิปเช่นกัน</p><h3>ร้านคยองโพมักกุกซู</h3><p>ร้านเสิร์ฟมักกุกซู ก๋วยเตี๋ยวแป้งบักวีท</p><h3>ดักกัลบีชุนชอน (คังนึง)</h3><p>ร้านในคังนึงที่ให้ลองดักกัลบีสไตล์ชุนชอน ไก่ผัดเผ็ดกับผักและเครื่องปรุง</p><h3>ชายหาดอันมก</h3><p>ชายหาดในคังนึงที่เหมาะกับการพักผ่อนริมน้ำ</p><h3>ฟาร์มยอดเขาซัมยาง ราวด์ฮิลล์</h3><p>ฟาร์มบนยอดเขาที่มีทิวทัศน์ที่สูง ตัดกับบรรยากาศริมทะเล</p><h2>เคล็ดลับการวางแผนเส้นทาง</h2><p>ควรมองซกโชและคังนึงเป็นสองฐานแยกกัน ที่ซกโชให้จับคู่ร้านปลาดิบที่ท่าเรือแดโพกับการพักที่เพนชั่นบาวฮอส แล้วใช้วันถัดไปเดินรอบชายหาดซกโช ร้านอาหารและคาเฟ่ รวมถึงทะเลสาบยองนังโฮ ก่อนไปซอรักซานหรือรีสอร์ตน้ำพุร้อนชอกซาน ชายหาดเซิร์ฟยางยางอยู่ระหว่างทางขับจากซกโชไปคังนึงพอดี ส่วนหอสังเกตการณ์โกซ็องทางเหนือเหมาะกับการไปเป็นทริปแยก ที่คังนึง ให้จัดโชดังซุนดูบู ซุนดูบูเจลาโต้ และคาเฟ่โชดังทั้งสองแห่งไว้ด้วยกัน แล้วเติมมื้ออื่นด้วยชายหาดอันมก ร้านคยองโพมักกุกซู และดักกัลบี ฟาร์มยอดเขาซัมยางอยู่บนภูเขา จึงควรเผื่อเวลาเดินทางไว้มากหน่อย</p>",
+    "id": "<h2>Gangwon: Makan di Antara Laut dan Pegunungan</h2><p>Provinsi Gangwon adalah destinasi alam yang terkenal dengan garis pantai Laut Timur, Seoraksan, dan Pulau Nami. Makanan khasnya antara lain dak galbi Chuncheon, kepiting salju dan mi ikan mentah (hoe-guksu) Sokcho, tahu lembut Chodang di Gangneung, serta mi soba makguksu. Panduan ini mengelompokkan restoran dan tempat yang tampil di dua video, <strong>Real Korean Food Tour – Sokcho Beach Town Guide</strong> dan <strong>Weekend in Gangneung</strong>, berdasarkan area.</p><h2>Pelabuhan Daepo, Sokcho</h2><h3>DaePoRee HwetJip (Restoran Ikan Mentah)</h3><p>Restoran ikan mentah di Pelabuhan Daepo yang menyajikan ikan segar, ditampilkan dalam video wisata pantai Sokcho.</p><h3>MuhGuLee HwetJip (Restoran Ikan Mentah)</h3><p>Tempat lain di Pelabuhan Daepo untuk ikan mentah segar, pilihan yang baik jika Anda ingin makan di dekat perahu.</p><h3>Penginapan Bau-Haus Pension</h3><p>Penginapan dekat Pelabuhan Daepo, berguna jika Anda ingin menginap dan menikmati pelabuhan serta restorannya dengan santai.</p><h2>Sekitar Pantai Sokcho</h2><h3>Pantai Sokcho</h3><p>Pantai kota yang menjadi pusat banyak adegan dalam video Sokcho.</p><h3>JangSu HwalUh HwetJip (Restoran Ikan Hidup)</h3><p>Restoran ikan mentah dengan ikan hidup di Pantai Sokcho, praktis untuk makan setelah berjalan di pasir.</p><h3>HwangGu HwalUh HwetJip (Restoran Ikan Hidup)</h3><p>Restoran ikan mentah dengan ikan hidup lain yang diperkenalkan dalam video Sokcho.</p><h3>Brotherhood Coffee</h3><p>Kafe di Pantai Sokcho, tempat mudah untuk duduk minum kopi setelah makan seafood.</p><h3>Kedai Tanghulu (Sokcho)</h3><p>Kedai yang menjual tanghulu, buah segar yang dilapisi lapisan gula keras. Camilan ini cocok dinikmati sambil berjalan-jalan.</p><h2>Makan Lainnya di Sokcho</h2><h3>DanChun MyunOak (Restoran Mi Dingin)</h3><p>Tempat untuk naengmyeon, mi dingin khas Korea, yang menjadi variasi menyenangkan di antara makan ikan mentah.</p><h3>YoungBin BanJeom (Restoran Tiongkok)</h3><p>Restoran gaya Korea-Tionghoa yang menyajikan hidangan seperti jjajangmyeon, mi dengan saus kacang hitam.</p><h3>KongSeuhLee (Restoran Tahu)</h3><p>Restoran yang berfokus pada hidangan tahu, layak dipertimbangkan jika Anda menginginkan makanan yang lebih ringan.</p><h3>KongGaNeh (Restoran Sup Kentang Ongsimi)</h3><p>Menyajikan gamja ongsimi, sup khas Gangwon dengan pangsit kentang kecil yang mirip gnocchi.</p><h3>YeonTan Bul SaengGuYi (Restoran Barbekyu Babi)</h3><p>Tempat barbekyu di mana daging babi dipanggang di atas arang briket yeontan, pilihan bagus jika Anda ingin daging selain makanan laut.</p><h2>Alam dan Tempat Wisata di Sokcho, Yangyang, dan Goseong</h2><h3>Seoraksan (Taman Nasional Sorak)</h3><p>Gunung paling terkenal di Gangwon, dilindungi sebagai taman nasional.</p><h3>Danau Yeongnangho</h3><p>Danau di Sokcho dengan pemandangan yang lebih tenang dibandingkan laut terbuka.</p><h3>Resor Air Panas Cheoksan</h3><p>Spa air panas mineral, praktis untuk bersantai setelah mendaki atau seharian di pantai.</p><h3>Pantai Selancar Yangyang</h3><p>Pantai di Yangyang yang terkenal untuk selancar.</p><h3>Menara Pengamatan Unifikasi Goseong</h3><p>Menara pengamatan unifikasi di Goseong.</p><h3>Toko Suvenir Asian Highway</h3><p>Toko suvenir yang ditampilkan dalam video, pilihan untuk membeli oleh-oleh.</p><h2>Akhir Pekan di Gangneung</h2><h3>Chodang Sundubu</h3><p>Tempat untuk mencoba sundubu, tahu lembut yang terkenal di Gangneung. Tempat ini muncul dalam video Weekend in Gangneung.</p><h3>Soon Tofu Gelato</h3><p>Toko yang membuat gelato dari tahu lembut, pilihan makanan penutup alami setelah makan sundubu.</p><h3>Chodang Coffee Jeongmiso</h3><p>Kafe di kawasan Chodang.</p><h3>Chodang Whale Roasting Cafe</h3><p>Kafe lain di Chodang, kali ini sekaligus tempat penyangraian kopi, juga ditampilkan dalam video.</p><h3>Gyeongpo Makguksu</h3><p>Restoran yang menyajikan makguksu, mi soba.</p><h3>Dak Galbi Chuncheon (Gangneung)</h3><p>Tempat di Gangneung untuk mencoba dak galbi gaya Chuncheon, ayam tumis pedas.</p><h3>Pantai Anmok</h3><p>Pantai di Gangneung yang cocok untuk beristirahat di tepi air.</p><h3>Samyang Roundhill</h3><p>Peternakan di puncak gunung dengan pemandangan dataran tinggi, kontras dengan pantai.</p><h2>Tips Rute</h2><p>Sebaiknya perlakukan Sokcho dan Gangneung sebagai dua basis terpisah. Di Sokcho, gabungkan restoran Pelabuhan Daepo dengan menginap di Bau-Haus Pension, lalu habiskan hari berikutnya di sekitar restoran dan kafe Pantai Sokcho serta Danau Yeongnangho sebelum pergi ke Seoraksan atau Resor Air Panas Cheoksan. Pantai Selancar Yangyang berada searah di perjalanan antara Sokcho dan Gangneung, sementara Menara Pengamatan Unifikasi Goseong di utara lebih mudah dijadikan perjalanan tersendiri. Di Gangneung, kelompokkan Chodang Sundubu, Soon Tofu Gelato, dan kedua kafe Chodang, lalu isi makan lainnya dengan Pantai Anmok, Gyeongpo Makguksu, dan dak galbi. Samyang Roundhill berada di puncak gunung, jadi siapkan waktu perjalanan yang cukup.</p>",
+    "ru": "<h2>Гангвон: еда между морем и горами</h2><p>Провинция Гангвон известна побережьем Восточного моря, горой Соракса и островом Нами. Фирменные блюда региона: тушёная курица дак галь из Чхунчхона, снежный краб и сырая рыба с лапшой хой-гукса в Сокчхо, мягкий тофу сундубу из Чходана в Каннын и гречишная лапша маккуксу. Здесь собраны рестораны и места из двух видео, <strong>Real Korean Food Tour – Sokcho Beach Town Guide</strong> и <strong>Weekend in Gangneung</strong>, по районам.</p><h2>Порт Тэпхо, Сокчхо</h2><h3>Ресторан сырой рыбы «Тэчхорри Хвечжип»</h3><p>Ресторан сырой рыбы в порту Тэпхо со свежей рыбой, показан в видео о курортном городке Сокчхо.</p><h3>Ресторан сырой рыбы «Мугуали Хвечжип»</h3><p>Ещё одно место в порту Тэпхо со свежей сырой рыбой. Хороший выбор, если хочется поесть прямо рядом с лодками.</p><h3>Пансион «Бауфаус»</h3><p>Жильё рядом с портом Тэпхо. Удобно, если хотите остаться на ночь и не спеша погулять по порту и его ресторанам.</p><h2>Вокруг пляжа Сокчхо</h2><h3>Пляж Сокчхо</h3><p>Городской пляж, который занимает большую часть видео о Сокчхо.</p><h3>Ресторан живой рыбы «Чансу Хвараль Хвечжип»</h3><p>Ресторан живой сырой рыбы у пляжа Сокчхо. Удобно пообедать после прогулки по песку.</p><h3>Ресторан живой рыбы «Хванку Хвараль Хвечжип»</h3><p>Ещё один ресторан живой сырой рыбы, представленный в видео о Сокчхо.</p><h3>Brotherhood Coffee</h3><p>Кафе у пляжа Сокчхо. Легко присесть с кофе после морепродуктов.</p><h3>Лавка тхангхуру (Сокчхо)</h3><p>Лавка, где продают тхангхуру: свежие фрукты в твёрдой глазури из сахара. Это перекус, который едят на ходу.</p><h2>Ещё места для еды в Сокчхо</h2><h3>Ресторан холодной лапши «Тханчхон Мённок»</h3><p>Место для нянмёна, холодной корейской лапши. Приятная смена между блюдами из сырой рыбы.</p><h3>Китайский ресторан «Ёнбин Панджом»</h3><p>Корейско-китайский ресторан с блюдами вроде джаджанмён, лапши в соусе из чёрных бобов.</p><h3>Ресторан тофу «Консоли»</h3><p>Ресторан, где основное блюдо — тофу. Стоит рассмотреть, если хочется чего-то нежного.</p><h3>Ресторан супа из картофеля «Конганэ»</h3><p>Подаёт гамджа онсими, суп в стиле Гангвона с маленькими картофельными клёцками, немного похожими на ньокки.</p><h3>Ресторан свинины на угле «Ёнтан Пульсэнгуи»</h3><p>Барбекю, где свинину жарят на угольных брикетах ёнтан. Хороший выбор, если хочется мяса, а не морепродуктов.</p><h2>Природа и достопримечательности Сокчхо, Яндяна и Косона</h2><h3>Соракса (национальный парк Соракса)</h3><p>Самая известная гора Гангвона, охраняемая как национальный парк.</p><h3>Озеро Ённнангхо</h3><p>Озеро в Сокчхо с более спокойными видами, чем открытое море.</p><h3>Курорт горячих источников Чхёксан</h3><p>Спа с горячими минеральными источниками. Удобно расслабиться после похода или дня у моря.</p><h3>Серфинг-пляж Яндян</h3><p>Пляж в Яндяне, известный серфингом.</p><h3>Обсерватория объединения Косон</h3><p>Башня-обсерватория объединения в Косоне.</p><h3>Сувенирный магазин Asian Highway</h3><p>Сувенирный магазин, показанный в видео. Вариант, если хотите привезти сувениры.</p><h2>Выходные в Каннын</h2><h3>Чходан сундубу</h3><p>Место, где можно попробовать сундубу, мягкий тофу, которым славится Каннын. Показано в видео «Weekend in Gangneung».</p><h3>Soon Tofu Gelato</h3><p>Магазин джелато из мягкого тофу. Естественная десертная остановка после обеда с сундубу.</p><h3>Чходан Кофе Чонмисо</h3><p>Кафе в районе Чходан.</p><h3>Чходан Кит Роастинг Кафе</h3><p>Ещё одно кафе в Чходане, на этот раз обжарочная кофейня, также показанная в видео.</p><h3>Кёнпхо маккуксу</h3><p>Ресторан, где подают маккуксу, гречишную лапшу.</p><h3>Чхунчхонская дак галь (Каннын)</h3><p>Место в Каннын, где можно попробовать чхунчхонскую дак галь, острую курицу, обжаренную с овощами.</p><h3>Пляж Анмок</h3><p>Пляж в Каннын, где удобно отдохнуть у воды.</p><h3>Самян Раундхилл</h3><p>Ферма на вершине горы с высокогорными видами, контраст с побережьем.</p><h2>Советы по маршруту</h2><p>Удобнее рассматривать Сокчхо и Каннын как две отдельные базы. В Сокчхо сочетайте рестораны порта Тэпхо с ночёвкой в пансионе «Бауфаус». На следующий день погуляйте у пляжа Сокчхо, посетите его рестораны и кафе и озеро Ённнангхо, а затем отправляйтесь к Сораксе или курорту Чхёксан. Серфинг-пляж Яндян удачно попадает по пути между Сокчхо и Каннын, а обсерватория объединения на севере Косона проще как отдельная поездка. В Каннын объедините сундубу, Soon Tofu Gelato и два кафе в Чходане, а остальные приёмы пищи выберите между пляжем Анмок, Кёнпхо маккуксу и дак галь. Самян Раундхилл находится на вершине горы, поэтому заложите много времени на дорогу.</p>"
+  },
+  "places": [
+    {
+      "ko": "대포리횟집",
+      "en": "DaePoRee HwetJip (Raw Fish Restaurant)",
+      "q": "속초 대포항 대포리횟집",
+      "menu_ko": "대포항 활어회",
+      "menu_en": "Fresh raw fish at Daepo Harbor"
+    },
+    {
+      "ko": "머구리횟집",
+      "en": "MuhGuLee HwetJip (Raw Fish Restaurant)",
+      "q": "속초 대포항 머구리횟집",
+      "menu_ko": "대포항 활어회",
+      "menu_en": "Fresh raw fish at Daepo Harbor"
+    },
+    {
+      "ko": "바우하우스 펜션",
+      "en": "Bau-Haus Pension Lodging",
+      "q": "속초 바우하우스 펜션",
+      "menu_ko": "대포항 숙소",
+      "menu_en": "Lodging near Daepo Harbor"
+    },
+    {
+      "ko": "황구활어횟집",
+      "en": "HwangGu HwalUh HwetJip (Live Fish Restaurant)",
+      "q": "강원도 속초시 대포항희망길 59. 9호",
+      "menu_ko": "활어회",
+      "menu_en": "Live raw fish"
+    },
+    {
+      "ko": "장수활어횟집",
+      "en": "JangSu HwalUh HwetJip (Live Fish Restaurant)",
+      "q": "속초 장수활어횟집",
+      "menu_ko": "속초해변 활어회",
+      "menu_en": "Live raw fish at Sokcho Beach"
+    },
+    {
+      "ko": "브라더후드 커피",
+      "en": "Brotherhood Coffee",
+      "q": "속초 브라더후드 커피",
+      "menu_ko": "속초해변 카페",
+      "menu_en": "Cafe at Sokcho Beach"
+    },
+    {
+      "ko": "단천면옥",
+      "en": "DanChun MyunOak (Cold Noodle Restaurant)",
+      "q": "속초 단천면옥",
+      "menu_ko": "냉면",
+      "menu_en": "Cold noodles"
+    },
+    {
+      "ko": "영빈반점",
+      "en": "YoungBin BanJeom (Chinese Restaurant)",
+      "q": "속초 영빈반점",
+      "menu_ko": "중식, 짜장면",
+      "menu_en": "Korean-Chinese food, jjajangmyeon"
+    },
+    {
+      "ko": "콩서리",
+      "en": "KongSeuhLee (Tofu Restaurant)",
+      "q": "속초 콩서리",
+      "menu_ko": "두부 요리",
+      "menu_en": "Tofu dishes"
+    },
+    {
+      "ko": "공가내",
+      "en": "KongGaNeh (Potato Ongsimi Soup Restaurant)",
+      "q": "속초 공가내",
+      "menu_ko": "감자옹심이",
+      "menu_en": "Potato gnocchi-like soup"
+    },
+    {
+      "ko": "연탄불생구이 속초맛집",
+      "en": "YeonTan Bul SaengGuYi (Pork BBQ Restaurant)",
+      "q": "속초 연탄불생구이",
+      "menu_ko": "연탄불 돼지고기 구이",
+      "menu_en": "Charcoal briquette pork BBQ"
+    },
+    {
+      "ko": "탕후루 (속초)",
+      "en": "Tanghulu Shop (Candied Fresh Fruit)",
+      "q": "속초 탕후루",
+      "menu_ko": "탕후루",
+      "menu_en": "Candied fresh fruit"
+    },
+    {
+      "ko": "속초해수욕장",
+      "en": "Sokcho Beach",
+      "q": "속초해수욕장",
+      "menu_ko": "해변",
+      "menu_en": "Beach"
+    },
+    {
+      "ko": "양양 서핑 해변",
+      "en": "Yangyang Surf Beach",
+      "q": "양양 서핑 해변",
+      "menu_ko": "서핑 해변",
+      "menu_en": "Surf beach"
+    },
+    {
+      "ko": "고성 통일전망타워",
+      "en": "Goseong Unification Observatory",
+      "q": "고성 통일전망타워",
+      "menu_ko": "통일전망대",
+      "menu_en": "Unification observatory"
+    },
+    {
+      "ko": "설악산",
+      "en": "Seoraksan (Sorak National Park)",
+      "q": "설악산국립공원",
+      "menu_ko": "국립공원",
+      "menu_en": "National park"
+    },
+    {
+      "ko": "영랑호",
+      "en": "Yeongnangho Lake",
+      "q": "속초 영랑호",
+      "menu_ko": "속초 호수",
+      "menu_en": "Lake in Sokcho"
+    },
+    {
+      "ko": "척산온천휴양촌",
+      "en": "Cheoksan Hot Spring Resort",
+      "q": "속초 척산온천휴양촌",
+      "menu_ko": "온천 스파",
+      "menu_en": "Hot mineral spring spa"
+    },
+    {
+      "ko": "아시안하이웨이 기념품샵",
+      "en": "Asian Highway Gift Shop",
+      "q": "속초 아시안하이웨이",
+      "menu_ko": "기념품 가게",
+      "menu_en": "Gift shop"
+    },
+    {
+      "ko": "삼양라운드힐",
+      "en": "Samyang Roundhill",
+      "q": "강릉 삼양라운드힐",
+      "menu_ko": "산 정상 목장",
+      "menu_en": "Mountain top farm"
+    },
+    {
+      "ko": "경포막국수",
+      "en": "Gyeongpo Makguksu",
+      "q": "강릉 경포막국수",
+      "menu_ko": "막국수",
+      "menu_en": "Makguksu (buckwheat noodles)"
+    },
+    {
+      "ko": "초당커피정미소",
+      "en": "Chodang Coffee Jeongmiso",
+      "q": "강릉 초당커피정미소",
+      "menu_ko": "카페",
+      "menu_en": "Cafe"
+    },
+    {
+      "ko": "초당 고래 로스팅 카페",
+      "en": "Chodang Whale Roasting Cafe",
+      "q": "강릉 초당 고래 로스팅 카페",
+      "menu_ko": "카페",
+      "menu_en": "Cafe"
+    },
+    {
+      "ko": "안목해변",
+      "en": "Anmok Beach",
+      "q": "강릉 안목해변",
+      "menu_ko": "해변",
+      "menu_en": "Beach"
+    },
+    {
+      "ko": "초당순두부",
+      "en": "Chodang Sundubu",
+      "q": "강릉 초당순두부",
+      "menu_ko": "순두부",
+      "menu_en": "Soft tofu (sundubu)"
+    },
+    {
+      "ko": "순두부젤라또",
+      "en": "Soon Tofu Gelato",
+      "q": "강릉 순두부젤라또",
+      "menu_ko": "순두부 젤라또",
+      "menu_en": "Soft tofu gelato"
+    },
+    {
+      "ko": "춘천닭갈비 (강릉)",
+      "en": "Chuncheon Dak Galbi (Gangneung)",
+      "q": "강릉 춘천닭갈비",
+      "menu_ko": "닭갈비",
+      "menu_en": "Dak galbi (spicy stir-fried chicken)"
+    }
+  ],
+  "videos": [
+    {
+      "id": "90ANawUhkXw",
+      "title": "Real Korean Food Tour – Sokcho Beach Town Guide"
+    },
+    {
+      "id": "jMySDV7Kwko",
+      "title": "Weekend in Gangneung"
+    }
+  ],
+  "placesI18n": {
+    "ja": [
+      {
+        "name": "大浦港の刺身店 デポリフェジップ",
+        "menu": "大浦港の新鮮な刺身"
+      },
+      {
+        "name": "モグリフェジップ",
+        "menu": "大浦港の新鮮な刺身"
+      },
+      {
+        "name": "バウハウス・ペンション",
+        "menu": "大浦港近くの宿泊施設"
+      },
+      {
+        "name": "ファングファロフェジップ",
+        "menu": "活魚刺身"
+      },
+      {
+        "name": "チャンスファロフェジップ",
+        "menu": "束草海水浴場の活魚刺身"
+      },
+      {
+        "name": "ブラザーフッド・コーヒー",
+        "menu": "束草海水浴場のカフェ"
+      },
+      {
+        "name": "タンチョンミョノク",
+        "menu": "冷麺"
+      },
+      {
+        "name": "ヨンビンバンジョム",
+        "menu": "韓国式中華料理、ジャジャンミョン"
+      },
+      {
+        "name": "コンソリ",
+        "menu": "豆腐料理"
+      },
+      {
+        "name": "コンガネ",
+        "menu": "ジャガイモの団子入りオンシミ汁"
+      },
+      {
+        "name": "ヨンタンブルセングイ 束草",
+        "menu": "練炭で焼く豚肉"
+      },
+      {
+        "name": "タンフル(束草)",
+        "menu": "フルーツの飴がけ"
+      },
+      {
+        "name": "束草海水浴場",
+        "menu": "海水浴場"
+      },
+      {
+        "name": "襄陽サーフビーチ",
+        "menu": "サーフィンの海辺"
+      },
+      {
+        "name": "高城統一展望台",
+        "menu": "統一展望タワー"
+      },
+      {
+        "name": "雪嶽山(ソラク国立公園)",
+        "menu": "国立公園"
+      },
+      {
+        "name": "靈郎湖",
+        "menu": "束草の湖"
+      },
+      {
+        "name": "尺山温泉リゾート",
+        "menu": "ミネラル温泉のスパ"
+      },
+      {
+        "name": "アジアンハイウェイ記念品ショップ",
+        "menu": "記念品ショップ"
+      },
+      {
+        "name": "三陽ラウンドヒル",
+        "menu": "山頂の農場"
+      },
+      {
+        "name": "慶浦ムクスー",
+        "menu": "ムクスー(そば粉の麺)"
+      },
+      {
+        "name": "草堂コーヒー精米所",
+        "menu": "カフェ"
+      },
+      {
+        "name": "草堂クジラ焙煎カフェ",
+        "menu": "カフェ"
+      },
+      {
+        "name": "安木海岸",
+        "menu": "海辺"
+      },
+      {
+        "name": "草堂スンドゥブ",
+        "menu": "スンドゥブ(柔らかい豆腐)"
+      },
+      {
+        "name": "スン豆腐ジェラート",
+        "menu": "豆腐ジェラート"
+      },
+      {
+        "name": "春川タッカルビ(江陵)",
+        "menu": "タッカルビ(鶏肉の辛い炒め)"
+      }
+    ],
+    "zh-Hans": [
+      {
+        "name": "大浦里生鱼片店（Raw Fish Restaurant）",
+        "menu": "大浦港的新鲜生鱼片"
+      },
+      {
+        "name": "木谷里生鱼片店（Raw Fish Restaurant）",
+        "menu": "大浦港的新鲜生鱼片"
+      },
+      {
+        "name": "Bau-Haus Pension 住宿",
+        "menu": "大浦港附近的住宿"
+      },
+      {
+        "name": "黄狗活鱼生鱼片店（Live Fish Restaurant）",
+        "menu": "活鱼生鱼片"
+      },
+      {
+        "name": "长寿活鱼生鱼片店（Live Fish Restaurant）",
+        "menu": "束草海水浴场的活鱼生鱼片"
+      },
+      {
+        "name": "Brotherhood Coffee",
+        "menu": "束草海水浴场的咖啡馆"
+      },
+      {
+        "name": "丹泉面屋（冷面餐厅）",
+        "menu": "冷面"
+      },
+      {
+        "name": "永彬饭店（中式餐厅）",
+        "menu": "韩式中餐，炸酱面等"
+      },
+      {
+        "name": "孔瑟里（豆腐餐厅）",
+        "menu": "豆腐料理"
+      },
+      {
+        "name": "孔加内（土豆汤丸餐厅）",
+        "menu": "类似意式小疙瘩的土豆汤丸"
+      },
+      {
+        "name": "烟炭火生烤店（猪肉烧烤餐厅）",
+        "menu": "蜂窝煤烤猪肉"
+      },
+      {
+        "name": "束草糖葫芦店",
+        "menu": "裹糖衣的新鲜水果"
+      },
+      {
+        "name": "束草海水浴场",
+        "menu": "海滩"
+      },
+      {
+        "name": "襄阳冲浪海滩",
+        "menu": "冲浪海滩"
+      },
+      {
+        "name": "高城统一展望台",
+        "menu": "统一展望塔"
+      },
+      {
+        "name": "雪岳山（雪岳山国家公园）",
+        "menu": "国家公园"
+      },
+      {
+        "name": "永郎湖",
+        "menu": "束草的湖泊"
+      },
+      {
+        "name": "竹山温泉度假村",
+        "menu": "天然矿泉温泉"
+      },
+      {
+        "name": "亚洲公路纪念品店",
+        "menu": "纪念品店"
+      },
+      {
+        "name": "三养圆丘",
+        "menu": "山顶农场"
+      },
+      {
+        "name": "庆浦莫古面",
+        "menu": "莫古面（荞麦面）"
+      },
+      {
+        "name": "草堂咖啡精米所",
+        "menu": "咖啡馆"
+      },
+      {
+        "name": "草堂鲸鱼烘焙咖啡馆",
+        "menu": "咖啡馆"
+      },
+      {
+        "name": "安木海水浴场",
+        "menu": "海滩"
+      },
+      {
+        "name": "草堂순두부（草堂豆腐）",
+        "menu": "软豆腐（sundubu）"
+      },
+      {
+        "name": "Soon Tofu Gelato",
+        "menu": "软豆腐冰淇淋"
+      },
+      {
+        "name": "春川辣炒鸡排（江陵）",
+        "menu": "辣炒鸡排（辣味炒鸡肉）"
+      }
+    ],
+    "zh-Hant": [
+      {
+        "name": "大浦里生魚片店（대포리횟집）",
+        "menu": "大浦港的新鮮生魚片"
+      },
+      {
+        "name": "머구리生魚片店（머구리횟집）",
+        "menu": "大浦港的新鮮生魚片"
+      },
+      {
+        "name": "Bau-Haus民宿（바우하우스 펜션）",
+        "menu": "大浦港附近的住宿"
+      },
+      {
+        "name": "黃狗活魚生魚片店（황구활어횟집）",
+        "menu": "活魚生魚片"
+      },
+      {
+        "name": "長壽活魚生魚片店（장수활어횟집）",
+        "menu": "束草海水浴場的活魚生魚片"
+      },
+      {
+        "name": "Brotherhood Coffee（브라더후드 커피）",
+        "menu": "束草海水浴場的咖啡廳"
+      },
+      {
+        "name": "端川麵屋（단천면옥）",
+        "menu": "冷麵"
+      },
+      {
+        "name": "迎賓飯店（영빈반점）",
+        "menu": "韓式中華料理、炸醬麵"
+      },
+      {
+        "name": "콩서리（豆腐料理店）",
+        "menu": "豆腐料理"
+      },
+      {
+        "name": "공가내（馬鈴薯丸子湯店）",
+        "menu": "口感像義式麵疙瘩的馬鈴薯丸子湯"
+      },
+      {
+        "name": "煤炭火生烤（연탄불생구이 속초맛집）",
+        "menu": "煤球炭火烤豬肉"
+      },
+      {
+        "name": "糖葫蘆店（束草）",
+        "menu": "新鮮水果糖葫蘆"
+      },
+      {
+        "name": "束草海水浴場",
+        "menu": "海灘"
+      },
+      {
+        "name": "襄陽衝浪海灘",
+        "menu": "衝浪海灘"
+      },
+      {
+        "name": "高城統一瞭望塔",
+        "menu": "統一瞭望塔"
+      },
+      {
+        "name": "雪嶽山（雪嶽山國家公園）",
+        "menu": "國家公園"
+      },
+      {
+        "name": "永郎湖",
+        "menu": "束草的湖泊"
+      },
+      {
+        "name": "尺山溫泉休養村",
+        "menu": "礦物質溫泉設施"
+      },
+      {
+        "name": "Asian Highway紀念品店",
+        "menu": "紀念品店"
+      },
+      {
+        "name": "三養牧場 Roundhill（삼양라운드힐）",
+        "menu": "山頂牧場"
+      },
+      {
+        "name": "鏡浦蕎麥冷麵（경포막국수）",
+        "menu": "蕎麥冷麵"
+      },
+      {
+        "name": "草堂咖啡精米所（초당커피정미소）",
+        "menu": "咖啡廳"
+      },
+      {
+        "name": "草堂鯨魚烘焙咖啡廳",
+        "menu": "咖啡廳"
+      },
+      {
+        "name": "安木海邊",
+        "menu": "海灘"
+      },
+      {
+        "name": "草堂嫩豆腐",
+        "menu": "嫩豆腐"
+      },
+      {
+        "name": "嫩豆腐義式冰淇淋（순두부젤라또）",
+        "menu": "嫩豆腐義式冰淇淋"
+      },
+      {
+        "name": "春川辣炒雞排（江陵）",
+        "menu": "辣炒雞排"
+      }
+    ],
+    "es": [
+      {
+        "name": "DaePoRee HwetJip (restaurante de pescado crudo)",
+        "menu": "Pescado crudo fresco en el puerto de Daepo"
+      },
+      {
+        "name": "MuhGuLee HwetJip (restaurante de pescado crudo)",
+        "menu": "Pescado crudo fresco en el puerto de Daepo"
+      },
+      {
+        "name": "Bau-Haus Pension",
+        "menu": "Alojamiento cerca del puerto de Daepo"
+      },
+      {
+        "name": "HwangGu HwalUh HwetJip (restaurante de pescado vivo)",
+        "menu": "Pescado crudo con pescado vivo"
+      },
+      {
+        "name": "JangSu HwalUh HwetJip (restaurante de pescado vivo)",
+        "menu": "Pescado crudo con pescado vivo junto a la playa de Sokcho"
+      },
+      {
+        "name": "Brotherhood Coffee",
+        "menu": "Cafetería en la playa de Sokcho"
+      },
+      {
+        "name": "DanChun MyunOak (restaurante de fideos fríos)",
+        "menu": "Fideos fríos"
+      },
+      {
+        "name": "YoungBin BanJeom (restaurante chino)",
+        "menu": "Cocina coreano-china, jjajangmyeon"
+      },
+      {
+        "name": "KongSeuhLee (restaurante de tofu)",
+        "menu": "Platos de tofu"
+      },
+      {
+        "name": "KongGaNeh (restaurante de sopa de bolitas de patata)",
+        "menu": "Sopa de bolitas de patata parecidas a los ñoquis"
+      },
+      {
+        "name": "YeonTan Bul SaengGuYi (restaurante de carne a la brasa)",
+        "menu": "Cerdo a la brasa sobre carbón de briquetas yeontan"
+      },
+      {
+        "name": "Tanghulu de Sokcho",
+        "menu": "Fruta confitada fresca"
+      },
+      {
+        "name": "Playa de Sokcho",
+        "menu": "Playa"
+      },
+      {
+        "name": "Playa de surf de Yangyang",
+        "menu": "Playa de surf"
+      },
+      {
+        "name": "Observatorio de la Unificación de Goseong",
+        "menu": "Observatorio de la unificación"
+      },
+      {
+        "name": "Seoraksan (Parque Nacional Seoraksan)",
+        "menu": "Parque nacional"
+      },
+      {
+        "name": "Lago Yeongnangho",
+        "menu": "Lago en Sokcho"
+      },
+      {
+        "name": "Balneario Cheoksan Hot Spring Resort",
+        "menu": "Balneario de aguas termales minerales"
+      },
+      {
+        "name": "Tienda de recuerdos Asian Highway",
+        "menu": "Tienda de recuerdos"
+      },
+      {
+        "name": "Samyang Roundhill",
+        "menu": "Granja en la cima de una montaña"
+      },
+      {
+        "name": "Gyeongpo Makguksu",
+        "menu": "Makguksu (fideos de trigo sarraceno)"
+      },
+      {
+        "name": "Chodang Coffee Jeongmiso",
+        "menu": "Cafetería"
+      },
+      {
+        "name": "Chodang Whale Roasting Cafe",
+        "menu": "Cafetería"
+      },
+      {
+        "name": "Playa de Anmok",
+        "menu": "Playa"
+      },
+      {
+        "name": "Chodang Sundubu",
+        "menu": "Tofu blando (sundubu)"
+      },
+      {
+        "name": "Soon Tofu Gelato",
+        "menu": "Helado de tofu blando"
+      },
+      {
+        "name": "Chuncheon Dak Galbi (Gangneung)",
+        "menu": "Dak galbi (pollo picante salteado)"
+      }
+    ],
+    "fr": [
+      {
+        "name": "DaePoRee HwetJip (restaurant de poisson cru)",
+        "menu": "Poisson cru frais au port de Daepo"
+      },
+      {
+        "name": "MuhGuLee HwetJip (restaurant de poisson cru)",
+        "menu": "Poisson cru frais au port de Daepo"
+      },
+      {
+        "name": "Bau-Haus Pension Lodging",
+        "menu": "Hébergement près du port de Daepo"
+      },
+      {
+        "name": "HwangGu HwalUh HwetJip (restaurant de poisson vivant)",
+        "menu": "Poisson cru vivant"
+      },
+      {
+        "name": "JangSu HwalUh HwetJip (restaurant de poisson vivant)",
+        "menu": "Poisson cru vivant à la plage de Sokcho"
+      },
+      {
+        "name": "Brotherhood Coffee",
+        "menu": "Café à la plage de Sokcho"
+      },
+      {
+        "name": "DanChun MyunOak (restaurant de nouilles froides)",
+        "menu": "Nouilles froides"
+      },
+      {
+        "name": "YoungBin BanJeom (restaurant chinois)",
+        "menu": "Cuisine sino-coréenne, jjajangmyeon"
+      },
+      {
+        "name": "KongSeuhLee (restaurant de tofu)",
+        "menu": "Plats de tofu"
+      },
+      {
+        "name": "KongGaNeh (restaurant de soupe ongsimi à la pomme de terre)",
+        "menu": "Soupe aux petits raviolis de pomme de terre, un peu semblables aux gnocchis"
+      },
+      {
+        "name": "YeonTan Bul SaengGuYi (restaurant de porc grillé)",
+        "menu": "Porc grillé sur briquettes de charbon yeontan"
+      },
+      {
+        "name": "Boutique de tanghulu (Sokcho)",
+        "menu": "Fruits frais enrobés de sucre dur"
+      },
+      {
+        "name": "Plage de Sokcho",
+        "menu": "Plage"
+      },
+      {
+        "name": "Plage de surf de Yangyang",
+        "menu": "Plage de surf"
+      },
+      {
+        "name": "Observatoire de l'unification de Goseong",
+        "menu": "Tour d'observation de l'unification"
+      },
+      {
+        "name": "Seoraksan (parc national de Sorak)",
+        "menu": "Parc national"
+      },
+      {
+        "name": "Lac Yeongnangho",
+        "menu": "Lac à Sokcho"
+      },
+      {
+        "name": "Station thermale de Cheoksan",
+        "menu": "Spa aux sources thermales minérales"
+      },
+      {
+        "name": "Boutique Asian Highway",
+        "menu": "Boutique de souvenirs"
+      },
+      {
+        "name": "Samyang Roundhill",
+        "menu": "Ferme au sommet d'une montagne"
+      },
+      {
+        "name": "Gyeongpo Makguksu",
+        "menu": "Makguksu (nouilles de sarrasin)"
+      },
+      {
+        "name": "Chodang Coffee Jeongmiso",
+        "menu": "Café"
+      },
+      {
+        "name": "Chodang Whale Roasting Cafe",
+        "menu": "Café"
+      },
+      {
+        "name": "Plage d'Anmok",
+        "menu": "Plage"
+      },
+      {
+        "name": "Chodang Sundubu",
+        "menu": "Tofu soyeux (sundubu)"
+      },
+      {
+        "name": "Soon Tofu Gelato",
+        "menu": "Glace au tofu soyeux"
+      },
+      {
+        "name": "Dak galbi de Chuncheon (Gangneung)",
+        "menu": "Dak galbi (poulet sauté épicé)"
+      }
+    ],
+    "de": [
+      {
+        "name": "DaePoRee HwetJip (Fischrestaurant)",
+        "menu": "Frischer roher Fisch am Daepo-Hafen"
+      },
+      {
+        "name": "MuhGuLee HwetJip (Fischrestaurant)",
+        "menu": "Frischer roher Fisch am Daepo-Hafen"
+      },
+      {
+        "name": "Bau-Haus Pension",
+        "menu": "Unterkunft in der Nähe des Daepo-Hafens"
+      },
+      {
+        "name": "HwangGu HwalUh HwetJip (Lebendfisch-Restaurant)",
+        "menu": "Roher Lebendfisch"
+      },
+      {
+        "name": "JangSu HwalUh HwetJip (Lebendfisch-Restaurant)",
+        "menu": "Roher Lebendfisch am Strand von Sokcho"
+      },
+      {
+        "name": "Brotherhood Coffee",
+        "menu": "Café am Strand von Sokcho"
+      },
+      {
+        "name": "DanChun MyunOak (Kaltnudel-Restaurant)",
+        "menu": "Kalte Nudeln"
+      },
+      {
+        "name": "YoungBin BanJeom (chinesisches Restaurant)",
+        "menu": "Koreanisch-chinesische Küche, Jjajangmyeon"
+      },
+      {
+        "name": "KongSeuhLee (Tofu-Restaurant)",
+        "menu": "Tofu-Gerichte"
+      },
+      {
+        "name": "KongGaNeh (Kartoffel-Ongsimi-Suppe)",
+        "menu": "Kartoffelsuppe mit gnocchiartigen Klößchen"
+      },
+      {
+        "name": "YeonTan Bul SaengGuYi (Schweinegrill-Restaurant)",
+        "menu": "Schweinefleisch vom Grill über Yeontan-Holzkohle"
+      },
+      {
+        "name": "Tanghulu-Laden (Sokcho)",
+        "menu": "Kandiertes frisches Obst"
+      },
+      {
+        "name": "Strand von Sokcho",
+        "menu": "Strand"
+      },
+      {
+        "name": "Yangyang Surf Beach",
+        "menu": "Surfstrand"
+      },
+      {
+        "name": "Goseong-Aussichtsturm zur Wiedervereinigung",
+        "menu": "Aussichtsturm zur Wiedervereinigung"
+      },
+      {
+        "name": "Seoraksan (Sorak-Nationalpark)",
+        "menu": "Nationalpark"
+      },
+      {
+        "name": "Yeongnangho-See",
+        "menu": "See in Sokcho"
+      },
+      {
+        "name": "Cheoksan Hot Spring Resort",
+        "menu": "Mineralquellen-Spa"
+      },
+      {
+        "name": "Asian Highway Geschenkeladen",
+        "menu": "Geschenkeladen"
+      },
+      {
+        "name": "Samyang Roundhill",
+        "menu": "Farm auf einem Berggipfel"
+      },
+      {
+        "name": "Gyeongpo Makguksu",
+        "menu": "Makguksu (Buchweizennudeln)"
+      },
+      {
+        "name": "Chodang Coffee Jeongmiso",
+        "menu": "Café"
+      },
+      {
+        "name": "Chodang Whale Roasting Cafe",
+        "menu": "Café"
+      },
+      {
+        "name": "Anmok-Strand",
+        "menu": "Strand"
+      },
+      {
+        "name": "Chodang Sundubu",
+        "menu": "Weicher Tofu (Sundubu)"
+      },
+      {
+        "name": "Soon Tofu Gelato",
+        "menu": "Gelato aus weichem Tofu"
+      },
+      {
+        "name": "Chuncheon Dak Galbi (Gangneung)",
+        "menu": "Dak Galbi (würziges Hähnchen aus der Pfanne)"
+      }
+    ],
+    "vi": [
+      {
+        "name": "Quán sashimi Daepo-ri (Nhà hàng cá sống)",
+        "menu": "Cá sống tươi tại cảng Daepo"
+      },
+      {
+        "name": "Quán sashimi Mugul-li (Nhà hàng cá sống)",
+        "menu": "Cá sống tươi tại cảng Daepo"
+      },
+      {
+        "name": "Nhà nghỉ Bau-Haus Pension",
+        "menu": "Chỗ nghỉ gần cảng Daepo"
+      },
+      {
+        "name": "Quán sashimi cá sống Hwanggu",
+        "menu": "Cá sống tươi"
+      },
+      {
+        "name": "Quán sashimi cá sống Jangsu",
+        "menu": "Cá sống tươi tại bãi biển Sokcho"
+      },
+      {
+        "name": "Brotherhood Coffee",
+        "menu": "Quán cà phê tại bãi biển Sokcho"
+      },
+      {
+        "name": "Danchun Myeonok (Quán mì lạnh)",
+        "menu": "Mì lạnh"
+      },
+      {
+        "name": "Yeongbin Banjeom (Nhà hàng Hoa-Hàn)",
+        "menu": "Ẩm thực Hàn-Trung, jjajangmyeon"
+      },
+      {
+        "name": "Kongseuhlee (Nhà hàng đậu phụ)",
+        "menu": "Các món đậu phụ"
+      },
+      {
+        "name": "Kongganeh (Nhà hàng súp khoai tây Ongsimi)",
+        "menu": "Súp khoai tây kiểu gnocchi"
+      },
+      {
+        "name": "Yeontan Bul Saenggui (Nhà hàng thịt heo nướng)",
+        "menu": "Thịt heo nướng trên than tổ ong yeontan"
+      },
+      {
+        "name": "Tanghulu Sokcho",
+        "menu": "Trái cây tươi phủ đường cứng"
+      },
+      {
+        "name": "Bãi biển Sokcho",
+        "menu": "Bãi biển"
+      },
+      {
+        "name": "Bãi lướt sóng Yangyang",
+        "menu": "Bãi biển lướt sóng"
+      },
+      {
+        "name": "Đài quan sát thống nhất Goseong",
+        "menu": "Đài quan sát thống nhất"
+      },
+      {
+        "name": "Seoraksan (Vườn quốc gia Sorak)",
+        "menu": "Vườn quốc gia"
+      },
+      {
+        "name": "Hồ Yeongnangho",
+        "menu": "Hồ ở Sokcho"
+      },
+      {
+        "name": "Khu nghỉ dưỡng suối nước nóng Cheoksan",
+        "menu": "Spa suối khoáng nóng"
+      },
+      {
+        "name": "Cửa hàng quà lưu niệm Asian Highway",
+        "menu": "Cửa hàng quà lưu niệm"
+      },
+      {
+        "name": "Samyang Roundhill",
+        "menu": "Trang trại trên đỉnh núi"
+      },
+      {
+        "name": "Gyeongpo Makguksu",
+        "menu": "Mì kiều mạch makguksu"
+      },
+      {
+        "name": "Chodang Coffee Jeongmiso",
+        "menu": "Quán cà phê"
+      },
+      {
+        "name": "Chodang Whale Roasting Cafe",
+        "menu": "Quán cà phê"
+      },
+      {
+        "name": "Bãi biển Anmok",
+        "menu": "Bãi biển"
+      },
+      {
+        "name": "Chodang Sundubu",
+        "menu": "Đậu phụ non sundubu"
+      },
+      {
+        "name": "Soon Tofu Gelato",
+        "menu": "Gelato đậu phụ non"
+      },
+      {
+        "name": "Dak Galbi Chuncheon (Gangneung)",
+        "menu": "Gà xào cay dak galbi"
+      }
+    ],
+    "th": [
+      {
+        "name": "ร้านปลาดิบแดโพรี",
+        "menu": "ปลาดิบสดที่ท่าเรือแดโพ"
+      },
+      {
+        "name": "ร้านปลาดิบมูกูลี",
+        "menu": "ปลาดิบสดที่ท่าเรือแดโพ"
+      },
+      {
+        "name": "เพนชั่น บาวฮอส",
+        "menu": "ที่พักใกล้ท่าเรือแดโพ"
+      },
+      {
+        "name": "ร้านปลาดิบมีชีวิตฮวังกู",
+        "menu": "ปลาดิบมีชีวิต"
+      },
+      {
+        "name": "ร้านปลาดิบมีชีวิตจางซู",
+        "menu": "ปลาดิบมีชีวิตที่ชายหาดซกโช"
+      },
+      {
+        "name": "คาเฟ่บราเธอร์ฮูดคอฟฟี่",
+        "menu": "คาเฟ่ที่ชายหาดซกโช"
+      },
+      {
+        "name": "ร้านตันชอนเมียนอก",
+        "menu": "ก๋วยเตี๋ยวเย็น"
+      },
+      {
+        "name": "ร้านอาหารจีนเกาหลียองบินบันจอม",
+        "menu": "อาหารจีนแบบเกาหลี เช่น จาจังมยอน"
+      },
+      {
+        "name": "ร้านคงซือลี",
+        "menu": "เมนูเต้าหู้"
+      },
+      {
+        "name": "ร้านคงกาเน",
+        "menu": "ซุปลูกมันฝรั่งคล้ายนอกกี"
+      },
+      {
+        "name": "ร้านยอนทันบุลแซงกูยี",
+        "menu": "หมูย่างบนเตาถ่านยอนทัน"
+      },
+      {
+        "name": "ร้านทังฮูลู (ซกโช)",
+        "menu": "ผลไม้สดเคลือบน้ำตาลแข็ง"
+      },
+      {
+        "name": "ชายหาดซกโช",
+        "menu": "ชายหาด"
+      },
+      {
+        "name": "ชายหาดเซิร์ฟยางยาง",
+        "menu": "ชายหาดสำหรับเล่นเซิร์ฟ"
+      },
+      {
+        "name": "หอสังเกตการณ์ทงอิลโกซ็อง",
+        "menu": "หอสังเกตการณ์การรวมชาติ"
+      },
+      {
+        "name": "ซอรักซาน (อุทยานแห่งชาติซอรัก)",
+        "menu": "อุทยานแห่งชาติ"
+      },
+      {
+        "name": "ทะเลสาบยองนังโฮ",
+        "menu": "ทะเลสาบในซกโช"
+      },
+      {
+        "name": "รีสอร์ตน้ำพุร้อนชอกซาน",
+        "menu": "สปาน้ำพุร้อนแร่"
+      },
+      {
+        "name": "ร้านของที่ระลึกอาเซียนไฮเวย์",
+        "menu": "ร้านของที่ระลึก"
+      },
+      {
+        "name": "ฟาร์มยอดเขาซัมยาง ราวด์ฮิลล์",
+        "menu": "ฟาร์มบนยอดเขา"
+      },
+      {
+        "name": "ร้านคยองโพมักกุกซู",
+        "menu": "มักกุกซู ก๋วยเตี๋ยวแป้งบักวีท"
+      },
+      {
+        "name": "คาเฟ่โชดังคอฟฟี่จองมีโซ",
+        "menu": "คาเฟ่"
+      },
+      {
+        "name": "คาเฟ่โชดังวาฬโรสติ้ง",
+        "menu": "คาเฟ่"
+      },
+      {
+        "name": "ชายหาดอันมก",
+        "menu": "ชายหาด"
+      },
+      {
+        "name": "โชดังซุนดูบู",
+        "menu": "เต้าหู้อ่อน (ซุนดูบู)"
+      },
+      {
+        "name": "ซุนดูบูเจลาโต้",
+        "menu": "ไอศกรีมเจลาโต้เต้าหู้อ่อน"
+      },
+      {
+        "name": "ดักกัลบีชุนชอน (คังนึง)",
+        "menu": "ดักกัลบี ไก่ผัดเผ็ด"
+      }
+    ],
+    "id": [
+      {
+        "name": "DaePoRee HwetJip (Restoran Ikan Mentah)",
+        "menu": "Ikan mentah segar di Pelabuhan Daepo"
+      },
+      {
+        "name": "MuhGuLee HwetJip (Restoran Ikan Mentah)",
+        "menu": "Ikan mentah segar di Pelabuhan Daepo"
+      },
+      {
+        "name": "Penginapan Bau-Haus Pension",
+        "menu": "Penginapan dekat Pelabuhan Daepo"
+      },
+      {
+        "name": "HwangGu HwalUh HwetJip (Restoran Ikan Hidup)",
+        "menu": "Ikan mentah dari ikan hidup"
+      },
+      {
+        "name": "JangSu HwalUh HwetJip (Restoran Ikan Hidup)",
+        "menu": "Ikan mentah dari ikan hidup di Pantai Sokcho"
+      },
+      {
+        "name": "Brotherhood Coffee",
+        "menu": "Kafe di Pantai Sokcho"
+      },
+      {
+        "name": "DanChun MyunOak (Restoran Mi Dingin)",
+        "menu": "Mi dingin"
+      },
+      {
+        "name": "YoungBin BanJeom (Restoran Tiongkok)",
+        "menu": "Hidangan gaya Korea-Tionghoa, jjajangmyeon"
+      },
+      {
+        "name": "KongSeuhLee (Restoran Tahu)",
+        "menu": "Hidangan tahu"
+      },
+      {
+        "name": "KongGaNeh (Restoran Sup Kentang Ongsimi)",
+        "menu": "Sup kentang mirip gnocchi"
+      },
+      {
+        "name": "YeonTan Bul SaengGuYi (Restoran Barbekyu Babi)",
+        "menu": "Barbekyu babi dengan arang briket yeontan"
+      },
+      {
+        "name": "Kedai Tanghulu (Sokcho)",
+        "menu": "Buah segar berlapis gula"
+      },
+      {
+        "name": "Pantai Sokcho",
+        "menu": "Pantai"
+      },
+      {
+        "name": "Pantai Selancar Yangyang",
+        "menu": "Pantai selancar"
+      },
+      {
+        "name": "Menara Pengamatan Unifikasi Goseong",
+        "menu": "Menara pengamatan unifikasi"
+      },
+      {
+        "name": "Seoraksan (Taman Nasional Sorak)",
+        "menu": "Taman nasional"
+      },
+      {
+        "name": "Danau Yeongnangho",
+        "menu": "Danau di Sokcho"
+      },
+      {
+        "name": "Resor Air Panas Cheoksan",
+        "menu": "Spa air panas mineral"
+      },
+      {
+        "name": "Toko Suvenir Asian Highway",
+        "menu": "Toko suvenir"
+      },
+      {
+        "name": "Samyang Roundhill",
+        "menu": "Peternakan di puncak gunung"
+      },
+      {
+        "name": "Gyeongpo Makguksu",
+        "menu": "Makguksu (mi soba)"
+      },
+      {
+        "name": "Chodang Coffee Jeongmiso",
+        "menu": "Kafe"
+      },
+      {
+        "name": "Chodang Whale Roasting Cafe",
+        "menu": "Kafe"
+      },
+      {
+        "name": "Pantai Anmok",
+        "menu": "Pantai"
+      },
+      {
+        "name": "Chodang Sundubu",
+        "menu": "Sundubu (tahu lembut)"
+      },
+      {
+        "name": "Soon Tofu Gelato",
+        "menu": "Gelato tahu lembut"
+      },
+      {
+        "name": "Dak Galbi Chuncheon (Gangneung)",
+        "menu": "Dak galbi (ayam tumis pedas)"
+      }
+    ],
+    "ru": [
+      {
+        "name": "Тэчхорри Хвечжип (ресторан сырой рыбы), порт Тэпхо",
+        "menu": "Свежая сырая рыба в порту Тэпхо"
+      },
+      {
+        "name": "Мугуали Хвечжип (ресторан сырой рыбы), порт Тэпхо",
+        "menu": "Свежая сырая рыба в порту Тэпхо"
+      },
+      {
+        "name": "Пансион «Бауфаус» рядом с портом Тэпхо",
+        "menu": "Жильё рядом с портом Тэпхо"
+      },
+      {
+        "name": "Чхуральхван Хвечжип (ресторан живой рыбы), Хванку",
+        "menu": "Живая сырая рыба"
+      },
+      {
+        "name": "Чансу Хвараль Хвечжип (ресторан живой рыбы), Сокчхо",
+        "menu": "Живая сырая рыба у пляжа Сокчхо"
+      },
+      {
+        "name": "Brotherhood Coffee, Сокчхо",
+        "menu": "Кафе у пляжа Сокчхо"
+      },
+      {
+        "name": "Тханчхон Мённок (ресторан холодной лапши)",
+        "menu": "Холодная лапша"
+      },
+      {
+        "name": "Ёнбин Панджом (китайский ресторан)",
+        "menu": "Корейско-китайская кухня, джаджанмён"
+      },
+      {
+        "name": "Консоли (ресторан тофу)",
+        "menu": "Блюда из тофу"
+      },
+      {
+        "name": "Конганэ (ресторан супа из картофеля)",
+        "menu": "Картофельный суп, похожий на ньокки"
+      },
+      {
+        "name": "Ёнтан Пульсэнгуи (ресторан свинины на угле)",
+        "menu": "Свинина на угольных брикетах ёнтан"
+      },
+      {
+        "name": "Лавка тхангхуру, Сокчхо",
+        "menu": "Свежие фрукты в сахарной глазури"
+      },
+      {
+        "name": "Пляж Сокчхо",
+        "menu": "Пляж"
+      },
+      {
+        "name": "Серфинг-пляж Яндян",
+        "menu": "Пляж для серфинга"
+      },
+      {
+        "name": "Обсерватория объединения Косон",
+        "menu": "Обсерватория объединения"
+      },
+      {
+        "name": "Соракса (национальный парк Соракса)",
+        "menu": "Национальный парк"
+      },
+      {
+        "name": "Озеро Ённнангхо",
+        "menu": "Озеро в Сокчхо"
+      },
+      {
+        "name": "Курорт горячих источников Чхёксан",
+        "menu": "Спа с горячими минеральными источниками"
+      },
+      {
+        "name": "Сувенирный магазин Asian Highway",
+        "menu": "Сувенирный магазин"
+      },
+      {
+        "name": "Самян Раундхилл",
+        "menu": "Ферма на вершине горы"
+      },
+      {
+        "name": "Кёнпхо маккуксу",
+        "menu": "Маккуксу (гречишная лапша)"
+      },
+      {
+        "name": "Чходан Кофе Чонмисо",
+        "menu": "Кафе"
+      },
+      {
+        "name": "Чходан Кит Роастинг Кафе",
+        "menu": "Кафе"
+      },
+      {
+        "name": "Пляж Анмок",
+        "menu": "Пляж"
+      },
+      {
+        "name": "Чходан сундубу",
+        "menu": "Мягкий тофу сундубу"
+      },
+      {
+        "name": "Soon Tofu Gelato",
+        "menu": "Джелато из мягкого тофу"
+      },
+      {
+        "name": "Чхунчхонская дак галь (Каннын)",
+        "menu": "Дак галь, острая курица, обжаренная с овощами"
+      }
+    ]
+  }
+}

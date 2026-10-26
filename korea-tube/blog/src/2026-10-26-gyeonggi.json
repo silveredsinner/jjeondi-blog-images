@@ -1,0 +1,982 @@
+{
+  "slug": "2026-10-26-gyeonggi",
+  "date": "2026-10-26",
+  "region": "gyeonggi",
+  "title": {
+    "ko": "경기·인천 영상 속 맛집·명소: 인천 차이나타운·월미도부터 수원 통닭거리·화성행궁까지",
+    "en": "Gyeonggi & Incheon Eats and Sights from the Videos: Incheon Chinatown, Wolmido, Suwon Chicken Street and Hwaseong Haenggung",
+    "ja": "京畿道・仁川 動画で紹介された グルメと観光スポット：仁川チャイナタウン、月尾島から水原チキン通り、華城行宮まで",
+    "zh-Hans": "京畿道与仁川的视频美食和景点：仁川唐人街、月尾岛、水原炸鸡街与华城行宫",
+    "zh-Hant": "京畿道與仁川影片美食景點：從仁川中華街、月尾島到水原炸雞街與華城行宮",
+    "es": "Gyeonggi e Incheon: restaurantes y lugares de los vídeos, de Chinatown de Incheon a la Fortaleza de Hwaseong",
+    "fr": "Gyeonggi et Incheon : adresses et lieux à voir dans les vidéos, de Chinatown d'Incheon à la rue du poulet de Suwon et au palais Hwaseong Haenggung",
+    "de": "Gyeonggi & Incheon: Essen und Sehenswürdigkeiten aus den Videos – Incheon Chinatown, Wolmido, Suwon Chicken Street und Hwaseong Haenggung",
+    "vi": "Gyeonggi & Incheon ăn uống và tham quan theo các video: Phố Tàu Incheon, Wolmido, Phố gà rán Suwon và Cung điện Hwaseong Haenggung",
+    "th": "ไกด์กยองกีและอินชอน: ของกินและสถานที่จากคลิปวิดีโอ ชิ่นฮวากุ วอลมีโด ถนนไก่ทอดซูวอน และพระราชวังฮวาซอง",
+    "id": "Makanan dan Tempat Menarik di Gyeonggi & Incheon dari Video: Chinatown Incheon, Wolmido, Jalan Ayam Goreng Suwon dan Benteng Hwaseong Haenggung",
+    "ru": "Гёнгидо и Инчхон: еда и достопримечательности из видео — Инчхонский китайский квартал, Вольмидо, улица жареной курицы в Сувоне и Хвасонский дворец Хэнгун"
+  },
+  "summary": {
+    "ko": "서울 근교 당일치기 여행지인 인천과 수원에서 영상에 등장한 짜장면집, 시장, 통닭집, 카페와 산책 명소를 지역별로 정리했습니다.",
+    "en": "A day-trip guide to Incheon and Suwon near Seoul, covering the jajangmyeon spot, market, fried chicken shop, cafes and walking spots featured in the videos.",
+    "ja": "ソウル近郊で日帰りできる仁川と水原について、動画に登場したジャージャー麺の店、市場、フライドチキン店、カフェ、散策スポットを地域別にまとめました。",
+    "zh-Hans": "这是一份从首尔出发的仁川和水原当日游指南，整理了视频中出现的炸酱面店、市场、炸鸡店、咖啡馆和步行景点。",
+    "zh-Hant": "從首爾出發的仁川與水原一日遊指南，整理影片中出現的炸醬麵店、市場、炸雞店、咖啡廳與散步景點。",
+    "es": "Guía de excursiones de un día desde Seúl a Incheon y Suwon, con el restaurante de jajangmyeon, el mercado, la tienda de pollo frito, cafés y paseos de los vídeos.",
+    "fr": "Guide d'une journée à Incheon et à Suwon, à proximité de Séoul, couvrant le restaurant de jajangmyeon, le marché, la friterie de poulet, les cafés et les balades présentés dans les vidéos.",
+    "de": "Ein Tagesausflug-Guide zu Incheon und Suwon in der Nähe von Seoul mit dem Jajangmyeon-Lokal, dem Markt, dem Hähnchenlokal, den Cafés und Spazierzielen aus den Videos.",
+    "vi": "Gợi ý chuyến đi trong ngày đến Incheon và Suwon gần Seoul, gồm quán jajangmyeon, khu chợ, quán gà rán, quán cà phê và các điểm đi bộ xuất hiện trong video.",
+    "th": "คู่มือเที่ยวไปเช้าเย็นกลับจากโซลไปอินชอนและซูวอน ครอบคลุมร้านจาจังมย็อน ตลาด ร้านไก่ทอด คาเฟ่ และเส้นทางเดินเล่นที่ปรากฏในคลิปวิดีโอ",
+    "id": "Panduan wisata sehari ke Incheon dan Suwon dekat Seoul, mencakup tempat jajangmyeon, pasar, kedai ayam goreng, kafe, dan jalur jalan kaki yang ditampilkan dalam video.",
+    "ru": "Маршрут на один день из Сеула в Инчхон и Сувон: место с чаджанмёном, рынок, лавка жареной курицы, кафе и прогулочные места из видео."
+  },
+  "body": {
+    "ko": "<p>경기·인천은 서울에서 당일치기로 다녀오기 좋은 지역입니다. 수원화성, 인천 차이나타운, 강화도까지 볼거리가 이어지고, 수원 왕갈비·통닭, 인천 짜장면, 강화도 장어구이 같은 음식으로도 잘 알려져 있습니다. 이 글에서는 인천 차이나타운·월미도 편과 수원 편 영상에 나온 곳들을 지역별로 묶어 소개합니다.</p><h2>인천: 차이나타운과 월미도</h2><p>아래 장소들은 <strong>Incheon Chinatown – Birthplace of Jajangmyeon</strong>, <strong>Incheon Street Food, Chinatown &amp; Wolmido Park</strong> 영상에서 다룬 인천 여행 코스에 등장합니다.</p><h3>공화춘 (Gonghwachun)</h3><p>인천 차이나타운에서 짜장면을 먹는 곳입니다. 짜장면의 탄생지라는 차이나타운을 다룬 영상에서 인천 짜장면을 맛보는 장소로 소개됩니다.</p><h3>자유공원 (Freedom Park)</h3><p>맥아더 장군 동상이 있는 공원으로, 전망을 즐기며 잠시 쉬어 가기 좋습니다. 차이나타운 구경과 함께 들르기 좋은 곳입니다.</p><h3>신포국제시장 (Sinpo International Market)</h3><p>한국 길거리 음식을 맛볼 수 있는 시장입니다. 인천 길거리 음식을 다룬 영상에 나오며, 여러 가지를 조금씩 맛보는 재미가 있습니다.</p><h3>타르트야 (Tartya)</h3><p>에그타르트 가게로, 영상에서는 블루베리 에그타르트를 소개합니다. 걸으면서 먹는 간식으로 곁들이기 좋습니다.</p><h3>채널12 카페 (Channel 12 Cafe)</h3><p>루프탑 카페입니다. 걷다가 쉬어 가며 음료를 마시는 장소로 영상에 등장합니다.</p><h3>월미도 (Wolmido Island)</h3><p>바닷가를 따라 산책할 수 있는 섬입니다. 영상 제목처럼 차이나타운과 함께 하루 코스로 묶어 다녀오는 곳입니다.</p><h3>월미테마파크 (Wolmido Theme Park)</h3><p>월미도에 있는 놀이공원입니다. 바닷가 산책에 놀이기구 체험을 더하고 싶다면 들러볼 만합니다.</p><h2>수원: 화성행궁, 통닭거리, 광교</h2><p>아래 장소들은 <strong>Suwon Day Trip: Hwaseong Fortress &amp; Korea's Best Fried Chicken</strong>, <strong>Suwon – Hwaseong Fortress &amp; Haenggung Palace at Night</strong> 영상에서 다룬 수원 여행 코스에 등장합니다.</p><h3>수원역 (Suwon Station)</h3><p>수원의 주요 기차역으로, 수원 여행의 출발점으로 삼기 좋습니다.</p><h3>화성행궁 (Hwaseong Haenggung Palace)</h3><p>야간 관람으로 영상에 소개된 행궁입니다. 낮에 수원화성을 둘러본 뒤 저녁에 다시 찾는 코스로 나옵니다.</p><h3>수원 통닭거리 (Suwon Chicken Street)</h3><p>통닭 가게가 줄지어 모여 있는 거리입니다. 수원을 대표하는 음식인 통닭을 먹으러 가는 곳입니다.</p><h3>대봉통닭 (Daebong Chicken)</h3><p>통닭(후라이드 치킨)을 먹는 가게로, 수원 통닭을 다룬 영상에 등장합니다.</p><h3>스타필드 수원 별마당 도서관 (Starfield Library Suwon)</h3><p>스타필드 수원 쇼핑몰 안에 있는 대형 도서관입니다. 거대한 서가 사이를 둘러보는 것만으로도 볼거리가 됩니다.</p><h3>앨리웨이 광교 (Alleyway Gwanggyo)</h3><p>쇼핑과 식사를 함께 즐길 수 있는 복합 거리입니다.</p><h3>도산분식 광교 앨리웨이점 (Dosan Bunsik)</h3><p>앨리웨이 광교 안에 있는 분식집으로, 떡볶이 같은 한국식 분식을 먹는 곳입니다.</p><h3>아우어 베이커리 (OUR bakery)</h3><p>빵과 커피로 쉬어 가기 좋은 베이커리입니다.</p><h3>광교호수공원 (Gwanggyo Lake Park)</h3><p>호숫가를 따라 산책할 수 있는 공원입니다.</p><h3>갤러리아백화점 광교점 (Galleria Department Store Gwanggyo)</h3><p>광교에 있는 백화점으로, 쇼핑이나 실내에서 쉬어 가는 일정에 넣을 수 있습니다.</p><h3>지파시 (G Fassi)</h3><p>젤라토 아이스크림 가게입니다. 식사 후 디저트로 들르기 좋습니다.</p><h3>이치하치 (Ichihachi)</h3><p>일식을 먹는 곳으로, 수원 편 영상에 등장합니다.</p><h2>동선 팁</h2><p>인천과 수원은 방향이 달라 하루에 하나씩 다녀오는 편이 여유롭습니다. 인천에서는 차이나타운에서 공화춘 짜장면으로 시작해 자유공원 전망을 보고, 신포국제시장과 타르트야에서 간식을 먹은 뒤 채널12 카페에서 쉬었다가 오후에 월미도로 넘어가 바닷가 산책과 월미테마파크로 마무리하는 흐름이 자연스럽습니다. 수원은 수원역에서 출발해 낮에는 광교(앨리웨이 광교, 광교호수공원, 백화점과 카페)나 스타필드 수원 별마당 도서관을 둘러보고, 저녁에는 수원 통닭거리에서 통닭을 먹은 다음 화성행궁 야간 관람으로 하루를 마치는 구성을 추천합니다. 광교와 행궁 쪽은 서로 떨어져 있으니 이동 시간을 넉넉히 잡아 두세요.</p>",
+    "en": "<p>Gyeonggi and Incheon make easy day trips from Seoul, with sights ranging from Suwon's Hwaseong Fortress to Incheon Chinatown and Ganghwa Island. The region is also known for its food: Suwon's galbi and fried chicken, Incheon's jajangmyeon and Ganghwa's grilled eel. Below, the places from the Incheon and Suwon videos are grouped by city.</p><h2>Incheon: Chinatown and Wolmido</h2><p>These spots appear on the Incheon routes in <strong>Incheon Chinatown – Birthplace of Jajangmyeon</strong> and <strong>Incheon Street Food, Chinatown &amp; Wolmido Park</strong>.</p><h3>Gonghwachun (공화춘)</h3><p>A Chinatown restaurant for black bean jajangmyeon. It's where the video about Chinatown, billed as the birthplace of jajangmyeon, stops to try the dish.</p><h3>Freedom Park (Jayu Park, 자유공원)</h3><p>A park with a statue of General MacArthur and good views. It pairs naturally with a walk around Chinatown.</p><h3>Sinpo International Market (신포국제시장)</h3><p>A market for Korean street food, featured in the Incheon street food video. It's a good place to graze on a few small bites.</p><h3>Tartya (타르트야)</h3><p>An egg tart shop; the video highlights the blueberry egg tart. Handy as a snack while walking.</p><h3>Channel 12 Cafe (채널12 카페)</h3><p>A rooftop cafe that shows up as a rest stop with drinks during the day's walk.</p><h3>Wolmido Island (월미도)</h3><p>A seaside island with a waterfront walk. As the video title suggests, it's paired with Chinatown as a one-day route.</p><h3>Wolmido Theme Park (월미테마파크)</h3><p>An amusement park on Wolmido, worth a stop if you want some rides on top of the seaside stroll.</p><h2>Suwon: Haenggung Palace, Chicken Street and Gwanggyo</h2><p>These places appear in <strong>Suwon Day Trip: Hwaseong Fortress &amp; Korea's Best Fried Chicken</strong> and <strong>Suwon – Hwaseong Fortress &amp; Haenggung Palace at Night</strong>.</p><h3>Suwon Station (수원역)</h3><p>Suwon's main train station and a convenient starting point for the day.</p><h3>Hwaseong Haenggung Palace (화성행궁)</h3><p>Featured for its night visit. The video explores Hwaseong Fortress by day and returns to the palace after dark.</p><h3>Suwon Chicken Street (수원 통닭거리)</h3><p>A street lined with Korean fried chicken shops, the place to go for Suwon's signature tongdak.</p><h3>Daebong Chicken (대봉통닭)</h3><p>A shop serving Korean fried whole chicken (tongdak), featured in the Suwon fried chicken video.</p><h3>Starfield Library Suwon (스타필드 수원 별마당 도서관)</h3><p>A giant library inside the Starfield Suwon mall. Walking among its towering shelves is a sight in itself.</p><h3>Alleyway Gwanggyo (앨리웨이 광교)</h3><p>A street complex combining shopping and dining.</p><h3>Dosan Bunsik, Gwanggyo Alleyway (도산분식)</h3><p>A bunsik spot inside Alleyway Gwanggyo for Korean snack food.</p><h3>OUR bakery (아우어 베이커리)</h3><p>A bakery that makes a good break for bread and coffee.</p><h3>Gwanggyo Lake Park (광교호수공원)</h3><p>A park with walking paths around the lake.</p><h3>Galleria Department Store Gwanggyo (갤러리아백화점 광교점)</h3><p>A department store in Gwanggyo, useful for shopping or an indoor break.</p><h3>G Fassi (지파시)</h3><p>A gelato shop, a natural dessert stop after a meal.</p><h3>Ichihachi (이치하치)</h3><p>A Japanese restaurant that appears in the Suwon videos.</p><h2>Route Tips</h2><p>Incheon and Suwon lie in different directions from Seoul, so it's more relaxed to give each its own day. In Incheon, start with jajangmyeon at Gonghwachun in Chinatown, take in the views at Freedom Park, snack your way through Sinpo International Market and Tartya, rest at Channel 12 Cafe, then head to Wolmido in the afternoon for the seaside walk and the theme park. In Suwon, set off from Suwon Station and spend the daytime in Gwanggyo (Alleyway Gwanggyo, the lake park, the department store and cafes) or at Starfield Library, then have fried chicken on Suwon Chicken Street in the evening and finish with the night visit to Hwaseong Haenggung. Gwanggyo and the palace area are some distance apart, so allow plenty of time to travel between them.</p>",
+    "ja": "<p>京畿道と仁川は、ソウルから気軽に日帰りできるエリアです。水原の華城（ファソン）から、仁川チャイナタウン、江華島まで、見どころが多く揃っています。食も魅力で、水原のカルビとフライドチキン、仁川のジャージャー麺、江華島の焼きウナギなどが知られています。ここでは、仁川と水原の動画に登場した場所を都市ごとに紹介します。</p><h2>仁川：チャイナタウンと月尾島</h2><p>以下のスポットは、<strong>仁川チャイナタウン――ジャージャー麺発祥の地</strong>と<strong>仁川のストリートフード、チャイナタウン＆月尾島公園</strong>のルートに登場します。</p><h3>公華春（コンファチュン）</h3><p>黒豆味噌のジャージャー麺が食べられるチャイナタウンの店です。ジャージャー麺発祥の地とされるチャイナタウンの動画で、この料理を味わうために立ち寄っています。</p><h3>自由公園（チャユ公園、자유공원）</h3><p>マッカーサー将軍の銅像があり、眺めのよい公園です。チャイナタウン散策と組み合わせるのがおすすめです。</p><h3>新浦国際市場（シンポ国際市場）</h3><p>韓国の屋台料理が楽しめる市場で、仁川のストリートフードの動画で紹介されています。小さなおやつを少しずつ食べ歩くのに向いています。</p><h3>タルトヤ</h3><p>エッグタルトの店で、動画ではブルーベリーのエッグタルトが紹介されています。歩きながら食べるおやつにちょうどよいです。</p><h3>チャンネル12カフェ</h3><p>屋上にあるカフェで、日中の散策の途中で飲み物を楽しむ休憩地点として登場します。</p><h3>月尾島（ウォルミド）</h3><p>海沿いの島で、海辺の遊歩道があります。動画のタイトルどおり、チャイナタウンと組み合わせた日帰りルートとして紹介されています。</p><h3>月尾テーマパーク</h3><p>月尾島にある遊園地です。海辺の散歩に加えて乗り物も楽しみたい人に向いています。</p><h2>水原：華城行宮、チキン通り、光教</h2><p>以下の場所は、<strong>水原日帰り旅行――華城と韓国最高のフライドチキン</strong>と<strong>水原――夜の華城と華城行宮</strong>の動画に登場します。</p><h3>水原駅</h3><p>水原の主要な鉄道駅で、一日の出発点として便利です。</p><h3>華城行宮（ファソン・ヘングン）</h3><p>夜の訪問が紹介されています。動画では日中に華城を歩き、暗くなってから行宮へ戻ります。</p><h3>水原チキン通り（水原통닭거리）</h3><p>韓国式フライドチキンの店が並ぶ通りで、水原名物のトンダク（丸鶏のフライドチキン）を楽しむのに向いています。</p><h3>大峰チキン（テボン・トンダク）</h3><p>韓国式の丸ごとフライドチキン（トンダク）を出す店で、水原のフライドチキンの動画で紹介されています。</p><h3>スターフィールド水原 星の庭図書館</h3><p>スターフィールド水原のモール内にある大きな図書館です。高くそびえる本棚の間を歩くだけでも見応えがあります。</p><h3>アレイウェイ光教</h3><p>ショッピングと食事が楽しめる通りの複合施設です。</p><h3>道山粉食（ドサン・ブンシク）光教アレイウェイ店</h3><p>アレイウェイ光教にある、韓国の軽食（ブンシク）の店です。</p><h3>アウアーベーカリー</h3><p>パンとコーヒーで休憩するのに向いたベーカリーです。</p><h3>光教湖公園</h3><p>湖の周りに遊歩道がある公園です。</p><h3>ギャラリアデパート光教店</h3><p>光教にあるデパートで、買い物や屋内での休憩に便利です。</p><h3>ジーファシ</h3><p>ジェラートの店で、食後のデザートにちょうどよい立ち寄り先です。</p><h3>イチハチ</h3><p>水原の動画に登場する日本料理店です。</p><h2>移動のヒント</h2><p>仁川と水原はソウルから見て別の方向にあるため、それぞれ一日ずつ分けて回るとゆったり楽しめます。仁川では、チャイナタウンの公華春でジャージャー麺を食べ、自由公園で景色を楽しみ、新浦国際市場とタルトヤでおやつを食べ歩き、チャンネル12カフェで休憩します。午後は月尾島へ移動して海辺の散歩と遊園地を楽しみましょう。水原では水原駅から出発し、日中は光教（アレイウェイ光教、光教湖公園、デパート、カフェ）または星の庭図書館で過ごします。夕方は水原チキン通りでフライドチキンを食べ、最後に夜の華城行宮を訪ねるとよいでしょう。光教と華城行宮の周辺は少し離れているため、移動時間には余裕を持たせてください。</p>",
+    "zh-Hans": "<p>京畿道和仁川都适合从首尔出发当日往返，景点从水原华城到仁川唐人街和江华岛都有。这一地区的美食也很有特色：水原的排骨和炸鸡、仁川的炸酱面，以及江华岛的烤鳗鱼。下面按城市整理了仁川和水原视频中出现的地点。</p><h2>仁川：唐人街与月尾岛</h2><p>以下地点出现在<strong>仁川唐人街 – 炸酱面的发源地</strong>和<strong>仁川街头小吃、唐人街与月尾岛公园</strong>的路线中。</p><h3>公和春（공화춘）</h3><p>唐人街的一家餐厅，以黑豆炸酱面闻名。视频中介绍唐人街被称为炸酱面的发源地，就是在这里品尝这道菜。</p><h3>自由公园（자유공원，Jayu Park）</h3><p>公园里有麦克阿瑟将军的雕像，视野不错。与唐人街的散步路线很搭。</p><h3>新浦国际市场（신포국제시장）</h3><p>以韩国街头小吃为主的市场，出现在仁川街头美食视频中。适合边走边吃，尝几样小份食物。</p><h3>Tartya 蛋挞店（타르트야）</h3><p>蛋挞店，视频中重点介绍了蓝莓蛋挞。走路时吃来当点心很方便。</p><h3>Channel 12 咖啡馆（채널12 카페）</h3><p>屋顶咖啡馆，在白天的步行路线中作为休息点喝饮品。</p><h3>月尾岛（월미도）</h3><p>海边小岛，有滨海步道。正如视频标题所示，它与唐人街一起组成一日游路线。</p><h3>月尾主题乐园（월미테마파크）</h3><p>位于月尾岛上的游乐园。如果在海边散步之外还想玩些游乐设施，可以顺路去看看。</p><h2>水原：行宫、炸鸡街与光教</h2><p>以下地点出现在<strong>水原一日游：华城与韩国最好吃的炸鸡</strong>和<strong>水原 – 夜晚的华城与华城行宫</strong>两个视频中。</p><h3>水原站（수원역）</h3><p>水原的主要火车站，是一天行程的便利起点。</p><h3>华城行宫（화성행궁）</h3><p>因夜间参观而入选。视频白天游览华城，天黑后再回到行宫。</p><h3>水原炸鸡街（수원 통닭거리）</h3><p>一条街上聚集了许多韩式炸鸡店，是品尝水原招牌炸鸡（统닭）的好去处。</p><h3>大峰炸鸡（대봉통닭）</h3><p>供应韩式整只炸鸡（统닭）的店，出现在水原炸鸡视频中。</p><h3>Starfield 水原星空图书馆（스타필드 수원 별마당 도서관）</h3><p>位于Starfield水原购物中心内的巨大图书馆。站在高耸的书架之间本身就很值得一看。</p><h3>光教 Alleyway（앨리웨이 광교）</h3><p>结合购物与餐饮的街区综合体。</p><h3>道山分食 光教 Alleyway店（도산분식）</h3><p>位于光教 Alleyway内的分食店，供应韩式小吃。</p><h3>OUR 面包房（아우어 베이커리）</h3><p>面包房，适合在这里买面包、喝咖啡休息一下。</p><h3>光教湖公园（광교호수공원）</h3><p>湖畔有步道的公园。</p><h3>Galleria 百货光教店（갤러리아백화점 광교점）</h3><p>位于光教的百货商场，适合购物或在室内休息。</p><h3>G Fassi（지파시）</h3><p>冰淇淋店，饭后吃甜点的自然选择。</p><h3>一八（이치하치，Ichihachi）</h3><p>日式餐厅，出现在水原相关视频中。</p><h2>路线建议</h2><p>仁川和水原在首尔的不同方向，因此最好分开安排两天，行程会更轻松。在仁川，可以先到唐人街的公和春吃炸酱面，再去自由公园欣赏风景，然后在新浦国际市场和Tartya边走边吃，到Channel 12咖啡馆休息，下午前往月尾岛，散步并逛主题乐园。在水原，从水原站出发，白天可以在光教（光教 Alleyway、光教湖公园、百货商场和咖啡馆）或Starfield星空图书馆度过，傍晚在水原炸鸡街吃炸鸡，最后去华城行宫参观夜景。光教和行宫所在区域相隔有一段距离，请预留充足的交通时间。</p>",
+    "zh-Hant": "<p>京畿道和仁川都很適合從首爾出發當天來回。景點從水原的華城到仁川中華街與江華島都有，美食也很有特色：水原的烤牛小排與炸雞、仁川的炸醬麵，還有江華島的烤鰻魚。以下依城市整理影片中出現的地點。</p><h2>仁川：中華街與月尾島</h2><p>這些地點出現在仁川路線影片<strong>〈仁川中華街：炸醬麵的發源地〉</strong>與<strong>〈仁川街頭美食、中華街與月尾公園〉</strong>中。</p><h3>公和春（공화춘）</h3><p>中華街上的餐廳，招牌是黑豆炸醬麵。影片中講述中華街是炸醬麵的發源地，這裡就是嘗試這道料理的地方。</p><h3>自由公園（자유공원）</h3><p>公園裡有麥克阿瑟將軍的雕像，視野不錯。很適合和中華街的散步一起安排。</p><h3>新浦國際市場（신포국제시장）</h3><p>韓國街頭小吃聚集的市場，也是仁川街頭美食影片中的景點。適合邊走邊吃幾樣小點心。</p><h3>Tartya（타르트야）</h3><p>蛋塔店，影片中特別介紹藍莓蛋塔。走路時當點心很方便。</p><h3>Channel 12 Cafe（채널12 카페）</h3><p>屋頂咖啡廳，白天散步途中可以在這裡休息喝點飲料。</p><h3>月尾島（월미도）</h3><p>海邊的小島，有可以沿海散步的步道。如影片標題所示，通常與中華街串成一日行程。</p><h3>月尾主題樂園（월미테마파크）</h3><p>位於月尾島上的遊樂園，如果想在海邊散步之外再玩些遊樂設施，可以順道一訪。</p><h2>水原：行宮、炸雞街與光教</h2><p>這些地點出現在<strong>〈水原一日遊：華城與韓國最好吃的炸雞〉</strong>與<strong>〈水原夜遊：華城與行宮夜景〉</strong>兩部影片中。</p><h3>水原站（수원역）</h3><p>水原的主要火車站，也是一日遊方便的起點。</p><h3>華城行宮（화성행궁）</h3><p>影片特別介紹夜間參觀的行程。白天走訪華城，入夜後再回到行宮。</p><h3>水原通雞街（수원 통닭거리）</h3><p>整條街都是韓式炸雞店，是品嚐水原招牌整隻炸雞（통닭）的好去處。</p><h3>大鳳炸雞（대봉통닭）</h3><p>供應韓式整隻炸雞（通닭）的店家，也是水原炸雞影片中介紹的店。</p><h3>Starfield Library水原（스타필드 수원 별마당 도서관）</h3><p>位於 Starfield 水原購物中心內的大型書店兼圖書館，高聳的書架本身就很值得一看。</p><h3>光教 Alleyway（앨리웨이 광교）</h3><p>結合購物與餐飲的街區。</p><h3>道山分食（도산분식）</h3><p>位於光教 Alleyway 內的分食店，供應韓式小吃。</p><h3>OUR bakery（아우어 베이커리）</h3><p>麵包店，適合在這裡休息，買麵包配咖啡。</p><h3>光教湖公園（광교호수공원）</h3><p>湖畔有步道可以散步的公園。</p><h3>Galleria 百貨光教店（갤러리아백화점 광교점）</h3><p>位於光教的百貨公司，適合購物或到室內休息。</p><h3>G Fassi（지파시）</h3><p>義式冰淇淋店，用餐後當作甜點很自然。</p><h3>一八（이치하치）</h3><p>影片中出現的日式餐廳。</p><h2>行程建議</h2><p>仁川與水原位於首爾的不同方向，最好各安排一天，比較輕鬆。仁川可以先到中華街的公和春吃炸醬麵，接著去自由公園欣賞景色，再沿新浦國際市場與 Tartya 邊走邊吃，在 Channel 12 Cafe 休息，下午前往月尾島散步並逛主題樂園。水原則從水原站出發，白天在光教（Alleyway 光教、湖公園、百貨公司與咖啡廳）或 Starfield 書店度過，傍晚到水原通雞街吃炸雞，最後以華城行宮的夜間參觀作結。光教與行宮區有一段距離，移動時請預留充裕時間。</p>",
+    "es": "<p>Gyeonggi e Incheon son destinos fáciles para una excursión de un día desde Seúl, con atractivos que van desde la Fortaleza de Hwaseong en Suwon hasta el Chinatown de Incheon y la isla de Ganghwa. La región también es conocida por su gastronomía: el galbi y el pollo frito de Suwon, el jajangmyeon de Incheon y la anguila a la parrilla de Ganghwa. A continuación, los lugares de los vídeos de Incheon y Suwon, agrupados por ciudad.</p><h2>Incheon: Chinatown y Wolmido</h2><p>Estos lugares aparecen en las rutas de Incheon de <strong>Incheon Chinatown – Birthplace of Jajangmyeon</strong> y <strong>Incheon Street Food, Chinatown &amp; Wolmido Park</strong>.</p><h3>Gonghwachun (공화춘)</h3><p>Restaurante en Chinatown especializado en jajangmyeon con salsa de judías negras. Es donde el vídeo sobre Chinatown, presentado como la cuna del jajangmyeon, se detiene para probar el plato.</p><h3>Parque Freedom (Jayu Park, 자유공원)</h3><p>Parque con una estatua del general MacArthur y buenas vistas. Combina bien con un paseo por Chinatown.</p><h3>Mercado Internacional Sinpo (신포국제시장)</h3><p>Mercado de comida callejera coreana, presentado en el vídeo de street food de Incheon. Es un buen lugar para picar varios bocados pequeños.</p><h3>Tartya (타르트야)</h3><p>Tienda de tartaletas de huevo; el vídeo destaca la tartaleta de huevo con arándanos. Práctica como merienda mientras caminas.</p><h3>Cafetería Channel 12 (채널12 카페)</h3><p>Cafetería en la azotea que aparece como parada para tomar algo durante el paseo del día.</p><h3>Isla de Wolmido (월미도)</h3><p>Isla frente al mar con un paseo junto a la costa. Como sugiere el título del vídeo, se combina con Chinatown en una ruta de un solo día.</p><h3>Parque temático Wolmido (월미테마파크)</h3><p>Parque de atracciones en Wolmido, ideal si quieres subirte a algunas atracciones además del paseo junto al mar.</p><h2>Suwon: Palacio Haenggung, calle del pollo y Gwanggyo</h2><p>Estos lugares aparecen en <strong>Suwon Day Trip: Hwaseong Fortress &amp; Korea's Best Fried Chicken</strong> y <strong>Suwon – Hwaseong Fortress &amp; Haenggung Palace at Night</strong>.</p><h3>Estación de Suwon (수원역)</h3><p>La estación de tren principal de Suwon y un punto de partida práctico para el día.</p><h3>Palacio Hwaseong Haenggung (화성행궁)</h3><p>Destacado por su visita nocturna. El vídeo recorre la Fortaleza de Hwaseong de día y vuelve al palacio cuando anochece.</p><h3>Calle del pollo de Suwon (수원 통닭거리)</h3><p>Calle llena de tiendas de pollo frito coreano, el lugar ideal para probar el tongdak, la especialidad de Suwon.</p><h3>Pollo Daebong (대봉통닭)</h3><p>Tienda que sirve pollo entero frito al estilo coreano (tongdak), presentada en el vídeo sobre el pollo frito de Suwon.</p><h3>Starfield Library Suwon (스타필드 수원 별마당 도서관)</h3><p>Una biblioteca enorme dentro del centro comercial Starfield Suwon. Pasear entre sus estanterías altísimas ya es un atractivo en sí mismo.</p><h3>Alleyway Gwanggyo (앨리웨이 광교)</h3><p>Complejo de calles que combina compras y restaurantes.</p><h3>Dosan Bunsik, Alleyway Gwanggyo (도산분식)</h3><p>Local de bunsik dentro de Alleyway Gwanggyo, para probar comida coreana de tentempié.</p><h3>OUR bakery (아우어 베이커리)</h3><p>Panadería ideal para una pausa con pan y café.</p><h3>Parque del lago Gwanggyo (광교호수공원)</h3><p>Parque con senderos alrededor del lago.</p><h3>Galleria Department Store Gwanggyo (갤러리아백화점 광교점)</h3><p>Grandes almacenes en Gwanggyo, útiles para ir de compras o para hacer una pausa en interior.</p><h3>G Fassi (지파시)</h3><p>Heladería de gelato, una parada natural para el postre después de comer.</p><h3>Ichihachi (이치하치)</h3><p>Restaurante japonés que aparece en los vídeos de Suwon.</p><h2>Consejos para la ruta</h2><p>Incheon y Suwon están en direcciones distintas desde Seúl, así que resulta más relajado dedicar un día a cada una. En Incheon, empieza con el jajangmyeon de Gonghwachun en Chinatown, disfruta de las vistas en el Parque Freedom, picotea en el Mercado Internacional Sinpo y en Tartya, descansa en la cafetería Channel 12 y, por la tarde, ve a Wolmido para el paseo junto al mar y el parque temático. En Suwon, sal desde la estación de Suwon y pasa el día en Gwanggyo (Alleyway Gwanggyo, el parque del lago, los grandes almacenes y las cafeterías) o en la Starfield Library; por la noche, cena pollo frito en la calle del pollo de Suwon y termina con la visita nocturna al Palacio Hwaseong Haenggung. Gwanggyo y la zona del palacio están algo alejados, así que reserva tiempo suficiente para desplazarte entre ambos.</p>",
+    "fr": "<p>Le Gyeonggi et Incheon se visitent facilement en excursion d'une journée depuis Séoul, avec des sites allant de la forteresse Hwaseong de Suwon à Chinatown d'Incheon et à l'île de Ganghwa. La région est aussi réputée pour sa cuisine : le galbi et le poulet frit de Suwon, le jajangmyeon d'Incheon et l'anguille grillée de Ganghwa. Ci-dessous, les lieux présentés dans les vidéos sur Incheon et Suwon, regroupés par ville.</p><h2>Incheon : Chinatown et Wolmido</h2><p>Ces adresses apparaissent dans les itinéraires d'Incheon <strong>Incheon Chinatown – Berceau du jajangmyeon</strong> et <strong>Incheon Street Food, Chinatown &amp; Wolmido Park</strong>.</p><h3>Gonghwachun (공화춘)</h3><p>Un restaurant de Chinatown réputé pour son jajangmyeon à la sauce de haricots noirs. C'est là que la vidéo sur Chinatown, présentée comme le berceau du jajangmyeon, s'arrête pour goûter ce plat.</p><h3>Parc de la Liberté (Jayu Park, 자유공원)</h3><p>Un parc avec une statue du général MacArthur et de belles vues. Il se prête naturellement à une promenade dans Chinatown.</p><h3>Marché international de Sinpo (신포국제시장)</h3><p>Un marché de street food coréenne, présenté dans la vidéo sur la street food d'Incheon. C'est un bon endroit pour grignoter plusieurs petites bouchées.</p><h3>Tartya (타르트야)</h3><p>Une boutique de tartelettes à l'œuf ; la vidéo met en avant la tartelette à l'œuf aux myrtilles. Pratique pour un encas en marchant.</p><h3>Channel 12 Cafe (채널12 카페)</h3><p>Un café en terrasse sur le toit qui apparaît comme une pause boisson pendant la balade de la journée.</p><h3>Île de Wolmido (월미도)</h3><p>Une île en bord de mer avec une promenade le long de l'eau. Comme le titre de la vidéo l'indique, elle est associée à Chinatown dans un itinéraire d'une journée.</p><h3>Parc d'attractions de Wolmido (월미테마파크)</h3><p>Un parc d'attractions sur Wolmido, qui vaut une halte si vous voulez quelques manèges en plus de la balade au bord de la mer.</p><h2>Suwon : palais Haenggung, rue du poulet et Gwanggyo</h2><p>Ces lieux apparaissent dans <strong>Suwon Day Trip: Hwaseong Fortress &amp; Korea's Best Fried Chicken</strong> et <strong>Suwon – Hwaseong Fortress &amp; Haenggung Palace at Night</strong>.</p><h3>Gare de Suwon (수원역)</h3><p>La principale gare ferroviaire de Suwon et un point de départ pratique pour la journée.</p><h3>Palais Hwaseong Haenggung (화성행궁)</h3><p>Présenté pour sa visite de nuit. La vidéo explore la forteresse Hwaseong de jour et revient au palais après la tombée de la nuit.</p><h3>Rue du poulet frit de Suwon (수원 통닭거리)</h3><p>Une rue bordée de friteries de poulet coréen, l'endroit idéal pour goûter le tongdak, la spécialité de Suwon.</p><h3>Daebong Chicken (대봉통닭)</h3><p>Une boutique qui sert du poulet entier frit à la coréenne (tongdak), présentée dans la vidéo sur le poulet frit de Suwon.</p><h3>Bibliothèque Starfield Suwon (스타필드 수원 별마당 도서관)</h3><p>Une immense bibliothèque située dans le centre commercial Starfield Suwon. Marcher parmi ses rayonnages imposants est déjà un spectacle en soi.</p><h3>Alleyway Gwanggyo (앨리웨이 광교)</h3><p>Un complexe de rues mêlant shopping et restauration.</p><h3>Dosan Bunsik, Gwanggyo Alleyway (도산분식)</h3><p>Une adresse de bunsik, la cuisine coréenne de snacks, située dans Alleyway Gwanggyo.</p><h3>OUR bakery (아우어 베이커리)</h3><p>Une boulangerie qui fait une bonne pause pour du pain et un café.</p><h3>Parc du lac de Gwanggyo (광교호수공원)</h3><p>Un parc avec des sentiers de promenade autour du lac.</p><h3>Galleria Department Store Gwanggyo (갤러리아백화점 광교점)</h3><p>Un grand magasin à Gwanggyo, pratique pour faire du shopping ou faire une pause à l'intérieur.</p><h3>G Fassi (지파시)</h3><p>Une boutique de gelato, un arrêt dessert naturel après un repas.</p><h3>Ichihachi (이치하치)</h3><p>Un restaurant japonais qui apparaît dans les vidéos sur Suwon.</p><h2>Conseils d'itinéraire</h2><p>Incheon et Suwon se trouvent dans des directions différentes depuis Séoul, il est donc plus agréable de leur consacrer chacune une journée. À Incheon, commencez par un jajangmyeon chez Gonghwachun dans Chinatown, admirez les vues du Parc de la Liberté, grignotez au marché international de Sinpo et chez Tartya, faites une pause au Channel 12 Cafe, puis rejoignez Wolmido l'après-midi pour la promenade au bord de la mer et le parc d'attractions. À Suwon, partez de la gare de Suwon et passez la journée à Gwanggyo (Alleyway Gwanggyo, le parc du lac, le grand magasin et les cafés) ou à la bibliothèque Starfield, puis dînez de poulet frit dans la rue du poulet de Suwon le soir et terminez par la visite nocturne du palais Hwaseong Haenggung. Gwanggyo et le quartier du palais sont assez éloignés l'un de l'autre, prévoyez donc suffisamment de temps pour les trajets.</p>",
+    "de": "<p>Gyeonggi und Incheon eignen sich gut für Tagesausflüge von Seoul aus. Die Sehenswürdigkeiten reichen von der Hwaseong-Festung in Suwon bis zur Incheon Chinatown und zur Insel Ganghwa. Die Region ist auch für ihr Essen bekannt: Suwons Galbi und frittiertes Hähnchen, Incheons Jajangmyeon und Ganghwas gegrillter Aal. Im Folgenden sind die Orte aus den Videos zu Incheon und Suwon nach Stadt gegliedert.</p><h2>Incheon: Chinatown und Wolmido</h2><p>Diese Orte kommen auf den Incheon-Routen in <strong>Incheon Chinatown – Geburtsort des Jajangmyeon</strong> und <strong>Incheon Street Food, Chinatown &amp; Wolmido Park</strong> vor.</p><h3>Gonghwachun (공화춘)</h3><p>Ein Restaurant in der Chinatown für Jajangmyeon mit schwarzer Bohnensauce. Im Video über die Chinatown, die als Geburtsort des Jajangmyeon gilt, wird hier das Gericht probiert.</p><h3>Freiheitspark (Jayu Park, 자유공원)</h3><p>Ein Park mit einer Statue von General MacArthur und schönen Aussichten. Er passt gut zu einem Spaziergang durch die Chinatown.</p><h3>Sinpo International Market (신포국제시장)</h3><p>Ein Markt mit koreanischem Straßenessen, der im Video zum Straßenessen in Incheon vorkommt. Hier kann man sich gut durch einige kleine Häppchen probieren.</p><h3>Tartya (타르트야)</h3><p>Ein Laden für Eiertörtchen; im Video wird das Heidelbeer-Eiertörtchen hervorgehoben. Praktisch als Snack unterwegs.</p><h3>Channel 12 Cafe (채널12 카페)</h3><p>Ein Café auf dem Dach, das während des Spaziergangs als Pause mit Getränken auftaucht.</p><h3>Wolmido-Insel (월미도)</h3><p>Eine Insel am Meer mit einem Uferweg. Wie der Videotitel nahelegt, wird sie zusammen mit der Chinatown als Route für einen Tag kombiniert.</p><h3>Wolmido Theme Park (월미테마파크)</h3><p>Ein Vergnügungspark auf Wolmido, der sich lohnt, wenn man neben dem Spaziergang am Meer auch ein paar Fahrgeschäfte ausprobieren möchte.</p><h2>Suwon: Haenggung-Palast, Hähnchenstraße und Gwanggyo</h2><p>Diese Orte kommen in <strong>Suwon Tagesausflug: Hwaseong-Festung und Koreas bestes frittiertes Hähnchen</strong> und <strong>Suwon – Hwaseong-Festung und Haenggung-Palast bei Nacht</strong> vor.</p><h3>Bahnhof Suwon (수원역)</h3><p>Der Hauptbahnhof von Suwon und ein praktischer Ausgangspunkt für den Tag.</p><h3>Hwaseong Haenggung-Palast (화성행궁)</h3><p>Vorgestellt wegen des Nachtbesuchs. Das Video erkundet die Hwaseong-Festung bei Tag und kehrt nach Einbruch der Dunkelheit zum Palast zurück.</p><h3>Suwon Chicken Street (수원 통닭거리)</h3><p>Eine Straße mit koreanischen Hähnchenläden, der richtige Ort für Suwons typisches Tongdak.</p><h3>Daebong Chicken (대봉통닭)</h3><p>Ein Laden, der koreanisches frittiertes ganzes Hähnchen (Tongdak) serviert, aus dem Video zu frittiertem Hähnchen in Suwon.</p><h3>Starfield Library Suwon (스타필드 수원 별마당 도서관)</h3><p>Eine riesige Bibliothek im Einkaufszentrum Starfield Suwon. Schon das Gehen zwischen den hohen Regalen ist ein Erlebnis.</p><h3>Alleyway Gwanggyo (앨리웨이 광교)</h3><p>Ein Straßenkomplex, der Einkaufen und Essen verbindet.</p><h3>Dosan Bunsik, Gwanggyo Alleyway (도산분식)</h3><p>Ein Bunsik-Lokal im Alleyway Gwanggyo für koreanische Snacks.</p><h3>OUR bakery (아우어 베이커리)</h3><p>Eine Bäckerei, die sich gut für eine Pause mit Brot und Kaffee eignet.</p><h3>Gwanggyo-Seepark (광교호수공원)</h3><p>Ein Park mit Wegen rund um den See.</p><h3>Galleria Kaufhaus Gwanggyo (갤러리아백화점 광교점)</h3><p>Ein Kaufhaus in Gwanggyo, praktisch zum Einkaufen oder für eine Pause im Innenbereich.</p><h3>G Fassi (지파시)</h3><p>Ein Gelato-Laden, ein naheliegender Dessertstopp nach dem Essen.</p><h3>Ichihachi (이치하치)</h3><p>Ein japanisches Restaurant, das in den Suwon-Videos vorkommt.</p><h2>Tipps für die Route</h2><p>Incheon und Suwon liegen von Seoul aus in unterschiedlichen Richtungen, deshalb ist es entspannter, jedem einen eigenen Tag zu geben. In Incheon beginnt man mit Jajangmyeon im Gonghwachun in der Chinatown, genießt die Aussicht im Freiheitspark, probiert sich durch den Sinpo International Market und bei Tartya, macht im Channel 12 Cafe eine Pause und fährt dann am Nachmittag nach Wolmido für den Spaziergang am Meer und den Vergnügungspark. In Suwon startet man am Bahnhof Suwon und verbringt den Tag in Gwanggyo (Alleyway Gwanggyo, dem Seepark, dem Kaufhaus und Cafés) oder in der Starfield Library. Abends gibt es frittiertes Hähnchen in der Suwon Chicken Street, und zum Abschluss der Nachtbesuch im Hwaseong Haenggung-Palast. Gwanggyo und das Palastgebiet liegen ein Stück auseinander, also sollte man für die Fahrt zwischen beiden viel Zeit einplanen.</p>",
+    "vi": "<p>Gyeonggi và Incheon là những điểm đi trong ngày rất tiện từ Seoul, với các địa danh từ Pháo đài Hwaseong ở Suwon đến Phố Tàu Incheon và đảo Ganghwa. Vùng này cũng nổi tiếng về ẩm thực: sườn bò galbi và gà rán ở Suwon, jajangmyeon ở Incheon và lươn nướng ở Ganghwa. Dưới đây, các địa điểm trong video về Incheon và Suwon được nhóm theo từng thành phố.</p><h2>Incheon: Phố Tàu và Wolmido</h2><p>Những địa điểm này xuất hiện trong các lộ trình Incheon thuộc <strong>Phố Tàu Incheon – Nơi khai sinh jajangmyeon</strong> và <strong>Ẩm thực đường phố Incheon, Phố Tàu &amp; Công viên Wolmido</strong>.</p><h3>Gonghwachun (공화춘)</h3><p>Nhà hàng trong Phố Tàu chuyên món jajangmyeon sốt đậu đen. Đây là nơi video về Phố Tàu, được giới thiệu là nơi khai sinh jajangmyeon, dừng lại để thưởng thức món ăn.</p><h3>Công viên Tự Do (Jayu Park, 자유공원)</h3><p>Công viên có tượng tướng MacArthur và tầm nhìn đẹp. Đây là điểm đi bộ tự nhiên khi dạo quanh Phố Tàu.</p><h3>Chợ Quốc tế Sinpo (신포국제시장)</h3><p>Chợ ẩm thực đường phố Hàn Quốc, xuất hiện trong video về ẩm thực đường phố Incheon. Đây là nơi tốt để thử vài món nhỏ.</p><h3>Tartya (타르트야)</h3><p>Tiệm bánh tart trứng; video nổi bật món tart trứng việt quất. Tiện để ăn vặt khi đi bộ.</p><h3>Channel 12 Cafe (채널12 카페)</h3><p>Quán cà phê trên sân thượng, là điểm nghỉ chân với đồ uống trong chuyến đi bộ trong ngày.</p><h3>Đảo Wolmido (월미도)</h3><p>Hòn đảo ven biển có lối đi dạo bên bờ nước. Như tiêu đề video gợi ý, đây là phần ghép với Phố Tàu trong một lộ trình một ngày.</p><h3>Công viên giải trí Wolmido (월미테마파크)</h3><p>Công viên trò chơi trên đảo Wolmido, đáng ghé nếu bạn muốn chơi vài trò ngoài việc đi dạo bên biển.</p><h2>Suwon: Cung điện Haenggung, Phố gà rán và Gwanggyo</h2><p>Những địa điểm này xuất hiện trong <strong>Suwon trong ngày: Pháo đài Hwaseong &amp; món gà rán ngon nhất Hàn Quốc</strong> và <strong>Suwon – Pháo đài Hwaseong &amp; Cung điện Haenggung về đêm</strong>.</p><h3>Ga Suwon (수원역)</h3><p>Ga tàu chính của Suwon và là điểm xuất phát thuận tiện cho cả ngày.</p><h3>Cung điện Hwaseong Haenggung (화성행궁)</h3><p>Nổi bật nhờ chuyến tham quan buổi tối. Video khám phá Pháo đài Hwaseong ban ngày và quay lại cung điện khi trời tối.</p><h3>Phố gà rán Suwon (수원 통닭거리)</h3><p>Con phố với nhiều quán gà rán kiểu Hàn Quốc, là nơi để thưởng thức tongdak đặc trưng của Suwon.</p><h3>Gà rán Daebong (대봉통닭)</h3><p>Quán phục vụ gà rán nguyên con kiểu Hàn Quốc (tongdak), xuất hiện trong video về gà rán Suwon.</p><h3>Thư viện Starfield Suwon (스타필드 수원 별마당 도서관)</h3><p>Thư viện khổng lồ bên trong trung tâm thương mại Starfield Suwon. Đi giữa những dãy kệ sách cao vút đã là một cảnh đẹp riêng.</p><h3>Alleyway Gwanggyo (앨리웨이 광교)</h3><p>Khu phố tổng hợp mua sắm và ăn uống.</p><h3>Dosan Bunsik, Alleyway Gwanggyo (도산분식)</h3><p>Quán bunsik trong Alleyway Gwanggyo, chuyên các món ăn vặt Hàn Quốc.</p><h3>OUR bakery (아우어 베이커리)</h3><p>Tiệm bánh mì, phù hợp để nghỉ ngơi với bánh và cà phê.</p><h3>Công viên hồ Gwanggyo (광교호수공원)</h3><p>Công viên có các lối đi bộ quanh hồ.</p><h3>Trung tâm thương mại Galleria Gwanggyo (갤러리아백화점 광교점)</h3><p>Trung tâm thương mại ở Gwanggyo, tiện để mua sắm hoặc nghỉ trong nhà.</p><h3>G Fassi (지파시)</h3><p>Tiệm gelato, là món tráng miệng tự nhiên sau bữa ăn.</p><h3>Ichihachi (이치하치)</h3><p>Nhà hàng Nhật Bản xuất hiện trong các video về Suwon.</p><h2>Gợi ý lộ trình</h2><p>Incheon và Suwon nằm ở hai hướng khác nhau từ Seoul, nên sẽ thoải mái hơn nếu dành riêng một ngày cho mỗi nơi. Ở Incheon, bắt đầu bằng jajangmyeon tại Gonghwachun trong Phố Tàu, ngắm cảnh ở Công viên Tự Do, ăn vặt qua Chợ Quốc tế Sinpo và Tartya, nghỉ ở Channel 12 Cafe, rồi đến Wolmido vào buổi chiều để đi bộ bên biển và ghé công viên giải trí. Ở Suwon, khởi hành từ Ga Suwon và dành ban ngày ở Gwanggyo (Alleyway Gwanggyo, công viên hồ, trung tâm thương mại và các quán cà phê) hoặc Thư viện Starfield, sau đó ăn gà rán trên Phố gà rán Suwon vào buổi tối và kết thúc bằng chuyến tham quan Cung điện Hwaseong Haenggung ban đêm. Khu Gwanggyo và khu cung điện cách nhau một quãng khá xa, nên hãy dành nhiều thời gian để di chuyển giữa hai nơi.</p>",
+    "th": "<p>กยองกีและอินชอนเป็นจุดหมายเที่ยวไปเช้าเย็นกลับจากโซลที่สะดวก มีสถานที่น่าสนใจตั้งแต่ป้อมปราการฮวาซองในซูวอน ไปจนถึงชุมชนจีนในอินชอนและเกาะกังฮวา ภูมิภาคนี้ยังขึ้นชื่อเรื่องอาหารด้วย ได้แก่กัลบีและไก่ทอดของซูวอน จาจังมย็อนของอินชอน และปลาไหลย่างของกังฮวา ด้านล่างนี้เป็นสถานที่จากคลิปอินชอนและซูวอน จัดกลุ่มตามเมือง</p><h2>อินชอน: ชุมชนจีนและวอลมีโด</h2><p>สถานที่เหล่านี้ปรากฏในเส้นทางอินชอนจากคลิป <strong>ชุมชนจีนอินชอน แหล่งกำเนิดจาจังมย็อน</strong> และ <strong>อาหารข้างทางอินชอน ชุมชนจีนและสวนวอลมีโด</strong></p><h3>กงฮวาชุน (공화춘)</h3><p>ร้านอาหารในชุมชนจีนที่มีจาจังมย็อนซอสถั่วดำ เป็นร้านที่คลิปเกี่ยวกับชุมชนจีนซึ่งถูกอ้างว่าเป็นแหล่งกำเนิดจาจังมย็อนแวะไปลองกิน</p><h3>สวนจายู (Freedom Park, 자유공원)</h3><p>สวนที่มีรูปปั้นนายพลแมคอาเธอร์และมีวิวดีงาม เหมาะกับการเดินเล่นรอบชุมชนจีน</p><h3>ตลาดนานาชาติซินโพ (신포국제시장)</h3><p>ตลาดอาหารข้างทางแบบเกาหลี ปรากฏในคลิปอาหารข้างทางอินชอน เหมาะกับการชิมของกินชิ้นเล็กๆ หลายอย่าง</p><h3>ทาร์ทยา (타르트야)</h3><p>ร้านทาร์ตไข่ คลิปเน้นทาร์ตไข่บลูเบอร์รี่ เป็นของว่างสะดวกเวลาเดินเที่ยว</p><h3>คาเฟ่ช่อง 12 (채널12 카페)</h3><p>คาเฟ่บนดาดฟ้าที่ปรากฏเป็นจุดพักดื่มเครื่องดื่มระหว่างการเดินเที่ยวในวันนั้น</p><h3>เกาะวอลมีโด (월미도)</h3><p>เกาะริมทะเลที่มีทางเดินริมน้ำ ตามชื่อคลิป เกาะนี้ถูกจับคู่กับชุมชนจีนเป็นเส้นทางหนึ่งวัน</p><h3>สวนสนุกวอลมีโด (월미테마파크)</h3><p>สวนสนุกบนเกาะวอลมีโด เหมาะแวะหากอยากเล่นเครื่องเล่นนอกเหนือจากการเดินเล่นริมทะเล</p><h2>ซูวอน: พระราชวังแฮงกุง ถนนไก่ทอด และกวางเกียว</h2><p>สถานที่เหล่านี้ปรากฏในคลิป <strong>เที่ยวซูวอนไปเช้าเย็นกลับ: ป้อมปราการฮวาซองและไก่ทอดที่ดีที่สุดของเกาหลี</strong> และ <strong>ซูวอน: ป้อมปราการฮวาซองและพระราชวังแฮงกุงยามค่ำคืน</strong></p><h3>สถานีซูวอน (수원역)</h3><p>สถานีรถไฟหลักของซูวอนและเป็นจุดเริ่มต้นของวันที่สะดวก</p><h3>พระราชวังฮวาซองแฮงกุง (화성행궁)</h3><p>เด่นจากการเยือนในยามค่ำคืน คลิปพาชมป้อมปราการฮวาซองตอนกลางวันและกลับมายังพระราชวังหลังมืดแล้ว</p><h3>ถนนไก่ทอดซูวอน (수원 통닭거리)</h3><p>ถนนที่เรียงรายด้วยร้านไก่ทอดแบบเกาหลี เป็นที่ที่ควรไปเพื่อลอง ทงดัก ซึ่งเป็นเมนูประจำของซูวอน</p><h3>แดบง ทงดัก (대봉통닭)</h3><p>ร้านที่เสิร์ฟไก่ทอดทั้งตัวแบบเกาหลี (ทงดัก) ปรากฏในคลิปไก่ทอดซูวอน</p><h3>ห้องสมุดสตาร์ฟิลด์ ซูวอน (스타필드 수원 별마당 도서관)</h3><p>ห้องสมุดขนาดใหญ่ภายในห้างสตาร์ฟิลด์ซูวอน การเดินท่ามกลางชั้นหนังสือสูงตระหง่านก็เป็นภาพที่น่าชมในตัวเอง</p><h3>อัลเลย์เวย์ กวางเกียว (앨리웨이 광교)</h3><p>กลุ่มอาคารถนนที่รวมการช้อปปิ้งและร้านอาหารไว้ด้วยกัน</p><h3>โดซาน บุนซิก สาขาอัลเลย์เวย์กวางเกียว (도산분식)</h3><p>ร้านบุนซิกภายในอัลเลย์เวย์กวางเกียว เสิร์ฟของว่างแบบเกาหลี</p><h3>อาอูเออ เบเกอรี่ (아우어 베이커리)</h3><p>ร้านเบเกอรี่ที่เหมาะสำหรับพักกินขนมปังและกาแฟ</p><h3>สวนสาธารณะทะเลสาบกวางเกียว (광교호수공원)</h3><p>สวนที่มีทางเดินรอบทะเลสาบ</p><h3>ห้างกาเลเรีย สาขากวางเกียว (갤러리아백화점 광교점)</h3><p>ห้างสรรพสินค้าในกวางเกียว เหมาะสำหรับช้อปปิ้งหรือพักในที่ร่ม</p><h3>จีฟาชี (지파시)</h3><p>ร้านเจลาโต เป็นจุดของหวานตามธรรมชาติหลังมื้ออาหาร</p><h3>อิจิฮาชิ (이치하치)</h3><p>ร้านอาหารญี่ปุ่นที่ปรากฏในคลิปซูวอน</p><h2>เคล็ดลับการเดินทาง</h2><p>อินชอนและซูวอนอยู่คนละทิศทางจากโซล จึงสบายกว่าถ้าแบ่งเป็นคนละวัน ที่อินชอน เริ่มด้วยจาจังมย็อนที่กงฮวาชุนในชุมชนจีน ชมวิวที่สวนจายู แวะชิมของว่างที่ตลาดนานาชาติซินโพและทาร์ทยา พักที่คาเฟ่ช่อง 12 แล้วไปวอลมีโดช่วงบ่ายเพื่อเดินริมทะเลและเล่นสวนสนุก ส่วนที่ซูวอน ออกเดินทางจากสถานีซูวอน ใช้เวลากลางวันที่กวางเกียว (อัลเลย์เวย์กวางเกียว สวนทะเลสาบ ห้างสรรพสินค้า และคาเฟ่) หรือที่ห้องสมุดสตาร์ฟิลด์ จากนั้นกินไก่ทอดที่ถนนไก่ทอดซูวอนตอนเย็น และปิดท้ายด้วยการเยือนพระราชวังแฮงกุงยามค่ำคืน กวางเกียวกับบริเวณพระราชวังอยู่ห่างกันพอสมควร จึงควรเผื่อเวลาเดินทางระหว่างสองที่ไว้มากๆ</p>",
+    "id": "<p>Gyeonggi dan Incheon mudah dijangkau sebagai wisata sehari dari Seoul, dengan tempat menarik mulai dari Benteng Hwaseong di Suwon hingga Chinatown Incheon dan Pulau Ganghwa. Wilayah ini juga dikenal dengan makanannya: galbi dan ayam goreng dari Suwon, jajangmyeon dari Incheon, dan belut panggang dari Ganghwa. Di bawah ini, tempat-tempat dari video Incheon dan Suwon dikelompokkan berdasarkan kota.</p><h2>Incheon: Chinatown dan Wolmido</h2><p>Tempat-tempat ini muncul dalam rute Incheon pada <strong>Incheon Chinatown – Asal Mula Jajangmyeon</strong> dan <strong>Makanan Jalanan Incheon, Chinatown &amp; Taman Wolmido</strong>.</p><h3>Gonghwachun (공화춘)</h3><p>Restoran di Chinatown yang menyajikan jajangmyeon saus kacang hitam. Video tentang Chinatown, yang disebut sebagai tempat asal jajangmyeon, singgah di sini untuk mencoba hidangannya.</p><h3>Taman Kebebasan (Jayu Park, 자유공원)</h3><p>Taman dengan patung Jenderal MacArthur dan pemandangan yang bagus. Tempat ini cocok dikunjungi sambil berjalan-jalan di Chinatown.</p><h3>Pasar Internasional Sinpo (신포국제시장)</h3><p>Pasar yang menjual makanan jalanan Korea, ditampilkan dalam video makanan jalanan Incheon. Tempat yang baik untuk mencicipi beberapa camilan kecil.</p><h3>Tartya (타르트야)</h3><p>Kedai kue telur tart. Video menyoroti tart telur rasa blueberry. Praktis dijadikan camilan saat berjalan kaki.</p><h3>Kafe Channel 12 (채널12 카페)</h3><p>Kafe atap yang muncul sebagai tempat istirahat sambil minum saat berjalan di siang hari.</p><h3>Pulau Wolmido (월미도)</h3><p>Pulau di tepi laut dengan jalur jalan kaki di tepi air. Seperti yang tersirat dari judul video, tempat ini dipasangkan dengan Chinatown sebagai rute sehari.</p><h3>Taman Hiburan Wolmido (월미테마파크)</h3><p>Taman hiburan di Wolmido, layak dikunjungi jika Anda ingin menaiki wahana selain berjalan-jalan di tepi laut.</p><h2>Suwon: Istana Haenggung, Jalan Ayam Goreng dan Gwanggyo</h2><p>Tempat-tempat ini muncul dalam <strong>Wisata Sehari Suwon: Benteng Hwaseong &amp; Ayam Goreng Terbaik Korea</strong> dan <strong>Suwon – Benteng Hwaseong &amp; Istana Haenggung di Malam Hari</strong>.</p><h3>Stasiun Suwon (수원역)</h3><p>Stasiun kereta utama di Suwon dan titik awal yang praktis untuk hari itu.</p><h3>Istana Hwaseong Haenggung (화성행궁)</h3><p>Ditampilkan karena kunjungan malamnya. Video menjelajahi Benteng Hwaseong di siang hari dan kembali ke istana setelah gelap.</p><h3>Jalan Ayam Goreng Suwon (수원 통닭거리)</h3><p>Jalan yang dipenuhi kedai ayam goreng Korea, tempat yang tepat untuk mencicipi tongdak khas Suwon.</p><h3>Ayam Goreng Daebong (대봉통닭)</h3><p>Kedai yang menyajikan ayam utuh goreng Korea (tongdak), ditampilkan dalam video ayam goreng Suwon.</p><h3>Perpustakaan Starfield Suwon (스타필드 수원 별마당 도서관)</h3><p>Perpustakaan besar di dalam mal Starfield Suwon. Berjalan di antara rak-raknya yang menjulang tinggi sudah menjadi pemandangan tersendiri.</p><h3>Alleyway Gwanggyo (앨리웨이 광교)</h3><p>Kompleks jalan yang memadukan belanja dan kuliner.</p><h3>Dosan Bunsik, Alleyway Gwanggyo (도산분식)</h3><p>Kedai bunsik di dalam Alleyway Gwanggyo yang menyajikan jajanan khas Korea.</p><h3>OUR bakery (아우어 베이커리)</h3><p>Toko roti yang cocok untuk istirahat sambil menikmati roti dan kopi.</p><h3>Taman Danau Gwanggyo (광교호수공원)</h3><p>Taman dengan jalur jalan kaki yang mengelilingi danau.</p><h3>Galleria Department Store Gwanggyo (갤러리아백화점 광교점)</h3><p>Department store di Gwanggyo, berguna untuk berbelanja atau beristirahat di dalam ruangan.</p><h3>G Fassi (지파시)</h3><p>Toko gelato, pilihan pencuci mulut yang pas setelah makan.</p><h3>Ichihachi (이치하치)</h3><p>Restoran Jepang yang muncul dalam video Suwon.</p><h2>Tips Rute</h2><p>Incheon dan Suwon berada di arah yang berbeda dari Seoul, jadi akan lebih santai jika masing-masing diberi satu hari tersendiri. Di Incheon, mulailah dengan jajangmyeon di Gonghwachun di Chinatown, nikmati pemandangan di Taman Kebebasan, cicipi camilan di Pasar Internasional Sinpo dan Tartya, beristirahat di Kafe Channel 12, lalu menuju Wolmido pada sore hari untuk berjalan di tepi laut dan mengunjungi taman hiburan. Di Suwon, berangkatlah dari Stasiun Suwon dan habiskan siang hari di Gwanggyo (Alleyway Gwanggyo, taman danau, department store, dan kafe) atau di Starfield Library, lalu makan ayam goreng di Jalan Ayam Goreng Suwon pada malam hari dan tutup dengan kunjungan malam ke Istana Hwaseong Haenggung. Gwanggyo dan kawasan istana berjarak cukup jauh, jadi sisakan banyak waktu untuk perjalanan di antara keduanya.</p>",
+    "ru": "<p>Гёнгидо и Инчхон удобно посетить за один день из Сеула: здесь есть всё, от крепости Хвасон в Сувоне до китайского квартала в Инчхоне и острова Канхва. Регион известен и своей едой: в Сувоне — галби и жареная курица, в Инчхоне — чаджанмён, на Канхва — жареный угорь. Ниже места из видео об Инчхоне и Сувоне сгруппированы по городам.</p><h2>Инчхон: китайский квартал и Вольмидо</h2><p>Эти места встречаются в маршрутах <strong>Incheon Chinatown – Birthplace of Jajangmyeon</strong> и <strong>Incheon Street Food, Chinatown &amp; Wolmido Park</strong>.</p><h3>Гонхваджун (공화춘)</h3><p>Ресторан в китайском квартале, известный чаджанмёном с чёрными бобами. В видео о квартале, который считается родиной чаджанмёна, здесь останавливаются, чтобы попробовать блюдо.</p><h3>Парк Свободы (Чаю-парк, 자유공원)</h3><p>Парк со статуей генерала Макартура и хорошими видами. Логично сочетается с прогулкой по китайскому кварталу.</p><h3>Международный рынок Синпхо (신포국제시장)</h3><p>Рынок корейской уличной еды, показанный в видео о стрит-фуде Инчхона. Хорошее место, чтобы попробовать несколько небольших порций.</p><h3>Тартя (타르트야)</h3><p>Магазин яичных тартов; в видео отмечен тарт с черникой. Удобно как перекус во время прогулки.</p><h3>Кафе Channel 12 (채널12 카페)</h3><p>Кафе на крыше, которое в видео служит остановкой с напитками во время прогулки.</p><h3>Остров Вольмидо (월미도)</h3><p>Остров у моря с набережной. Как следует из названия видео, его объединяют с китайским кварталом в однодневный маршрут.</p><h3>Тематический парк Вольмидо (월미테마파크)</h3><p>Парк аттракционов на Вольмидо, стоит заглянуть, если хочется покатушек помимо прогулки у моря.</p><h2>Сувон: дворец Хэнгун, улица курицы и Гванггё</h2><p>Эти места появляются в видео <strong>Suwon Day Trip: Hwaseong Fortress &amp; Korea's Best Fried Chicken</strong> и <strong>Suwon – Hwaseong Fortress &amp; Haenggung Palace at Night</strong>.</p><h3>Вокзал Сувон (수원역)</h3><p>Главный железнодорожный вокзал Сувона и удобная отправная точка на день.</p><h3>Дворец Хвасонхэнгун (화성행궁)</h3><p>Выделен благодаря ночному визиту. В видео крепость Хвасон осматривается днём, а вечером герои возвращаются во дворец.</p><h3>Улица жареной курицы Сувон (수원 통닭거리)</h3><p>Улица, где расположено много заведений корейской жареной курицы; место, куда стоит прийти за знаменитым сувонским тонтаком.</p><h3>Тонтак Тэбон (대봉통닭)</h3><p>Заведение, где подают корейскую жареную целиком курицу (тонтак); показано в видео о жареной курице в Сувоне.</p><h3>Starfield Library Suwon (스타필드 수원 별마당 도서관)</h3><p>Огромная библиотека внутри торгового центра Starfield Suwon. Прогулка между её высокими стеллажами сама по себе впечатляет.</p><h3>Аллея Гванггё (앨리웨이 광교)</h3><p>Комплекс улиц с магазинами и ресторанами.</p><h3>Доса Бунсик, аллея Гванггё (도산분식)</h3><p>Заведение бунсик в аллее Гванггё, где подают корейские закуски.</p><h3>OUR bakery (아우어 베이커리)</h3><p>Пекарня, где удобно перекусить хлебом и выпить кофе.</p><h3>Озёрный парк Гванггё (광교호수공원)</h3><p>Парк с пешеходными дорожками вокруг озера.</p><h3>Галерея, универмаг Гванггё (갤러리아백화점 광교점)</h3><p>Универмаг в Гванггё, удобный для покупок или передышки в помещении.</p><h3>G Fassi (지파시)</h3><p>Магазин джелато, естественная остановка за десертом после обеда.</p><h3>Ичихачи (이치하치)</h3><p>Японский ресторан, который появляется в видео о Сувоне.</p><h2>Советы по маршруту</h2><p>Инчхон и Сувон находятся в разных направлениях от Сеула, поэтому спокойнее выделить на каждый город отдельный день. В Инчхоне начните с чаджанмёна в Гонхваджун в китайском квартале, полюбуйтесь видами в парке Свободы, перекусите на рынке Синпхо и в Тартя, отдохните в кафе Channel 12, а днём отправляйтесь на Вольмидо для прогулки у моря и посещения парка аттракционов. В Сувоне выходите с вокзала Сувон и проведите день в Гванггё (аллея Гванггё, озёрный парк, универмаг и кафе) или в Starfield Library, затем вечером поешьте жареной курицы на улице Сувон Чикен и завершите визитом в Хвасонхэнгун после наступления темноты. Гванггё и район дворца находятся на некотором расстоянии друг от друга, поэтому заложите достаточно времени на переезд между ними.</p>"
+  },
+  "places": [
+    {
+      "ko": "공화춘",
+      "en": "Gonghwachun",
+      "q": "인천 공화춘",
+      "menu_ko": "짜장면",
+      "menu_en": "Black bean jajangmyeon"
+    },
+    {
+      "ko": "자유공원",
+      "en": "Freedom Park (Jayu Park)",
+      "q": "인천 자유공원",
+      "menu_ko": "맥아더 장군 동상, 전망",
+      "menu_en": "General MacArthur statue, views"
+    },
+    {
+      "ko": "신포국제시장",
+      "en": "Sinpo International Market",
+      "q": "인천 신포국제시장",
+      "menu_ko": "한국 길거리 음식",
+      "menu_en": "Korean street food"
+    },
+    {
+      "ko": "타르트야",
+      "en": "Tartya (egg tarts)",
+      "q": "인천 신포 타르트야",
+      "menu_ko": "에그타르트 (블루베리)",
+      "menu_en": "Egg tarts (blueberry)"
+    },
+    {
+      "ko": "채널12 카페",
+      "en": "Channel 12 Cafe (rooftop cafe)",
+      "q": "인천 채널12 카페",
+      "menu_ko": "루프탑 카페",
+      "menu_en": "Rooftop cafe"
+    },
+    {
+      "ko": "월미도",
+      "en": "Wolmido Island",
+      "q": "인천 월미도",
+      "menu_ko": "바닷가 섬 산책",
+      "menu_en": "Seaside island walk"
+    },
+    {
+      "ko": "월미테마파크",
+      "en": "Wolmido Theme Park",
+      "q": "인천 월미테마파크",
+      "menu_ko": "놀이공원",
+      "menu_en": "Amusement park"
+    },
+    {
+      "ko": "스타필드 수원 별마당 도서관",
+      "en": "Starfield Library Suwon",
+      "q": "스타필드 수원 별마당 도서관",
+      "menu_ko": "스타필드 수원 안의 대형 도서관",
+      "menu_en": "Giant library inside Starfield Suwon mall"
+    },
+    {
+      "ko": "수원 통닭거리",
+      "en": "Suwon Chicken Street",
+      "q": "수원 통닭거리",
+      "menu_ko": "통닭 가게가 모인 거리",
+      "menu_en": "Street lined with Korean fried chicken shops"
+    },
+    {
+      "ko": "대봉통닭",
+      "en": "Daebong Chicken",
+      "q": "수원 대봉통닭",
+      "menu_ko": "통닭(후라이드 치킨)",
+      "menu_en": "Korean fried whole chicken (tongdak)"
+    },
+    {
+      "ko": "수원역",
+      "en": "Suwon Station",
+      "q": "수원역",
+      "menu_ko": "수원의 주요 기차역",
+      "menu_en": "Suwon's main train station"
+    },
+    {
+      "ko": "앨리웨이 광교",
+      "en": "Alleyway Gwanggyo",
+      "q": "앨리웨이 광교",
+      "menu_ko": "복합 쇼핑 거리",
+      "menu_en": "Shopping and dining street complex"
+    },
+    {
+      "ko": "도산분식 광교 앨리웨이점",
+      "en": "Dosan Bunsik (Gwanggyo Alleyway)",
+      "q": "593 Woncheon-dong, Yeongtong-gu, Suwon-si",
+      "menu_ko": "분식",
+      "menu_en": "Korean snack food"
+    },
+    {
+      "ko": "아우어 베이커리",
+      "en": "OUR bakery",
+      "q": "652-4 Ha-dong, Yeongtong-gu, Suwon-si, Gyeonggi-do",
+      "menu_ko": "베이커리",
+      "menu_en": "Bakery"
+    },
+    {
+      "ko": "광교호수공원",
+      "en": "Gwanggyo Lake Park",
+      "q": "광교호수공원",
+      "menu_ko": "호수공원 산책",
+      "menu_en": "Lake park walk"
+    },
+    {
+      "ko": "갤러리아백화점 광교점",
+      "en": "Galleria Department Store Gwanggyo",
+      "q": "124 Gwanggyojungang-ro, Yeongtong-gu, Suwon-si",
+      "menu_ko": "백화점",
+      "menu_en": "Department store"
+    },
+    {
+      "ko": "지파시",
+      "en": "G Fassi",
+      "q": "871-1, Ha-dong, Yeongtong-gu, Suwon-si, Gyeonggi-do",
+      "menu_ko": "젤라토 아이스크림",
+      "menu_en": "Gelato ice cream"
+    },
+    {
+      "ko": "화성행궁",
+      "en": "Hwaseong Haenggung Palace",
+      "q": "수원 화성행궁",
+      "menu_ko": "행궁 야간 관람",
+      "menu_en": "Palace night visit"
+    },
+    {
+      "ko": "이치하치",
+      "en": "Ichihachi",
+      "q": "71-1, Namsu-dong, Paldal-gu, Suwon-si",
+      "menu_ko": "일식",
+      "menu_en": "Japanese food"
+    }
+  ],
+  "videos": [
+    {
+      "id": "CIwOoy7lD0g",
+      "title": "Incheon Chinatown – Birthplace of Jajangmyeon"
+    },
+    {
+      "id": "x1O55IpAtnc",
+      "title": "Incheon Street Food, Chinatown & Wolmido Park"
+    },
+    {
+      "id": "8lCF6H8Ee5A",
+      "title": "Suwon Day Trip: Hwaseong Fortress & Korea's Best Fried Chicken"
+    },
+    {
+      "id": "QAQAGVBL51o",
+      "title": "Suwon – Hwaseong Fortress & Haenggung Palace at Night"
+    }
+  ],
+  "placesI18n": {
+    "ja": [
+      {
+        "name": "公華春（コンファチュン）",
+        "menu": "黒豆味噌のジャージャー麺"
+      },
+      {
+        "name": "自由公園（チャユ公園）",
+        "menu": "マッカーサー将軍の銅像、眺め"
+      },
+      {
+        "name": "新浦国際市場（シンポ国際市場）",
+        "menu": "韓国の屋台料理"
+      },
+      {
+        "name": "タルトヤ",
+        "menu": "エッグタルト（ブルーベリー）"
+      },
+      {
+        "name": "チャンネル12カフェ",
+        "menu": "屋上カフェ"
+      },
+      {
+        "name": "月尾島（ウォルミド）",
+        "menu": "海辺の島の散歩"
+      },
+      {
+        "name": "月尾テーマパーク",
+        "menu": "遊園地"
+      },
+      {
+        "name": "スターフィールド水原 星の庭図書館",
+        "menu": "スターフィールド水原内の大きな図書館"
+      },
+      {
+        "name": "水原チキン通り",
+        "menu": "韓国式フライドチキン店が並ぶ通り"
+      },
+      {
+        "name": "大峰チキン",
+        "menu": "韓国式の丸ごとフライドチキン（トンダク）"
+      },
+      {
+        "name": "水原駅",
+        "menu": "水原の主要駅"
+      },
+      {
+        "name": "アレイウェイ光教",
+        "menu": "ショッピングと食事の通り"
+      },
+      {
+        "name": "道山粉食 光教アレイウェイ店",
+        "menu": "韓国の軽食（ブンシク）"
+      },
+      {
+        "name": "アウアーベーカリー",
+        "menu": "ベーカリー"
+      },
+      {
+        "name": "光教湖公園",
+        "menu": "湖畔の散歩"
+      },
+      {
+        "name": "ギャラリアデパート光教店",
+        "menu": "デパート"
+      },
+      {
+        "name": "ジーファシ",
+        "menu": "ジェラート"
+      },
+      {
+        "name": "華城行宮（ファソン・ヘングン）",
+        "menu": "夜の訪問"
+      },
+      {
+        "name": "イチハチ",
+        "menu": "日本料理"
+      }
+    ],
+    "zh-Hans": [
+      {
+        "name": "公和春（공화춘）",
+        "menu": "黑豆炸酱面"
+      },
+      {
+        "name": "自由公园（자유공원）",
+        "menu": "麦克阿瑟将军雕像，观景"
+      },
+      {
+        "name": "新浦国际市场（신포국제시장）",
+        "menu": "韩国街头小吃"
+      },
+      {
+        "name": "Tartya 蛋挞店（타르트야）",
+        "menu": "蛋挞（蓝莓口味）"
+      },
+      {
+        "name": "Channel 12 咖啡馆（채널12 카페）",
+        "menu": "屋顶咖啡馆"
+      },
+      {
+        "name": "月尾岛（월미도）",
+        "menu": "海边岛屿步道"
+      },
+      {
+        "name": "月尾主题乐园（월미테마파크）",
+        "menu": "游乐园"
+      },
+      {
+        "name": "Starfield 水原星空图书馆（스타필드 수원 별마당 도서관）",
+        "menu": "位于Starfield水原购物中心内的巨型图书馆"
+      },
+      {
+        "name": "水原炸鸡街（수원 통닭거리）",
+        "menu": "汇集韩式炸鸡店的街道"
+      },
+      {
+        "name": "大峰炸鸡（대봉통닭）",
+        "menu": "韩式整只炸鸡（统닭）"
+      },
+      {
+        "name": "水原站（수원역）",
+        "menu": "水原主要火车站"
+      },
+      {
+        "name": "光教 Alleyway（앨리웨이 광교）",
+        "menu": "购物与餐饮街区"
+      },
+      {
+        "name": "道山分食 光教 Alleyway店（도산분식）",
+        "menu": "韩式小吃"
+      },
+      {
+        "name": "OUR 面包房（아우어 베이커리）",
+        "menu": "面包与咖啡"
+      },
+      {
+        "name": "光教湖公园（광교호수공원）",
+        "menu": "湖畔步道"
+      },
+      {
+        "name": "Galleria 百货光教店（갤러리아백화점 광교점）",
+        "menu": "百货商场"
+      },
+      {
+        "name": "G Fassi（지파시）",
+        "menu": "意式冰淇淋"
+      },
+      {
+        "name": "华城行宫（화성행궁）",
+        "menu": "夜间参观的古代宫殿"
+      },
+      {
+        "name": "一八（이치하치，Ichihachi）",
+        "menu": "日式料理"
+      }
+    ],
+    "zh-Hant": [
+      {
+        "name": "公和春",
+        "menu": "黑豆炸醬麵"
+      },
+      {
+        "name": "自由公園",
+        "menu": "麥克阿瑟將軍雕像、景觀視野"
+      },
+      {
+        "name": "新浦國際市場",
+        "menu": "韓國街頭小吃"
+      },
+      {
+        "name": "Tartya",
+        "menu": "蛋塔（藍莓口味）"
+      },
+      {
+        "name": "Channel 12 Cafe",
+        "menu": "屋頂咖啡廳"
+      },
+      {
+        "name": "月尾島",
+        "menu": "海邊島嶼步道"
+      },
+      {
+        "name": "月尾主題樂園",
+        "menu": "遊樂園"
+      },
+      {
+        "name": "Starfield Library水原",
+        "menu": "Starfield 水原購物中心內的大型書店圖書館"
+      },
+      {
+        "name": "水原通雞街",
+        "menu": "韓式炸雞店街"
+      },
+      {
+        "name": "大鳳炸雞",
+        "menu": "韓式整隻炸雞（通닭）"
+      },
+      {
+        "name": "水原站",
+        "menu": "水原主要火車站"
+      },
+      {
+        "name": "光教 Alleyway",
+        "menu": "購物與餐飲街區"
+      },
+      {
+        "name": "道山分食",
+        "menu": "韓式分食小吃"
+      },
+      {
+        "name": "OUR bakery",
+        "menu": "麵包店"
+      },
+      {
+        "name": "光教湖公園",
+        "menu": "湖畔散步步道"
+      },
+      {
+        "name": "Galleria 百貨光教店",
+        "menu": "百貨公司"
+      },
+      {
+        "name": "G Fassi",
+        "menu": "義式冰淇淋"
+      },
+      {
+        "name": "華城行宮",
+        "menu": "夜間參觀"
+      },
+      {
+        "name": "一八",
+        "menu": "日式料理"
+      }
+    ],
+    "es": [
+      {
+        "name": "Gonghwachun",
+        "menu": "Jajangmyeon con salsa de judías negras"
+      },
+      {
+        "name": "Parque Freedom (Jayu Park)",
+        "menu": "Estatua del general MacArthur y vistas"
+      },
+      {
+        "name": "Mercado Internacional Sinpo",
+        "menu": "Comida callejera coreana"
+      },
+      {
+        "name": "Tartya (tartaletas de huevo)",
+        "menu": "Tartaletas de huevo (arándanos)"
+      },
+      {
+        "name": "Cafetería Channel 12",
+        "menu": "Cafetería en la azotea"
+      },
+      {
+        "name": "Isla de Wolmido",
+        "menu": "Paseo junto al mar"
+      },
+      {
+        "name": "Parque temático Wolmido",
+        "menu": "Parque de atracciones"
+      },
+      {
+        "name": "Starfield Library Suwon",
+        "menu": "Biblioteca enorme dentro del centro comercial Starfield Suwon"
+      },
+      {
+        "name": "Calle del pollo de Suwon",
+        "menu": "Calle con tiendas de pollo frito coreano"
+      },
+      {
+        "name": "Pollo Daebong",
+        "menu": "Pollo entero frito coreano (tongdak)"
+      },
+      {
+        "name": "Estación de Suwon",
+        "menu": "Estación de tren principal de Suwon"
+      },
+      {
+        "name": "Alleyway Gwanggyo",
+        "menu": "Complejo de calles de compras y restaurantes"
+      },
+      {
+        "name": "Dosan Bunsik (Alleyway Gwanggyo)",
+        "menu": "Comida coreana de tentempié"
+      },
+      {
+        "name": "OUR bakery",
+        "menu": "Panadería"
+      },
+      {
+        "name": "Parque del lago Gwanggyo",
+        "menu": "Paseo por el lago"
+      },
+      {
+        "name": "Galleria Department Store Gwanggyo",
+        "menu": "Grandes almacenes"
+      },
+      {
+        "name": "G Fassi",
+        "menu": "Gelato"
+      },
+      {
+        "name": "Palacio Hwaseong Haenggung",
+        "menu": "Visita nocturna al palacio"
+      },
+      {
+        "name": "Ichihachi",
+        "menu": "Comida japonesa"
+      }
+    ],
+    "fr": [
+      {
+        "name": "Gonghwachun (공화춘)",
+        "menu": "Jajangmyeon à la sauce de haricots noirs"
+      },
+      {
+        "name": "Parc de la Liberté (Jayu Park) (자유공원)",
+        "menu": "Statue du général MacArthur, vues"
+      },
+      {
+        "name": "Marché international de Sinpo (신포국제시장)",
+        "menu": "Street food coréenne"
+      },
+      {
+        "name": "Tartya (타르트야)",
+        "menu": "Tartelettes à l'œuf (myrtilles)"
+      },
+      {
+        "name": "Channel 12 Cafe (채널12 카페)",
+        "menu": "Café en terrasse sur le toit"
+      },
+      {
+        "name": "Île de Wolmido (월미도)",
+        "menu": "Promenade en bord de mer sur l'île"
+      },
+      {
+        "name": "Parc d'attractions de Wolmido (월미테마파크)",
+        "menu": "Parc d'attractions"
+      },
+      {
+        "name": "Bibliothèque Starfield Suwon (스타필드 수원 별마당 도서관)",
+        "menu": "Immense bibliothèque dans le centre commercial Starfield Suwon"
+      },
+      {
+        "name": "Rue du poulet frit de Suwon (수원 통닭거리)",
+        "menu": "Rue bordée de friteries de poulet coréen"
+      },
+      {
+        "name": "Daebong Chicken (대봉통닭)",
+        "menu": "Poulet entier frit à la coréenne (tongdak)"
+      },
+      {
+        "name": "Gare de Suwon (수원역)",
+        "menu": "Principale gare ferroviaire de Suwon"
+      },
+      {
+        "name": "Alleyway Gwanggyo (앨리웨이 광교)",
+        "menu": "Complexe de rues de shopping et de restauration"
+      },
+      {
+        "name": "Dosan Bunsik, Gwanggyo Alleyway (도산분식 광교 앨리웨이점)",
+        "menu": "Snacks coréens (bunsik)"
+      },
+      {
+        "name": "OUR bakery (아우어 베이커리)",
+        "menu": "Boulangerie"
+      },
+      {
+        "name": "Parc du lac de Gwanggyo (광교호수공원)",
+        "menu": "Promenade autour du lac"
+      },
+      {
+        "name": "Galleria Department Store Gwanggyo (갤러리아백화점 광교점)",
+        "menu": "Grand magasin"
+      },
+      {
+        "name": "G Fassi (지파시)",
+        "menu": "Gelato"
+      },
+      {
+        "name": "Palais Hwaseong Haenggung (화성행궁)",
+        "menu": "Visite nocturne du palais"
+      },
+      {
+        "name": "Ichihachi (이치하치)",
+        "menu": "Cuisine japonaise"
+      }
+    ],
+    "de": [
+      {
+        "name": "Gonghwachun (공화춘)",
+        "menu": "Jajangmyeon mit schwarzer Bohnensauce"
+      },
+      {
+        "name": "Freiheitspark (Jayu Park, 자유공원)",
+        "menu": "Statue von General MacArthur, Aussicht"
+      },
+      {
+        "name": "Sinpo International Market (신포국제시장)",
+        "menu": "Koreanisches Straßenessen"
+      },
+      {
+        "name": "Tartya (타르트야)",
+        "menu": "Eiertörtchen (Heidelbeere)"
+      },
+      {
+        "name": "Channel 12 Cafe (채널12 카페)",
+        "menu": "Café auf dem Dach"
+      },
+      {
+        "name": "Wolmido-Insel (월미도)",
+        "menu": "Spaziergang an der Küste auf einer Insel am Meer"
+      },
+      {
+        "name": "Wolmido Theme Park (월미테마파크)",
+        "menu": "Vergnügungspark"
+      },
+      {
+        "name": "Starfield Library Suwon (스타필드 수원 별마당 도서관)",
+        "menu": "Riesige Bibliothek im Einkaufszentrum Starfield Suwon"
+      },
+      {
+        "name": "Suwon Chicken Street (수원 통닭거리)",
+        "menu": "Straße mit koreanischen Hähnchenläden"
+      },
+      {
+        "name": "Daebong Chicken (대봉통닭)",
+        "menu": "Koreanisches frittiertes ganzes Hähnchen (Tongdak)"
+      },
+      {
+        "name": "Bahnhof Suwon (수원역)",
+        "menu": "Hauptbahnhof von Suwon"
+      },
+      {
+        "name": "Alleyway Gwanggyo (앨리웨이 광교)",
+        "menu": "Einkaufs- und Essensstraße"
+      },
+      {
+        "name": "Dosan Bunsik, Alleyway Gwanggyo (도산분식 광교 앨리웨이점)",
+        "menu": "Koreanische Snacks"
+      },
+      {
+        "name": "OUR bakery (아우어 베이커리)",
+        "menu": "Bäckerei"
+      },
+      {
+        "name": "Gwanggyo-Seepark (광교호수공원)",
+        "menu": "Spaziergang um den See"
+      },
+      {
+        "name": "Galleria Kaufhaus Gwanggyo (갤러리아백화점 광교점)",
+        "menu": "Kaufhaus"
+      },
+      {
+        "name": "G Fassi (지파시)",
+        "menu": "Gelato-Eis"
+      },
+      {
+        "name": "Hwaseong Haenggung-Palast (화성행궁)",
+        "menu": "Palast, Nachtbesuch"
+      },
+      {
+        "name": "Ichihachi (이치하치)",
+        "menu": "Japanische Küche"
+      }
+    ],
+    "vi": [
+      {
+        "name": "Gonghwachun (공화춘)",
+        "menu": "Jajangmyeon sốt đậu đen"
+      },
+      {
+        "name": "Công viên Tự Do (Jayu Park, 자유공원)",
+        "menu": "Tượng tướng MacArthur, tầm nhìn đẹp"
+      },
+      {
+        "name": "Chợ Quốc tế Sinpo (신포국제시장)",
+        "menu": "Ẩm thực đường phố Hàn Quốc"
+      },
+      {
+        "name": "Tartya (타르트야)",
+        "menu": "Tart trứng (việt quất)"
+      },
+      {
+        "name": "Channel 12 Cafe (채널12 카페)",
+        "menu": "Quán cà phê trên sân thượng"
+      },
+      {
+        "name": "Đảo Wolmido (월미도)",
+        "menu": "Đi bộ ven biển trên đảo"
+      },
+      {
+        "name": "Công viên giải trí Wolmido (월미테마파크)",
+        "menu": "Công viên trò chơi"
+      },
+      {
+        "name": "Thư viện Starfield Suwon (스타필드 수원 별마당 도서관)",
+        "menu": "Thư viện khổng lồ trong trung tâm thương mại Starfield Suwon"
+      },
+      {
+        "name": "Phố gà rán Suwon (수원 통닭거리)",
+        "menu": "Con phố với nhiều quán gà rán kiểu Hàn Quốc"
+      },
+      {
+        "name": "Gà rán Daebong (대봉통닭)",
+        "menu": "Gà rán nguyên con kiểu Hàn Quốc (tongdak)"
+      },
+      {
+        "name": "Ga Suwon (수원역)",
+        "menu": "Ga tàu chính của Suwon"
+      },
+      {
+        "name": "Alleyway Gwanggyo (앨리웨이 광교)",
+        "menu": "Khu phố mua sắm và ăn uống"
+      },
+      {
+        "name": "Dosan Bunsik, Alleyway Gwanggyo (도산분식 광교 앨리웨이점)",
+        "menu": "Món ăn vặt Hàn Quốc"
+      },
+      {
+        "name": "OUR bakery (아우어 베이커리)",
+        "menu": "Tiệm bánh mì"
+      },
+      {
+        "name": "Công viên hồ Gwanggyo (광교호수공원)",
+        "menu": "Đi bộ quanh hồ"
+      },
+      {
+        "name": "Trung tâm thương mại Galleria Gwanggyo (갤러리아백화점 광교점)",
+        "menu": "Trung tâm thương mại"
+      },
+      {
+        "name": "G Fassi (지파시)",
+        "menu": "Gelato"
+      },
+      {
+        "name": "Cung điện Hwaseong Haenggung (화성행궁)",
+        "menu": "Tham quan cung điện buổi tối"
+      },
+      {
+        "name": "Ichihachi (이치하치)",
+        "menu": "Ẩm thực Nhật Bản"
+      }
+    ],
+    "th": [
+      {
+        "name": "กงฮวาชุน (공화춘)",
+        "menu": "จาจังมย็อนซอสถั่วดำ"
+      },
+      {
+        "name": "สวนจายู (Freedom Park, 자유공원)",
+        "menu": "รูปปั้นนายพลแมคอาเธอร์ วิวทิวทัศน์"
+      },
+      {
+        "name": "ตลาดนานาชาติซินโพ (신포국제시장)",
+        "menu": "อาหารข้างทางแบบเกาหลี"
+      },
+      {
+        "name": "ทาร์ทยา (타르트야)",
+        "menu": "ทาร์ตไข่ (บลูเบอร์รี่)"
+      },
+      {
+        "name": "คาเฟ่ช่อง 12 (채널12 카페)",
+        "menu": "คาเฟ่บนดาดฟ้า"
+      },
+      {
+        "name": "เกาะวอลมีโด (월미도)",
+        "menu": "เดินเล่นริมทะเลบนเกาะ"
+      },
+      {
+        "name": "สวนสนุกวอลมีโด (월미테마파크)",
+        "menu": "สวนสนุก"
+      },
+      {
+        "name": "ห้องสมุดสตาร์ฟิลด์ ซูวอน (스타필드 수원 별마당 도서관)",
+        "menu": "ห้องสมุดขนาดใหญ่ภายในห้างสตาร์ฟิลด์ซูวอน"
+      },
+      {
+        "name": "ถนนไก่ทอดซูวอน (수원 통닭거리)",
+        "menu": "ถนนร้านไก่ทอดแบบเกาหลี ทงดัก"
+      },
+      {
+        "name": "แดบง ทงดัก (대봉통닭)",
+        "menu": "ไก่ทอดทั้งตัวแบบเกาหลี (ทงดัก)"
+      },
+      {
+        "name": "สถานีซูวอน (수원역)",
+        "menu": "สถานีรถไฟหลักของซูวอน"
+      },
+      {
+        "name": "อัลเลย์เวย์ กวางเกียว (앨리웨이 광교)",
+        "menu": "ถนนช้อปปิ้งและร้านอาหาร"
+      },
+      {
+        "name": "โดซาน บุนซิก สาขาอัลเลย์เวย์กวางเกียว (도산분식)",
+        "menu": "ของว่างแบบเกาหลี (บุนซิก)"
+      },
+      {
+        "name": "อาอูเออ เบเกอรี่ (아우어 베이커리)",
+        "menu": "เบเกอรี่"
+      },
+      {
+        "name": "สวนสาธารณะทะเลสาบกวางเกียว (광교호수공원)",
+        "menu": "ทางเดินรอบทะเลสาบ"
+      },
+      {
+        "name": "ห้างกาเลเรีย สาขากวางเกียว (갤러리아백화점 광교점)",
+        "menu": "ห้างสรรพสินค้า"
+      },
+      {
+        "name": "จีฟาชี (지파시)",
+        "menu": "เจลาโต"
+      },
+      {
+        "name": "พระราชวังฮวาซองแฮงกุง (화성행궁)",
+        "menu": "เยือนพระราชวังในยามค่ำคืน"
+      },
+      {
+        "name": "อิจิฮาชิ (이치하치)",
+        "menu": "อาหารญี่ปุ่น"
+      }
+    ],
+    "id": [
+      {
+        "name": "Gonghwachun (공화춘)",
+        "menu": "Jajangmyeon saus kacang hitam"
+      },
+      {
+        "name": "Taman Kebebasan (Jayu Park, 자유공원)",
+        "menu": "Patung Jenderal MacArthur dan pemandangan"
+      },
+      {
+        "name": "Pasar Internasional Sinpo (신포국제시장)",
+        "menu": "Makanan jalanan Korea"
+      },
+      {
+        "name": "Tartya (타르트야)",
+        "menu": "Kue telur tart (rasa blueberry)"
+      },
+      {
+        "name": "Kafe Channel 12 (채널12 카페)",
+        "menu": "Kafe atap"
+      },
+      {
+        "name": "Pulau Wolmido (월미도)",
+        "menu": "Jalan kaki di pulau tepi laut"
+      },
+      {
+        "name": "Taman Hiburan Wolmido (월미테마파크)",
+        "menu": "Taman hiburan"
+      },
+      {
+        "name": "Perpustakaan Starfield Suwon (스타필드 수원 별마당 도서관)",
+        "menu": "Perpustakaan besar di dalam mal Starfield Suwon"
+      },
+      {
+        "name": "Jalan Ayam Goreng Suwon (수원 통닭거리)",
+        "menu": "Jalan yang dipenuhi kedai ayam goreng Korea"
+      },
+      {
+        "name": "Ayam Goreng Daebong (대봉통닭)",
+        "menu": "Ayam utuh goreng Korea (tongdak)"
+      },
+      {
+        "name": "Stasiun Suwon (수원역)",
+        "menu": "Stasiun kereta utama Suwon"
+      },
+      {
+        "name": "Alleyway Gwanggyo (앨리웨이 광교)",
+        "menu": "Kompleks jalan untuk belanja dan kuliner"
+      },
+      {
+        "name": "Dosan Bunsik, Alleyway Gwanggyo (도산분식)",
+        "menu": "Jajanan khas Korea"
+      },
+      {
+        "name": "OUR bakery (아우어 베이커리)",
+        "menu": "Roti dan kopi"
+      },
+      {
+        "name": "Taman Danau Gwanggyo (광교호수공원)",
+        "menu": "Jalan kaki di sekitar danau"
+      },
+      {
+        "name": "Galleria Department Store Gwanggyo (갤러리아백화점 광교점)",
+        "menu": "Department store"
+      },
+      {
+        "name": "G Fassi (지파시)",
+        "menu": "Gelato"
+      },
+      {
+        "name": "Istana Hwaseong Haenggung (화성행궁)",
+        "menu": "Kunjungan malam ke istana"
+      },
+      {
+        "name": "Ichihachi (이치하치)",
+        "menu": "Masakan Jepang"
+      }
+    ],
+    "ru": [
+      {
+        "name": "Гонхваджун (공화춘)",
+        "menu": "Чаджанмён с чёрными бобами"
+      },
+      {
+        "name": "Парк Свободы (Чаю-парк, 자유공원)",
+        "menu": "Статуя генерала Макартура, виды"
+      },
+      {
+        "name": "Международный рынок Синпхо (신포국제시장)",
+        "menu": "Корейская уличная еда"
+      },
+      {
+        "name": "Тартя (타르트야)",
+        "menu": "Яичные тарты (с черникой)"
+      },
+      {
+        "name": "Кафе Channel 12 (채널12 카페)",
+        "menu": "Кафе на крыше"
+      },
+      {
+        "name": "Остров Вольмидо (월미도)",
+        "menu": "Прогулка по набережной у моря"
+      },
+      {
+        "name": "Тематический парк Вольмидо (월미테마파크)",
+        "menu": "Парк аттракционов"
+      },
+      {
+        "name": "Starfield Library Suwon (스타필드 수원 별마당 도서관)",
+        "menu": "Огромная библиотека внутри торгового центра Starfield Suwon"
+      },
+      {
+        "name": "Улица жареной курицы Сувон (수원 통닭거리)",
+        "menu": "Улица с заведениями корейской жареной курицы"
+      },
+      {
+        "name": "Тонтак Тэбон (대봉통닭)",
+        "menu": "Корейская жареная целиком курица (тонтак)"
+      },
+      {
+        "name": "Вокзал Сувон (수원역)",
+        "menu": "Главный железнодорожный вокзал Сувона"
+      },
+      {
+        "name": "Аллея Гванггё (앨리웨이 광교)",
+        "menu": "Комплекс магазинов и ресторанов"
+      },
+      {
+        "name": "Доса Бунсик, аллея Гванггё (도산분식 광교 앨리웨이점)",
+        "menu": "Корейские закуски"
+      },
+      {
+        "name": "OUR bakery (아우어 베이커리)",
+        "menu": "Пекарня"
+      },
+      {
+        "name": "Озёрный парк Гванггё (광교호수공원)",
+        "menu": "Прогулка вокруг озера"
+      },
+      {
+        "name": "Галерея, универмаг Гванггё (갤러리아백화점 광교점)",
+        "menu": "Универмаг"
+      },
+      {
+        "name": "G Fassi (지파시)",
+        "menu": "Джелато"
+      },
+      {
+        "name": "Дворец Хвасонхэнгун (화성행궁)",
+        "menu": "Ночной визит во дворец"
+      },
+      {
+        "name": "Ичихачи (이치하치)",
+        "menu": "Японская кухня"
+      }
+    ]
+  }
+}
