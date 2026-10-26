@@ -441,5 +441,131 @@ window.VIDEOS.push(...[
       "mukbang"
     ],
     "title": "춘천 여행 전 필수 시청.. 춘천시민 만장일치 1등 닭갈비집 (빠니보틀도 인정함) | 간판또간집 EP.54"
+  },
+  {
+    "id": "yldhuvmHZfk",
+    "region": "daegu",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "HELLO DAEGU #23"
+  },
+  {
+    "id": "S8eX2dHD7CQ",
+    "region": "busan",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "Mukbang 부산 Ep2. 해운대 포장마차 거리 랍스터 풀코스 (랍스터회, 찜, 산낙지, 새우, 멍게, 해삼, 해물라면) | Busan 먹방 ☺"
+  },
+  {
+    "id": "44hh9dhkpjU",
+    "region": "seoul",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "I Only Ate Street Food for 24 Hours in Seoul, South Korea!"
+  },
+  {
+    "id": "VcqTR3Sbfw8",
+    "region": "jeju",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "EXOTIC food tour in KOREA 🇰🇷 Jeju Island 🏝 Halal Food Mukbang"
+  },
+  {
+    "id": "UWK5PV5ndtM",
+    "region": "daegu",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "Mukbang | 6천원이라고 믿을 수 없는 뷔페..😮 대구 미친뷔페 먹방"
+  },
+  {
+    "id": "9oHJOYFKS0g",
+    "region": "busan",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "EXTREME street food in KOREA 🇰🇷 Busan Local Market Food Mukbang"
+  },
+  {
+    "id": "GHfL5H-l9e4",
+    "region": "seoul",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "KOREAN BREAKFAST IN SEOUL"
+  },
+  {
+    "id": "MIF5CqV8sl0",
+    "region": "gyeonggi",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "9트 만에 찾아낸 경기도 드라이브 맛집 쫑냄 (feat.에이티즈 우영) | 인기 맛집 | 곽범 [EN]"
+  },
+  {
+    "id": "cNZjDsEyGuc",
+    "region": "jeju",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "Korea’s $10 Spicy Octopus Ramen!! (Viral Korean Food)"
+  },
+  {
+    "id": "mongNhdN1ME",
+    "region": "jeonbuk",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "짜장면 2500원에 달걀후라이?? 짬뽕에 밥말고 사장님군만두 jjajangmyeon mukbang 야식이 먹방"
+  },
+  {
+    "id": "VgAoOb3HA0I",
+    "region": "gyeongbuk",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "[간고등어편] 걸어서 안동속으로🚶🏻‍♀️안동 여행 먹방브이로그 (갈비골목,쪼림닭,월영교 야경,마늘족발,막국수,갈비김치찜,대마라떼) KOREAN FOOD MUKBANG VLOG"
+  },
+  {
+    "id": "Tm2xc08ygeg",
+    "region": "gyeongbuk",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "경북 영주 맛집투어, 영주 유명한 맛집은 다 다녀왔습니다!! 랜떡, 나드리쫄면,태극당 베이커리, 떡볶이먹방, 쫄면먹방, 돈까스먹방, 맛집 추천, 영주 맛집 추천,먹방 MUKBANG"
+  },
+  {
+    "id": "Z_SSUHEAcR4",
+    "region": "jeju",
+    "cats": [
+      "culture",
+      "beauty"
+    ],
+    "title": "5 days in jeju (aesthetic villas + olive young haul)"
+  },
+  {
+    "id": "DyiwHXvB_60",
+    "region": "seoul",
+    "cats": [
+      "culture",
+      "beauty"
+    ],
+    "title": "*MUST-HAVE* Olive Young essentials at new BIGGEST Olive Young in Korea!"
   }
 ]);
