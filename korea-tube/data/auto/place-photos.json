@@ -470,5 +470,320 @@
     "page": "https://commons.wikimedia.org/wiki/File:War_Memorial_Korea_entrance.JPG",
     "checked": "2026-10-19",
     "kto": true
+  },
+  "대포리횟집": {
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "머구리횟집": {
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "바우하우스 펜션": {
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "황구활어횟집": {
+    "file": "photos/f662c7816f1a.jpg",
+    "kind": "dish",
+    "source": "commons",
+    "credit": "Photo: by ebifry, CC BY 2.0, Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Korean.food-Hoe-02.jpg",
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "장수활어횟집": {
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "브라더후드 커피": {
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "단천면옥": {
+    "file": "photos/fb37014159db.jpg",
+    "kind": "dish",
+    "source": "commons",
+    "credit": "Photo: Jan Engelhardt, CC BY-SA 4.0, Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Food_from_North_Korea_-_09_-_Pyongyang_Cold_Noodles.jpg",
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "영빈반점": {
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "콩서리": {
+    "file": "photos/770971e296ad.jpg",
+    "kind": "dish",
+    "source": "commons",
+    "credit": "Photo: angela n. at Flickr, CC BY-SA 2.0, Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Korean_cuisine-Dubu_jorim-01.jpg",
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "공가내": {
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "연탄불생구이 속초맛집": {
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "탕후루 (속초)": {
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "속초해수욕장": {
+    "file": "photos/423adc6d08f3.jpg",
+    "kind": "place",
+    "source": "commons",
+    "credit": "Photo: Mobius6, CC BY-SA 4.0, Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Sokcho_Beach_20221209_003.jpg",
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "양양 서핑 해변": {
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "고성 통일전망타워": {
+    "file": "photos/8b7c8fa9261f.jpg",
+    "kind": "place",
+    "source": "commons",
+    "credit": "Photo: 칼빈500, CC BY-SA 4.0, Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:%ED%86%B5%EC%9D%BC%EC%A0%84%EB%A7%9D%EB%8C%80.jpg",
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "설악산": {
+    "file": "photos/33f733922354.jpg",
+    "kind": "place",
+    "source": "commons",
+    "credit": "Photo: Bernard Gagnon, CC0, Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Sculpture_of_a_bear_at_Seoraksan_National_Park.jpg",
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "영랑호": {
+    "file": "photos/a1f3cbef10d7.jpg",
+    "kind": "place",
+    "source": "commons",
+    "credit": "Photo: Grapesurgeon, CC BY-SA 4.0, Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:%EC%98%81%EB%9E%91%ED%98%B8_05.jpg",
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "척산온천휴양촌": {
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "아시안하이웨이 기념품샵": {
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "삼양라운드힐": {
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "경포막국수": {
+    "file": "photos/2041e183c503.jpg",
+    "kind": "dish",
+    "source": "commons",
+    "credit": "Photo: pcamp (a flickr user), CC BY 2.0, Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Korean.food-Makguksu-01.jpg",
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "초당커피정미소": {
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "초당 고래 로스팅 카페": {
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "안목해변": {
+    "file": "photos/2cb0e974167b.jpg",
+    "kind": "place",
+    "source": "commons",
+    "credit": "Photo: Mobius6, CC BY-SA 4.0, Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Anmok_Beach_20220430_003.jpg",
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "초당순두부": {
+    "file": "photos/80481b575649.jpg",
+    "kind": "place",
+    "source": "commons",
+    "credit": "Photo: Republic of Korea from Seoul, Republic of Korea, CC BY-SA 2.0, Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Chodang_Sundubu_01_(33422783432).jpg",
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "순두부젤라또": {
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "춘천닭갈비 (강릉)": {
+    "file": "photos/d749ebe5f974.jpg",
+    "kind": "dish",
+    "source": "commons",
+    "credit": "Photo: Lisa Risager, CC BY-SA 2.0, Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Dak-galbi_2.jpg",
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "공화춘": {
+    "file": "photos/0ac8c8ed0da4.jpg",
+    "kind": "place",
+    "source": "commons",
+    "credit": "Photo: Jjw, CC BY-SA 4.0, Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Museum_of_Jajangmyeon_(Former_Gonghwachun).jpg",
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "자유공원": {
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "신포국제시장": {
+    "file": "photos/b1bd49f72639.jpg",
+    "kind": "place",
+    "source": "commons",
+    "credit": "Photo: Mming na, CC BY-SA 4.0, Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Sinpo-market.jpg",
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "타르트야": {
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "채널12 카페": {
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "월미도": {
+    "file": "photos/71b943e063d6.jpg",
+    "kind": "place",
+    "source": "commons",
+    "credit": "Photo: Trainholic, CC BY-SA 4.0, Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Wolmi_Sea_Train_Car.jpg",
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "월미테마파크": {
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "스타필드 수원 별마당 도서관": {
+    "file": "photos/6bc207c8b4b9.jpg",
+    "kind": "place",
+    "source": "commons",
+    "credit": "Photo: VN.NguyenDucDuy, CC BY-SA 4.0, Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Starfield_Library_Suwon_in_South_Korea.jpg",
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "수원 통닭거리": {
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "대봉통닭": {
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "수원역": {
+    "file": "photos/89d990396198.jpg",
+    "kind": "place",
+    "source": "commons",
+    "credit": "Photo: revi, CC BY 2.0 kr, Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Suwon_Station_002.jpg",
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "앨리웨이 광교": {
+    "file": "photos/f784e61d126f.jpg",
+    "kind": "place",
+    "source": "kto",
+    "credit": "Photo: Korea Tourism Organization (KOGL Type 1)",
+    "credit_ko": "사진: 한국관광공사 (공공누리 제1유형)",
+    "page": "https://www.kogl.or.kr/info/licenseType1.do",
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "도산분식 광교 앨리웨이점": {
+    "file": "photos/db8bf02f135c.jpg",
+    "kind": "dish",
+    "source": "commons",
+    "credit": "Photo: Korea.net / Korean Culture and Information Service, CC BY-SA 2.0, Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Hotteok.jpg",
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "아우어 베이커리": {
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "광교호수공원": {
+    "file": "photos/0a0261a96fd7.jpg",
+    "kind": "place",
+    "source": "commons",
+    "credit": "Photo: Jocelyndurrey This photo was taken with LG G3, CC BY-SA 4.0, Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:%EA%B4%91%EA%B5%90%ED%98%B8%EC%88%98%EA%B3%B5%EC%9B%90_(3).jpg",
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "갤러리아백화점 광교점": {
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "지파시": {
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "화성행궁": {
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "이치하치": {
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "부촌육회": {
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "명동 야시장": {
+    "file": "photos/da16d25dbafa.jpg",
+    "kind": "place",
+    "source": "commons",
+    "credit": "Photo: Sgroey, CC BY-SA 4.0, Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Myeongdong_night_market_seoul_4.jpg",
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "홍대": {
+    "file": "photos/6d82350c4cb5.jpg",
+    "kind": "place",
+    "source": "commons",
+    "credit": "Photo: U0894629, CC BY-SA 4.0, Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Street_hongdae_Seoul.jpg",
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "북촌한옥마을": {
+    "file": "photos/0697c3230589.jpg",
+    "kind": "place",
+    "source": "commons",
+    "credit": "Photo: Basile Morin, CC BY-SA 4.0, Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Bukchon-ro_11-gil_street_with_hanok_houses_at_blue_hour_in_Bukchon_Hanok_Village_Seoul.jpg",
+    "checked": "2026-10-26",
+    "kto": true
+  },
+  "카페 어니언": {
+    "checked": "2026-10-26",
+    "kto": true
   }
 }

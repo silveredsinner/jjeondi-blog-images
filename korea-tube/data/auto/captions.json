@@ -1631,5 +1631,214 @@
       "ko"
     ],
     "checked": "2026-10-12"
+  },
+  "yldhuvmHZfk": {
+    "langs": [
+      "en"
+    ],
+    "asr": [
+      "id"
+    ],
+    "checked": "2026-10-26"
+  },
+  "S8eX2dHD7CQ": {
+    "langs": [
+      "en",
+      "es",
+      "id",
+      "ja",
+      "ko",
+      "ms",
+      "pt",
+      "th",
+      "vi",
+      "zh-Hans",
+      "zh-Hant"
+    ],
+    "asr": [
+      "ko"
+    ],
+    "checked": "2026-10-26"
+  },
+  "44hh9dhkpjU": {
+    "langs": [],
+    "asr": [
+      "en"
+    ],
+    "checked": "2026-10-26"
+  },
+  "VcqTR3Sbfw8": {
+    "langs": [
+      "ar",
+      "bn",
+      "de",
+      "en",
+      "es-419",
+      "fa",
+      "fr",
+      "hi",
+      "id",
+      "it",
+      "ja",
+      "ko",
+      "ms",
+      "nl",
+      "pa",
+      "ps",
+      "pt-BR",
+      "ru",
+      "sd",
+      "ta",
+      "th",
+      "tr",
+      "ur",
+      "uz",
+      "vi"
+    ],
+    "asr": [],
+    "checked": "2026-10-26"
+  },
+  "UWK5PV5ndtM": {
+    "langs": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "id",
+      "it",
+      "ja",
+      "ms",
+      "pt",
+      "th",
+      "vi",
+      "zh-Hans",
+      "zh-Hant"
+    ],
+    "asr": [
+      "ko"
+    ],
+    "checked": "2026-10-26"
+  },
+  "9oHJOYFKS0g": {
+    "langs": [
+      "ar",
+      "bn",
+      "de",
+      "en",
+      "es-419",
+      "fa",
+      "fil",
+      "fr",
+      "hi",
+      "id",
+      "it",
+      "ja",
+      "ko",
+      "ms",
+      "nl",
+      "pa",
+      "ps",
+      "pt-BR",
+      "ru",
+      "sd",
+      "ta",
+      "th",
+      "tr",
+      "ur",
+      "uz",
+      "vi"
+    ],
+    "asr": [
+      "en"
+    ],
+    "checked": "2026-10-26"
+  },
+  "GHfL5H-l9e4": {
+    "langs": [
+      "en"
+    ],
+    "asr": [
+      "en"
+    ],
+    "checked": "2026-10-26"
+  },
+  "MIF5CqV8sl0": {
+    "langs": [
+      "en-US",
+      "ko"
+    ],
+    "asr": [
+      "ko"
+    ],
+    "checked": "2026-10-26"
+  },
+  "cNZjDsEyGuc": {
+    "langs": [],
+    "asr": [
+      "en"
+    ],
+    "checked": "2026-10-26"
+  },
+  "mongNhdN1ME": {
+    "langs": [
+      "en"
+    ],
+    "asr": [],
+    "checked": "2026-10-26"
+  },
+  "VgAoOb3HA0I": {
+    "langs": [],
+    "asr": [
+      "ko"
+    ],
+    "checked": "2026-10-26"
+  },
+  "Tm2xc08ygeg": {
+    "langs": [
+      "en",
+      "es",
+      "id",
+      "ja",
+      "ru",
+      "th",
+      "vi",
+      "zh-Hant"
+    ],
+    "asr": [
+      "ko"
+    ],
+    "checked": "2026-10-26"
+  },
+  "Z_SSUHEAcR4": {
+    "langs": [
+      "ar",
+      "da",
+      "de",
+      "en",
+      "es",
+      "fil",
+      "fr",
+      "id",
+      "it",
+      "ja",
+      "ko",
+      "nl",
+      "pt",
+      "ru",
+      "th",
+      "vi",
+      "zh"
+    ],
+    "asr": [
+      "en"
+    ],
+    "checked": "2026-10-26"
+  },
+  "DyiwHXvB_60": {
+    "langs": [],
+    "asr": [
+      "en"
+    ],
+    "checked": "2026-10-26"
   }
 }
