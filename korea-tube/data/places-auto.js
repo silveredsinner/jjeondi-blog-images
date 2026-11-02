@@ -62,7 +62,8 @@ window.PLACES_AUTO = [
     "menu_ko": "조선 태조 어진을 모신 역사 유적",
     "menu_en": "Joseon-era historic shrine",
     "videos": [
-      "2e02jJ6kBBI"
+      "2e02jJ6kBBI",
+      "lC8hEbHE6x0"
     ],
     "auto": true
   },
@@ -205,7 +206,8 @@ window.PLACES_AUTO = [
     "menu_ko": "석가탑과 다보탑",
     "menu_en": "Seokgatap and Dabotap pagodas",
     "videos": [
-      "EvKxDH6sIpg"
+      "EvKxDH6sIpg",
+      "nsFk-bseRMw"
     ],
     "auto": true
   },
@@ -218,7 +220,10 @@ window.PLACES_AUTO = [
     "menu_ko": "신라의 달밤 야경",
     "menu_en": "Silla night views",
     "videos": [
-      "EvKxDH6sIpg"
+      "EvKxDH6sIpg",
+      "v_dZT6AUjGk",
+      "_Bk9DkJcH3s",
+      "teLRxsBnHqo"
     ],
     "auto": true
   },
@@ -231,7 +236,8 @@ window.PLACES_AUTO = [
     "menu_ko": "야경 명소",
     "menu_en": "Night view spot",
     "videos": [
-      "EvKxDH6sIpg"
+      "EvKxDH6sIpg",
+      "teLRxsBnHqo"
     ],
     "auto": true
   },
@@ -244,7 +250,8 @@ window.PLACES_AUTO = [
     "menu_ko": "황남빵",
     "menu_en": "Hwangnam red bean bread",
     "videos": [
-      "EvKxDH6sIpg"
+      "EvKxDH6sIpg",
+      "v_dZT6AUjGk"
     ],
     "auto": true
   },
@@ -270,7 +277,8 @@ window.PLACES_AUTO = [
     "menu_ko": "유리 바닥 해상 케이블카",
     "menu_en": "Glass-floor sea cable car",
     "videos": [
-      "_QKj8dcPqis"
+      "_QKj8dcPqis",
+      "hPmCee2cdvc"
     ],
     "auto": true
   },
@@ -283,7 +291,8 @@ window.PLACES_AUTO = [
     "menu_ko": "소원나무",
     "menu_en": "Wish tree",
     "videos": [
-      "_QKj8dcPqis"
+      "_QKj8dcPqis",
+      "hPmCee2cdvc"
     ],
     "auto": true
   },
@@ -973,6 +982,516 @@ window.PLACES_AUTO = [
     "menu_en": "Dak galbi (spicy stir-fried chicken)",
     "videos": [
       "jMySDV7Kwko"
+    ],
+    "auto": true
+  },
+  {
+    "region": "chungcheong",
+    "type": "spot",
+    "ko": "장태산자연휴양림",
+    "en": "Jangtaesan Recreational Forest",
+    "q": "대전 장태산자연휴양림",
+    "menu_ko": "조용한 숲 속 자연 산책",
+    "menu_en": "Quiet nature walk in the forest",
+    "videos": [
+      "UE9PrFXIMfs"
+    ],
+    "auto": true
+  },
+  {
+    "region": "chungcheong",
+    "type": "spot",
+    "ko": "한빛탑",
+    "en": "Hanbit Tower",
+    "q": "대전 한빛탑",
+    "menu_ko": "대전 랜드마크 타워",
+    "menu_en": "Daejeon landmark tower",
+    "videos": [
+      "UE9PrFXIMfs"
+    ],
+    "auto": true
+  },
+  {
+    "region": "jeonbuk",
+    "type": "spot",
+    "ko": "한옥 호텔",
+    "en": "Hanok Hotel",
+    "q": "https://maps.app.goo.gl/z6pTCnfsSoBh1JUa6",
+    "menu_ko": "한옥 숙소 체험",
+    "menu_en": "Traditional hanok stay",
+    "videos": [
+      "tswqv1FY_2s"
+    ],
+    "auto": true
+  },
+  {
+    "region": "jeonbuk",
+    "type": "restaurant",
+    "ko": "한국집",
+    "en": "Hankook Jib",
+    "q": "전주 한국집",
+    "menu_ko": "전주비빔밥 (육회 비빔밥)",
+    "menu_en": "Jeonju bibimbap with marinated raw meat",
+    "videos": [
+      "tswqv1FY_2s",
+      "gUwiVRYbeZ0"
+    ],
+    "auto": true
+  },
+  {
+    "region": "jeonbuk",
+    "type": "market",
+    "ko": "남부시장",
+    "en": "Nambu Market",
+    "q": "전주 남부시장",
+    "menu_ko": "전통시장 길거리 음식",
+    "menu_en": "Traditional market street food",
+    "videos": [
+      "tswqv1FY_2s",
+      "gUwiVRYbeZ0"
+    ],
+    "auto": true
+  },
+  {
+    "region": "jeonbuk",
+    "type": "restaurant",
+    "ko": "풍년제과 (PNB)",
+    "en": "PNB Bakery (Pungnyeon Jegwa)",
+    "q": "전주 PNB 풍년제과",
+    "menu_ko": "초코파이",
+    "menu_en": "Choco Pie",
+    "videos": [
+      "YGWFWpd0AjY"
+    ],
+    "auto": true
+  },
+  {
+    "region": "jeonbuk",
+    "type": "restaurant",
+    "ko": "다우랑 (만두)",
+    "en": "Da Urang Dumplings",
+    "q": "120, Gyeonggijeon-Gil, Jeonju, Jeollabuk-do 55044, South Korea",
+    "menu_ko": "만두",
+    "menu_en": "Dumplings",
+    "videos": [
+      "gUwiVRYbeZ0"
+    ],
+    "auto": true
+  },
+  {
+    "region": "jeonbuk",
+    "type": "restaurant",
+    "ko": "교동떡갈비",
+    "en": "Gyodong Tteokgalbi",
+    "q": "73-2, Pungnam-dong 3-ga, Wansan-gu, Jeonju-si, Jeollabuk-do",
+    "menu_ko": "떡갈비",
+    "menu_en": "Tteokgalbi (grilled short rib patties)",
+    "videos": [
+      "gUwiVRYbeZ0"
+    ],
+    "auto": true
+  },
+  {
+    "region": "jeonbuk",
+    "type": "restaurant",
+    "ko": "외할머니솜씨",
+    "en": "Oehalmeonisomssi Cafe",
+    "q": "전주 외할머니솜씨",
+    "menu_ko": "카페",
+    "menu_en": "Cafe",
+    "videos": [
+      "gUwiVRYbeZ0"
+    ],
+    "auto": true
+  },
+  {
+    "region": "jeonbuk",
+    "type": "spot",
+    "ko": "자만벽화마을",
+    "en": "Jaman Mural Village (Human Mural Village)",
+    "q": "전주 자만벽화마을",
+    "menu_ko": "벽화마을",
+    "menu_en": "Mural village",
+    "videos": [
+      "lC8hEbHE6x0"
+    ],
+    "auto": true
+  },
+  {
+    "region": "jeonbuk",
+    "type": "spot",
+    "ko": "국립전주박물관",
+    "en": "Jeonju National Museum",
+    "q": "국립전주박물관",
+    "menu_ko": "박물관",
+    "menu_en": "Museum",
+    "videos": [
+      "lC8hEbHE6x0"
+    ],
+    "auto": true
+  },
+  {
+    "region": "jeonbuk",
+    "type": "spot",
+    "ko": "덕진공원",
+    "en": "Deokjin Park",
+    "q": "전주 덕진공원",
+    "menu_ko": "일몰 감상",
+    "menu_en": "Sunset viewing",
+    "videos": [
+      "lC8hEbHE6x0"
+    ],
+    "auto": true
+  },
+  {
+    "region": "jeonnam",
+    "type": "restaurant",
+    "ko": "나무애그림 카페",
+    "en": "Namuaegeurim Cafe",
+    "q": "전남 여수시 자산4길 45",
+    "menu_ko": "음료, 수제 기념품, 오동도 전망",
+    "menu_en": "Drinks, handmade souvenirs, view of Odongdo Island",
+    "videos": [
+      "hPmCee2cdvc"
+    ],
+    "auto": true
+  },
+  {
+    "region": "jeonnam",
+    "type": "spot",
+    "ko": "이순신광장",
+    "en": "Yi Sun-sin Square",
+    "q": "전남 여수시 중앙동 383",
+    "menu_ko": "거북선 복원선 무료 관람",
+    "menu_en": "Free-entry Turtle Ship replica",
+    "videos": [
+      "hPmCee2cdvc"
+    ],
+    "auto": true
+  },
+  {
+    "region": "jeonnam",
+    "type": "spot",
+    "ko": "아쿠아플라넷 여수",
+    "en": "Aqua Planet Yeosu",
+    "q": "전남 여수시 오동도로 61-11",
+    "menu_ko": "벨루가, 물범 등이 있는 아쿠아리움",
+    "menu_en": "Aquarium with beluga whales and seals",
+    "videos": [
+      "hPmCee2cdvc"
+    ],
+    "auto": true
+  },
+  {
+    "region": "jeonnam",
+    "type": "spot",
+    "ko": "하멜등대 & 하멜기념관",
+    "en": "Hamel Lighthouse & Hamel Museum",
+    "q": "여수 하멜등대",
+    "menu_ko": "네덜란드 선원 하멜 이야기",
+    "menu_en": "Story of Dutch sailor Hendrick Hamel",
+    "videos": [
+      "hPmCee2cdvc"
+    ],
+    "auto": true
+  },
+  {
+    "region": "jeonnam",
+    "type": "spot",
+    "ko": "향일암",
+    "en": "Hyangiram Temple",
+    "q": "전남 여수시 돌산읍 향일암로 1",
+    "menu_ko": "절벽 위 사찰, 일출 명소",
+    "menu_en": "Cliffside temple famous for sunrise views",
+    "videos": [
+      "hPmCee2cdvc"
+    ],
+    "auto": true
+  },
+  {
+    "region": "jeonnam",
+    "type": "spot",
+    "ko": "천사벽화마을",
+    "en": "Angel Mural Village",
+    "q": "전남 여수시 고소동 268",
+    "menu_ko": "알록달록한 벽화 골목과 카페",
+    "menu_en": "Colorful mural alleys and cafes",
+    "videos": [
+      "hPmCee2cdvc"
+    ],
+    "auto": true
+  },
+  {
+    "region": "jeonnam",
+    "type": "market",
+    "ko": "여수 수산시장",
+    "en": "Yeosu Fish Market",
+    "q": "전남 여수시 여객선터미널길 24",
+    "menu_ko": "신선한 해산물",
+    "menu_en": "Fresh seafood",
+    "videos": [
+      "hPmCee2cdvc"
+    ],
+    "auto": true
+  },
+  {
+    "region": "jeonnam",
+    "type": "spot",
+    "ko": "여수항",
+    "en": "Yeosu Port",
+    "q": "전남 여수시 종화동 458-4",
+    "menu_ko": "항구 주변 해산물 식당",
+    "menu_en": "Port-side seafood restaurants",
+    "videos": [
+      "hPmCee2cdvc"
+    ],
+    "auto": true
+  },
+  {
+    "region": "jeonnam",
+    "type": "spot",
+    "ko": "여수 구항 해양공원",
+    "en": "Yeosu Guhang Marine Park",
+    "q": "전남 여수시 중앙동 246-1",
+    "menu_ko": "해안가 해산물 식당가",
+    "menu_en": "Seaside area with seafood eateries",
+    "videos": [
+      "hPmCee2cdvc"
+    ],
+    "auto": true
+  },
+  {
+    "region": "jeonnam",
+    "type": "spot",
+    "ko": "순천만국가정원",
+    "en": "Suncheon Bay National Garden",
+    "q": "순천만국가정원",
+    "menu_ko": "국가정원 산책",
+    "menu_en": "Walk through the national garden",
+    "videos": [
+      "EVbJ-hm0-Q8"
+    ],
+    "auto": true
+  },
+  {
+    "region": "jeonnam",
+    "type": "spot",
+    "ko": "보성 대한다원",
+    "en": "Boseong Green Tea Field Daehan Dawon",
+    "q": "보성 대한다원",
+    "menu_ko": "녹차밭",
+    "menu_en": "Green tea plantation",
+    "videos": [
+      "EVbJ-hm0-Q8"
+    ],
+    "auto": true
+  },
+  {
+    "region": "jeonnam",
+    "type": "spot",
+    "ko": "다빈치호텔 순천",
+    "en": "Da Vinci Hotel Suncheon",
+    "q": "순천 다빈치호텔",
+    "menu_ko": "숙소",
+    "menu_en": "Hotel stay",
+    "videos": [
+      "EVbJ-hm0-Q8"
+    ],
+    "auto": true
+  },
+  {
+    "region": "gyeongbuk",
+    "type": "restaurant",
+    "ko": "올리비 카페",
+    "en": "Olivee Cafe",
+    "q": "경주 올리비 카페",
+    "menu_ko": "카페",
+    "menu_en": "Cafe",
+    "videos": [
+      "v_dZT6AUjGk"
+    ],
+    "auto": true
+  },
+  {
+    "region": "gyeongbuk",
+    "type": "spot",
+    "ko": "월정교",
+    "en": "Woljeonggyo Bridge",
+    "q": "경주 월정교",
+    "menu_ko": "신라 시대 복원 다리",
+    "menu_en": "Restored Silla-era bridge",
+    "videos": [
+      "v_dZT6AUjGk",
+      "nsFk-bseRMw"
+    ],
+    "auto": true
+  },
+  {
+    "region": "gyeongbuk",
+    "type": "spot",
+    "ko": "황리단길",
+    "en": "Hwangnidan-gil (Golden Street)",
+    "q": "경주 황리단길",
+    "menu_ko": "카페·상점 거리",
+    "menu_en": "Street of cafes and shops",
+    "videos": [
+      "v_dZT6AUjGk"
+    ],
+    "auto": true
+  },
+  {
+    "region": "gyeongbuk",
+    "type": "restaurant",
+    "ko": "부시 카페",
+    "en": "Bush Cafe",
+    "q": "경주 부시 카페",
+    "menu_ko": "케이크",
+    "menu_en": "Cake",
+    "videos": [
+      "v_dZT6AUjGk"
+    ],
+    "auto": true
+  },
+  {
+    "region": "gyeongbuk",
+    "type": "spot",
+    "ko": "사다함",
+    "en": "Sadaham (Hanok stay)",
+    "q": "경주 사다함 한옥",
+    "menu_ko": "한옥 숙소 (에어비앤비 예약)",
+    "menu_en": "Hanok stay booked on Airbnb",
+    "videos": [
+      "teLRxsBnHqo"
+    ],
+    "auto": true
+  },
+  {
+    "region": "gyeongbuk",
+    "type": "restaurant",
+    "ko": "도와당",
+    "en": "Dowadang",
+    "q": "경주 도와당",
+    "menu_ko": "한식 식당",
+    "menu_en": "Korean restaurant",
+    "videos": [
+      "teLRxsBnHqo"
+    ],
+    "auto": true
+  },
+  {
+    "region": "gyeongbuk",
+    "type": "restaurant",
+    "ko": "오마모리 경주",
+    "en": "Omamori Gyeongju",
+    "q": "경주 오마모리",
+    "menu_ko": "말차 디저트",
+    "menu_en": "Matcha desserts",
+    "videos": [
+      "teLRxsBnHqo"
+    ],
+    "auto": true
+  },
+  {
+    "region": "gyeongbuk",
+    "type": "spot",
+    "ko": "경주 월성",
+    "en": "Wolseong Palace Site",
+    "q": "경주 월성",
+    "menu_ko": "신라 왕궁터",
+    "menu_en": "Silla palace site",
+    "videos": [
+      "teLRxsBnHqo"
+    ],
+    "auto": true
+  },
+  {
+    "region": "gyeongbuk",
+    "type": "restaurant",
+    "ko": "카페 1984",
+    "en": "Cafe 1984",
+    "q": "경주 카페 1984",
+    "menu_ko": "카페",
+    "menu_en": "Cafe",
+    "videos": [
+      "teLRxsBnHqo"
+    ],
+    "auto": true
+  },
+  {
+    "region": "gyeongbuk",
+    "type": "spot",
+    "ko": "금관총",
+    "en": "Geumgwanchong Tomb",
+    "q": "경주 금관총",
+    "menu_ko": "신라 고분",
+    "menu_en": "Silla royal tomb",
+    "videos": [
+      "teLRxsBnHqo"
+    ],
+    "auto": true
+  },
+  {
+    "region": "gyeongbuk",
+    "type": "restaurant",
+    "ko": "아덴 카페",
+    "en": "Aden Cafe",
+    "q": "경주 아덴 카페",
+    "menu_ko": "카페",
+    "menu_en": "Cafe",
+    "videos": [
+      "teLRxsBnHqo"
+    ],
+    "auto": true
+  },
+  {
+    "region": "gyeongbuk",
+    "type": "spot",
+    "ko": "한옥문스테이",
+    "en": "Hanok Moonstay",
+    "q": "경주 한옥문스테이",
+    "menu_ko": "경주 전통 한옥 숙소",
+    "menu_en": "Traditional hanok stay in Gyeongju",
+    "videos": [
+      "nsFk-bseRMw"
+    ],
+    "auto": true
+  },
+  {
+    "region": "gyeongbuk",
+    "type": "restaurant",
+    "ko": "카페 다시봄",
+    "en": "Cafe Dasi Bom",
+    "q": "경주 카페 다시봄",
+    "menu_ko": "정원이 있는 아늑한 카페",
+    "menu_en": "Cozy cafe with a garden",
+    "videos": [
+      "nsFk-bseRMw"
+    ],
+    "auto": true
+  },
+  {
+    "region": "gyeongbuk",
+    "type": "spot",
+    "ko": "석굴암",
+    "en": "Seokguram Grotto",
+    "q": "경주 석굴암",
+    "menu_ko": "유명한 석굴 사원",
+    "menu_en": "Famous stone grotto",
+    "videos": [
+      "nsFk-bseRMw"
+    ],
+    "auto": true
+  },
+  {
+    "region": "gyeongbuk",
+    "type": "spot",
+    "ko": "경주 교촌마을",
+    "en": "Gyochon Traditional Village",
+    "q": "경주 교촌마을",
+    "menu_ko": "한옥 전통마을",
+    "menu_en": "Traditional village with hanok houses",
+    "videos": [
+      "nsFk-bseRMw"
     ],
     "auto": true
   }

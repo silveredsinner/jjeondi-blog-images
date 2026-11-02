@@ -567,5 +567,131 @@ window.VIDEOS.push(...[
       "beauty"
     ],
     "title": "*MUST-HAVE* Olive Young essentials at new BIGGEST Olive Young in Korea!"
+  },
+  {
+    "id": "2DASguFJDcs",
+    "region": "busan",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "BYE SEOUL! WASEDABOYS KE BUSAN, MUKBANG CHEESE GALBI 1 WAJAN!? - KOREA TRIP #14"
+  },
+  {
+    "id": "NYcK7Cg0Ua0",
+    "region": "jeju",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "제주7탄)동문시장 길거리음식 다 털었더니 사람들 반응이..😂 떡볶이 칼국수 닭강정 먹방"
+  },
+  {
+    "id": "HGPi_mPc8MQ",
+    "region": "jeju",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "Korea's BEST Street Food?! Night Market in Jeju Island"
+  },
+  {
+    "id": "kAMZ4yGBPs4",
+    "region": "daegu",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "하루종일 대구 동성로에서 3차 먹방 장우동 돈까스 어묵우동 동성로떡볶이 라면 볶음밥 군만두 납작만두 미숫가루 불고기 샌드위치 페퍼로니피자 와플 대구세끼 korean mukbang"
+  },
+  {
+    "id": "77O9T2FyclQ",
+    "region": "busan",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "Ultimate mukbang tour in Busan"
+  },
+  {
+    "id": "rvWvzIgRWkc",
+    "region": "seoul",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "INSIDE the MOST EXPENSIVE All You Can Eat KOREAN BREAKFAST BUFFET in Seoul South Korea"
+  },
+  {
+    "id": "08nKl5wylj8",
+    "region": "seoul",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "EATING EVERYTHING at Mangwon Market ft. Jimmy Kim! | BEST FOOD MARKET IN SEOUL! | Korean Street Food"
+  },
+  {
+    "id": "qR5BLh-5l9g",
+    "region": "daegu",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "대구 제일콩국 돈까스먹방 찹쌀콩국 비빔국수 토스트 잔치국수 돈까스 먹방 korean mukbang eatingshow"
+  },
+  {
+    "id": "ve3Hgi_P8ek",
+    "region": "gyeonggi",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "Mukbang at Korean Street Food Market: black bean noodles, fried wings, deep-fried donut | Q2HAN"
+  },
+  {
+    "id": "_4ISL53O8xk",
+    "region": "gyeongbuk",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "구미 토박이들의 소울푸드?! 선산곱창 & 구미푸드페스티벌"
+  },
+  {
+    "id": "WiBaXYiGti4",
+    "region": "gyeongbuk",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "350년전 조리법으로 만든 양반가 밥상 그대로 먹어봤습니다!! 경북 영양"
+  },
+  {
+    "id": "3_yrytVy2K0",
+    "region": "gangwon",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "3 girls on a mukbang trip in Gangwondo (this will make you hungry) || ADULTING 2.0"
+  },
+  {
+    "id": "djMQ-ik2-0g",
+    "region": "seoul",
+    "cats": [
+      "culture",
+      "beauty"
+    ],
+    "title": "seoul guide to shopping, eating and coffee in seongsu"
+  },
+  {
+    "id": "1zkDpIjIEvo",
+    "region": "seoul",
+    "cats": [
+      "culture",
+      "beauty"
+    ],
+    "title": "What Locals buy vs. Tourists buy at OLIVE YOUNG!🤨 🤨 🤨"
   }
 ]);
