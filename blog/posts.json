@@ -1,5 +1,159 @@
 [
   {
+    "slug": "2026-11-02-jeonnam",
+    "date": "2026-11-02",
+    "region": "jeonnam",
+    "title": {
+      "ko": "전남 영상 속 맛집·명소: 여수에서 순천·보성까지",
+      "en": "Jeonnam Spots from the Videos: From Yeosu to Suncheon and Boseong",
+      "ja": "動画に登場した全羅南道のスポット：麗水から順天・宝城まで",
+      "zh-Hans": "视频中的全南景点：从丽水到顺天和宝城",
+      "zh-Hant": "影片中的全南景點：從麗水到順天、寶城",
+      "es": "Lugares de los vídeos de Jeonnam: de Yeosu a Suncheon y Boseong",
+      "fr": "Lieux de Jeonnam vus dans les vidéos : de Yeosu à Suncheon et Boseong",
+      "de": "Orte aus den Videos in Jeonnam: Von Yeosu über Suncheon bis Boseong",
+      "vi": "Các địa điểm trong video Jeonnam: Từ Yeosu đến Suncheon và Boseong",
+      "th": "สถานที่จากวิดีโอในจอนนัม: จากยอซูสู่ซุนชอนและโบซอง",
+      "id": "Tempat dari Video Jeonnam: Dari Yeosu ke Suncheon dan Boseong",
+      "ru": "Места Чонлам из видео: от Ёсу до Сунчхона и Пхосона"
+    },
+    "summary": {
+      "ko": "여수 밤바다와 순천만, 보성 녹차밭을 담은 두 편의 영상에 나온 카페, 시장, 명소, 숙소를 정리했습니다. 여수 해산물 식당가부터 절벽 위 사찰 향일암까지 동선 팁과 함께 소개합니다.",
+      "en": "A guide to the cafe, markets, sights and hotel featured in two videos about Yeosu, Suncheon and Boseong in South Jeolla Province, with simple tips for planning your route.",
+      "ja": "二本の動画に登場した麗水、順天、宝城（全羅南道）のカフェ、市場、観光地、宿泊先を紹介し、旅程を組むための簡単なヒントをまとめました。",
+      "zh-Hans": "整理两支丽水、顺天和宝城视频中出现的咖啡馆、市场、景点和酒店，并附上简单的行程规划建议。",
+      "zh-Hant": "整理兩支影片中出現的麗水、順天與寶城景點，包括咖啡廳、市場、名勝與住宿，並附上簡單的行程規劃建議。",
+      "es": "Guía del café, los mercados, los lugares de interés y el hotel que aparecen en dos vídeos sobre Yeosu, Suncheon y Boseong, en la provincia de Jeolla del Sur, con consejos sencillos para planificar tu ruta.",
+      "fr": "Guide du café, des marchés, des sites et de l'hôtel présentés dans deux vidéos sur Yeosu, Suncheon et Boseong, dans la province de Jeolla du Sud, avec quelques conseils simples pour organiser votre itinéraire.",
+      "de": "Ein Reiseführer zu Café, Märkten, Sehenswürdigkeiten und Hotel aus zwei Videos über Yeosu, Suncheon und Boseong in der Provinz Südliches Jeolla, mit einfachen Tipps zur Routenplanung.",
+      "vi": "Hướng dẫn về quán cà phê, chợ, danh lam thắng cảnh và khách sạn xuất hiện trong hai video về Yeosu, Suncheon và Boseong ở tỉnh Jeolla Nam, kèm vài mẹo đơn giản để lên lịch trình.",
+      "th": "แนะนำคาเฟ่ ตลาด สถานที่ท่องเที่ยว และที่พักที่ปรากฏในวิดีโอสองคลิปเกี่ยวกับยอซู ซุนชอน และโบซองในจังหวัดจอนนัมใต้ พร้อมเคล็ดลับง่ายๆ สำหรับวางแผนเส้นทาง",
+      "id": "Panduan kafe, pasar, tempat wisata, dan hotel yang tampil dalam dua video tentang Yeosu, Suncheon, dan Boseong di Provinsi Jeolla Selatan, dengan tips sederhana untuk merencanakan rute.",
+      "ru": "Путеводитель по кафе, рынкам, достопримечательностям и отелю из двух видео о Ёсу, Сунчхоне и Пхосоне в провинции Чолланнам-до, с простыми советами по планированию маршрута."
+    },
+    "cover": "hPmCee2cdvc",
+    "videos": [
+      "hPmCee2cdvc",
+      "EVbJ-hm0-Q8"
+    ]
+  },
+  {
+    "slug": "2026-11-02-jeonbuk",
+    "date": "2026-11-02",
+    "region": "jeonbuk",
+    "title": {
+      "ko": "전북 영상 속 맛집·명소: 전주 한옥마을에서 비빔밥과 시장 음식까지",
+      "en": "Jeonbuk Food & Sights from the Videos: Bibimbap, Markets and Hanok Stays in Jeonju",
+      "ja": "動画で見る全羅北道のグルメと名所：全州の韓屋村でビビンバ、市場、韓屋泊まで",
+      "zh-Hans": "视频里的全北美食与景点：全州拌饭、市场与韩屋住宿指南",
+      "zh-Hant": "影片裡的全羅北道美食與景點：全州拌飯、市場與韓屋住宿",
+      "es": "Jeonbuk: comida y lugares de los vídeos de Jeonju, de bibimbap, mercados y alojamientos hanok",
+      "fr": "Jeonbuk : cuisine et sites vus dans les vidéos, bibimbap, marchés et hanok à Jeonju",
+      "de": "Jeonbuk-Essen und Sehenswürdigkeiten aus den Videos: Bibimbap, Märkte und Hanok-Übernachtung in Jeonju",
+      "vi": "Ẩm thực và điểm đến Jeonbuk qua video: Bibimbap, chợ và nhà hanok ở Jeonju",
+      "th": "ภาพรวมอาหารและสถานที่เที่ยวจอนบุก จากคลิปท่องเที่ยว: ข้าวยำ ตลาด และที่พักฮันอกในจอนจู",
+      "id": "Jeonbuk: Makanan dan Tempat Wisata dari Video, Bibimbap, Pasar, dan Penginapan Hanok di Jeonju",
+      "ru": "Чонбук: еда и достопримечательности из видео — бибимбап, рынки и ханок-отели в Чонджу"
+    },
+    "summary": {
+      "ko": "유네스코 음식창의도시 전주를 다룬 여행 영상에 나온 비빔밥집, 떡갈비집, 시장, 한옥 숙소와 명소를 정리했습니다.",
+      "en": "A guide to the bibimbap and tteokgalbi restaurants, market, hanok stay and sights that appear in travel videos about Jeonju, a UNESCO City of Gastronomy.",
+      "ja": "ユネスコ食文化創意都市・全州を扱った旅行動画に登場する、ビビンバ店、カルビ餅店、市場、韓屋の宿泊施設や名所をまとめました。",
+      "zh-Hans": "整理旅行视频中出现的全州拌饭店、年糕烤排骨店、市场、韩屋住宿与景点。全州是联合国教科文组织美食创意城市。",
+      "zh-Hant": "整理旅遊影片中出現的全州拌飯店、韓式烤牛肋餅店、市場、韓屋住宿與景點。全州是聯合國教科文組織美食創意城市。",
+      "es": "Guía de los restaurantes de bibimbap y tteokgalbi, el mercado, el alojamiento hanok y los lugares que aparecen en vídeos de viaje sobre Jeonju, Ciudad Creativa de la Gastronomía de la UNESCO.",
+      "fr": "Un guide des restaurants de bibimbap et de tteokgalbi, du marché, du hanok et des lieux à voir à Jeonju, ville de la gastronomie reconnue par l'UNESCO, tels qu'ils apparaissent dans les vidéos de voyage.",
+      "de": "Ein Leitfaden zu den Bibimbap- und Tteokgalbi-Restaurants, dem Markt, der Hanok-Unterkunft und den Sehenswürdigkeiten aus Reisevideos über Jeonju, eine UNESCO-Stadt der Gastronomie.",
+      "vi": "Hướng dẫn về các quán bibimbap và tteokgalbi, khu chợ, nhà nghỉ hanok và điểm tham quan xuất hiện trong video du lịch về Jeonju, thành phố Ẩm thực của UNESCO.",
+      "th": "คู่มือร้านข้าวยำ ร้านเตอคัลบี ตลาด ที่พักฮันอก และสถานที่ท่องเที่ยวในจอนจู เมืองแห่งอาหารขององค์การยูเนสโก ตามที่ปรากฏในคลิปท่องเที่ยว",
+      "id": "Panduan restoran bibimbap dan tteokgalbi, pasar, penginapan hanok, dan tempat wisata yang muncul dalam video perjalanan tentang Jeonju, Kota Gastronomi UNESCO.",
+      "ru": "Путеводитель по ресторанам с бибимбапом и ттоккальби, рынку, ханок-отелю и достопримечательностям, которые показаны в видео о Чонджу, городе ЮНЕСКО в сфере гастрономии."
+    },
+    "cover": "tswqv1FY_2s",
+    "videos": [
+      "tswqv1FY_2s",
+      "gUwiVRYbeZ0",
+      "YGWFWpd0AjY",
+      "lC8hEbHE6x0"
+    ]
+  },
+  {
+    "slug": "2026-11-02-gyeongbuk",
+    "date": "2026-11-02",
+    "region": "gyeongbuk",
+    "title": {
+      "ko": "경북 영상 속 맛집·명소: 경주의 카페, 한옥, 신라 유적",
+      "en": "Gyeongbuk Food & Sights from the Videos: Gyeongju's Cafes, Hanok Stays and Silla Heritage",
+      "ja": "動画で見る慶尚北道のグルメと名所：慶州のカフェ、韓屋ステイ、新羅の遺跡",
+      "zh-Hans": "视频中的庆北美食与景点：庆州咖啡馆、韩屋住宿与新罗遗迹",
+      "zh-Hant": "影片中的慶北美食與景點：慶州咖啡廳、韓屋住宿與新羅遺跡",
+      "es": "Gyeongbuk: comida y lugares de los vídeos, cafés, alojamientos hanok y patrimonio de Silla en Gyeongju",
+      "fr": "Gyeongbuk : cafés, hanoks et sites de Gyeongju vus dans les vidéos",
+      "de": "Gyeongbuk-Essen und Sehenswürdigkeiten aus den Videos: Cafés, Hanok-Unterkünfte und Silla-Erbe in Gyeongju",
+      "vi": "Gyeongbuk qua các video: Quán cà phê, nhà hanok và di tích Silla ở Gyeongju",
+      "th": "ภาพรวมกยองบุก จากวิดีโอ: คาเฟ่ ที่พักฮันอก และมรดกซิลลาในกยองจู",
+      "id": "Gyeongbuk: Makanan dan Tempat Wisata dari Video: Kafe, Penginapan Hanok, dan Situs Silla di Gyeongju",
+      "ru": "Гёнбук в видео: кафе, ханок-отели и памятники Силла в Кёнджу"
+    },
+    "summary": {
+      "ko": "경주 여행 영상 세 편에 나온 카페, 한옥 숙소, 신라 유적을 정리했습니다. 월정교와 월성, 교촌마을, 황리단길, 석굴암과 그 사이에 들르기 좋은 카페와 식당을 소개합니다.",
+      "en": "A guide to the cafes, hanok stays and Silla-era sites featured in three Gyeongju travel videos, from Woljeonggyo Bridge and Hwangnidan-gil to Seokguram Grotto.",
+      "ja": "慶州旅行の動画3本に登場したカフェ、韓屋ステイ、新羅時代の名所をまとめたガイドです。月精橋や皇理団キルから石窟庵まで紹介します。",
+      "zh-Hans": "整理三支庆州旅行视频中出现的咖啡馆、韩屋住宿与新罗时代遗迹，从月精桥、黄understanding路到石窟庵。",
+      "zh-Hant": "整理三支慶州旅遊影片中出現的咖啡廳、韓屋住宿與新羅時代景點，從月精橋、皇理團路到石窟庵。",
+      "es": "Una guía de los cafés, alojamientos hanok y lugares de la era Silla que aparecen en tres vídeos de viaje a Gyeongju, desde el puente Woljeonggyo y Hwangnidan-gil hasta la gruta de Seokguram.",
+      "fr": "Guide des cafés, hanoks et sites de l'époque Silla présentés dans trois vidéos de voyage à Gyeongju, du pont Woljeonggyo et de Hwangnidan-gil jusqu'à la grotte de Seokguram.",
+      "de": "Ein Reiseführer zu den Cafés, Hanok-Unterkünften und Stätten aus der Silla-Zeit, die in drei Gyeongju-Videos vorkommen, von der Woljeonggyo-Brücke und der Hwangnidan-gil bis zur Seokguram-Grotte.",
+      "vi": "Hướng dẫn về các quán cà phê, nhà nghỉ hanok và di tích thời Silla xuất hiện trong ba video du lịch Gyeongju, từ Cầu Woljeonggyo và phố Hwangnidan-gil đến Thạch Quật Am Seokguram.",
+      "th": "คู่มือแนะนำคาเฟ่ ที่พักฮันอก และสถานที่สมัยซิลลาที่ปรากฏในวิดีโอท่องเที่ยวกยองจูสามเรื่อง ตั้งแต่สะพานวอลจอนเกียวและถนนฮวางนีดัน-กิล ไปจนถึงถ้ำซอกกุรัม",
+      "id": "Panduan kafe, penginapan hanok, dan situs era Silla yang muncul dalam tiga video perjalanan Gyeongju, dari Jembatan Woljeonggyo dan Hwangnidan-gil hingga Gua Seokguram.",
+      "ru": "Путеводитель по кафе, ханок-отелям и памятникам эпохи Силла, которые показаны в трёх видео о Кёнджу: от моста Вольчонгё и улицы Хванидан-гиль до грота Соккурам."
+    },
+    "cover": "v_dZT6AUjGk",
+    "videos": [
+      "v_dZT6AUjGk",
+      "nsFk-bseRMw",
+      "teLRxsBnHqo"
+    ]
+  },
+  {
+    "slug": "2026-11-02-chungcheong",
+    "date": "2026-11-02",
+    "region": "chungcheong",
+    "title": {
+      "ko": "충청·대전 영상 속 맛집·명소: 장태산자연휴양림과 한빛탑",
+      "en": "Chungcheong & Daejeon on Screen: Jangtaesan Recreational Forest and Hanbit Tower",
+      "ja": "忠清道・大田 映像で見る場所: 長太山自然休養林と韓非塔",
+      "zh-Hans": "忠清道与大田影像导览：长太山自然休养林与韩彬塔",
+      "zh-Hant": "忠清道與大田影片實景：長太山自然休養林與韓賓塔",
+      "es": "Chungcheong y Daejeon en pantalla: Bosque recreativo Jangtaesan y Torre Hanbit",
+      "fr": "Chungcheong et Daejeon à l'écran : la forêt de loisirs de Jangtaesan et la tour Hanbit",
+      "de": "Chungcheong & Daejeon im Film: Jangtaesan-Naturerholungswald und Hanbit-Turm",
+      "vi": "Chungcheong & Daejeon trên màn ảnh: Khu rừng nghỉ dưỡng Jangtaesan và Tháp Hanbit",
+      "th": "ชุงชองและแดจอนบนหน้าจอ: อุทยานป่าสงวนจางแทซาน และหอฮันบิต",
+      "id": "Chungcheong & Daejeon di Layar: Hutan Rekreasi Jangtaesan dan Menara Hanbit",
+      "ru": "Чungcheong и Тэджон на экране: Чжантэсан лесной рекреационный парк и башня Ханбит"
+    },
+    "summary": {
+      "ko": "영상 'Daejeon Day Trip'에 나온 대전의 두 장소, 조용한 숲길의 장태산자연휴양림과 도시의 랜드마크 한빛탑을 소개합니다.",
+      "en": "Two Daejeon stops featured in the video \"Daejeon Day Trip\": the quiet forest trails of Jangtaesan Recreational Forest and the city's landmark, Hanbit Tower.",
+      "ja": "動画「Daejeon Day Trip」に登場する大田の二か所、静かな森の散策路がある長太山自然休養林と、都市のランドマークである韓非塔を紹介します。",
+      "zh-Hans": "视频《Daejeon Day Trip》中出现的两个大田景点：安静的长太山自然休养林林间步道，以及城市地标韩彬塔。",
+      "zh-Hant": "影片《Daejeon Day Trip》中出現的兩個大田景點：安靜的長太山自然休養林步道，以及城市地標韓賓塔。",
+      "es": "Dos paradas de Daejeon que aparecen en el video \"Daejeon Day Trip\": los tranquilos senderos del bosque recreativo Jangtaesan y el emblemático punto de referencia de la ciudad, la Torre Hanbit.",
+      "fr": "Deux étapes de Daejeon présentées dans la vidéo « Daejeon Day Trip » : les sentiers calmes de la forêt de loisirs de Jangtaesan et le monument emblématique de la ville, la tour Hanbit.",
+      "de": "Zwei Stopps in Daejeon, die im Video \"Daejeon Day Trip\" vorkommen: die ruhigen Waldwege des Jangtaesan-Naturerholungswalds und das Wahrzeichen der Stadt, der Hanbit-Turm.",
+      "vi": "Hai điểm đến ở Daejeon xuất hiện trong video \"Daejeon Day Trip\": những con đường mòn yên tĩnh trong Khu rừng nghỉ dưỡng Jangtaesan và biểu tượng của thành phố, Tháp Hanbit.",
+      "th": "สองจุดในแดจอนที่ปรากฏในวิดีโอ \"Daejeon Day Trip\" ได้แก่ เส้นทางเดินป่าเงียบสงบของอุทยานป่าสงวนจางแทซาน และสถานที่สำคัญของเมืองอย่างหอฮันบิต",
+      "id": "Dua tempat di Daejeon yang tampil dalam video \"Daejeon Day Trip\": jalur hutan yang tenang di Hutan Rekreasi Jangtaesan dan landmark kota, Menara Hanbit.",
+      "ru": "Два места в Тэджоне, показанные в видео «Daejeon Day Trip»: тихие лесные тропы парка Чжантэсан и главный ориентир города, башня Ханбит."
+    },
+    "cover": "UE9PrFXIMfs",
+    "videos": [
+      "UE9PrFXIMfs"
+    ]
+  },
+  {
     "slug": "2026-10-26-seoul",
     "date": "2026-10-26",
     "region": "seoul",
