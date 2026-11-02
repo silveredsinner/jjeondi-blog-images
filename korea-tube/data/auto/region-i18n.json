@@ -333,10 +333,10 @@
     },
     "chungcheong": {
       "foods": [
-        "聖心堂のパン",
+        "成心堂のパン",
         "忠州マクチャン",
         "清州スユク",
-        "市場グルメ"
+        "地元の市場グルメ"
       ],
       "spots": [
         "聖心堂（大田）",
@@ -350,48 +350,56 @@
           "揚げソボロパンなど"
         ],
         "행복분식 (대전)": [
-          "ヘンボク粉食（大田）",
+          "ヘンボクブンシク（大田）",
           "チョルミョン、餃子"
         ],
         "토종마을 (음성 감곡시장)": [
           "トジョンマウル（陰城）",
-          "豚肉スープご飯"
+          "豚スープご飯"
         ],
         "백제문화단지 (부여)": [
           "百済文化団地（扶余）",
-          "再現された百済の王宮"
+          "復元された百済の宮殿"
         ],
         "할매묵은지지짐이 (천안)": [
-          "ハルメ古漬けキムチチヂミ（天安）",
-          "古漬けキムチの煮込み"
+          "ハルメ熟成キムチチジミ（天安）",
+          "熟成キムチの煮込み"
         ],
         "우암설렁탕 (청주)": [
           "ウアムソルロンタン（清州）",
           "スユク（1日4皿限定）、ソルロンタン"
         ],
         "월성집 (제천)": [
-          "ウォルソンチプ（堤川）",
-          "イカの辛い和え物"
+          "ウォルソンジプ（堤川）",
+          "辛いイカサラダ"
+        ],
+        "장태산자연휴양림": [
+          "チャンテサン自然休養林",
+          "森の静かな散策"
+        ],
+        "한빛탑": [
+          "ハンビッ塔",
+          "大田のランドマーク塔"
         ]
       },
-      "src": "f286f972d5"
+      "src": "6aa905b227"
     },
     "jeonbuk": {
       "foods": [
         "全州ビビンバ",
-        "トッカルビ",
+        "テッカルビ",
         "韓定食",
-        "マッコリ横丁の料理"
+        "マッコリ横町の料理"
       ],
       "spots": [
         "全州韓屋村",
         "慶基殿",
-        "南部市場夜市"
+        "南部夜市"
       ],
       "places": {
         "전주 한옥마을": [
           "全州韓屋村",
-          "ビビンバ、屋台グルメ、韓服"
+          "ビビンバ、屋台フード、韓服体験"
         ],
         "시골순대 (진안)": [
           "シゴルスンデ（鎮安）",
@@ -399,31 +407,71 @@
         ],
         "경기전": [
           "慶基殿",
-          "朝鮮時代の史跡"
+          "朝鮮時代の歴史ある殿閣"
+        ],
+        "한옥 호텔": [
+          "韓屋ホテル",
+          "伝統的な韓屋泊"
+        ],
+        "한국집": [
+          "ハングクチプ",
+          "生肉の漬けを使った全州ビビンバ"
+        ],
+        "남부시장": [
+          "南部市場",
+          "伝統市場の屋台フード"
+        ],
+        "풍년제과 (PNB)": [
+          "PNBベーカリー（プンニョン製菓）",
+          "チョコパイ"
+        ],
+        "다우랑 (만두)": [
+          "ダウラン餃子",
+          "餃子"
+        ],
+        "교동떡갈비": [
+          "キョドンテッカルビ",
+          "テッカルビ（牛肉のグリル小判型）"
+        ],
+        "외할머니솜씨": [
+          "ウェハルモニソムシカフェ",
+          "カフェ"
+        ],
+        "자만벽화마을": [
+          "ジャマン壁画村（ヒューマン壁画村）",
+          "壁画村"
+        ],
+        "국립전주박물관": [
+          "国立全州博物館",
+          "博物館"
+        ],
+        "덕진공원": [
+          "徳津公園",
+          "夕日の眺め"
         ]
       },
-      "src": "e7d738cc21"
+      "src": "5808bcb892"
     },
     "jeonnam": {
       "foods": [
-        "ヨソ産ワタリガニの醤油漬け",
-        "木浦チョンカンとホンオ",
-        "潭陽テクカルビ",
-        "南道韓定食"
+        "麗水のカニの醤油漬け",
+        "木浦のチュンカンとホンオ",
+        "潭陽のテッカルビ",
+        "南道の韓定食"
       ],
       "spots": [
         "麗水海上ケーブルカー",
         "順天湾",
-        "乃禄邑城",
+        "乃洛邑城",
         "潭陽竹緑苑"
       ],
       "places": {
         "순천만습지": [
           "順天湾湿地",
-          "葦原と湿地"
+          "アシ原と湿地"
         ],
         "낙안읍성": [
-          "洛安邑城民俗村",
+          "乃洛邑城民俗村",
           "朝鮮時代の村"
         ],
         "담양 죽녹원": [
@@ -435,16 +483,16 @@
           "コングクス（冷たい豆乳麺）"
         ],
         "신성식당 (고흥 녹동)": [
-          "シンソン食堂（高興鹿洞）",
+          "シンソン食堂（高興緑洞）",
           "タコ料理（季節限定）"
         ],
         "돌집식당": [
-          "ドルジップ食堂（木浦）",
-          "17種のおかず付き白飯定食"
+          "トルチップ食堂（木浦の韓定食店）",
+          "17品のおかず付きペクバン定食"
         ],
         "석곡 전통 시장": [
           "石谷伝統市場",
-          "昔ながらの雰囲気を残す谷城の伝統市場"
+          "谷城の昔ながらの雰囲気を残す市場"
         ],
         "여수 해상케이블카": [
           "麗水海上ケーブルカー",
@@ -453,20 +501,68 @@
         "오동도": [
           "梧桐島",
           "願いの木"
+        ],
+        "나무애그림 카페": [
+          "ナムアエグリムカフェ",
+          "ドリンク、手作りお土産、梧桐島の眺め"
+        ],
+        "이순신광장": [
+          "李舜臣広場",
+          "無料入場の亀甲船レプリカ"
+        ],
+        "아쿠아플라넷 여수": [
+          "アクアプラネット麗水",
+          "シロイルカとアザラシの水族館"
+        ],
+        "하멜등대 & 하멜기념관": [
+          "ハメル灯台＆ハメル記念館",
+          "オランダ人船員ハメルの物語"
+        ],
+        "향일암": [
+          "向日庵",
+          "日の出の眺めで有名な崖上の寺"
+        ],
+        "천사벽화마을": [
+          "天使壁画村",
+          "カラフルな壁画の路地とカフェ"
+        ],
+        "여수 수산시장": [
+          "麗水水産市場",
+          "新鮮な海鮮"
+        ],
+        "여수항": [
+          "麗水港",
+          "港沿いの海鮮店"
+        ],
+        "여수 구항 해양공원": [
+          "麗水旧港海洋公園",
+          "海沿いの海鮮店エリア"
+        ],
+        "순천만국가정원": [
+          "順天湾国家庭園",
+          "国家庭園の散策"
+        ],
+        "보성 대한다원": [
+          "宝城大韓茶園",
+          "緑茶畑"
+        ],
+        "다빈치호텔 순천": [
+          "ダヴィンチホテル順天",
+          "ホテル泊"
         ]
       },
-      "src": "ac0d04002b"
+      "src": "8bc0ed1137"
     },
     "gyeongbuk": {
       "foods": [
-        "安東チムタク",
-        "皇理団通りグルメ",
-        "浦項ムルフェ"
+        "安東の鶏の煮込み（チムダク）",
+        "黄理団キルのグルメ",
+        "浦項のムルフェ"
       ],
       "spots": [
         "仏国寺",
-        "国立慶州博物館",
-        "皇理団通り",
+        "慶州国立博物館",
+        "黄理団キル",
         "河回村"
       ],
       "places": {
@@ -476,23 +572,23 @@
         ],
         "안동 하회마을": [
           "安東河回村",
-          "ユネスコ世界遺産の民俗村"
+          "ユネスコの民俗村"
         ],
         "골굴사": [
           "骨窟寺",
-          "禅武道＆テンプルステイ"
+          "仙武道とテンプルステイ"
         ],
         "진량돼지찌개 (경산)": [
-          "チンリャンテジチゲ（慶山）",
-          "豚肉チゲ"
+          "チンリャン豚チゲ（慶山）",
+          "豚チゲ"
         ],
         "도산식육식당 (구미)": [
-          "トサン精肉食堂（亀尾）",
-          "ニンニクたっぷり豚肉チゲ"
+          "トサン食肉食堂（亀尾）",
+          "ニンニク風味の豚煮込み"
         ],
         "우현해물찜 (포항)": [
-          "ウヒョン海物チム（浦項）",
-          "アンコウの蒸し煮"
+          "ウヒョン海鮮蒸し（浦項）",
+          "アンコウの煮込み"
         ],
         "불국사": [
           "仏国寺",
@@ -507,11 +603,71 @@
           "夜景スポット"
         ],
         "황남빵": [
-          "皇南パン（慶州のパン屋）",
-          "皇南あんこパン"
+          "皇南パン（慶州のベーカリー）",
+          "小豆餡のパン"
+        ],
+        "올리비 카페": [
+          "オリビカフェ",
+          "カフェ"
+        ],
+        "월정교": [
+          "月精橋",
+          "復元された新羅時代の橋"
+        ],
+        "황리단길": [
+          "黄理団キル（ゴールデンストリート）",
+          "カフェやショップの通り"
+        ],
+        "부시 카페": [
+          "ブッシュカフェ",
+          "ケーキ"
+        ],
+        "사다함": [
+          "サダハム（韓屋ステイ）",
+          "Airbnbで予約する韓屋ステイ"
+        ],
+        "도와당": [
+          "ドワダン",
+          "韓国料理店"
+        ],
+        "오마모리 경주": [
+          "オマモリ慶州",
+          "抹茶デザート"
+        ],
+        "경주 월성": [
+          "慶州月城",
+          "新羅の宮殿跡"
+        ],
+        "카페 1984": [
+          "カフェ1984",
+          "カフェ"
+        ],
+        "금관총": [
+          "金冠塚",
+          "新羅の王族の墳墓"
+        ],
+        "아덴 카페": [
+          "アデンカフェ",
+          "カフェ"
+        ],
+        "한옥문스테이": [
+          "韓屋ムーンステイ",
+          "慶州の伝統韓屋泊"
+        ],
+        "카페 다시봄": [
+          "カフェ・タシボム",
+          "庭のある居心地の良いカフェ"
+        ],
+        "석굴암": [
+          "石窟庵",
+          "有名な石窟"
+        ],
+        "경주 교촌마을": [
+          "慶州校村マウル",
+          "韓屋が並ぶ伝統村"
         ]
       },
-      "src": "2ce4e48800"
+      "src": "35d66fd04c"
     },
     "daegu": {
       "foods": [
@@ -1006,89 +1162,137 @@
     },
     "chungcheong": {
       "foods": [
-        "圣心堂面包店",
-        "忠州烤牛肠",
-        "清州白切肉",
+        "成心堂面包店",
+        "忠州大肠锅",
+        "清州水肉",
         "当地市场美食"
       ],
       "spots": [
-        "圣心堂（大田）",
-        "百济文化园区",
+        "成心堂（大田）",
+        "百济文化园",
         "公山城",
         "丹阳"
       ],
       "places": {
         "성심당": [
-          "圣心堂面包店",
-          "炸菠萝面包等"
+          "成心堂面包店",
+          "炸豆沙面包等"
         ],
         "행복분식 (대전)": [
-          "幸福小吃（大田）",
-          "辣拌筋面、饺子"
+          "幸福分食（大田）",
+          "炸酱面、饺子"
         ],
         "토종마을 (음성 감곡시장)": [
-          "土种村（阴城）",
+          "土种村（阴城甘谷市场）",
           "猪肉汤饭"
         ],
         "백제문화단지 (부여)": [
-          "百济文化园区（扶余）",
+          "百济文化园（扶余）",
           "复原的百济王宫"
         ],
         "할매묵은지지짐이 (천안)": [
-          "奶奶陈年泡菜炖（天安）",
-          "炖陈年泡菜"
+          "奶奶陈年泡菜煎（天安）",
+          "红烧陈年泡菜"
         ],
         "우암설렁탕 (청주)": [
-          "尤岩雪浓汤（清州）",
-          "白切肉（每天限4盘）、雪浓汤"
+          "牛岩雪浓汤（清州）",
+          "水肉（每日4盘）、雪浓汤"
         ],
         "월성집 (제천)": [
           "月城家（堤川）",
-          "辣拌鱿鱼"
+          "辣鱿鱼沙拉"
+        ],
+        "장태산자연휴양림": [
+          "长太山自然休养林",
+          "林间安静的自然步道"
+        ],
+        "한빛탑": [
+          "韩彬塔",
+          "大田地标塔"
         ]
       },
-      "src": "f286f972d5"
+      "src": "6aa905b227"
     },
     "jeonbuk": {
       "foods": [
         "全州拌饭",
-        "肉饼",
+        "烤年糕排骨",
         "韩定食",
-        "米酒巷下酒菜"
+        "马格利酒小巷美食"
       ],
       "spots": [
         "全州韩屋村",
-        "庆基殿",
+        "敬基殿",
         "南部夜市"
       ],
       "places": {
         "전주 한옥마을": [
           "全州韩屋村",
-          "拌饭、街头小吃、韩服"
+          "拌饭、街头小吃、韩服体验"
         ],
         "시골순대 (진안)": [
-          "乡村米肠（镇安）",
-          "米肠汤饭（每天营业约3小时）"
+          "乡村血肠（镇安）",
+          "血肠汤饭（每天营业约3小时）"
         ],
         "경기전": [
-          "庆基殿",
-          "朝鲜时代历史祠堂"
+          "敬基殿",
+          "朝鲜时代历史殿堂"
+        ],
+        "한옥 호텔": [
+          "韩屋酒店",
+          "传统韩屋住宿"
+        ],
+        "한국집": [
+          "韩国家",
+          "全州拌饭配腌生肉"
+        ],
+        "남부시장": [
+          "南部市场",
+          "传统市场街头美食"
+        ],
+        "풍년제과 (PNB)": [
+          "丰年制果（PNB）",
+          "巧克力派"
+        ],
+        "다우랑 (만두)": [
+          "大吴郎饺子",
+          "饺子"
+        ],
+        "교동떡갈비": [
+          "教洞烤年糕排骨",
+          "烤年糕排骨（烤牛肉饼）"
+        ],
+        "외할머니솜씨": [
+          "外婆的手艺咖啡馆",
+          "咖啡馆"
+        ],
+        "자만벽화마을": [
+          "慈满壁画村（人体壁画村）",
+          "壁画村"
+        ],
+        "국립전주박물관": [
+          "国立全州博物馆",
+          "博物馆"
+        ],
+        "덕진공원": [
+          "德津公园",
+          "观赏日落"
         ]
       },
-      "src": "e7d738cc21"
+      "src": "5808bcb892"
     },
     "jeonnam": {
       "foods": [
-        "酱油螃蟹（여수 간장게장）",
-        "木浦炖章鱼与海螺（목포 중깐·홍어）",
-        "潭阳烤牛排骨（담양 떡갈비）",
-        "南道韩式套餐（남도 한정식）"
+        "丽水酱油蟹",
+        "木浦炸串与红鳐鱼",
+        "潭阳烤年糕排骨",
+        "南道韩定食"
       ],
       "spots": [
         "丽水海上缆车",
         "顺天湾",
         "乐安邑城",
-        "潭阳竹绿苑"
+        "潭阳竹林园"
       ],
       "places": {
         "순천만습지": [
@@ -1100,76 +1304,124 @@
           "朝鲜时代村落"
         ],
         "담양 죽녹원": [
-          "潭阳竹绿苑",
+          "潭阳竹绿园",
           "竹林"
         ],
         "청보석 (곡성)": [
-          "青宝石（谷城）",
-          "冷豆汤面（콩국수）"
+          "清宝石（谷城）",
+          "冷豆粉面"
         ],
         "신성식당 (고흥 녹동)": [
-          "新城食堂（高兴鹿洞）",
+          "新星食堂（高兴绿洞）",
           "章鱼料理（季节性）"
         ],
         "돌집식당": [
-          "石屋食堂（木浦）",
-          "白饭套餐，含17种小菜"
+          "石屋食堂（木浦韩式定食店）",
+          "17道小菜的白饭定食"
         ],
         "석곡 전통 시장": [
           "石谷传统市场",
-          "保留旧时风貌的谷城传统市场"
+          "谷城保留古早风味的传统市场"
         ],
         "여수 해상케이블카": [
           "丽水海上缆车",
-          "玻璃底海上缆车"
+          "玻璃地板海上缆车"
         ],
         "오동도": [
           "梧桐岛",
           "许愿树"
+        ],
+        "나무애그림 카페": [
+          "树爱绘画咖啡馆",
+          "饮品、手工纪念品，可眺望梧桐岛"
+        ],
+        "이순신광장": [
+          "李舜臣广场",
+          "免费参观的龟船复制品"
+        ],
+        "아쿠아플라넷 여수": [
+          "丽水水族馆",
+          "白鲸与海豹水族馆"
+        ],
+        "하멜등대 & 하멜기념관": [
+          "哈默灯塔与哈默纪念馆",
+          "荷兰水手亨德里克·哈默的故事"
+        ],
+        "향일암": [
+          "向日庵",
+          "以日出景色闻名的崖边寺庙"
+        ],
+        "천사벽화마을": [
+          "天使壁画村",
+          "色彩缤纷的壁画小巷与咖啡馆"
+        ],
+        "여수 수산시장": [
+          "丽水水产市场",
+          "新鲜海鲜"
+        ],
+        "여수항": [
+          "丽水港",
+          "港口边海鲜餐厅"
+        ],
+        "여수 구항 해양공원": [
+          "丽水旧港海洋公园",
+          "海边海鲜餐饮区"
+        ],
+        "순천만국가정원": [
+          "顺天湾国家花园",
+          "漫步国家花园"
+        ],
+        "보성 대한다원": [
+          "宝城大韩茶园",
+          "绿茶种植园"
+        ],
+        "다빈치호텔 순천": [
+          "达芬奇酒店顺天",
+          "酒店住宿"
         ]
       },
-      "src": "ac0d04002b"
+      "src": "8bc0ed1137"
     },
     "gyeongbuk": {
       "foods": [
         "安东炖鸡",
-        "皇理团路美食",
-        "浦项冷汤生鱼片"
+        "皇理团街美食",
+        "浦项水刺身"
       ],
       "spots": [
         "佛国寺",
-        "国立庆州博物馆",
-        "皇理团路",
+        "庆州国立博物馆",
+        "皇理团街",
         "河回村"
       ],
       "places": {
         "국립경주박물관": [
-          "国立庆州博物馆",
+          "庆州国立博物馆",
           "新罗金冠"
         ],
         "안동 하회마을": [
           "安东河回村",
-          "联合国教科文组织世界遗产民俗村"
+          "联合国教科文组织民俗村"
         ],
         "골굴사": [
           "骨窟寺",
-          "禅武道与寺院寄宿"
+          "瑜伽剑道与寺庙住宿"
         ],
         "진량돼지찌개 (경산)": [
-          "珍良猪肉汤（庆山）",
-          "猪肉汤"
+          "镇良猪肉锅（庆山）",
+          "猪肉锅"
         ],
         "도산식육식당 (구미)": [
-          "陶山肉食堂（龟尾）",
-          "大蒜猪肉汤"
+          "道山肉食堂（龟尾）",
+          "蒜香猪肉汤"
         ],
         "우현해물찜 (포항)": [
-          "友贤海鲜炖（浦项）",
+          "牛贤海鲜蒸（浦项）",
           "炖鮟鱇鱼"
         ],
         "불국사": [
           "佛国寺",
-          "释迦塔与多宝塔"
+          "石窟塔与多宝塔"
         ],
         "첨성대": [
           "瞻星台",
@@ -1177,14 +1429,74 @@
         ],
         "동궁과 월지": [
           "东宫与月池",
-          "夜景胜地"
+          "夜景景点"
         ],
         "황남빵": [
           "皇南面包（庆州面包店）",
           "皇南红豆面包"
+        ],
+        "올리비 카페": [
+          "奥利维咖啡馆",
+          "咖啡馆"
+        ],
+        "월정교": [
+          "月精桥",
+          "复原的新罗时代桥梁"
+        ],
+        "황리단길": [
+          "皇理团街（黄金街）",
+          "咖啡馆与商店街"
+        ],
+        "부시 카페": [
+          "布什咖啡馆",
+          "蛋糕"
+        ],
+        "사다함": [
+          "萨达含（韩屋住宿）",
+          "在Airbnb预订的韩屋住宿"
+        ],
+        "도와당": [
+          "道瓦堂",
+          "韩式餐厅"
+        ],
+        "오마모리 경주": [
+          "御守庆州",
+          "抹茶甜点"
+        ],
+        "경주 월성": [
+          "庆州月城",
+          "新罗王宫遗址"
+        ],
+        "카페 1984": [
+          "1984咖啡馆",
+          "咖啡馆"
+        ],
+        "금관총": [
+          "金冠冢",
+          "新罗王陵"
+        ],
+        "아덴 카페": [
+          "阿登咖啡馆",
+          "咖啡馆"
+        ],
+        "한옥문스테이": [
+          "韩屋文停留",
+          "庆州传统韩屋住宿"
+        ],
+        "카페 다시봄": [
+          "再春咖啡馆",
+          "带花园的舒适咖啡馆"
+        ],
+        "석굴암": [
+          "石窟庵",
+          "著名石窟"
+        ],
+        "경주 교촌마을": [
+          "庆州校村村",
+          "带韩屋的传统村落"
         ]
       },
-      "src": "2ce4e48800"
+      "src": "35d66fd04c"
     },
     "daegu": {
       "foods": [
@@ -1680,9 +1992,9 @@
     "chungcheong": {
       "foods": [
         "聖心堂麵包",
-        "忠州烤豬大腸",
-        "清州白切肉",
-        "在地市場小吃"
+        "忠州豬腸",
+        "清州水肉",
+        "當地市場美食"
       ],
       "spots": [
         "聖心堂（大田）",
@@ -1693,41 +2005,49 @@
       "places": {
         "성심당": [
           "聖心堂",
-          "炸菠蘿麵包等"
+          "炸蘇保盧麵包等"
         ],
         "행복분식 (대전)": [
-          "幸福小吃（大田）",
-          "Q彈辣拌麵、餃子"
+          "幸福分食（大田）",
+          "辣炒年糕、餃子"
         ],
         "토종마을 (음성 감곡시장)": [
-          "土種村（陰城）",
+          "土鍾村（陰城甘谷市場）",
           "豬肉湯飯"
         ],
         "백제문화단지 (부여)": [
           "百濟文化園區（扶餘）",
-          "重建的百濟王宮"
+          "復原的百濟宮殿"
         ],
         "할매묵은지지짐이 (천안)": [
           "奶奶陳年泡菜燉（天安）",
           "燉陳年泡菜"
         ],
         "우암설렁탕 (청주)": [
-          "尤庵雪濃湯（清州）",
-          "白切肉（每日限4盤）、雪濃湯"
+          "牛岩雪濃湯（清州）",
+          "水肉（每日4盤）、雪濃湯"
         ],
         "월성집 (제천)": [
           "月城家（堤川）",
-          "辣拌魷魚"
+          "辣味魷魚沙拉"
+        ],
+        "장태산자연휴양림": [
+          "長太山自然休養林",
+          "森林中寧靜的自然步道"
+        ],
+        "한빛탑": [
+          "韓光塔",
+          "大田地標塔"
         ]
       },
-      "src": "f286f972d5"
+      "src": "6aa905b227"
     },
     "jeonbuk": {
       "foods": [
         "全州拌飯",
-        "烤肉餅",
+        "煎牛小排餅",
         "韓定食",
-        "馬格利酒巷下酒菜"
+        "馬格利巷美食"
       ],
       "spots": [
         "全州韓屋村",
@@ -1737,31 +2057,71 @@
       "places": {
         "전주 한옥마을": [
           "全州韓屋村",
-          "拌飯、街頭小吃、韓服"
+          "拌飯、街頭小吃、韓服體驗"
         ],
         "시골순대 (진안)": [
           "鄉村血腸（鎮安）",
-          "血腸湯飯（每天約營業3小時）"
+          "血腸湯飯（每天營業約3小時）"
         ],
         "경기전": [
           "慶基殿",
-          "朝鮮時代歷史祠堂"
+          "朝鮮時代歷史神殿"
+        ],
+        "한옥 호텔": [
+          "韓屋飯店",
+          "傳統韓屋住宿"
+        ],
+        "한국집": [
+          "韓國家",
+          "醃生肉全州拌飯"
+        ],
+        "남부시장": [
+          "南部市場",
+          "傳統市場街頭美食"
+        ],
+        "풍년제과 (PNB)": [
+          "豐年製菓（PNB）",
+          "巧克力派"
+        ],
+        "다우랑 (만두)": [
+          "多郎餃子",
+          "餃子"
+        ],
+        "교동떡갈비": [
+          "校洞煎牛小排餅",
+          "煎牛小排餅（烤牛肉餅）"
+        ],
+        "외할머니솜씨": [
+          "外婆的手藝咖啡",
+          "咖啡廳"
+        ],
+        "자만벽화마을": [
+          "紫萬壁畫村（人體壁畫村）",
+          "壁畫村"
+        ],
+        "국립전주박물관": [
+          "國立全州博物館",
+          "博物館"
+        ],
+        "덕진공원": [
+          "德津公園",
+          "欣賞夕陽"
         ]
       },
-      "src": "e7d738cc21"
+      "src": "5808bcb892"
     },
     "jeonnam": {
       "foods": [
-        "醬油醃蟹（여수 간장게장）",
-        "木浦雞腳與海蔘（목포 점간·홍어）",
-        "潭陽烤牛排（담양 떡갈비）",
-        "南道韓式定食（남도 한정식）"
+        "麗水醬油醃螃蟹",
+        "木浦章魚與紅魚",
+        "潭陽煎牛小排餅",
+        "南道韓定食"
       ],
       "spots": [
         "麗水海上纜車",
         "順天灣",
-        "奈宏邑城",
-        "潭陽竹林園"
+        "樂安邑城",
+        "潭陽竹轆苑"
       ],
       "places": {
         "순천만습지": [
@@ -1769,28 +2129,28 @@
           "蘆葦田與濕地"
         ],
         "낙안읍성": [
-          "樂安邑城民俗村",
-          "朝鮮時代古村落"
+          "樂安邑城",
+          "朝鮮時代村落"
         ],
         "담양 죽녹원": [
-          "潭陽竹綠園",
-          "竹林步道"
+          "潭陽竹綠苑",
+          "竹林"
         ],
         "청보석 (곡성)": [
           "青寶石（谷城）",
-          "冷豆漿麵（콩국수）"
+          "冷豆漿麵"
         ],
         "신성식당 (고흥 녹동)": [
           "新星食堂（高興鹿洞）",
           "章魚料理（季節限定）"
         ],
         "돌집식당": [
-          "石屋食堂（木浦）",
-          "白飯定食，附17道小菜"
+          "石屋食堂（木浦韓式定食餐廳）",
+          "17道小菜的白飯套餐"
         ],
         "석곡 전통 시장": [
           "石谷傳統市場",
-          "保留舊時風情的谷城傳統市場"
+          "保有舊時風情的谷城傳統市場"
         ],
         "여수 해상케이블카": [
           "麗水海上纜車",
@@ -1799,20 +2159,68 @@
         "오동도": [
           "梧桐島",
           "許願樹"
+        ],
+        "나무애그림 카페": [
+          "樹愛畫咖啡",
+          "飲品、手作紀念品、梧桐島景色"
+        ],
+        "이순신광장": [
+          "李舜臣廣場",
+          "免費參觀的龜船複製品"
+        ],
+        "아쿠아플라넷 여수": [
+          "麗水 Aqua Planet",
+          "白鯨與海豹水族館"
+        ],
+        "하멜등대 & 하멜기념관": [
+          "哈默燈塔與哈默紀念館",
+          "荷蘭水手亨德里克·哈默的故事"
+        ],
+        "향일암": [
+          "向日庵",
+          "懸崖寺廟，以日出景色聞名"
+        ],
+        "천사벽화마을": [
+          "天使壁畫村",
+          "彩色壁畫巷與咖啡廳"
+        ],
+        "여수 수산시장": [
+          "麗水水產市場",
+          "新鮮海鮮"
+        ],
+        "여수항": [
+          "麗水港",
+          "港邊海鮮餐廳"
+        ],
+        "여수 구항 해양공원": [
+          "麗水舊港海洋公園",
+          "海濱海鮮小吃區"
+        ],
+        "순천만국가정원": [
+          "順天灣國家花園",
+          "漫步國家花園"
+        ],
+        "보성 대한다원": [
+          "寶城大韓茶園",
+          "綠茶田"
+        ],
+        "다빈치호텔 순천": [
+          "達文西飯店順天",
+          "飯店住宿"
         ]
       },
-      "src": "ac0d04002b"
+      "src": "8bc0ed1137"
     },
     "gyeongbuk": {
       "foods": [
         "安東燉雞",
-        "皇理團路美食",
-        "浦項冷湯生魚片"
+        "皇理團街美食",
+        "浦項水回"
       ],
       "spots": [
         "佛國寺",
-        "國立慶州博物館",
-        "皇理團路",
+        "慶州國立博物館",
+        "皇理團街",
         "河回村"
       ],
       "places": {
@@ -1822,23 +2230,23 @@
         ],
         "안동 하회마을": [
           "安東河回村",
-          "聯合國教科文組織民俗村"
+          "聯合國教科文組織世界遺產民俗村"
         ],
         "골굴사": [
           "骨窟寺",
-          "禪武道與寺廟寄宿"
+          "禪武道與寺廟住宿"
         ],
         "진량돼지찌개 (경산)": [
-          "珍良豬肉鍋（慶山）",
+          "鎮良豬肉鍋（慶山）",
           "豬肉鍋"
         ],
         "도산식육식당 (구미)": [
-          "陶山食肉食堂（龜尾）",
+          "道山肉食堂（龜尾）",
           "蒜香豬肉鍋"
         ],
         "우현해물찜 (포항)": [
-          "友賢海鮮燉（浦項）",
-          "辣燉鮟鱇魚"
+          "牛縣海鮮燉（浦項）",
+          "燉鮟鱇魚"
         ],
         "불국사": [
           "佛國寺",
@@ -1853,11 +2261,71 @@
           "夜景景點"
         ],
         "황남빵": [
-          "皇南餅（慶州）",
-          "皇南紅豆餅"
+          "皇南麵包（慶州麵包店）",
+          "皇南紅豆麵包"
+        ],
+        "올리비 카페": [
+          "Olivee咖啡",
+          "咖啡廳"
+        ],
+        "월정교": [
+          "月精橋",
+          "復原的新羅時代橋樑"
+        ],
+        "황리단길": [
+          "皇理團街（金色街）",
+          "咖啡與商店街"
+        ],
+        "부시 카페": [
+          "Bush咖啡",
+          "蛋糕"
+        ],
+        "사다함": [
+          "沙多含（韓屋住宿）",
+          "透過Airbnb預訂的韓屋住宿"
+        ],
+        "도와당": [
+          "道瓦當",
+          "韓式餐廳"
+        ],
+        "오마모리 경주": [
+          "Omamori 慶州",
+          "抹茶甜點"
+        ],
+        "경주 월성": [
+          "慶州月城遺址",
+          "新羅宮殿遺址"
+        ],
+        "카페 1984": [
+          "咖啡1984",
+          "咖啡廳"
+        ],
+        "금관총": [
+          "金冠塚",
+          "新羅王陵"
+        ],
+        "아덴 카페": [
+          "Aden咖啡",
+          "咖啡廳"
+        ],
+        "한옥문스테이": [
+          "韓屋 Moonstay",
+          "慶州傳統韓屋住宿"
+        ],
+        "카페 다시봄": [
+          "咖啡多西春",
+          "附庭院的溫馨咖啡廳"
+        ],
+        "석굴암": [
+          "石窟庵",
+          "著名石窟"
+        ],
+        "경주 교촌마을": [
+          "慶州校村",
+          "擁有韓屋的傳統村落"
         ]
       },
-      "src": "2ce4e48800"
+      "src": "35d66fd04c"
     },
     "daegu": {
       "foods": [
@@ -2359,7 +2827,7 @@
       ],
       "spots": [
         "Sungsimdang (Daejeon)",
-        "Baekje Cultural Land",
+        "Parque Cultural Baekje",
         "Fortaleza Gongsanseong",
         "Danyang"
       ],
@@ -2370,19 +2838,19 @@
         ],
         "행복분식 (대전)": [
           "Haengbok Bunsik (Daejeon)",
-          "Jjolmyeon, empanadillas"
+          "Jjolmyeon y mandu"
         ],
         "토종마을 (음성 감곡시장)": [
           "Tojong Maeul (Eumseong)",
           "Sopa de cerdo con arroz"
         ],
         "백제문화단지 (부여)": [
-          "Baekje Cultural Land (Buyeo)",
-          "Palacio de Baekje reconstruido"
+          "Parque Cultural Baekje (Buyeo)",
+          "Palacio Baekje reconstruido"
         ],
         "할매묵은지지짐이 (천안)": [
           "Halmae Mugeunji Jijimi (Cheonan)",
-          "Kimchi añejo estofado"
+          "Kimchi viejo estofado"
         ],
         "우암설렁탕 (청주)": [
           "Uam Seolleongtang (Cheongju)",
@@ -2390,22 +2858,30 @@
         ],
         "월성집 (제천)": [
           "Wolseongjip (Jecheon)",
-          "Ensalada picante de calamar"
+          "Ensalada de calamar picante"
+        ],
+        "장태산자연휴양림": [
+          "Bosque Recreativo Jangtaesan",
+          "Paseo tranquilo por el bosque"
+        ],
+        "한빛탑": [
+          "Torre Hanbit",
+          "Torre emblemática de Daejeon"
         ]
       },
-      "src": "f286f972d5"
+      "src": "6aa905b227"
     },
     "jeonbuk": {
       "foods": [
         "Bibimbap de Jeonju",
         "Tteokgalbi",
         "Hanjeongsik",
-        "Platos del callejón del makgeolli"
+        "Platos del callejón de makgeolli"
       ],
       "spots": [
         "Aldea Hanok de Jeonju",
         "Santuario Gyeonggijeon",
-        "Mercado nocturno de Nambu"
+        "Mercado nocturno Nambu"
       ],
       "places": {
         "전주 한옥마을": [
@@ -2414,14 +2890,54 @@
         ],
         "시골순대 (진안)": [
           "Sigol Sundae (Jinan)",
-          "Sundae gukbap (abre ~3 h al día)"
+          "Gukbap de sundae (abierto unas 3 h al día)"
         ],
         "경기전": [
           "Santuario Gyeonggijeon",
           "Santuario histórico de la era Joseon"
+        ],
+        "한옥 호텔": [
+          "Hotel Hanok",
+          "Estancia en hanok tradicional"
+        ],
+        "한국집": [
+          "Hankook Jib",
+          "Bibimbap de Jeonju con carne cruda marinada"
+        ],
+        "남부시장": [
+          "Mercado Nambu",
+          "Comida callejera en mercado tradicional"
+        ],
+        "풍년제과 (PNB)": [
+          "Panadería PNB (Pungnyeon Jegwa)",
+          "Choco Pie"
+        ],
+        "다우랑 (만두)": [
+          "Da Urang Mandu",
+          "Mandu"
+        ],
+        "교동떡갈비": [
+          "Tteokgalbi Gyodong",
+          "Tteokgalbi (hamburguesas de costilla a la parrilla)"
+        ],
+        "외할머니솜씨": [
+          "Cafetería Oehalmeonisomssi",
+          "Cafetería"
+        ],
+        "자만벽화마을": [
+          "Aldea de murales Jaman (Aldea de murales humanos)",
+          "Aldea de murales"
+        ],
+        "국립전주박물관": [
+          "Museo Nacional de Jeonju",
+          "Museo"
+        ],
+        "덕진공원": [
+          "Parque Deokjin",
+          "Vistas al atardecer"
         ]
       },
-      "src": "e7d738cc21"
+      "src": "5808bcb892"
     },
     "jeonnam": {
       "foods": [
@@ -2439,11 +2955,11 @@
       "places": {
         "순천만습지": [
           "Humedal de Suncheonman",
-          "Campos de cañas y humedales"
+          "Campos de juncos y humedales"
         ],
         "낙안읍성": [
-          "Aldea fortificada de Naganeupseong",
-          "Aldea de la época Joseon"
+          "Aldea fortificada Naganeupseong",
+          "Aldea de la era Joseon"
         ],
         "담양 죽녹원": [
           "Juknokwon de Damyang",
@@ -2451,19 +2967,19 @@
         ],
         "청보석 (곡성)": [
           "Cheongboseok (Gokseong)",
-          "Kongguksu (fideos fríos de soja)"
+          "Kongguksu (fideos de soja fríos)"
         ],
         "신성식당 (고흥 녹동)": [
           "Sinseong Sikdang (Goheung)",
           "Platos de pulpo (de temporada)"
         ],
         "돌집식당": [
-          "Doljip Sikdang (restaurante de comidas coreanas en Mokpo)",
-          "Menú baekban con 17 acompañamientos"
+          "Doljip Sikdang (restaurante coreano en Mokpo)",
+          "Baekban con 17 acompañamientos"
         ],
         "석곡 전통 시장": [
-          "Mercado tradicional de Seokgok",
-          "Mercado tradicional de Gokseong que conserva su carácter de antaño"
+          "Mercado tradicional Seokgok",
+          "Mercado tradicional de Gokseong que conserva su encanto antiguo"
         ],
         "여수 해상케이블카": [
           "Teleférico marítimo de Yeosu",
@@ -2472,21 +2988,69 @@
         "오동도": [
           "Isla Odongdo",
           "Árbol de los deseos"
+        ],
+        "나무애그림 카페": [
+          "Cafetería Namuaegeurim",
+          "Bebidas, recuerdos artesanales, vistas a Odongdo"
+        ],
+        "이순신광장": [
+          "Plaza Yi Sun-sin",
+          "Réplica del barco tortuga, entrada gratuita"
+        ],
+        "아쿠아플라넷 여수": [
+          "Aqua Planet Yeosu",
+          "Acuario con belugas y focas"
+        ],
+        "하멜등대 & 하멜기념관": [
+          "Faro y Museo Hamel",
+          "Historia del marinero neerlandés Hendrick Hamel"
+        ],
+        "향일암": [
+          "Templo Hyangiram",
+          "Templo en acantilado famoso por sus amaneceres"
+        ],
+        "천사벽화마을": [
+          "Aldea de murales Angel",
+          "Callejones de murales coloridos y cafeterías"
+        ],
+        "여수 수산시장": [
+          "Mercado de pescado de Yeosu",
+          "Mariscos frescos"
+        ],
+        "여수항": [
+          "Puerto de Yeosu",
+          "Restaurantes de mariscos junto al puerto"
+        ],
+        "여수 구항 해양공원": [
+          "Parque marino Yeosu Guhang",
+          "Zona costera con restaurantes de mariscos"
+        ],
+        "순천만국가정원": [
+          "Jardín Nacional de Suncheon Bay",
+          "Paseo por el jardín nacional"
+        ],
+        "보성 대한다원": [
+          "Plantación de té verde Daehan Dawon (Boseong)",
+          "Plantación de té verde"
+        ],
+        "다빈치호텔 순천": [
+          "Hotel Da Vinci Suncheon",
+          "Estancia en hotel"
         ]
       },
-      "src": "ac0d04002b"
+      "src": "8bc0ed1137"
     },
     "gyeongbuk": {
       "foods": [
         "Jjimdak de Andong",
-        "Comida en Hwangnidan-gil",
+        "Comida de Hwangnidan-gil",
         "Mulhoe de Pohang"
       ],
       "spots": [
         "Templo Bulguksa",
         "Museo Nacional de Gyeongju",
         "Hwangnidan-gil",
-        "Aldea Hahoe"
+        "Aldea de Hahoe"
       ],
       "places": {
         "국립경주박물관": [
@@ -2494,20 +3058,20 @@
           "Coronas de oro de Silla"
         ],
         "안동 하회마을": [
-          "Aldea Hahoe de Andong",
-          "Aldea folclórica de la UNESCO"
+          "Aldea de Hahoe de Andong",
+          "Aldea popular declarada por la UNESCO"
         ],
         "골굴사": [
           "Templo Golgulsa",
-          "Sunmudo y templestay"
+          "Sunmudo y estancia en templo"
         ],
         "진량돼지찌개 (경산)": [
           "Jinryang Dwaeji Jjigae (Gyeongsan)",
-          "Guiso de cerdo"
+          "Estofado de cerdo"
         ],
         "도산식육식당 (구미)": [
           "Dosan Sigyuk Sikdang (Gumi)",
-          "Guiso de cerdo con ajo"
+          "Estofado de cerdo con mucho ajo"
         ],
         "우현해물찜 (포항)": [
           "Uhyeon Haemuljjim (Pohang)",
@@ -2519,18 +3083,78 @@
         ],
         "첨성대": [
           "Observatorio Cheomseongdae",
-          "Vistas nocturnas de Silla"
+          "Vistas nocturnas de la era Silla"
         ],
         "동궁과 월지": [
-          "Palacio Donggung y estanque Wolji",
-          "Mirador nocturno"
+          "Palacio Donggung y Estanque Wolji",
+          "Lugar para ver la noche"
         ],
         "황남빵": [
-          "Pan Hwangnam (panadería de Gyeongju)",
-          "Pan de judía roja Hwangnam"
+          "Panadería Hwangnam (Gyeongju)",
+          "Pan de judías rojas Hwangnam"
+        ],
+        "올리비 카페": [
+          "Cafetería Olivee",
+          "Cafetería"
+        ],
+        "월정교": [
+          "Puente Woljeonggyo",
+          "Puente de la era Silla restaurado"
+        ],
+        "황리단길": [
+          "Hwangnidan-gil (Calle Dorada)",
+          "Calle de cafeterías y tiendas"
+        ],
+        "부시 카페": [
+          "Cafetería Bush",
+          "Pastel"
+        ],
+        "사다함": [
+          "Sadaham (estancia en hanok)",
+          "Estancia en hanok reservada en Airbnb"
+        ],
+        "도와당": [
+          "Dowadang",
+          "Restaurante coreano"
+        ],
+        "오마모리 경주": [
+          "Omamori Gyeongju",
+          "Postres de té matcha"
+        ],
+        "경주 월성": [
+          "Sitio del Palacio Wolseong",
+          "Sitio del palacio de Silla"
+        ],
+        "카페 1984": [
+          "Cafetería 1984",
+          "Cafetería"
+        ],
+        "금관총": [
+          "Tumba Geumgwanchong",
+          "Tumba real de Silla"
+        ],
+        "아덴 카페": [
+          "Cafetería Aden",
+          "Cafetería"
+        ],
+        "한옥문스테이": [
+          "Hanok Moonstay",
+          "Estancia en hanok tradicional en Gyeongju"
+        ],
+        "카페 다시봄": [
+          "Cafetería Dasi Bom",
+          "Acogedora cafetería con jardín"
+        ],
+        "석굴암": [
+          "Gruta Seokguram",
+          "Famosa gruta de piedra"
+        ],
+        "경주 교촌마을": [
+          "Aldea tradicional Gyochon",
+          "Aldea tradicional con casas hanok"
         ]
       },
-      "src": "2ce4e48800"
+      "src": "35d66fd04c"
     },
     "daegu": {
       "foods": [
@@ -3025,21 +3649,21 @@
     },
     "chungcheong": {
       "foods": [
-        "Boulangerie Sungsimdang",
+        "Pain Sungsimdang",
         "Makchang de Chungju",
         "Suyuk de Cheongju",
-        "Cuisine des marchés locaux"
+        "Cuisine de marché local"
       ],
       "spots": [
         "Sungsimdang (Daejeon)",
-        "Baekje Cultural Land",
+        "Parc culturel de Baekje",
         "Forteresse de Gongsanseong",
         "Danyang"
       ],
       "places": {
         "성심당": [
           "Boulangerie Sungsimdang",
-          "Pain soboro frit et plus"
+          "Pain frit soboro et plus"
         ],
         "행복분식 (대전)": [
           "Haengbok Bunsik (Daejeon)",
@@ -3050,30 +3674,38 @@
           "Soupe de porc avec riz"
         ],
         "백제문화단지 (부여)": [
-          "Baekje Cultural Land (Buyeo)",
+          "Parc culturel de Baekje (Buyeo)",
           "Palais de Baekje reconstitué"
         ],
         "할매묵은지지짐이 (천안)": [
           "Halmae Mugeunji Jijimi (Cheonan)",
-          "Kimchi vieilli mijoté"
+          "Kimchi vieilli braisé"
         ],
         "우암설렁탕 (청주)": [
           "Uam Seolleongtang (Cheongju)",
-          "Suyuk (4 assiettes par jour), seolleongtang"
+          "Suyuk (4 portions par jour), seolleongtang"
         ],
         "월성집 (제천)": [
           "Wolseongjip (Jecheon)",
           "Salade de calmar épicée"
+        ],
+        "장태산자연휴양림": [
+          "Forêt de loisirs de Jangtaesan",
+          "Promenade calme en forêt"
+        ],
+        "한빛탑": [
+          "Tour Hanbit",
+          "Tour emblématique de Daejeon"
         ]
       },
-      "src": "f286f972d5"
+      "src": "6aa905b227"
     },
     "jeonbuk": {
       "foods": [
         "Bibimbap de Jeonju",
         "Tteokgalbi",
         "Hanjeongsik",
-        "Plats de la ruelle du makgeolli"
+        "Plats de l'allée du makgeolli"
       ],
       "spots": [
         "Village hanok de Jeonju",
@@ -3083,25 +3715,65 @@
       "places": {
         "전주 한옥마을": [
           "Village hanok de Jeonju",
-          "Bibimbap, cuisine de rue, hanbok"
+          "Bibimbap, street food, hanbok"
         ],
         "시골순대 (진안)": [
           "Sigol Sundae (Jinan)",
-          "Sundae gukbap (ouvert ~3 h par jour)"
+          "Gukbap de sundae (ouvert environ 3 h par jour)"
         ],
         "경기전": [
           "Sanctuaire Gyeonggijeon",
           "Sanctuaire historique de l'époque Joseon"
+        ],
+        "한옥 호텔": [
+          "Hôtel hanok",
+          "Séjour en hanok traditionnel"
+        ],
+        "한국집": [
+          "Hankook Jib",
+          "Bibimbap de Jeonju à la viande crue marinée"
+        ],
+        "남부시장": [
+          "Marché Nambu",
+          "Street food du marché traditionnel"
+        ],
+        "풍년제과 (PNB)": [
+          "Boulangerie PNB (Pungnyeon Jegwa)",
+          "Choco Pie"
+        ],
+        "다우랑 (만두)": [
+          "Raviolis Da Urang",
+          "Raviolis"
+        ],
+        "교동떡갈비": [
+          "Gyodong Tteokgalbi",
+          "Tteokgalbi (galettes de côtes grillées)"
+        ],
+        "외할머니솜씨": [
+          "Café Oehalmeonisomssi",
+          "Café"
+        ],
+        "자만벽화마을": [
+          "Village de fresques de Jaman (Village des fresques humaines)",
+          "Village de fresques"
+        ],
+        "국립전주박물관": [
+          "Musée national de Jeonju",
+          "Musée"
+        ],
+        "덕진공원": [
+          "Parc Deokjin",
+          "Vue sur le coucher du soleil"
         ]
       },
-      "src": "e7d738cc21"
+      "src": "5808bcb892"
     },
     "jeonnam": {
       "foods": [
         "Crabe de Yeosu à la sauce soja",
-        "Mokpo jung-kkan et hongeo",
+        "Jung-kkan et hongeo de Mokpo",
         "Tteokgalbi de Damyang",
-        "Hanjeongsik de Namdo"
+        "Hanjeongsik du Namdo"
       ],
       "spots": [
         "Téléphérique maritime de Yeosu",
@@ -3131,28 +3803,76 @@
           "Plats de poulpe (selon la saison)"
         ],
         "돌집식당": [
-          "Doljip Sikdang (restaurant de repas coréen à Mokpo)",
-          "Repas baekban avec 17 accompagnements"
+          "Doljip Sikdang (restaurant coréen de menus complets à Mokpo)",
+          "Menu complet baekban avec 17 accompagnements"
         ],
         "석곡 전통 시장": [
           "Marché traditionnel de Seokgok",
-          "Marché traditionnel de Gokseong qui conserve son caractère d'antan"
+          "Marché traditionnel de Gokseong qui conserve son caractère d'autrefois"
         ],
         "여수 해상케이블카": [
           "Téléphérique maritime de Yeosu",
-          "Téléphérique au sol vitré"
+          "Téléphérique à plancher de verre"
         ],
         "오동도": [
           "Île d'Odongdo",
           "Arbre des vœux"
+        ],
+        "나무애그림 카페": [
+          "Café Namuaegeurim",
+          "Boissons, souvenirs faits main, vue sur l'île d'Odongdo"
+        ],
+        "이순신광장": [
+          "Place Yi Sun-sin",
+          "Réplique du navire tortue, entrée libre"
+        ],
+        "아쿠아플라넷 여수": [
+          "Aqua Planet Yeosu",
+          "Aquarium avec bélugas et phoques"
+        ],
+        "하멜등대 & 하멜기념관": [
+          "Phare et musée Hamel",
+          "Histoire du marin néerlandais Hendrick Hamel"
+        ],
+        "향일암": [
+          "Temple Hyangiram",
+          "Temple en falaise célèbre pour ses levers de soleil"
+        ],
+        "천사벽화마을": [
+          "Village de fresques Angel",
+          "Ruelles de fresques colorées et cafés"
+        ],
+        "여수 수산시장": [
+          "Marché aux poissons de Yeosu",
+          "Fruits de mer frais"
+        ],
+        "여수항": [
+          "Port de Yeosu",
+          "Restaurants de fruits de mer au bord du port"
+        ],
+        "여수 구항 해양공원": [
+          "Parc maritime de Yeosu Guhang",
+          "Bord de mer avec restaurants de fruits de mer"
+        ],
+        "순천만국가정원": [
+          "Jardin national de la baie de Suncheon",
+          "Promenade dans le jardin national"
+        ],
+        "보성 대한다원": [
+          "Plantation de thé vert Daehan Dawon de Boseong",
+          "Plantation de thé vert"
+        ],
+        "다빈치호텔 순천": [
+          "Hôtel Da Vinci Suncheon",
+          "Séjour à l'hôtel"
         ]
       },
-      "src": "ac0d04002b"
+      "src": "8bc0ed1137"
     },
     "gyeongbuk": {
       "foods": [
         "Jjimdak d'Andong",
-        "Spécialités de Hwangnidan-gil",
+        "Plats de la rue Hwangnidan",
         "Mulhoe de Pohang"
       ],
       "spots": [
@@ -3167,12 +3887,12 @@
           "Couronnes en or de Silla"
         ],
         "안동 하회마을": [
-          "Village de Hahoe (Andong)",
-          "Village folklorique classé à l'UNESCO"
+          "Village de Hahoe à Andong",
+          "Village folklorique classé par l'UNESCO"
         ],
         "골굴사": [
           "Temple Golgulsa",
-          "Sunmudo et templestay"
+          "Sunmudo et séjour au temple"
         ],
         "진량돼지찌개 (경산)": [
           "Jinryang Dwaeji Jjigae (Gyeongsan)",
@@ -3184,26 +3904,86 @@
         ],
         "우현해물찜 (포항)": [
           "Uhyeon Haemuljjim (Pohang)",
-          "Lotte mijotée"
+          "Lotte braisée"
         ],
         "불국사": [
           "Temple Bulguksa",
           "Pagodes Seokgatap et Dabotap"
         ],
         "첨성대": [
-          "Observatoire de Cheomseongdae",
-          "Vues nocturnes de Silla"
+          "Observatoire Cheomseongdae",
+          "Vues nocturnes de l'époque Silla"
         ],
         "동궁과 월지": [
           "Palais Donggung et étang Wolji",
-          "Spot de vue nocturne"
+          "Lieu de vue nocturne"
         ],
         "황남빵": [
-          "Hwangnam Bread (boulangerie de Gyeongju)",
-          "Pain Hwangnam aux haricots rouges"
+          "Boulangerie Hwangnam Bread (Gyeongju)",
+          "Pain fourré à la pâte de haricot rouge Hwangnam"
+        ],
+        "올리비 카페": [
+          "Café Olivee",
+          "Café"
+        ],
+        "월정교": [
+          "Pont Woljeonggyo",
+          "Pont de l'époque Silla restauré"
+        ],
+        "황리단길": [
+          "Hwangnidan-gil (rue dorée)",
+          "Rue de cafés et de boutiques"
+        ],
+        "부시 카페": [
+          "Café Bush",
+          "Gâteau"
+        ],
+        "사다함": [
+          "Sadaham (séjour en hanok)",
+          "Séjour en hanok réservé sur Airbnb"
+        ],
+        "도와당": [
+          "Dowadang",
+          "Restaurant coréen"
+        ],
+        "오마모리 경주": [
+          "Omamori Gyeongju",
+          "Desserts au matcha"
+        ],
+        "경주 월성": [
+          "Site du palais de Wolseong",
+          "Site du palais de Silla"
+        ],
+        "카페 1984": [
+          "Café 1984",
+          "Café"
+        ],
+        "금관총": [
+          "Tumulus Geumgwanchong",
+          "Tombe royale de Silla"
+        ],
+        "아덴 카페": [
+          "Café Aden",
+          "Café"
+        ],
+        "한옥문스테이": [
+          "Moonstay hanok",
+          "Séjour en hanok traditionnel à Gyeongju"
+        ],
+        "카페 다시봄": [
+          "Café Dasi Bom",
+          "Café chaleureux avec jardin"
+        ],
+        "석굴암": [
+          "Grotte de Seokguram",
+          "Célèbre grotte de pierre"
+        ],
+        "경주 교촌마을": [
+          "Village traditionnel de Gyochon",
+          "Village traditionnel avec maisons hanok"
         ]
       },
-      "src": "2ce4e48800"
+      "src": "35d66fd04c"
     },
     "daegu": {
       "foods": [
@@ -3698,20 +4478,20 @@
     },
     "chungcheong": {
       "foods": [
-        "Bäckerei Sungsimdang",
-        "Chungju-Makchang",
-        "Cheongju-Suyuk",
-        "Lokales Marktessen"
+        "Sungsimdang-Gebäck",
+        "Chungju Makchang",
+        "Cheongju Suyuk",
+        "Essen vom lokalen Markt"
       ],
       "spots": [
         "Sungsimdang (Daejeon)",
-        "Baekje Cultural Land",
+        "Baekje-Kulturland",
         "Festung Gongsanseong",
         "Danyang"
       ],
       "places": {
         "성심당": [
-          "Bäckerei Sungsimdang",
+          "Sungsimdang Bäckerei",
           "Frittiertes Soboro-Brot und mehr"
         ],
         "행복분식 (대전)": [
@@ -3720,43 +4500,51 @@
         ],
         "토종마을 (음성 감곡시장)": [
           "Tojong Maeul (Eumseong)",
-          "Schweinefleischsuppe mit Reis"
+          "Schweinesuppe mit Reis"
         ],
         "백제문화단지 (부여)": [
-          "Baekje Cultural Land (Buyeo)",
+          "Baekje-Kulturland (Buyeo)",
           "Rekonstruierter Baekje-Palast"
         ],
         "할매묵은지지짐이 (천안)": [
           "Halmae Mugeunji Jijimi (Cheonan)",
-          "Geschmortes gereiftes Kimchi"
+          "Geschmorter gereifter Kimchi"
         ],
         "우암설렁탕 (청주)": [
           "Uam Seolleongtang (Cheongju)",
-          "Suyuk (4 Teller pro Tag), Seolleongtang"
+          "Suyuk (täglich 4 Portionen), Seolleongtang"
         ],
         "월성집 (제천)": [
           "Wolseongjip (Jecheon)",
           "Scharfer Tintenfischsalat"
+        ],
+        "장태산자연휴양림": [
+          "Jangtaesan Naturerholungswald",
+          "Ruhiger Naturspaziergang im Wald"
+        ],
+        "한빛탑": [
+          "Hanbit-Turm",
+          "Wahrzeichen von Daejeon"
         ]
       },
-      "src": "f286f972d5"
+      "src": "6aa905b227"
     },
     "jeonbuk": {
       "foods": [
-        "Jeonju-Bibimbap",
+        "Jeonju Bibimbap",
         "Tteokgalbi",
         "Hanjeongsik",
         "Gerichte aus der Makgeolli-Gasse"
       ],
       "spots": [
-        "Jeonju Hanok Village",
-        "Gyeonggijeon-Schrein",
+        "Hanok-Dorf Jeonju",
+        "Schrein Gyeonggijeon",
         "Nambu-Nachtmarkt"
       ],
       "places": {
         "전주 한옥마을": [
-          "Jeonju Hanok Village",
-          "Bibimbap, Streetfood, Hanbok"
+          "Hanok-Dorf Jeonju",
+          "Bibimbap, Straßenessen, Hanbok"
         ],
         "시골순대 (진안)": [
           "Sigol Sundae (Jinan)",
@@ -3765,30 +4553,70 @@
         "경기전": [
           "Gyeonggijeon-Schrein",
           "Historischer Schrein aus der Joseon-Zeit"
+        ],
+        "한옥 호텔": [
+          "Hanok-Hotel",
+          "Übernachtung im traditionellen Hanok"
+        ],
+        "한국집": [
+          "Hankook Jib",
+          "Bibimbap Jeonju mit mariniertem rohem Fleisch"
+        ],
+        "남부시장": [
+          "Nambu-Markt",
+          "Traditioneller Markt mit Straßenessen"
+        ],
+        "풍년제과 (PNB)": [
+          "PNB Bäckerei (Pungnyeon Jegwa)",
+          "Choco Pie"
+        ],
+        "다우랑 (만두)": [
+          "Da Urang Teigtaschen",
+          "Teigtaschen"
+        ],
+        "교동떡갈비": [
+          "Gyodong Tteokgalbi",
+          "Tteokgalbi (gegrillte Rippchen-Patties)"
+        ],
+        "외할머니솜씨": [
+          "Café Oehalmeonisomssi",
+          "Café"
+        ],
+        "자만벽화마을": [
+          "Jaman-Wandmalereidorf (Menschliches Wandmalereidorf)",
+          "Wandmalereidorf"
+        ],
+        "국립전주박물관": [
+          "Nationalmuseum Jeonju",
+          "Museum"
+        ],
+        "덕진공원": [
+          "Deokjin-Park",
+          "Sonnenuntergang genießen"
         ]
       },
-      "src": "e7d738cc21"
+      "src": "5808bcb892"
     },
     "jeonnam": {
       "foods": [
-        "Yeosu-Krabben in Sojasauce",
+        "Krabben in Sojasauce aus Yeosu",
         "Mokpo Jung-kkan & Hongeo",
         "Damyang Tteokgalbi",
         "Namdo Hanjeongsik"
       ],
       "spots": [
-        "Yeosu Maritime Seilbahn",
+        "Yeosu Seilbahn über dem Meer",
         "Suncheonman-Bucht",
         "Naganeupseong",
         "Damyang Juknokwon"
       ],
       "places": {
         "순천만습지": [
-          "Suncheonman-Bucht Feuchtgebiet",
-          "Schilffelder & Feuchtgebiete"
+          "Feuchtgebiet Suncheonman-Bucht",
+          "Schilffelder und Feuchtgebiete"
         ],
         "낙안읍성": [
-          "Naganeupseong Volksdorf",
+          "Naganeupseong-Dorf",
           "Dorf aus der Joseon-Zeit"
         ],
         "담양 죽녹원": [
@@ -3808,52 +4636,100 @@
           "Baekban-Menü mit 17 Beilagen"
         ],
         "석곡 전통 시장": [
-          "Seokgok-Traditionsmarkt",
+          "Seokgok Traditioneller Markt",
           "Traditioneller Markt in Gokseong mit altem Charme"
         ],
         "여수 해상케이블카": [
-          "Yeosu Maritime Seilbahn",
-          "Seilbahn mit Glasboden"
+          "Seilbahn Yeosu",
+          "Seilbahn mit Glasboden über dem Meer"
         ],
         "오동도": [
-          "Odongdo-Insel",
+          "Insel Odongdo",
           "Wunschbaum"
+        ],
+        "나무애그림 카페": [
+          "Namuaegeurim Café",
+          "Getränke, handgemachte Souvenirs, Blick auf Odongdo"
+        ],
+        "이순신광장": [
+          "Yi-Sun-sin-Platz",
+          "Kostenloser Zutritt zur Nachbildung des Schildkrötenschiffs"
+        ],
+        "아쿠아플라넷 여수": [
+          "Aqua Planet Yeosu",
+          "Aquarium mit Belugawalen und Robben"
+        ],
+        "하멜등대 & 하멜기념관": [
+          "Hamel-Leuchtturm & Hamel-Museum",
+          "Geschichte des niederländischen Seemanns Hendrick Hamel"
+        ],
+        "향일암": [
+          "Tempel Hyangiram",
+          "Klippentempel, berühmt für Sonnenaufgang"
+        ],
+        "천사벽화마을": [
+          "Engel-Wandmalereidorf",
+          "Bunte Wandmalereigassen und Cafés"
+        ],
+        "여수 수산시장": [
+          "Fischmarkt Yeosu",
+          "Frische Meeresfrüchte"
+        ],
+        "여수항": [
+          "Hafen Yeosu",
+          "Meeresfrüchte-Restaurants am Hafen"
+        ],
+        "여수 구항 해양공원": [
+          "Meerespark Guhang Yeosu",
+          "Küstengebiet mit Meeresfrüchte-Lokalen"
+        ],
+        "순천만국가정원": [
+          "Nationalgarten Suncheon-Bucht",
+          "Spaziergang durch den Nationalgarten"
+        ],
+        "보성 대한다원": [
+          "Boseong Grüner Tee Daehan Dawon",
+          "Grüne Teeplantage"
+        ],
+        "다빈치호텔 순천": [
+          "Da-Vinci-Hotel Suncheon",
+          "Übernachtung im Hotel"
         ]
       },
-      "src": "ac0d04002b"
+      "src": "8bc0ed1137"
     },
     "gyeongbuk": {
       "foods": [
-        "Andong-Jjimdak",
+        "Andong Jjimdak",
         "Essen in der Hwangnidan-gil",
-        "Pohang-Mulhoe"
+        "Pohang Mulhoe"
       ],
       "spots": [
         "Bulguksa-Tempel",
-        "Gyeongju-Nationalmuseum",
+        "Nationalmuseum Gyeongju",
         "Hwangnidan-gil",
-        "Dorf Hahoe"
+        "Hahoe-Dorf"
       ],
       "places": {
         "국립경주박물관": [
-          "Gyeongju-Nationalmuseum",
-          "Goldkronen aus Silla"
+          "Nationalmuseum Gyeongju",
+          "Goldene Kronen der Silla"
         ],
         "안동 하회마을": [
-          "Volksdorf Hahoe (Andong)",
-          "UNESCO-Volksdorf"
+          "Andong Hahoe-Dorf",
+          "UNESCO-Dorf"
         ],
         "골굴사": [
-          "Golgulsa-Tempel",
-          "Sunmudo & Templestay"
+          "Tempel Golgulsa",
+          "Sunmudo und Tempelübernachtung"
         ],
         "진량돼지찌개 (경산)": [
           "Jinryang Dwaeji Jjigae (Gyeongsan)",
-          "Schweinefleischeintopf"
+          "Schweineeintopf"
         ],
         "도산식육식당 (구미)": [
           "Dosan Sigyuk Sikdang (Gumi)",
-          "Schweinefleischeintopf mit viel Knoblauch"
+          "Knoblauchiger Schweineeintopf"
         ],
         "우현해물찜 (포항)": [
           "Uhyeon Haemuljjim (Pohang)",
@@ -3864,19 +4740,79 @@
           "Pagoden Seokgatap und Dabotap"
         ],
         "첨성대": [
-          "Sternwarte Cheomseongdae",
-          "Silla bei Nacht"
+          "Observatorium Cheomseongdae",
+          "Nachtansicht aus der Silla-Zeit"
         ],
         "동궁과 월지": [
           "Donggung-Palast und Wolji-Teich",
-          "Nachtaussichtspunkt"
+          "Beliebter Ort für Nachtansichten"
         ],
         "황남빵": [
-          "Hwangnam-Brot (Bäckerei in Gyeongju)",
-          "Hwangnam-Brot mit roter Bohnenpaste"
+          "Hwangnam-Brot (Bäckerei Gyeongju)",
+          "Hwangnam-Brot mit roter Bohnenfüllung"
+        ],
+        "올리비 카페": [
+          "Olivee Café",
+          "Café"
+        ],
+        "월정교": [
+          "Woljeonggyo-Brücke",
+          "Restaurierte Brücke aus der Silla-Zeit"
+        ],
+        "황리단길": [
+          "Hwangnidan-gil (Goldene Straße)",
+          "Straße mit Cafés und Läden"
+        ],
+        "부시 카페": [
+          "Bush Café",
+          "Kuchen"
+        ],
+        "사다함": [
+          "Sadaham (Hanok-Unterkunft)",
+          "Hanok-Unterkunft über Airbnb buchbar"
+        ],
+        "도와당": [
+          "Dowadang",
+          "Koreanisches Restaurant"
+        ],
+        "오마모리 경주": [
+          "Omamori Gyeongju",
+          "Matcha-Desserts"
+        ],
+        "경주 월성": [
+          "Wolseong-Palastgelände Gyeongju",
+          "Palastgelände der Silla"
+        ],
+        "카페 1984": [
+          "Café 1984",
+          "Café"
+        ],
+        "금관총": [
+          "Geumgwanchong-Grabhügel",
+          "Königliches Grab der Silla"
+        ],
+        "아덴 카페": [
+          "Aden Café",
+          "Café"
+        ],
+        "한옥문스테이": [
+          "Hanok Moonstay",
+          "Traditionelle Hanok-Unterkunft in Gyeongju"
+        ],
+        "카페 다시봄": [
+          "Café Dasi Bom",
+          "Gemütliches Café mit Garten"
+        ],
+        "석굴암": [
+          "Seokguram-Grotte",
+          "Berühmte Steingrotte"
+        ],
+        "경주 교촌마을": [
+          "Gyochon-Dorf Gyeongju",
+          "Traditionelles Dorf mit Hanok-Häusern"
         ]
       },
-      "src": "2ce4e48800"
+      "src": "35d66fd04c"
     },
     "daegu": {
       "foods": [
@@ -4371,37 +5307,37 @@
     },
     "chungcheong": {
       "foods": [
-        "Tiệm bánh Sungsimdang",
+        "Bánh Sungsimdang",
         "Makchang Chungju",
         "Suyuk Cheongju",
-        "Món ăn chợ địa phương"
+        "Đồ ăn chợ địa phương"
       ],
       "spots": [
         "Sungsimdang (Daejeon)",
-        "Khu Văn hóa Bách Tế",
-        "Thành Gongsanseong",
+        "Khu văn hóa Baekje",
+        "Pháo đài Gongsanseong",
         "Danyang"
       ],
       "places": {
         "성심당": [
           "Tiệm bánh Sungsimdang",
-          "Bánh soboro chiên và nhiều loại khác"
+          "Bánh mì chiên nhân soboro và nhiều loại khác"
         ],
         "행복분식 (대전)": [
           "Haengbok Bunsik (Daejeon)",
-          "Mì jjolmyeon, bánh bao"
+          "Jjolmyeon, bánh bao nhân"
         ],
         "토종마을 (음성 감곡시장)": [
           "Tojong Maeul (Eumseong)",
-          "Canh thịt heo ăn kèm cơm"
+          "Canh thịt heo ăn với cơm"
         ],
         "백제문화단지 (부여)": [
-          "Khu Văn hóa Bách Tế (Buyeo)",
-          "Cung điện Bách Tế được phục dựng"
+          "Khu văn hóa Baekje (Buyeo)",
+          "Cung điện Baekje được tái hiện"
         ],
         "할매묵은지지짐이 (천안)": [
           "Halmae Mugeunji Jijimi (Cheonan)",
-          "Kim chi lâu năm om"
+          "Kimchi cũ hầm"
         ],
         "우암설렁탕 (청주)": [
           "Uam Seolleongtang (Cheongju)",
@@ -4410,42 +5346,90 @@
         "월성집 (제천)": [
           "Wolseongjip (Jecheon)",
           "Gỏi mực cay"
+        ],
+        "장태산자연휴양림": [
+          "Rừng nghỉ dưỡng Jangtaesan",
+          "Đi bộ yên tĩnh trong rừng thiên nhiên"
+        ],
+        "한빛탑": [
+          "Tháp Hanbit",
+          "Tháp biểu tượng của Daejeon"
         ]
       },
-      "src": "f286f972d5"
+      "src": "6aa905b227"
     },
     "jeonbuk": {
       "foods": [
         "Bibimbap Jeonju",
         "Tteokgalbi",
-        "Hanjeongsik (cơm truyền thống)",
-        "Món ăn hẻm makgeolli"
+        "Hanjeongsik",
+        "Món ăn ngõ makgeolli"
       ],
       "spots": [
         "Làng Hanok Jeonju",
-        "Điện Gyeonggijeon",
+        "Đền Gyeonggijeon",
         "Chợ đêm Nambu"
       ],
       "places": {
         "전주 한옥마을": [
           "Làng Hanok Jeonju",
-          "Bibimbap, đồ ăn đường phố, hanbok"
+          "Bibimbap, đồ ăn đường phố, thuê hanbok"
         ],
         "시골순대 (진안)": [
           "Sigol Sundae (Jinan)",
-          "Canh sundae gukbap (mở khoảng 3 tiếng mỗi ngày)"
+          "Canh sundae (mở khoảng 3 giờ mỗi ngày)"
         ],
         "경기전": [
-          "Điện Gyeonggijeon",
+          "Gyeonggijeon",
           "Đền lịch sử thời Joseon"
+        ],
+        "한옥 호텔": [
+          "Khách sạn Hanok",
+          "Lưu trú hanok truyền thống"
+        ],
+        "한국집": [
+          "Hankook Jib",
+          "Bibimbap Jeonju với thịt sống ướp"
+        ],
+        "남부시장": [
+          "Chợ Nambu",
+          "Đồ ăn đường phố tại chợ truyền thống"
+        ],
+        "풍년제과 (PNB)": [
+          "Bánh PNB (Pungnyeon Jegwa)",
+          "Choco Pie"
+        ],
+        "다우랑 (만두)": [
+          "Da Urang Dumplings",
+          "Bánh bao"
+        ],
+        "교동떡갈비": [
+          "Gyodong Tteokgalbi",
+          "Tteokgalbi (sườn nướng viên)"
+        ],
+        "외할머니솜씨": [
+          "Quán cà phê Oehalmeonisomssi",
+          "Quán cà phê"
+        ],
+        "자만벽화마을": [
+          "Làng tranh tường Jaman (Làng tranh tường người)",
+          "Làng tranh tường"
+        ],
+        "국립전주박물관": [
+          "Bảo tàng Quốc lập Jeonju",
+          "Bảo tàng"
+        ],
+        "덕진공원": [
+          "Công viên Deokjin",
+          "Ngắm hoàng hôn"
         ]
       },
-      "src": "e7d738cc21"
+      "src": "5808bcb892"
     },
     "jeonnam": {
       "foods": [
-        "Cua Yeosu nấu nước tương",
-        "Jung-kkan & hongeo Mokpo",
+        "Cua Yeosu ngâm nước tương",
+        "Mokpo jung-kkan & hongeo",
         "Tteokgalbi Damyang",
         "Hanjeongsik Namdo"
       ],
@@ -4457,12 +5441,12 @@
       ],
       "places": {
         "순천만습지": [
-          "Đầm lầy Suncheonman",
-          "Cánh đồng lau sậy & đầm lầy"
+          "Đầm lầy vịnh Suncheonman",
+          "Cánh đồng lau sậy và đầm lầy"
         ],
         "낙안읍성": [
           "Làng cổ Naganeupseong",
-          "Làng cổ thời Joseon"
+          "Làng thời Joseon"
         ],
         "담양 죽녹원": [
           "Damyang Juknokwon",
@@ -4474,11 +5458,11 @@
         ],
         "신성식당 (고흥 녹동)": [
           "Sinseong Sikdang (Goheung)",
-          "Các món bạch tuộc (theo mùa)"
+          "Món bạch tuộc (theo mùa)"
         ],
         "돌집식당": [
-          "Doljip Sikdang (nhà hàng cơm hàn quốc ở Mokpo)",
-          "Suất baekban với 17 món phụ"
+          "Doljip Sikdang (bữa ăn Hàn Quốc ở Mokpo)",
+          "Bữa baekban với 17 món phụ"
         ],
         "석곡 전통 시장": [
           "Chợ truyền thống Seokgok",
@@ -4486,31 +5470,79 @@
         ],
         "여수 해상케이블카": [
           "Cáp treo biển Yeosu",
-          "Cáp treo sàn kính nhìn biển"
+          "Cáp treo có sàn kính"
         ],
         "오동도": [
           "Đảo Odongdo",
           "Cây ước nguyện"
+        ],
+        "나무애그림 카페": [
+          "Quán cà phê Namuaegeurim",
+          "Đồ uống, quà lưu niệm thủ công, view đảo Odongdo"
+        ],
+        "이순신광장": [
+          "Quảng trường Yi Sun-sin",
+          "Mô hình tàu rùa, vào cửa miễn phí"
+        ],
+        "아쿠아플라넷 여수": [
+          "Aqua Planet Yeosu",
+          "Thủy cung có cá voi beluga và hải cẩu"
+        ],
+        "하멜등대 & 하멜기념관": [
+          "Hải đăng Hamel & Bảo tàng Hamel",
+          "Câu chuyện về thủy thủ Hà Lan Hendrick Hamel"
+        ],
+        "향일암": [
+          "Chùa Hyangiram",
+          "Chùa trên vách núi nổi tiếng ngắm bình minh"
+        ],
+        "천사벽화마을": [
+          "Làng tranh tường Thiên Sứ",
+          "Ngõ tranh tường nhiều màu và quán cà phê"
+        ],
+        "여수 수산시장": [
+          "Chợ hải sản Yeosu",
+          "Hải sản tươi"
+        ],
+        "여수항": [
+          "Cảng Yeosu",
+          "Nhà hàng hải sản ven cảng"
+        ],
+        "여수 구항 해양공원": [
+          "Công viên biển Guhang Yeosu",
+          "Khu ven biển có quán hải sản"
+        ],
+        "순천만국가정원": [
+          "Vườn quốc gia Suncheon Bay",
+          "Đi dạo trong vườn quốc gia"
+        ],
+        "보성 대한다원": [
+          "Đồi trà xanh Boseong Daehan Dawon",
+          "Đồn điền trà xanh"
+        ],
+        "다빈치호텔 순천": [
+          "Khách sạn Da Vinci Suncheon",
+          "Lưu trú khách sạn"
         ]
       },
-      "src": "ac0d04002b"
+      "src": "8bc0ed1137"
     },
     "gyeongbuk": {
       "foods": [
         "Jjimdak Andong",
-        "Món ăn phố Hwangnidan-gil",
+        "Đồ ăn phố Hwangnidan",
         "Mulhoe Pohang"
       ],
       "spots": [
         "Chùa Bulguksa",
-        "Bảo tàng Quốc gia Gyeongju",
+        "Bảo tàng Quốc lập Gyeongju",
         "Hwangnidan-gil",
         "Làng Hahoe"
       ],
       "places": {
         "국립경주박물관": [
-          "Bảo tàng Quốc gia Gyeongju",
-          "Vương miện vàng Silla"
+          "Bảo tàng Quốc lập Gyeongju",
+          "Vương miện vàng thời Silla"
         ],
         "안동 하회마을": [
           "Làng Hahoe Andong",
@@ -4518,19 +5550,19 @@
         ],
         "골굴사": [
           "Chùa Golgulsa",
-          "Sunmudo & templestay"
+          "Sunmudo và lưu trú chùa"
         ],
         "진량돼지찌개 (경산)": [
           "Jinryang Dwaeji Jjigae (Gyeongsan)",
-          "Lẩu thịt heo"
+          "Canh thịt heo"
         ],
         "도산식육식당 (구미)": [
           "Dosan Sigyuk Sikdang (Gumi)",
-          "Lẩu thịt heo nhiều tỏi"
+          "Canh thịt heo nhiều tỏi"
         ],
         "우현해물찜 (포항)": [
           "Uhyeon Haemuljjim (Pohang)",
-          "Cá chày om cay"
+          "Cá mũi kim hầm"
         ],
         "불국사": [
           "Chùa Bulguksa",
@@ -4538,7 +5570,7 @@
         ],
         "첨성대": [
           "Đài thiên văn Cheomseongdae",
-          "Cảnh đêm Silla"
+          "Cảnh đêm thời Silla"
         ],
         "동궁과 월지": [
           "Cung Donggung và hồ Wolji",
@@ -4546,10 +5578,70 @@
         ],
         "황남빵": [
           "Bánh Hwangnam (tiệm bánh Gyeongju)",
-          "Bánh nhân đậu đỏ Hwangnam"
+          "Bánh đậu đỏ Hwangnam"
+        ],
+        "올리비 카페": [
+          "Quán cà phê Olivee",
+          "Quán cà phê"
+        ],
+        "월정교": [
+          "Cầu Woljeonggyo",
+          "Cầu thời Silla được phục dựng"
+        ],
+        "황리단길": [
+          "Hwangnidan-gil (Phố Vàng)",
+          "Phố quán cà phê và cửa hàng"
+        ],
+        "부시 카페": [
+          "Quán cà phê Bush",
+          "Bánh ngọt"
+        ],
+        "사다함": [
+          "Sadaham (lưu trú hanok)",
+          "Lưu trú hanok đặt qua Airbnb"
+        ],
+        "도와당": [
+          "Dowadang",
+          "Nhà hàng Hàn Quốc"
+        ],
+        "오마모리 경주": [
+          "Omamori Gyeongju",
+          "Món tráng miệng matcha"
+        ],
+        "경주 월성": [
+          "Di chỉ cung Wolseong Gyeongju",
+          "Di chỉ cung điện Silla"
+        ],
+        "카페 1984": [
+          "Cafe 1984",
+          "Quán cà phê"
+        ],
+        "금관총": [
+          "Mộ Geumgwanchong",
+          "Lăng mộ hoàng gia Silla"
+        ],
+        "아덴 카페": [
+          "Quán cà phê Aden",
+          "Quán cà phê"
+        ],
+        "한옥문스테이": [
+          "Hanok Moonstay",
+          "Lưu trú hanok truyền thống ở Gyeongju"
+        ],
+        "카페 다시봄": [
+          "Cafe Dasi Bom",
+          "Quán cà phê ấm cúng có khu vườn"
+        ],
+        "석굴암": [
+          "Thạch quật Seokguram",
+          "Thạch quật đá nổi tiếng"
+        ],
+        "경주 교촌마을": [
+          "Làng Gyochon Gyeongju",
+          "Làng truyền thống có nhà hanok"
         ]
       },
-      "src": "2ce4e48800"
+      "src": "35d66fd04c"
     },
     "daegu": {
       "foods": [
@@ -5044,185 +6136,341 @@
     },
     "chungcheong": {
       "foods": [
-        "ร้านเบเกอรี่ซองซิมดัง",
+        "ขนมปังซองซิมดัง",
         "มักชังชุงจู",
         "ซูยุกชองจู",
         "อาหารตลาดท้องถิ่น"
       ],
       "spots": [
         "ซองซิมดัง (แทจอน)",
-        "แพ็กเจคัลเจอรัลแลนด์",
-        "ป้อมคงซานซอง",
-        "ทันยัง"
+        "เขตวัฒนธรรมแพ็กเจ",
+        "ป้อมกงซานซอง",
+        "ตานยาง"
       ],
       "places": {
         "성심당": [
-          "เบเกอรี่ซองซิมดัง",
-          "ขนมปังโซโบโรทอด และอื่นๆ"
+          "ซองซิมดัง",
+          "ขนมปังโซโบโรทอดและอื่นๆ"
         ],
         "행복분식 (대전)": [
-          "แฮงบกบุนชิก (แทจอน)",
-          "จอลมยอน, เกี๊ยว"
+          "แฮงบกบุนซิก (แทจอน)",
+          "จ็อลมยอน ซาลาเปา"
         ],
         "토종마을 (음성 감곡시장)": [
           "โทจงมาอึล (อึมซอง)",
           "ซุปหมูกับข้าว"
         ],
         "백제문화단지 (부여)": [
-          "แพ็กเจคัลเจอรัลแลนด์ (พูยอ)",
+          "เขตวัฒนธรรมแพ็กเจ (พูยอ)",
           "พระราชวังแพ็กเจจำลอง"
         ],
         "할매묵은지지짐이 (천안)": [
-          "ฮัลแมมุกึนจีจีจีมี (ชอนัน)",
-          "กิมจิดองนานตุ๋น"
+          "ฮัลแมมุกอึนจีจิจิมี (เชอนัน)",
+          "กิมจิเก่าตุ๋น"
         ],
         "우암설렁탕 (청주)": [
           "อูอัมซอลลองทัง (ชองจู)",
-          "ซูยุก (วันละ 4 จาน), ซอลลองทัง"
+          "ซูยุก (วันละ 4 จาน) ซอลลองทัง"
         ],
         "월성집 (제천)": [
-          "วอลซองจิบ (เชชอน)",
-          "ยำปลาหมึกรสเผ็ด"
+          "วอลซองจิบ (เจชอน)",
+          "ยำปลาหมึกเผ็ด"
+        ],
+        "장태산자연휴양림": [
+          "ป่าสงวนธรรมชาติจางแทซาน",
+          "เดินป่าเงียบสงบ"
+        ],
+        "한빛탑": [
+          "ทาวเวอร์ฮันบิต",
+          "หอคอยสัญลักษณ์แทจอน"
         ]
       },
-      "src": "f286f972d5"
+      "src": "6aa905b227"
     },
     "jeonbuk": {
       "foods": [
-        "บิบิมบับชอนจู",
-        "ต็อกคาลบี",
+        "พิบิมบับจอนจู",
+        "ต็อกกัลบี",
         "ฮันจองชิก",
         "อาหารตรอกมักกอลลี"
       ],
       "spots": [
-        "หมู่บ้านฮันอกชอนจู",
+        "หมู่บ้านฮันอกจอนจู",
         "ศาลเจ้าคยองกีจอน",
         "ตลาดกลางคืนนัมบู"
       ],
       "places": {
         "전주 한옥마을": [
-          "หมู่บ้านฮันอกชอนจู",
-          "บิบิมบับ, สตรีทฟู้ด, ฮันบก"
+          "หมู่บ้านฮันอกจอนจู",
+          "พิบิมบับ สตรีทฟู้ด ชุดฮันบก"
         ],
         "시골순대 (진안)": [
-          "ชีกลซุนแด (ชินัน)",
-          "ซุนแดกุกบับ (เปิดวันละราว 3 ชม.)"
+          "ซีกอลซุนแด (ชินัน)",
+          "ซุนแดกุกบับ (เปิดประมาณ 3 ชม.ต่อวัน)"
         ],
         "경기전": [
-          "ศาลเจ้าคยองกีจอน",
-          "ศาลเจ้าประวัติศาสตร์สมัยโชซอน"
+          "คยองกีจอน",
+          "ศาลเจ้าสมัยโชซอน"
+        ],
+        "한옥 호텔": [
+          "โรงแรมฮันอก",
+          "พักที่พักฮันอกแบบดั้งเดิม"
+        ],
+        "한국집": [
+          "ฮันกุกจิบ",
+          "พิบิมบับจอนจูกับเนื้อดิบหมัก"
+        ],
+        "남부시장": [
+          "ตลาดนัมบู",
+          "อาหารข้างทางในตลาดดั้งเดิม"
+        ],
+        "풍년제과 (PNB)": [
+          "เบเกอรี PNB (พุงนยอนเจกวา)",
+          "ช็อกโกพาย"
+        ],
+        "다우랑 (만두)": [
+          "ดาอูรัง มันดู",
+          "เกี๊ยว"
+        ],
+        "교동떡갈비": [
+          "เกียวดงต็อกกัลบี",
+          "ต็อกกัลบี (ซี่โครงบดย่าง)"
+        ],
+        "외할머니솜씨": [
+          "คาเฟ่เวฮัลโมนีซมซี",
+          "คาเฟ่"
+        ],
+        "자만벽화마을": [
+          "หมู่บ้านภาพวาดจามัน",
+          "หมู่บ้านจิตรกรรมฝาผนัง"
+        ],
+        "국립전주박물관": [
+          "พิพิธภัณฑ์แห่งชาติจอนจู",
+          "พิพิธภัณฑ์"
+        ],
+        "덕진공원": [
+          "สวนต็อกจิน",
+          "ชมพระอาทิตย์ตก"
         ]
       },
-      "src": "e7d738cc21"
+      "src": "5808bcb892"
     },
     "jeonnam": {
       "foods": [
-        "ปูยองจิ่มซอสซีอิ๊ว (ยอซู)",
-        "จุงคันและฮงออ โมโพ",
-        "ทันกัลบี ดัมยาง",
-        "ฮันจองสิก นัมโด"
+        "ปูดองซีอิ๊วยอซู",
+        "จองกันและฮงออ มกโพ",
+        "ต็อกกัลบีตัมยัง",
+        "ฮันจองชิกนัมโด"
       ],
       "spots": [
-        "กระเช้าทะเลยอซู",
+        "กระเช้าทางทะเลยอซู",
         "อ่าวซุนชอนมัน",
-        "นากันอึบซอง",
-        "ดัมยาง จูกโนวอน"
+        "นากันอึปซอง",
+        "จุ๊กโนกวอนตัมยัง"
       ],
       "places": {
         "순천만습지": [
-          "อ่าวซุนชอนมันชุ่มน้ำ",
-          "ทุ่งอ้อและพื้นที่ชุ่มน้ำ"
+          "อ่าวซุนชอนมันชื้นแฉะ",
+          "ทุ่งกกและพื้นที่ชุ่มน้ำ"
         ],
         "낙안읍성": [
-          "หมู่บ้านโบราณนากันอึบซอง",
+          "หมู่บ้านป้อมนากันอึปซอง",
           "หมู่บ้านสมัยโชซอน"
         ],
         "담양 죽녹원": [
-          "จูกโนวอน ดัมยาง",
+          "จุ๊กโนกวอน ตัมยัง",
           "ป่าไผ่"
         ],
         "청보석 (곡성)": [
-          "ชองโบซ็อก (กokซอง)",
-          "กองกุกซู (บะหมี่ถั่วเหลืองเย็น)"
+          "ชองโบซ็อก (ก๊กซอง)",
+          "กองกุกซูเส้นถั่วเย็น"
         ],
         "신성식당 (고흥 녹동)": [
-          "ร้านซินซอง (โกฮึง นokดง)",
-          "อาหารปลาหมึกตามฤดูกาล"
+          "ชินซองสิกตัง (โกฮึง น็อกดง)",
+          "เมนูปลาหมึกยักษ์ (ตามฤดูกาล)"
         ],
         "돌집식당": [
-          "ร้านดอลจิบ (โมโพ)",
-          "ชุดข้าวเพกบัน มีกับข้าว 17 อย่าง"
+          "ดอลจิบสิกตัง",
+          "ชุดข้าวบันชัน 17 จาน"
         ],
         "석곡 전통 시장": [
-          "ตลาดดั้งเดิมซอกกок",
-          "ตลาดดั้งเดิมในกokซอง ที่คงความเป็นตลาดเก่า"
+          "ตลาดดั้งเดิมซอกกก",
+          "ตลาดดั้งเดิมในก๊กซองที่คงความเป็นอดีต"
         ],
         "여수 해상케이블카": [
           "กระเช้าทะเลยอซู",
-          "กระเช้าพื้นกระจกมองทะเล"
+          "กระเช้าพื้นกระจกใส"
         ],
         "오동도": [
           "เกาะโอดงโด",
           "ต้นไม้แห่งความปรารถนา"
+        ],
+        "나무애그림 카페": [
+          "คาเฟ่นามูแอกึรึม",
+          "เครื่องดื่ม ของที่ระลึกทำมือ วิวเกาะโอดงโด"
+        ],
+        "이순신광장": [
+          "ลานอีซุนซิน",
+          "เรือเต่าจำลอง เข้าชมฟรี"
+        ],
+        "아쿠아플라넷 여수": [
+          "อควาพลาเน็ต ยอซู",
+          "พิพิธภัณฑ์สัตว์น้ำ มีปลาวาฬเบลูกาและแมวน้ำ"
+        ],
+        "하멜등대 & 하멜기념관": [
+          "ประภาคารฮาเมลและพิพิธภัณฑ์ฮาเมล",
+          "เรื่องราวกะลาสีชาวดัตช์ เฮนดริก ฮาเมล"
+        ],
+        "향일암": [
+          "วัดฮยังอิลอัม",
+          "วัดบนหน้าผาชื่อดังดูพระอาทิตย์ขึ้น"
+        ],
+        "천사벽화마을": [
+          "หมู่บ้านภาพวาดชอนซา",
+          "ตรอกภาพวาดสีสันและคาเฟ่"
+        ],
+        "여수 수산시장": [
+          "ตลาดปลายอซู",
+          "อาหารทะเลสด"
+        ],
+        "여수항": [
+          "ท่าเรือยอซู",
+          "ร้านอาหารทะเลริมท่า"
+        ],
+        "여수 구항 해양공원": [
+          "สวนสมุทรกูฮังยอซู",
+          "บริเวณริมทะเลกับร้านอาหารทะเล"
+        ],
+        "순천만국가정원": [
+          "สวนแห่งชาติอ่าวซุนชอนมัน",
+          "เดินชมสวนแห่งชาติ"
+        ],
+        "보성 대한다원": [
+          "ไร่ชาเขียวแดฮันดาวอน โบซอง",
+          "ไร่ชาเขียว"
+        ],
+        "다빈치호텔 순천": [
+          "โรงแรมดาวินชี ซุนชอน",
+          "พักโรงแรม"
         ]
       },
-      "src": "ac0d04002b"
+      "src": "8bc0ed1137"
     },
     "gyeongbuk": {
       "foods": [
-        "จิมทักอันดง",
-        "ของกินถนนฮวังนีดันกิล",
-        "มุลเฮโพฮัง"
+        "จิมดัคอันดง",
+        "อาหารถนนฮวางนิดัน",
+        "มุลฮเวโพฮัง"
       ],
       "spots": [
-        "วัดพุลกุกซา",
+        "วัดบุลกุกซา",
         "พิพิธภัณฑ์แห่งชาติคยองจู",
-        "ฮวังนีดันกิล",
+        "ถนนฮวางนิดัน",
         "หมู่บ้านฮาฮเว"
       ],
       "places": {
         "국립경주박물관": [
           "พิพิธภัณฑ์แห่งชาติคยองจู",
-          "มงกุฎทองคำชิลลา"
+          "มงกุฎทองซิลลา"
         ],
         "안동 하회마을": [
           "หมู่บ้านฮาฮเวอันดง",
           "หมู่บ้านพื้นบ้านมรดกโลกยูเนสโก"
         ],
         "골굴사": [
-          "วัดโกลกุลซา",
-          "ซอนมูโดและเทมเพิลสเตย์"
+          "วัดกอลกุลซา",
+          "ซอนมูโด และพักในวัด"
         ],
         "진량돼지찌개 (경산)": [
-          "ชินรยังทแวจีจีแก (คยองซาน)",
-          "สตูว์หมู"
+          "จินยังแทจีจีเก (คยองซาน)",
+          "แกงหมู"
         ],
         "도산식육식당 (구미)": [
-          "โทซานชิกยุกชิกดัง (คูมี)",
-          "สตูว์หมูกระเทียม"
+          "โดซานสิกยุกสิกตัง (คูมี)",
+          "แกงหมูกลิ่นกระเทียม"
         ],
         "우현해물찜 (포항)": [
           "อูฮยอนแฮมุลจิม (โพฮัง)",
-          "ปลาอังโกะตุ๋น"
+          "ตุ๋นปลาแองเกลอร์"
         ],
         "불국사": [
-          "วัดพุลกุกซา",
-          "เจดีย์ซอกกาทับและทาโบทับ"
+          "วัดบุลกุกซา",
+          "เจดีย์ซอกกาทับและดาโบทับ"
         ],
         "첨성대": [
-          "หอดูดาวช็อมซองแด",
-          "วิวกลางคืนชิลลา"
+          "หอดูดาวชอมซองแด",
+          "วิวกลางคืนของซิลลา"
         ],
         "동궁과 월지": [
-          "พระราชวังทงกุงและสระวอลจี",
-          "จุดชมวิวกลางคืน"
+          "พระราชวังดงกุงและสระวอลจี",
+          "จุดชมวิวยามค่ำคืน"
         ],
         "황남빵": [
-          "ขนมปังฮวังนัม (เบเกอรี่คยองจู)",
-          "ขนมปังถั่วแดงฮวังนัม"
+          "ขนมปังฮวางนัม",
+          "ขนมปังไส้ถั่วแดงฮวางนัม"
+        ],
+        "올리비 카페": [
+          "คาเฟ่โอลิบี",
+          "คาเฟ่"
+        ],
+        "월정교": [
+          "สะพานวอลจองเกียว",
+          "สะพานสมัยซิลลาที่บูรณะแล้ว"
+        ],
+        "황리단길": [
+          "ถนนฮวางนิดัน",
+          "ถนนคาเฟ่และร้านค้า"
+        ],
+        "부시 카페": [
+          "คาเฟ่บูชิ",
+          "เค้ก"
+        ],
+        "사다함": [
+          "ซาดาฮัม",
+          "พักฮันอก จองผ่าน Airbnb"
+        ],
+        "도와당": [
+          "โดวาดัง",
+          "ร้านอาหารเกาหลี"
+        ],
+        "오마모리 경주": [
+          "โอมาโมริ คยองจู",
+          "ของหวานชาเขียว"
+        ],
+        "경주 월성": [
+          "แหล่งพระราชวังวอลซอง คยองจู",
+          "แหล่งพระราชวังซิลลา"
+        ],
+        "카페 1984": [
+          "คาเฟ่ 1984",
+          "คาเฟ่"
+        ],
+        "금관총": [
+          "สุสานกึมกวานชง",
+          "สุสานหลวงซิลลา"
+        ],
+        "아덴 카페": [
+          "คาเฟ่อาเดน",
+          "คาเฟ่"
+        ],
+        "한옥문스테이": [
+          "ฮันอกมูนสเตย์",
+          "พักฮันอกดั้งเดิมในคยองจู"
+        ],
+        "카페 다시봄": [
+          "คาเฟ่ดาซีบอม",
+          "คาเฟ่อบอุ่นมีสวน"
+        ],
+        "석굴암": [
+          "ถ้ำซอกกูราม",
+          "ถ้ำหินชื่อดัง"
+        ],
+        "경주 교촌마을": [
+          "หมู่บ้านคยอชน คยองจู",
+          "หมู่บ้านดั้งเดิมที่มีบ้านฮันอก"
         ]
       },
-      "src": "2ce4e48800"
+      "src": "35d66fd04c"
     },
     "daegu": {
       "foods": [
@@ -5717,21 +6965,21 @@
     },
     "chungcheong": {
       "foods": [
-        "Toko roti Sungsimdang",
+        "Roti Sungsimdang",
         "Makchang Chungju",
         "Suyuk Cheongju",
-        "Kuliner pasar lokal"
+        "Jajanan pasar lokal"
       ],
       "spots": [
         "Sungsimdang (Daejeon)",
-        "Baekje Cultural Land",
+        "Kawasan Budaya Baekje",
         "Benteng Gongsanseong",
         "Danyang"
       ],
       "places": {
         "성심당": [
           "Toko Roti Sungsimdang",
-          "Roti soboro goreng dan lainnya"
+          "Roti goreng soboro dan lainnya"
         ],
         "행복분식 (대전)": [
           "Haengbok Bunsik (Daejeon)",
@@ -5742,12 +6990,12 @@
           "Sup babi dengan nasi"
         ],
         "백제문화단지 (부여)": [
-          "Baekje Cultural Land (Buyeo)",
-          "Rekonstruksi istana Baekje"
+          "Kawasan Budaya Baekje (Buyeo)",
+          "Replika istana Baekje"
         ],
         "할매묵은지지짐이 (천안)": [
           "Halmae Mugeunji Jijimi (Cheonan)",
-          "Kimchi tua rebus"
+          "Kimchi tua dimasak"
         ],
         "우암설렁탕 (청주)": [
           "Uam Seolleongtang (Cheongju)",
@@ -5756,16 +7004,24 @@
         "월성집 (제천)": [
           "Wolseongjip (Jecheon)",
           "Salad cumi pedas"
+        ],
+        "장태산자연휴양림": [
+          "Hutan Rekreasi Alam Jangtaesan",
+          "Jalan santai di hutan"
+        ],
+        "한빛탑": [
+          "Menara Hanbit",
+          "Menara ikonik Daejeon"
         ]
       },
-      "src": "f286f972d5"
+      "src": "6aa905b227"
     },
     "jeonbuk": {
       "foods": [
         "Bibimbap Jeonju",
         "Tteokgalbi",
         "Hanjeongsik",
-        "Hidangan gang makgeolli"
+        "Hidangan lorong makgeolli"
       ],
       "spots": [
         "Desa Hanok Jeonju",
@@ -5779,20 +7035,60 @@
         ],
         "시골순대 (진안)": [
           "Sigol Sundae (Jinan)",
-          "Sundae gukbap (buka ~3 jam sehari)"
+          "Gukbap sundae (buka sekitar 3 jam sehari)"
         ],
         "경기전": [
           "Kuil Gyeonggijeon",
           "Kuil bersejarah era Joseon"
+        ],
+        "한옥 호텔": [
+          "Hotel Hanok",
+          "Menginap di hanok tradisional"
+        ],
+        "한국집": [
+          "Hankook Jib",
+          "Bibimbap Jeonju dengan daging mentah marinasi"
+        ],
+        "남부시장": [
+          "Pasar Nambu",
+          "Jajanan pasar tradisional"
+        ],
+        "풍년제과 (PNB)": [
+          "Toko Roti PNB (Pungnyeon Jegwa)",
+          "Choco Pie"
+        ],
+        "다우랑 (만두)": [
+          "Pangsit Da Urang",
+          "Pangsit"
+        ],
+        "교동떡갈비": [
+          "Tteokgalbi Gyodong",
+          "Tteokgalbi (patty iga panggang)"
+        ],
+        "외할머니솜씨": [
+          "Kafe Oehalmeonisomssi",
+          "Kafe"
+        ],
+        "자만벽화마을": [
+          "Desa Mural Jaman (Desa Mural Manusia)",
+          "Desa mural"
+        ],
+        "국립전주박물관": [
+          "Museum Nasional Jeonju",
+          "Museum"
+        ],
+        "덕진공원": [
+          "Taman Deokjin",
+          "Menikmati matahari terbenam"
         ]
       },
-      "src": "e7d738cc21"
+      "src": "5808bcb892"
     },
     "jeonnam": {
       "foods": [
-        "Kepiting Yeosu dengan kecap kedelai",
-        "Mokpo jung-kkan & hongeo",
-        "Damyang tteokgalbi",
+        "Kepiting Yeosu dengan kecap",
+        "Jung-kkan & hongeo Mokpo",
+        "Tteokgalbi Damyang",
         "Hanjeongsik Namdo"
       ],
       "spots": [
@@ -5804,10 +7100,10 @@
       "places": {
         "순천만습지": [
           "Lahan Basah Teluk Suncheonman",
-          "Ladang buluh & lahan basah"
+          "Padang alang-alang dan lahan basah"
         ],
         "낙안읍성": [
-          "Desa Rakyat Naganeupseong",
+          "Desa Benteng Naganeupseong",
           "Desa era Joseon"
         ],
         "담양 죽녹원": [
@@ -5823,12 +7119,12 @@
           "Hidangan gurita (musiman)"
         ],
         "돌집식당": [
-          "Doljip Sikdang (restoran hanjeongsik di Mokpo)",
-          "Set makan baekban dengan 17 lauk"
+          "Doljip Sikdang (restoran set makanan Korea di Mokpo)",
+          "Baekban dengan 17 lauk"
         ],
         "석곡 전통 시장": [
           "Pasar Tradisional Seokgok",
-          "Pasar tradisional di Gokseong yang mempertahankan suasana lamanya"
+          "Pasar tradisional di Gokseong yang mempertahankan suasana lama"
         ],
         "여수 해상케이블카": [
           "Kereta Gantung Laut Yeosu",
@@ -5837,14 +7133,62 @@
         "오동도": [
           "Pulau Odongdo",
           "Pohon harapan"
+        ],
+        "나무애그림 카페": [
+          "Kafe Namuaegeurim",
+          "Minuman, suvenir buatan tangan, pemandangan Pulau Odongdo"
+        ],
+        "이순신광장": [
+          "Lapangan Yi Sun-sin",
+          "Replika kapal kura-kura gratis masuk"
+        ],
+        "아쿠아플라넷 여수": [
+          "Aqua Planet Yeosu",
+          "Akuarium dengan paus beluga dan anjing laut"
+        ],
+        "하멜등대 & 하멜기념관": [
+          "Mercusuar Hamel & Museum Hamel",
+          "Kisah pelaut Belanda Hendrick Hamel"
+        ],
+        "향일암": [
+          "Kuil Hyangiram",
+          "Kuil di tebing terkenal dengan pemandangan matahari terbit"
+        ],
+        "천사벽화마을": [
+          "Desa Mural Cheonsa",
+          "Gang mural berwarna-warni dan kafe"
+        ],
+        "여수 수산시장": [
+          "Pasar Ikan Yeosu",
+          "Hasil laut segar"
+        ],
+        "여수항": [
+          "Pelabuhan Yeosu",
+          "Restoran hasil laut di tepi pelabuhan"
+        ],
+        "여수 구항 해양공원": [
+          "Taman Laut Guhang Yeosu",
+          "Area tepi laut dengan warung hasil laut"
+        ],
+        "순천만국가정원": [
+          "Taman Nasional Teluk Suncheon",
+          "Jalan-jalan di taman nasional"
+        ],
+        "보성 대한다원": [
+          "Kebun Teh Hijau Boseong Daehan Dawon",
+          "Perkebunan teh hijau"
+        ],
+        "다빈치호텔 순천": [
+          "Hotel Da Vinci Suncheon",
+          "Menginap di hotel"
         ]
       },
-      "src": "ac0d04002b"
+      "src": "8bc0ed1137"
     },
     "gyeongbuk": {
       "foods": [
         "Jjimdak Andong",
-        "Kuliner Hwangnidan-gil",
+        "Jajanan Hwangnidan-gil",
         "Mulhoe Pohang"
       ],
       "spots": [
@@ -5860,23 +7204,23 @@
         ],
         "안동 하회마을": [
           "Desa Hahoe Andong",
-          "Desa rakyat UNESCO"
+          "Desa rakyat warisan UNESCO"
         ],
         "골굴사": [
           "Kuil Golgulsa",
-          "Sunmudo & templestay"
+          "Sunmudo dan menginap di kuil"
         ],
         "진량돼지찌개 (경산)": [
           "Jinryang Dwaeji Jjigae (Gyeongsan)",
-          "Semur babi"
+          "Sup babi"
         ],
         "도산식육식당 (구미)": [
           "Dosan Sigyuk Sikdang (Gumi)",
-          "Semur babi berbawang putih"
+          "Sup babi beraroma bawang putih"
         ],
         "우현해물찜 (포항)": [
           "Uhyeon Haemuljjim (Pohang)",
-          "Ikan monkfish rebus"
+          "Ikan monkfish masak kecap"
         ],
         "불국사": [
           "Kuil Bulguksa",
@@ -5891,11 +7235,71 @@
           "Spot pemandangan malam"
         ],
         "황남빵": [
-          "Roti Hwangnam (toko roti Gyeongju)",
-          "Roti kacang merah Hwangnam"
+          "Toko Roti Hwangnam (Gyeongju)",
+          "Roti isi kacang merah Hwangnam"
+        ],
+        "올리비 카페": [
+          "Kafe Olivee",
+          "Kafe"
+        ],
+        "월정교": [
+          "Jembatan Woljeonggyo",
+          "Jembatan era Silla yang dipugar"
+        ],
+        "황리단길": [
+          "Hwangnidan-gil (Jalan Emas)",
+          "Jalan kafe dan toko"
+        ],
+        "부시 카페": [
+          "Kafe Bush",
+          "Kue"
+        ],
+        "사다함": [
+          "Sadaham (penginapan hanok)",
+          "Penginapan hanok dipesan lewat Airbnb"
+        ],
+        "도와당": [
+          "Dowadang",
+          "Restoran Korea"
+        ],
+        "오마모리 경주": [
+          "Omamori Gyeongju",
+          "Dessert matcha"
+        ],
+        "경주 월성": [
+          "Situs Istana Wolseong Gyeongju",
+          "Situs istana Silla"
+        ],
+        "카페 1984": [
+          "Kafe 1984",
+          "Kafe"
+        ],
+        "금관총": [
+          "Makam Kerajaan Geumgwanchong",
+          "Makam kerajaan Silla"
+        ],
+        "아덴 카페": [
+          "Kafe Aden",
+          "Kafe"
+        ],
+        "한옥문스테이": [
+          "Hanok Moonstay",
+          "Penginapan hanok tradisional di Gyeongju"
+        ],
+        "카페 다시봄": [
+          "Kafe Dasi Bom",
+          "Kafe nyaman dengan taman"
+        ],
+        "석굴암": [
+          "Gua Batu Seokguram",
+          "Gua batu terkenal"
+        ],
+        "경주 교촌마을": [
+          "Desa Tradisional Gyochon Gyeongju",
+          "Desa tradisional dengan rumah hanok"
         ]
       },
-      "src": "2ce4e48800"
+      "src": "35d66fd04c"
     },
     "daegu": {
       "foods": [
@@ -6390,101 +7794,149 @@
     },
     "chungcheong": {
       "foods": [
-        "Пекарня Сонсимдан",
-        "Чхунджуский макчхан",
-        "Чхонджуский сую",
-        "Еда местных рынков"
+        "Хлеб Сонсимдан",
+        "Чхунджу макчханг",
+        "Чхонджу суюк",
+        "Еда с местных рынков"
       ],
       "spots": [
         "Сонсимдан (Тэджон)",
-        "Комплекс культуры Пэкче",
-        "Крепость Консансон",
+        "Культурный парк Пэкче",
+        "Крепость Гонсансон",
         "Танъян"
       ],
       "places": {
         "성심당": [
-          "Пекарня Сонсимдан",
-          "Жареный соборо-хлеб и другое"
+          "Сонсимдан",
+          "Жареный хлеб соборо и не только"
         ],
         "행복분식 (대전)": [
-          "Хэнбок Пунсик (Тэджон)",
-          "Чжольмён, пельмени"
+          "Хэнбок Бунсик (Тэджон)",
+          "Чолмён, пельмени"
         ],
         "토종마을 (음성 감곡시장)": [
-          "Тходжон Маыль (Ымсон)",
+          "Т'ходжон Мауль (Ымсон)",
           "Свиной суп с рисом"
         ],
         "백제문화단지 (부여)": [
-          "Комплекс культуры Пэкче (Пуё)",
+          "Культурный парк Пэкче (Пуё)",
           "Реконструированный дворец Пэкче"
         ],
         "할매묵은지지짐이 (천안)": [
-          "Хальмэ Мугынджи Чиджими (Чхонан)",
-          "Тушёное выдержанное кимчи"
+          "Халмэ Мугынджи Джиджими (Чхонан)",
+          "Тушеная выдержанная кимчи"
         ],
         "우암설렁탕 (청주)": [
-          "Уам Соллонтхан (Чхонджу)",
-          "Сую (4 порции в день), соллонтхан"
+          "Уам Соллёнтан (Чхонджу)",
+          "Суюк (4 порции в день), соллёнтан"
         ],
         "월성집 (제천)": [
           "Вольсонджип (Чечхон)",
           "Острый салат из кальмара"
+        ],
+        "장태산자연휴양림": [
+          "Природный лесной парк Чанхэтсан",
+          "Тихая прогулка по лесу"
+        ],
+        "한빛탑": [
+          "Ханбит Тауэр",
+          "Знаковая башня Тэджона"
         ]
       },
-      "src": "f286f972d5"
+      "src": "6aa905b227"
     },
     "jeonbuk": {
       "foods": [
-        "Чонджуский пибимпап",
-        "Ттоккальби",
-        "Ханджонсик",
-        "Закуски с переулка макколи"
+        "Чонджу пибимпап",
+        "Ттокальби",
+        "Ханчонсик",
+        "Блюда переулка макколли"
       ],
       "spots": [
-        "Деревня ханоков Чонджу",
-        "Святилище Кёнгиджон",
+        "Деревня ханок Чонджу",
+        "Кёнгидзон",
         "Ночной рынок Намбу"
       ],
       "places": {
         "전주 한옥마을": [
-          "Деревня ханоков Чонджу",
+          "Деревня ханок Чонджу",
           "Пибимпап, уличная еда, ханбок"
         ],
         "시골순대 (진안)": [
           "Сиголь Сундэ (Чинан)",
-          "Сундэ-кукпап (открыто ~3 часа в день)"
+          "Сундэ гукпап (открыто ~3 часа в день)"
         ],
         "경기전": [
-          "Святилище Кёнгиджон",
-          "Историческое святилище эпохи Чосон"
+          "Кёнгидзон",
+          "Исторический храм эпохи Чосон"
+        ],
+        "한옥 호텔": [
+          "Ханок Отель",
+          "Традиционное проживание в ханоке"
+        ],
+        "한국집": [
+          "Ханкук Чиб",
+          "Чонджу пибимпап с маринованным сырым мясом"
+        ],
+        "남부시장": [
+          "Рынок Намбу",
+          "Уличная еда традиционного рынка"
+        ],
+        "풍년제과 (PNB)": [
+          "Пекарня PNB (Пунён Чегва)",
+          "Чоко Пай"
+        ],
+        "다우랑 (만두)": [
+          "Да Уран",
+          "Пельмени"
+        ],
+        "교동떡갈비": [
+          "Кёдон Ттокальби",
+          "Ттокальби (жареные котлеты из реберного мяса)"
+        ],
+        "외할머니솜씨": [
+          "Кафе Вэхальмонисомссы",
+          "Кафе"
+        ],
+        "자만벽화마을": [
+          "Деревня муралов Чаман",
+          "Деревня муралов"
+        ],
+        "국립전주박물관": [
+          "Национальный музей Чонджу",
+          "Музей"
+        ],
+        "덕진공원": [
+          "Парк Токчжин",
+          "Места для заката"
         ]
       },
-      "src": "e7d738cc21"
+      "src": "5808bcb892"
     },
     "jeonnam": {
       "foods": [
-        "Крабы йосу в соевом соусе",
-        "Мокпо чжун-ккан и хонхо",
-        "Дамян тткальбіці (тт­калби)",
-        "Намдо ханчжонсик"
+        "Крабы в соевом соусе из Ёсу",
+        "Мокпо чон-кан и хонъо",
+        "Тамянский ттокальби",
+        "Намдо ханчонсик"
       ],
       "spots": [
-        "Морская канатная дорога Йосу",
-        "Залив Сунчхонман",
-        "Нагансонсон",
-        "Дамян Чукнокwon"
+        "Морская канатная дорога Ёсу",
+        "Залив Сунчонман",
+        "Нанганыпсон",
+        "Тамян Чунногвон"
       ],
       "places": {
         "순천만습지": [
-          "Водно-болотные угодья залива Сунчхонман",
-          "Тростниковые поля и болота"
+          "Болото залива Сунчонман",
+          "Тростниковые поля и водно-болотные угодья"
         ],
         "낙안읍성": [
-          "Народная деревня Нагансонсон",
+          "Деревня Нагануписон",
           "Деревня эпохи Чосон"
         ],
         "담양 죽녹원": [
-          "Чукнокwon в Дамяне",
+          "Чунногвон (Тамян)",
           "Бамбуковый лес"
         ],
         "청보석 (곡성)": [
@@ -6492,38 +7944,86 @@
           "Конгуксу (холодная лапша из соевых бобов)"
         ],
         "신성식당 (고흥 녹동)": [
-          "Синсон Сикдан (Коын, Нокдон)",
+          "Синсон Сикдан (Кохын)",
           "Блюда из осьминога (по сезону)"
         ],
         "돌집식당": [
-          "Допчжип Сикдан (корейский обед в Мокпо)",
-          "Набор пэкбан с 17 закусками"
+          "Тольчип Сикдан (корейский сет-обед в Мокпо)",
+          "Пэкпан с 17 закусками"
         ],
         "석곡 전통 시장": [
-          "Традиционный рынок Соккок",
-          "Традиционный рынок в Коксоне, сохранивший старинный облик"
+          "Традиционный рынок Сокгок",
+          "Традиционный рынок в Коксоне, сохранивший старый колорит"
         ],
         "여수 해상케이블카": [
-          "Морская канатная дорога Йосу",
+          "Морская канатная дорога Ёсу",
           "Канатная дорога со стеклянным полом"
         ],
         "오동도": [
-          "Остров Одонгдо",
+          "Остров Одондо",
           "Дерево желаний"
+        ],
+        "나무애그림 카페": [
+          "Кафе Наму Эгырим",
+          "Напитки, сувениры ручной работы, вид на остров Одондо"
+        ],
+        "이순신광장": [
+          "Площадь Ли Сунсина",
+          "Бесплатный вход, копия корабля-черепахи"
+        ],
+        "아쿠아플라넷 여수": [
+          "Аква Планет Ёсу",
+          "Аквариум с белухами и тюленями"
+        ],
+        "하멜등대 & 하멜기념관": [
+          "Маяк и музей Хамеля",
+          "История голландского моряка Хендрика Хамеля"
+        ],
+        "향일암": [
+          "Храм Хянъиам",
+          "Храм на скале, известный видами восхода"
+        ],
+        "천사벽화마을": [
+          "Деревня муралов Чонса",
+          "Яркие переулки с муралами и кафе"
+        ],
+        "여수 수산시장": [
+          "Рыбный рынок Ёсу",
+          "Свежие морепродукты"
+        ],
+        "여수항": [
+          "Порт Ёсу",
+          "Рестораны морепродуктов у порта"
+        ],
+        "여수 구항 해양공원": [
+          "Морской парк Ку-хан Ёсу",
+          "Прибрежная зона с едой из морепродуктов"
+        ],
+        "순천만국가정원": [
+          "Национальный сад залива Сунчонман",
+          "Прогулка по национальному саду"
+        ],
+        "보성 대한다원": [
+          "Зелёная чайная плантация Тэхан Тавон (Посон)",
+          "Плантация зелёного чая"
+        ],
+        "다빈치호텔 순천": [
+          "Отель Да Винчи Сунчон",
+          "Проживание в отеле"
         ]
       },
-      "src": "ac0d04002b"
+      "src": "8bc0ed1137"
     },
     "gyeongbuk": {
       "foods": [
-        "Андонский чимдак",
-        "Еда на Хваннидан-гиль",
-        "Пхоханский мульхве"
+        "Андон чимдак",
+        "Уличная еда Хваниндан-гиль",
+        "Похан мульхве"
       ],
       "spots": [
-        "Храм Пульгукса",
+        "Храм Пульгуксса",
         "Национальный музей Кёнджу",
-        "Хваннидан-гиль",
+        "Хваниндан-гиль",
         "Деревня Хахве"
       ],
       "places": {
@@ -6532,43 +8032,103 @@
           "Золотые короны Силла"
         ],
         "안동 하회마을": [
-          "Деревня Хахве (Андон)",
-          "Фольклорная деревня ЮНЕСКО"
+          "Деревня Хахве в Андоне",
+          "Деревня народного быта, объект ЮНЕСКО"
         ],
         "골굴사": [
-          "Храм Кольгульса",
-          "Сонмудо и темплстей"
+          "Храм Голгульса",
+          "Сунмудо и проживание в храме"
         ],
         "진량돼지찌개 (경산)": [
-          "Чинрян Тwэджи Ччигэ (Кёнсан)",
-          "Свиное рагу"
+          "Чинрян Твэджи Чиге (Кёнсан)",
+          "Свиной рагу"
         ],
         "도산식육식당 (구미)": [
-          "Тосан Сигюк Сиктан (Куми)",
-          "Свиное рагу с чесноком"
+          "Тосан Сикюк Сикдан (Куми)",
+          "Свиной рагу с чесноком"
         ],
         "우현해물찜 (포항)": [
-          "Ухён Хэмульччим (Пхохан)",
-          "Тушёный морской чёрт"
+          "Ухён Хэмульччим (Похан)",
+          "Тушеный монкфиш"
         ],
         "불국사": [
-          "Храм Пульгукса",
-          "Пагоды Сокkatап и Таботап"
+          "Пульгуксса",
+          "Пагоды Соккатап и Тапотап"
         ],
         "첨성대": [
-          "Обсерватория Чхомсондэ",
-          "Ночные виды Силла"
+          "Обсерватория Чхомсонде",
+          "Ночные виды эпохи Силла"
         ],
         "동궁과 월지": [
           "Дворец Тонгун и пруд Вольджи",
           "Место для ночных видов"
         ],
         "황남빵": [
-          "Хваннам-ппан (пекарня Кёнджу)",
-          "Хлебцы Хваннам с красной фасолью"
+          "Хванам Ппан (пекарня Кёнджу)",
+          "Булочка с красной фасолью хванам"
+        ],
+        "올리비 카페": [
+          "Кафе Оливи",
+          "Кафе"
+        ],
+        "월정교": [
+          "Мост Вольджонгё",
+          "Восстановленный мост эпохи Силла"
+        ],
+        "황리단길": [
+          "Хваниндан-гиль (Золотая улица)",
+          "Улица кафе и магазинов"
+        ],
+        "부시 카페": [
+          "Кафе Буши",
+          "Торты"
+        ],
+        "사다함": [
+          "Садахам (ханок)",
+          "Проживание в ханоке, бронь через Airbnb"
+        ],
+        "도와당": [
+          "Дован",
+          "Корейский ресторан"
+        ],
+        "오마모리 경주": [
+          "Омамори Кёнджу",
+          "Десерты с матча"
+        ],
+        "경주 월성": [
+          "Место дворца Вольсон",
+          "Место дворца Силла"
+        ],
+        "카페 1984": [
+          "Кафе 1984",
+          "Кафе"
+        ],
+        "금관총": [
+          "Гымгванчхон",
+          "Королевская гробница Силла"
+        ],
+        "아덴 카페": [
+          "Кафе Аден",
+          "Кафе"
+        ],
+        "한옥문스테이": [
+          "Ханок Мунстэй",
+          "Традиционное проживание в ханоке в Кёнджу"
+        ],
+        "카페 다시봄": [
+          "Кафе Даси Бом",
+          "Уютное кафе с садом"
+        ],
+        "석굴암": [
+          "Соккурам",
+          "Известный каменный грот"
+        ],
+        "경주 교촌마을": [
+          "Деревня Кёчхон в Кёнджу",
+          "Традиционная деревня с домами ханок"
         ]
       },
-      "src": "2ce4e48800"
+      "src": "35d66fd04c"
     },
     "daegu": {
       "foods": [

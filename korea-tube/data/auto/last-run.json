@@ -1,872 +1,671 @@
 {
-  "date": "2026-10-26",
+  "date": "2026-11-02",
   "added": [
     {
-      "region": "seoul",
-      "type": "restaurant",
-      "ko": "부촌육회",
-      "en": "Buchon Yukhoe",
-      "q": "광장시장 부촌육회",
-      "menu_ko": "육회, 육회비빔밥 (미쉐린 빕구르망)",
-      "menu_en": "Korean beef tartare (yukhoe), yukhoe bibimbap (Michelin Bib Gourmand)",
+      "region": "chungcheong",
+      "type": "spot",
+      "ko": "장태산자연휴양림",
+      "en": "Jangtaesan Recreational Forest",
+      "q": "대전 장태산자연휴양림",
+      "menu_ko": "조용한 숲 속 자연 산책",
+      "menu_en": "Quiet nature walk in the forest",
       "videos": [
-        "2rz-TU7154k"
+        "UE9PrFXIMfs"
       ],
       "auto": true,
       "source": "description",
-      "evidence": "08:04 michelin bib buchon yukhoe (korean beef tartare)",
-      "added": "2026-10-26",
-      "video_title": "Ultimate Seoul Street Food Tour (Gwangjang Market)"
+      "evidence": "starting with the quiet nature of Jangtaesan Recreational Forest,",
+      "added": "2026-11-02",
+      "video_title": "Daejeon Day Trip | Korea’s Most Famous Bakery, Seongsimdang & Jangtaesan in Fall"
     },
     {
-      "region": "seoul",
+      "region": "chungcheong",
+      "type": "spot",
+      "ko": "한빛탑",
+      "en": "Hanbit Tower",
+      "q": "대전 한빛탑",
+      "menu_ko": "대전 랜드마크 타워",
+      "menu_en": "Daejeon landmark tower",
+      "videos": [
+        "UE9PrFXIMfs"
+      ],
+      "auto": true,
+      "source": "description",
+      "evidence": "The day ends at Hanbit Tower and a taste of Kkumdori ramen, a local specialty you can only find in Daejeon.",
+      "added": "2026-11-02",
+      "video_title": "Daejeon Day Trip | Korea’s Most Famous Bakery, Seongsimdang & Jangtaesan in Fall"
+    },
+    {
+      "region": "jeonbuk",
+      "type": "spot",
+      "ko": "한옥 호텔",
+      "en": "Hanok Hotel",
+      "q": "https://maps.app.goo.gl/z6pTCnfsSoBh1JUa6",
+      "menu_ko": "한옥 숙소 체험",
+      "menu_en": "Traditional hanok stay",
+      "videos": [
+        "tswqv1FY_2s"
+      ],
+      "auto": true,
+      "source": "description",
+      "evidence": "Hanok Hotel : https://maps.app.goo.gl/z6pTCnfsSoBh1JUa6",
+      "added": "2026-11-02",
+      "video_title": "World's Most Famous Korean Bibimbap 🇰🇷 Ultimate STREET FOOD Tour in Jeonju, South Korea!"
+    },
+    {
+      "region": "jeonbuk",
+      "type": "restaurant",
+      "ko": "한국집",
+      "en": "Hankook Jib",
+      "q": "전주 한국집",
+      "menu_ko": "전주비빔밥 (육회 비빔밥)",
+      "menu_en": "Jeonju bibimbap with marinated raw meat",
+      "videos": [
+        "tswqv1FY_2s",
+        "gUwiVRYbeZ0"
+      ],
+      "auto": true,
+      "source": "description",
+      "evidence": "Hankook Jib : https://maps.app.goo.gl/KyP1J4AvwAFzUFzbA",
+      "added": "2026-11-02",
+      "video_title": "World's Most Famous Korean Bibimbap 🇰🇷 Ultimate STREET FOOD Tour in Jeonju, South Korea!"
+    },
+    {
+      "region": "jeonbuk",
       "type": "market",
-      "ko": "명동 야시장",
-      "en": "Myeongdong Night Market",
-      "q": "서울 명동 야시장",
-      "menu_ko": "길거리 간식",
-      "menu_en": "Street food snacks",
+      "ko": "남부시장",
+      "en": "Nambu Market",
+      "q": "전주 남부시장",
+      "menu_ko": "전통시장 길거리 음식",
+      "menu_en": "Traditional market street food",
       "videos": [
-        "lrLS7Z90Kbk"
+        "tswqv1FY_2s",
+        "gUwiVRYbeZ0"
       ],
       "auto": true,
       "source": "description",
-      "evidence": "📍 Myeongdong Night Market Seoul - https://maps.app.goo.gl/DStda8BD1Av6aKKW8",
-      "added": "2026-10-26",
-      "video_title": "SEOUL STREET FOOD Tour in 2026 (PRICES included)"
+      "evidence": "Nambu Market : https://maps.app.goo.gl/oAcnmocW5JTAt6xT7",
+      "added": "2026-11-02",
+      "video_title": "World's Most Famous Korean Bibimbap 🇰🇷 Ultimate STREET FOOD Tour in Jeonju, South Korea!"
     },
     {
-      "region": "seoul",
-      "type": "spot",
-      "ko": "홍대",
-      "en": "Hongdae",
-      "q": "서울 홍대",
-      "menu_ko": "길거리 음식",
-      "menu_en": "Street food",
-      "videos": [
-        "lrLS7Z90Kbk"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "📍 Hongdae Seoul -  https://maps.app.goo.gl/u174nz2ccp1af8pn8",
-      "added": "2026-10-26",
-      "video_title": "SEOUL STREET FOOD Tour in 2026 (PRICES included)"
-    },
-    {
-      "region": "seoul",
-      "type": "spot",
-      "ko": "북촌한옥마을",
-      "en": "Bukchon Hanok Village",
-      "q": "서울 북촌한옥마을",
-      "menu_ko": "한옥마을 산책",
-      "menu_en": "Traditional hanok village walk",
-      "videos": [
-        "j03BAgvxQfE"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "We rent hanbok to walk around Gyeongbokgung palace, visit Bukchon Hanok Village, Cafe Onion, Gwangjang market and Namsan Tower!",
-      "added": "2026-10-26",
-      "video_title": "Korea vlog 💐: hanbok rental, cafe onion, hanok village, gwangjang market, namsan tower night views"
-    },
-    {
-      "region": "seoul",
+      "region": "jeonbuk",
       "type": "restaurant",
-      "ko": "카페 어니언",
-      "en": "Cafe Onion",
-      "q": "서울 카페 어니언",
+      "ko": "풍년제과 (PNB)",
+      "en": "PNB Bakery (Pungnyeon Jegwa)",
+      "q": "전주 PNB 풍년제과",
+      "menu_ko": "초코파이",
+      "menu_en": "Choco Pie",
+      "videos": [
+        "YGWFWpd0AjY"
+      ],
+      "auto": true,
+      "source": "description",
+      "evidence": "From sweet Choco Pie at the legendary PNB bakery to sizzling grilled cheese, the flavors here are unique and unforgettable.",
+      "added": "2026-11-02",
+      "video_title": "24 Hours in JEONJU, South Korea 🇰🇷 Hanok Village and Best Bibimbap"
+    },
+    {
+      "region": "jeonbuk",
+      "type": "restaurant",
+      "ko": "다우랑 (만두)",
+      "en": "Da Urang Dumplings",
+      "q": "120, Gyeonggijeon-Gil, Jeonju, Jeollabuk-do 55044, South Korea",
+      "menu_ko": "만두",
+      "menu_en": "Dumplings",
+      "videos": [
+        "gUwiVRYbeZ0"
+      ],
+      "auto": true,
+      "source": "description",
+      "evidence": "1. Da Urang Dumplings\n120, Gyeonggijeon-Gil, Jeonju, Jeollabuk-do 55044, South Korea",
+      "added": "2026-11-02",
+      "video_title": "ORIGINAL Bibimbap & KOREAN STREET FOOD Night Market in Jeonju South Korea"
+    },
+    {
+      "region": "jeonbuk",
+      "type": "restaurant",
+      "ko": "교동떡갈비",
+      "en": "Gyodong Tteokgalbi",
+      "q": "73-2, Pungnam-dong 3-ga, Wansan-gu, Jeonju-si, Jeollabuk-do",
+      "menu_ko": "떡갈비",
+      "menu_en": "Tteokgalbi (grilled short rib patties)",
+      "videos": [
+        "gUwiVRYbeZ0"
+      ],
+      "auto": true,
+      "source": "description",
+      "evidence": "2. Gyodong Tteokgalbi \n73-2, Pungnam-dong 3-ga, Wansan-gu, Jeonju-si, Jeollabuk-do",
+      "added": "2026-11-02",
+      "video_title": "ORIGINAL Bibimbap & KOREAN STREET FOOD Night Market in Jeonju South Korea"
+    },
+    {
+      "region": "jeonbuk",
+      "type": "restaurant",
+      "ko": "외할머니솜씨",
+      "en": "Oehalmeonisomssi Cafe",
+      "q": "전주 외할머니솜씨",
       "menu_ko": "카페",
       "menu_en": "Cafe",
       "videos": [
-        "j03BAgvxQfE"
+        "gUwiVRYbeZ0"
       ],
       "auto": true,
       "source": "description",
-      "evidence": "We rent hanbok to walk around Gyeongbokgung palace, visit Bukchon Hanok Village, Cafe Onion, Gwangjang market and Namsan Tower!",
-      "added": "2026-10-26",
-      "video_title": "Korea vlog 💐: hanbok rental, cafe onion, hanok village, gwangjang market, namsan tower night views"
+      "evidence": "3. Oehalmeonisomssi Cafe",
+      "added": "2026-11-02",
+      "video_title": "ORIGINAL Bibimbap & KOREAN STREET FOOD Night Market in Jeonju South Korea"
     },
     {
-      "region": "gyeonggi",
-      "type": "restaurant",
-      "ko": "공화춘",
-      "en": "Gonghwachun",
-      "q": "인천 공화춘",
-      "menu_ko": "짜장면",
-      "menu_en": "Black bean jajangmyeon",
-      "videos": [
-        "CIwOoy7lD0g"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "04:08 Gonghwachun Blackbean jajangmyeon Restauarent",
-      "added": "2026-10-26",
-      "video_title": "Korea's Official Chinatown Is Nothing Like You'd Expect | Incheon Food Walk"
-    },
-    {
-      "region": "gyeonggi",
+      "region": "jeonbuk",
       "type": "spot",
-      "ko": "자유공원",
-      "en": "Freedom Park (Jayu Park)",
-      "q": "인천 자유공원",
-      "menu_ko": "맥아더 장군 동상, 전망",
-      "menu_en": "General MacArthur statue, views",
+      "ko": "자만벽화마을",
+      "en": "Jaman Mural Village (Human Mural Village)",
+      "q": "전주 자만벽화마을",
+      "menu_ko": "벽화마을",
+      "menu_en": "Mural village",
       "videos": [
-        "CIwOoy7lD0g"
+        "lC8hEbHE6x0"
       ],
       "auto": true,
       "source": "description",
-      "evidence": "We also visit Freedom Park, home to the General MacArthur statue, a historic landmark connected to the Incheon Landing during the Korean War.",
-      "added": "2026-10-26",
-      "video_title": "Korea's Official Chinatown Is Nothing Like You'd Expect | Incheon Food Walk"
+      "evidence": "Day 1, we'll experience the famous Hanok village before visiting Human Mural Village.",
+      "added": "2026-11-02",
+      "video_title": "Jeonju in 2 Days | Must See Sights & Culinary Adventure | Hanok Village, Mural Village, Streetfood"
     },
     {
-      "region": "gyeonggi",
+      "region": "jeonbuk",
+      "type": "spot",
+      "ko": "국립전주박물관",
+      "en": "Jeonju National Museum",
+      "q": "국립전주박물관",
+      "menu_ko": "박물관",
+      "menu_en": "Museum",
+      "videos": [
+        "lC8hEbHE6x0"
+      ],
+      "auto": true,
+      "source": "description",
+      "evidence": "Then we will head to the Jeonju National Museum before catching sunset at Deokjin Park.",
+      "added": "2026-11-02",
+      "video_title": "Jeonju in 2 Days | Must See Sights & Culinary Adventure | Hanok Village, Mural Village, Streetfood"
+    },
+    {
+      "region": "jeonbuk",
+      "type": "spot",
+      "ko": "덕진공원",
+      "en": "Deokjin Park",
+      "q": "전주 덕진공원",
+      "menu_ko": "일몰 감상",
+      "menu_en": "Sunset viewing",
+      "videos": [
+        "lC8hEbHE6x0"
+      ],
+      "auto": true,
+      "source": "description",
+      "evidence": "Then we will head to the Jeonju National Museum before catching sunset at Deokjin Park.",
+      "added": "2026-11-02",
+      "video_title": "Jeonju in 2 Days | Must See Sights & Culinary Adventure | Hanok Village, Mural Village, Streetfood"
+    },
+    {
+      "region": "jeonnam",
+      "type": "restaurant",
+      "ko": "나무애그림 카페",
+      "en": "Namuaegeurim Cafe",
+      "q": "전남 여수시 자산4길 45",
+      "menu_ko": "음료, 수제 기념품, 오동도 전망",
+      "menu_en": "Drinks, handmade souvenirs, view of Odongdo Island",
+      "videos": [
+        "hPmCee2cdvc"
+      ],
+      "auto": true,
+      "source": "description",
+      "evidence": "☕ 나무애그림 Cafe",
+      "added": "2026-11-02",
+      "video_title": "Why You NEED to Visit Yeosu, South Korea | Travel Guide + Food Tour + FAQs"
+    },
+    {
+      "region": "jeonnam",
+      "type": "spot",
+      "ko": "이순신광장",
+      "en": "Yi Sun-sin Square",
+      "q": "전남 여수시 중앙동 383",
+      "menu_ko": "거북선 복원선 무료 관람",
+      "menu_en": "Free-entry Turtle Ship replica",
+      "videos": [
+        "hPmCee2cdvc"
+      ],
+      "auto": true,
+      "source": "description",
+      "evidence": "⚔️ Yi Sun-Sin Square (이순신광장)",
+      "added": "2026-11-02",
+      "video_title": "Why You NEED to Visit Yeosu, South Korea | Travel Guide + Food Tour + FAQs"
+    },
+    {
+      "region": "jeonnam",
+      "type": "spot",
+      "ko": "아쿠아플라넷 여수",
+      "en": "Aqua Planet Yeosu",
+      "q": "전남 여수시 오동도로 61-11",
+      "menu_ko": "벨루가, 물범 등이 있는 아쿠아리움",
+      "menu_en": "Aquarium with beluga whales and seals",
+      "videos": [
+        "hPmCee2cdvc"
+      ],
+      "auto": true,
+      "source": "description",
+      "evidence": "🐬 Aqua Planet Yeosu (아쿠아플라넷 여수)",
+      "added": "2026-11-02",
+      "video_title": "Why You NEED to Visit Yeosu, South Korea | Travel Guide + Food Tour + FAQs"
+    },
+    {
+      "region": "jeonnam",
+      "type": "spot",
+      "ko": "하멜등대 & 하멜기념관",
+      "en": "Hamel Lighthouse & Hamel Museum",
+      "q": "여수 하멜등대",
+      "menu_ko": "네덜란드 선원 하멜 이야기",
+      "menu_en": "Story of Dutch sailor Hendrick Hamel",
+      "videos": [
+        "hPmCee2cdvc"
+      ],
+      "auto": true,
+      "source": "description",
+      "evidence": "📜 Hamel Museum & Lighthouse (하멜등대 & 하멜기념관)",
+      "added": "2026-11-02",
+      "video_title": "Why You NEED to Visit Yeosu, South Korea | Travel Guide + Food Tour + FAQs"
+    },
+    {
+      "region": "jeonnam",
+      "type": "spot",
+      "ko": "향일암",
+      "en": "Hyangiram Temple",
+      "q": "전남 여수시 돌산읍 향일암로 1",
+      "menu_ko": "절벽 위 사찰, 일출 명소",
+      "menu_en": "Cliffside temple famous for sunrise views",
+      "videos": [
+        "hPmCee2cdvc"
+      ],
+      "auto": true,
+      "source": "description",
+      "evidence": "🌄 Hyangiram Temple (향일암)",
+      "added": "2026-11-02",
+      "video_title": "Why You NEED to Visit Yeosu, South Korea | Travel Guide + Food Tour + FAQs"
+    },
+    {
+      "region": "jeonnam",
+      "type": "spot",
+      "ko": "천사벽화마을",
+      "en": "Angel Mural Village",
+      "q": "전남 여수시 고소동 268",
+      "menu_ko": "알록달록한 벽화 골목과 카페",
+      "menu_en": "Colorful mural alleys and cafes",
+      "videos": [
+        "hPmCee2cdvc"
+      ],
+      "auto": true,
+      "source": "description",
+      "evidence": "🎨 Angel Mural Village (천사벽화마을)",
+      "added": "2026-11-02",
+      "video_title": "Why You NEED to Visit Yeosu, South Korea | Travel Guide + Food Tour + FAQs"
+    },
+    {
+      "region": "jeonnam",
       "type": "market",
-      "ko": "신포국제시장",
-      "en": "Sinpo International Market",
-      "q": "인천 신포국제시장",
-      "menu_ko": "한국 길거리 음식",
-      "menu_en": "Korean street food",
+      "ko": "여수 수산시장",
+      "en": "Yeosu Fish Market",
+      "q": "전남 여수시 여객선터미널길 24",
+      "menu_ko": "신선한 해산물",
+      "menu_en": "Fresh seafood",
       "videos": [
-        "x1O55IpAtnc"
+        "hPmCee2cdvc"
       ],
       "auto": true,
       "source": "description",
-      "evidence": "00:10 Sinpo International Market 신포국제시장",
-      "added": "2026-10-26",
-      "video_title": "Incheon food market 🎡 Street food, Chinatown & Wolmido Park Korea vlog"
+      "evidence": "📍Fish market: 680 Gyo-dong, Yeosu-si, Jeollanam-do",
+      "added": "2026-11-02",
+      "video_title": "Why You NEED to Visit Yeosu, South Korea | Travel Guide + Food Tour + FAQs"
     },
     {
-      "region": "gyeonggi",
-      "type": "restaurant",
-      "ko": "타르트야",
-      "en": "Tartya (egg tarts)",
-      "q": "인천 신포 타르트야",
-      "menu_ko": "에그타르트 (블루베리)",
-      "menu_en": "Egg tarts (blueberry)",
-      "videos": [
-        "x1O55IpAtnc"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "Locations in this video: Incheon, Sinpo, South Korea, Sinpo International Market, Tartya egg tarts (blueberry!!), Chinatown, Incheon station, Channel 12 cafe with rooftop, Wolmido Island, Wolmido Theme Park.",
-      "added": "2026-10-26",
-      "video_title": "Incheon food market 🎡 Street food, Chinatown & Wolmido Park Korea vlog"
-    },
-    {
-      "region": "gyeonggi",
-      "type": "restaurant",
-      "ko": "채널12 카페",
-      "en": "Channel 12 Cafe (rooftop cafe)",
-      "q": "인천 채널12 카페",
-      "menu_ko": "루프탑 카페",
-      "menu_en": "Rooftop cafe",
-      "videos": [
-        "x1O55IpAtnc"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "Locations in this video: Incheon, Sinpo, South Korea, Sinpo International Market, Tartya egg tarts (blueberry!!), Chinatown, Incheon station, Channel 12 cafe with rooftop, Wolmido Island, Wolmido Theme Park.",
-      "added": "2026-10-26",
-      "video_title": "Incheon food market 🎡 Street food, Chinatown & Wolmido Park Korea vlog"
-    },
-    {
-      "region": "gyeonggi",
+      "region": "jeonnam",
       "type": "spot",
-      "ko": "월미도",
-      "en": "Wolmido Island",
-      "q": "인천 월미도",
-      "menu_ko": "바닷가 섬 산책",
-      "menu_en": "Seaside island walk",
+      "ko": "여수항",
+      "en": "Yeosu Port",
+      "q": "전남 여수시 종화동 458-4",
+      "menu_ko": "항구 주변 해산물 식당",
+      "menu_en": "Port-side seafood restaurants",
       "videos": [
-        "x1O55IpAtnc"
+        "hPmCee2cdvc"
       ],
       "auto": true,
       "source": "description",
-      "evidence": "Locations in this video: Incheon, Sinpo, South Korea, Sinpo International Market, Tartya egg tarts (blueberry!!), Chinatown, Incheon station, Channel 12 cafe with rooftop, Wolmido Island, Wolmido Theme Park.",
-      "added": "2026-10-26",
-      "video_title": "Incheon food market 🎡 Street food, Chinatown & Wolmido Park Korea vlog"
+      "evidence": "📍 Yeosu Port: 458-4 Jonghwa-dong, Yeosu, Jeollanam-do",
+      "added": "2026-11-02",
+      "video_title": "Why You NEED to Visit Yeosu, South Korea | Travel Guide + Food Tour + FAQs"
     },
     {
-      "region": "gyeonggi",
+      "region": "jeonnam",
       "type": "spot",
-      "ko": "월미테마파크",
-      "en": "Wolmido Theme Park",
-      "q": "인천 월미테마파크",
-      "menu_ko": "놀이공원",
-      "menu_en": "Amusement park",
+      "ko": "여수 구항 해양공원",
+      "en": "Yeosu Guhang Marine Park",
+      "q": "전남 여수시 중앙동 246-1",
+      "menu_ko": "해안가 해산물 식당가",
+      "menu_en": "Seaside area with seafood eateries",
       "videos": [
-        "x1O55IpAtnc"
+        "hPmCee2cdvc"
       ],
       "auto": true,
       "source": "description",
-      "evidence": "09:07 Wolmido Theme Park",
-      "added": "2026-10-26",
-      "video_title": "Incheon food market 🎡 Street food, Chinatown & Wolmido Park Korea vlog"
+      "evidence": "📍Yeosu Guhang Marine Park: Jungang-dong, Yeosu-si, Jeollanam-do",
+      "added": "2026-11-02",
+      "video_title": "Why You NEED to Visit Yeosu, South Korea | Travel Guide + Food Tour + FAQs"
     },
     {
-      "region": "gyeonggi",
+      "region": "jeonnam",
       "type": "spot",
-      "ko": "스타필드 수원 별마당 도서관",
-      "en": "Starfield Library Suwon",
-      "q": "스타필드 수원 별마당 도서관",
-      "menu_ko": "스타필드 수원 안의 대형 도서관",
-      "menu_en": "Giant library inside Starfield Suwon mall",
+      "ko": "순천만국가정원",
+      "en": "Suncheon Bay National Garden",
+      "q": "순천만국가정원",
+      "menu_ko": "국가정원 산책",
+      "menu_en": "Walk through the national garden",
       "videos": [
-        "8lCF6H8Ee5A"
+        "EVbJ-hm0-Q8"
       ],
       "auto": true,
       "source": "description",
-      "evidence": "– Starfield Library Suwon: https://naver.me/Gd1mzLN7",
-      "added": "2026-10-26",
-      "video_title": "Suwon Day Trip: Hwaseong Fortress, Starfield Library & Korea’s Best Fried Chicken! | Day 11"
+      "evidence": "- Suncheon Bay National Garden + Suncheon Bay Wetland Reserve",
+      "added": "2026-11-02",
+      "video_title": "JEOLLA-DO 🇰🇷🍵🍃exploring the Korean countryside & green tea farm | Korea travel vlog"
     },
     {
-      "region": "gyeonggi",
+      "region": "jeonnam",
       "type": "spot",
-      "ko": "수원 통닭거리",
-      "en": "Suwon Chicken Street",
-      "q": "수원 통닭거리",
-      "menu_ko": "통닭 가게가 모인 거리",
-      "menu_en": "Street lined with Korean fried chicken shops",
+      "ko": "보성 대한다원",
+      "en": "Boseong Green Tea Field Daehan Dawon",
+      "q": "보성 대한다원",
+      "menu_ko": "녹차밭",
+      "menu_en": "Green tea plantation",
       "videos": [
-        "8lCF6H8Ee5A"
+        "EVbJ-hm0-Q8"
       ],
       "auto": true,
       "source": "description",
-      "evidence": "– Suwon Chicken Street: https://naver.me/5KO3Cb8j",
-      "added": "2026-10-26",
-      "video_title": "Suwon Day Trip: Hwaseong Fortress, Starfield Library & Korea’s Best Fried Chicken! | Day 11"
+      "evidence": "- Boseong Green Tea Field Daehan Dawon",
+      "added": "2026-11-02",
+      "video_title": "JEOLLA-DO 🇰🇷🍵🍃exploring the Korean countryside & green tea farm | Korea travel vlog"
     },
     {
-      "region": "gyeonggi",
-      "type": "restaurant",
-      "ko": "대봉통닭",
-      "en": "Daebong Chicken",
-      "q": "수원 대봉통닭",
-      "menu_ko": "통닭(후라이드 치킨)",
-      "menu_en": "Korean fried whole chicken (tongdak)",
-      "videos": [
-        "8lCF6H8Ee5A"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "– Daebong Chicken: https://naver.me/x6UyaCzK",
-      "added": "2026-10-26",
-      "video_title": "Suwon Day Trip: Hwaseong Fortress, Starfield Library & Korea’s Best Fried Chicken! | Day 11"
-    },
-    {
-      "region": "gyeonggi",
+      "region": "jeonnam",
       "type": "spot",
-      "ko": "수원역",
-      "en": "Suwon Station",
-      "q": "수원역",
-      "menu_ko": "수원의 주요 기차역",
-      "menu_en": "Suwon's main train station",
+      "ko": "다빈치호텔 순천",
+      "en": "Da Vinci Hotel Suncheon",
+      "q": "순천 다빈치호텔",
+      "menu_ko": "숙소",
+      "menu_en": "Hotel stay",
       "videos": [
-        "8lCF6H8Ee5A"
+        "EVbJ-hm0-Q8"
       ],
       "auto": true,
       "source": "description",
-      "evidence": "– Suwon Station: https://naver.me/xnn0fQXp",
-      "added": "2026-10-26",
-      "video_title": "Suwon Day Trip: Hwaseong Fortress, Starfield Library & Korea’s Best Fried Chicken! | Day 11"
+      "evidence": "and we stayed at the Da Vinci Hotel Suncheon (1000% recommended!)",
+      "added": "2026-11-02",
+      "video_title": "JEOLLA-DO 🇰🇷🍵🍃exploring the Korean countryside & green tea farm | Korea travel vlog"
     },
     {
-      "region": "gyeonggi",
-      "type": "spot",
-      "ko": "앨리웨이 광교",
-      "en": "Alleyway Gwanggyo",
-      "q": "앨리웨이 광교",
-      "menu_ko": "복합 쇼핑 거리",
-      "menu_en": "Shopping and dining street complex",
-      "videos": [
-        "QAQAGVBL51o"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "앨리웨이 광교 Alleyway Gwanggyo",
-      "added": "2026-10-26",
-      "video_title": "SUWON VLOG • Hwaseong Fortress, Hwaseong Haenggung Palace at night 🌕, what we ate 🍦 [KOREA VLOG]"
-    },
-    {
-      "region": "gyeonggi",
+      "region": "gyeongbuk",
       "type": "restaurant",
-      "ko": "도산분식 광교 앨리웨이점",
-      "en": "Dosan Bunsik (Gwanggyo Alleyway)",
-      "q": "593 Woncheon-dong, Yeongtong-gu, Suwon-si",
-      "menu_ko": "분식",
-      "menu_en": "Korean snack food",
-      "videos": [
-        "QAQAGVBL51o"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "Dosan Bunsik (도산분식)- Gwanggyo Alleyway",
-      "added": "2026-10-26",
-      "video_title": "SUWON VLOG • Hwaseong Fortress, Hwaseong Haenggung Palace at night 🌕, what we ate 🍦 [KOREA VLOG]"
-    },
-    {
-      "region": "gyeonggi",
-      "type": "restaurant",
-      "ko": "아우어 베이커리",
-      "en": "OUR bakery",
-      "q": "652-4 Ha-dong, Yeongtong-gu, Suwon-si, Gyeonggi-do",
-      "menu_ko": "베이커리",
-      "menu_en": "Bakery",
-      "videos": [
-        "QAQAGVBL51o"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "OUR bakery",
-      "added": "2026-10-26",
-      "video_title": "SUWON VLOG • Hwaseong Fortress, Hwaseong Haenggung Palace at night 🌕, what we ate 🍦 [KOREA VLOG]"
-    },
-    {
-      "region": "gyeonggi",
-      "type": "spot",
-      "ko": "광교호수공원",
-      "en": "Gwanggyo Lake Park",
-      "q": "광교호수공원",
-      "menu_ko": "호수공원 산책",
-      "menu_en": "Lake park walk",
-      "videos": [
-        "QAQAGVBL51o"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "Gwanggyo Lake Park",
-      "added": "2026-10-26",
-      "video_title": "SUWON VLOG • Hwaseong Fortress, Hwaseong Haenggung Palace at night 🌕, what we ate 🍦 [KOREA VLOG]"
-    },
-    {
-      "region": "gyeonggi",
-      "type": "spot",
-      "ko": "갤러리아백화점 광교점",
-      "en": "Galleria Department Store Gwanggyo",
-      "q": "124 Gwanggyojungang-ro, Yeongtong-gu, Suwon-si",
-      "menu_ko": "백화점",
-      "menu_en": "Department store",
-      "videos": [
-        "QAQAGVBL51o"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "Galleria Department Store Gwanggyo (갤러리아백화점 광교점)",
-      "added": "2026-10-26",
-      "video_title": "SUWON VLOG • Hwaseong Fortress, Hwaseong Haenggung Palace at night 🌕, what we ate 🍦 [KOREA VLOG]"
-    },
-    {
-      "region": "gyeonggi",
-      "type": "restaurant",
-      "ko": "지파시",
-      "en": "G Fassi",
-      "q": "871-1, Ha-dong, Yeongtong-gu, Suwon-si, Gyeonggi-do",
-      "menu_ko": "젤라토 아이스크림",
-      "menu_en": "Gelato ice cream",
-      "videos": [
-        "QAQAGVBL51o"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "G Fassi (지파시)",
-      "added": "2026-10-26",
-      "video_title": "SUWON VLOG • Hwaseong Fortress, Hwaseong Haenggung Palace at night 🌕, what we ate 🍦 [KOREA VLOG]"
-    },
-    {
-      "region": "gyeonggi",
-      "type": "spot",
-      "ko": "화성행궁",
-      "en": "Hwaseong Haenggung Palace",
-      "q": "수원 화성행궁",
-      "menu_ko": "행궁 야간 관람",
-      "menu_en": "Palace night visit",
-      "videos": [
-        "QAQAGVBL51o"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "Hwaseong Haenggung Palace",
-      "added": "2026-10-26",
-      "video_title": "SUWON VLOG • Hwaseong Fortress, Hwaseong Haenggung Palace at night 🌕, what we ate 🍦 [KOREA VLOG]"
-    },
-    {
-      "region": "gyeonggi",
-      "type": "restaurant",
-      "ko": "이치하치",
-      "en": "Ichihachi",
-      "q": "71-1, Namsu-dong, Paldal-gu, Suwon-si",
-      "menu_ko": "일식",
-      "menu_en": "Japanese food",
-      "videos": [
-        "QAQAGVBL51o"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "Ichihachi (이치하치)",
-      "added": "2026-10-26",
-      "video_title": "SUWON VLOG • Hwaseong Fortress, Hwaseong Haenggung Palace at night 🌕, what we ate 🍦 [KOREA VLOG]"
-    },
-    {
-      "region": "gangwon",
-      "type": "restaurant",
-      "ko": "대포리횟집",
-      "en": "DaePoRee HwetJip (Raw Fish Restaurant)",
-      "q": "속초 대포항 대포리횟집",
-      "menu_ko": "대포항 활어회",
-      "menu_en": "Fresh raw fish at Daepo Harbor",
-      "videos": [
-        "90ANawUhkXw"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "DehPoRee-HwetJip 대포리횟집",
-      "added": "2026-10-26",
-      "video_title": "REAL KOREAN FOOD TOUR 🇰🇷🏝Sokcho, Korea's #1 Beach Town & Foodie Destination Travel Guide"
-    },
-    {
-      "region": "gangwon",
-      "type": "restaurant",
-      "ko": "머구리횟집",
-      "en": "MuhGuLee HwetJip (Raw Fish Restaurant)",
-      "q": "속초 대포항 머구리횟집",
-      "menu_ko": "대포항 활어회",
-      "menu_en": "Fresh raw fish at Daepo Harbor",
-      "videos": [
-        "90ANawUhkXw"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "MuhGuLee-HwetJip 머구리횟집",
-      "added": "2026-10-26",
-      "video_title": "REAL KOREAN FOOD TOUR 🇰🇷🏝Sokcho, Korea's #1 Beach Town & Foodie Destination Travel Guide"
-    },
-    {
-      "region": "gangwon",
-      "type": "spot",
-      "ko": "바우하우스 펜션",
-      "en": "Bau-Haus Pension Lodging",
-      "q": "속초 바우하우스 펜션",
-      "menu_ko": "대포항 숙소",
-      "menu_en": "Lodging near Daepo Harbor",
-      "videos": [
-        "90ANawUhkXw"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "Bau-Haus Pension Lodging",
-      "added": "2026-10-26",
-      "video_title": "REAL KOREAN FOOD TOUR 🇰🇷🏝Sokcho, Korea's #1 Beach Town & Foodie Destination Travel Guide"
-    },
-    {
-      "region": "gangwon",
-      "type": "restaurant",
-      "ko": "황구활어횟집",
-      "en": "HwangGu HwalUh HwetJip (Live Fish Restaurant)",
-      "q": "강원도 속초시 대포항희망길 59. 9호",
-      "menu_ko": "활어회",
-      "menu_en": "Live raw fish",
-      "videos": [
-        "90ANawUhkXw"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "HwangGuHwalUh-HwetJip 황구활어횟집\n강원도 속초시 대포항희망길 59. 9호 (cut-and-paste to Naver Map)",
-      "added": "2026-10-26",
-      "video_title": "REAL KOREAN FOOD TOUR 🇰🇷🏝Sokcho, Korea's #1 Beach Town & Foodie Destination Travel Guide"
-    },
-    {
-      "region": "gangwon",
-      "type": "restaurant",
-      "ko": "장수활어횟집",
-      "en": "JangSu HwalUh HwetJip (Live Fish Restaurant)",
-      "q": "속초 장수활어횟집",
-      "menu_ko": "속초해변 활어회",
-      "menu_en": "Live raw fish at Sokcho Beach",
-      "videos": [
-        "90ANawUhkXw"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "JangSuHwalUh-HwetJip 장수활어횟집",
-      "added": "2026-10-26",
-      "video_title": "REAL KOREAN FOOD TOUR 🇰🇷🏝Sokcho, Korea's #1 Beach Town & Foodie Destination Travel Guide"
-    },
-    {
-      "region": "gangwon",
-      "type": "restaurant",
-      "ko": "브라더후드 커피",
-      "en": "Brotherhood Coffee",
-      "q": "속초 브라더후드 커피",
-      "menu_ko": "속초해변 카페",
-      "menu_en": "Cafe at Sokcho Beach",
-      "videos": [
-        "90ANawUhkXw"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "Brotherhood Coffee",
-      "added": "2026-10-26",
-      "video_title": "REAL KOREAN FOOD TOUR 🇰🇷🏝Sokcho, Korea's #1 Beach Town & Foodie Destination Travel Guide"
-    },
-    {
-      "region": "gangwon",
-      "type": "restaurant",
-      "ko": "단천면옥",
-      "en": "DanChun MyunOak (Cold Noodle Restaurant)",
-      "q": "속초 단천면옥",
-      "menu_ko": "냉면",
-      "menu_en": "Cold noodles",
-      "videos": [
-        "90ANawUhkXw"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "DanChunMyunOak 단천면옥 (Cold Noodle Specialty Restaurant)",
-      "added": "2026-10-26",
-      "video_title": "REAL KOREAN FOOD TOUR 🇰🇷🏝Sokcho, Korea's #1 Beach Town & Foodie Destination Travel Guide"
-    },
-    {
-      "region": "gangwon",
-      "type": "restaurant",
-      "ko": "영빈반점",
-      "en": "YoungBin BanJeom (Chinese Restaurant)",
-      "q": "속초 영빈반점",
-      "menu_ko": "중식, 짜장면",
-      "menu_en": "Korean-Chinese food, jjajangmyeon",
-      "videos": [
-        "90ANawUhkXw"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "YoungBinBanJeom 영빈반점 (Chinese Cuisine Restaurant)",
-      "added": "2026-10-26",
-      "video_title": "REAL KOREAN FOOD TOUR 🇰🇷🏝Sokcho, Korea's #1 Beach Town & Foodie Destination Travel Guide"
-    },
-    {
-      "region": "gangwon",
-      "type": "restaurant",
-      "ko": "콩서리",
-      "en": "KongSeuhLee (Tofu Restaurant)",
-      "q": "속초 콩서리",
-      "menu_ko": "두부 요리",
-      "menu_en": "Tofu dishes",
-      "videos": [
-        "90ANawUhkXw"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "KongSeuhLee 콩서리 (Tofu Specialty Restaurant)",
-      "added": "2026-10-26",
-      "video_title": "REAL KOREAN FOOD TOUR 🇰🇷🏝Sokcho, Korea's #1 Beach Town & Foodie Destination Travel Guide"
-    },
-    {
-      "region": "gangwon",
-      "type": "restaurant",
-      "ko": "공가내",
-      "en": "KongGaNeh (Potato Ongsimi Soup Restaurant)",
-      "q": "속초 공가내",
-      "menu_ko": "감자옹심이",
-      "menu_en": "Potato gnocchi-like soup",
-      "videos": [
-        "90ANawUhkXw"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "KongGaNeh 공가내 (Potato gnocchi-like soup restaurant)",
-      "added": "2026-10-26",
-      "video_title": "REAL KOREAN FOOD TOUR 🇰🇷🏝Sokcho, Korea's #1 Beach Town & Foodie Destination Travel Guide"
-    },
-    {
-      "region": "gangwon",
-      "type": "restaurant",
-      "ko": "연탄불생구이 속초맛집",
-      "en": "YeonTan Bul SaengGuYi (Pork BBQ Restaurant)",
-      "q": "속초 연탄불생구이",
-      "menu_ko": "연탄불 돼지고기 구이",
-      "menu_en": "Charcoal briquette pork BBQ",
-      "videos": [
-        "90ANawUhkXw"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "YeonTanBulShengGuYee 연탄불생구이 속초맛집 (Pork BBQ Specialty Restaurant)",
-      "added": "2026-10-26",
-      "video_title": "REAL KOREAN FOOD TOUR 🇰🇷🏝Sokcho, Korea's #1 Beach Town & Foodie Destination Travel Guide"
-    },
-    {
-      "region": "gangwon",
-      "type": "restaurant",
-      "ko": "탕후루 (속초)",
-      "en": "Tanghulu Shop (Candied Fresh Fruit)",
-      "q": "속초 탕후루",
-      "menu_ko": "탕후루",
-      "menu_en": "Candied fresh fruit",
-      "videos": [
-        "90ANawUhkXw"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "TangWhoRu 탕후루 (Candied Fresh Fruit)",
-      "added": "2026-10-26",
-      "video_title": "REAL KOREAN FOOD TOUR 🇰🇷🏝Sokcho, Korea's #1 Beach Town & Foodie Destination Travel Guide"
-    },
-    {
-      "region": "gangwon",
-      "type": "spot",
-      "ko": "속초해수욕장",
-      "en": "Sokcho Beach",
-      "q": "속초해수욕장",
-      "menu_ko": "해변",
-      "menu_en": "Beach",
-      "videos": [
-        "90ANawUhkXw"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "SokCho Beach https://maps.app.goo.gl/iwXBhZ3n2wBE1YUH6",
-      "added": "2026-10-26",
-      "video_title": "REAL KOREAN FOOD TOUR 🇰🇷🏝Sokcho, Korea's #1 Beach Town & Foodie Destination Travel Guide"
-    },
-    {
-      "region": "gangwon",
-      "type": "spot",
-      "ko": "양양 서핑 해변",
-      "en": "Yangyang Surf Beach",
-      "q": "양양 서핑 해변",
-      "menu_ko": "서핑 해변",
-      "menu_en": "Surf beach",
-      "videos": [
-        "90ANawUhkXw"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "YangYang Surf Beach 양양",
-      "added": "2026-10-26",
-      "video_title": "REAL KOREAN FOOD TOUR 🇰🇷🏝Sokcho, Korea's #1 Beach Town & Foodie Destination Travel Guide"
-    },
-    {
-      "region": "gangwon",
-      "type": "spot",
-      "ko": "고성 통일전망타워",
-      "en": "Goseong Unification Observatory",
-      "q": "고성 통일전망타워",
-      "menu_ko": "통일전망대",
-      "menu_en": "Unification observatory",
-      "videos": [
-        "90ANawUhkXw"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "GoSung-TtongYilJeonMangTaWuh 고성 통일전망타워\nGoseong Unification Observatory",
-      "added": "2026-10-26",
-      "video_title": "REAL KOREAN FOOD TOUR 🇰🇷🏝Sokcho, Korea's #1 Beach Town & Foodie Destination Travel Guide"
-    },
-    {
-      "region": "gangwon",
-      "type": "spot",
-      "ko": "설악산",
-      "en": "Seoraksan (Sorak National Park)",
-      "q": "설악산국립공원",
-      "menu_ko": "국립공원",
-      "menu_en": "National park",
-      "videos": [
-        "90ANawUhkXw"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "SoRak Mountain 설악산 (Sorak National Park)",
-      "added": "2026-10-26",
-      "video_title": "REAL KOREAN FOOD TOUR 🇰🇷🏝Sokcho, Korea's #1 Beach Town & Foodie Destination Travel Guide"
-    },
-    {
-      "region": "gangwon",
-      "type": "spot",
-      "ko": "영랑호",
-      "en": "Yeongnangho Lake",
-      "q": "속초 영랑호",
-      "menu_ko": "속초 호수",
-      "menu_en": "Lake in Sokcho",
-      "videos": [
-        "90ANawUhkXw"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "YoungLangHo 영랑호 (Lake in SokCho City)",
-      "added": "2026-10-26",
-      "video_title": "REAL KOREAN FOOD TOUR 🇰🇷🏝Sokcho, Korea's #1 Beach Town & Foodie Destination Travel Guide"
-    },
-    {
-      "region": "gangwon",
-      "type": "spot",
-      "ko": "척산온천휴양촌",
-      "en": "Cheoksan Hot Spring Resort",
-      "q": "속초 척산온천휴양촌",
-      "menu_ko": "온천 스파",
-      "menu_en": "Hot mineral spring spa",
-      "videos": [
-        "90ANawUhkXw"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "ChukSanOonChun-HwoYangChon 척산온천휴양촌 (온천스파)",
-      "added": "2026-10-26",
-      "video_title": "REAL KOREAN FOOD TOUR 🇰🇷🏝Sokcho, Korea's #1 Beach Town & Foodie Destination Travel Guide"
-    },
-    {
-      "region": "gangwon",
-      "type": "spot",
-      "ko": "아시안하이웨이 기념품샵",
-      "en": "Asian Highway Gift Shop",
-      "q": "속초 아시안하이웨이",
-      "menu_ko": "기념품 가게",
-      "menu_en": "Gift shop",
-      "videos": [
-        "90ANawUhkXw"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "Asian Highway Gift Shop",
-      "added": "2026-10-26",
-      "video_title": "REAL KOREAN FOOD TOUR 🇰🇷🏝Sokcho, Korea's #1 Beach Town & Foodie Destination Travel Guide"
-    },
-    {
-      "region": "gangwon",
-      "type": "spot",
-      "ko": "삼양라운드힐",
-      "en": "Samyang Roundhill",
-      "q": "강릉 삼양라운드힐",
-      "menu_ko": "산 정상 목장",
-      "menu_en": "Mountain top farm",
-      "videos": [
-        "jMySDV7Kwko"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "0:15 Samyang Roundhill",
-      "added": "2026-10-26",
-      "video_title": "Weekend in GANGNEUNG | South Korea"
-    },
-    {
-      "region": "gangwon",
-      "type": "restaurant",
-      "ko": "경포막국수",
-      "en": "Gyeongpo Makguksu",
-      "q": "강릉 경포막국수",
-      "menu_ko": "막국수",
-      "menu_en": "Makguksu (buckwheat noodles)",
-      "videos": [
-        "jMySDV7Kwko"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "2:58 Gyeongpo Makguksu",
-      "added": "2026-10-26",
-      "video_title": "Weekend in GANGNEUNG | South Korea"
-    },
-    {
-      "region": "gangwon",
-      "type": "restaurant",
-      "ko": "초당커피정미소",
-      "en": "Chodang Coffee Jeongmiso",
-      "q": "강릉 초당커피정미소",
+      "ko": "올리비 카페",
+      "en": "Olivee Cafe",
+      "q": "경주 올리비 카페",
       "menu_ko": "카페",
       "menu_en": "Cafe",
       "videos": [
-        "jMySDV7Kwko"
+        "v_dZT6AUjGk"
       ],
       "auto": true,
       "source": "description",
-      "evidence": "4:12 Chodang Coffee Jeongmiso",
-      "added": "2026-10-26",
-      "video_title": "Weekend in GANGNEUNG | South Korea"
+      "evidence": "13:47 Shopping in Gyeongju; Olivee Cafe",
+      "added": "2026-11-02",
+      "video_title": "3 days in Gyeongju, South Korea! 🇰🇷 Gyeongju's best shopping, cafes, and food (travel vlog)"
     },
     {
-      "region": "gangwon",
+      "region": "gyeongbuk",
+      "type": "spot",
+      "ko": "월정교",
+      "en": "Woljeonggyo Bridge",
+      "q": "경주 월정교",
+      "menu_ko": "신라 시대 복원 다리",
+      "menu_en": "Restored Silla-era bridge",
+      "videos": [
+        "v_dZT6AUjGk",
+        "nsFk-bseRMw"
+      ],
+      "auto": true,
+      "source": "description",
+      "evidence": "18:32 Flower Fields; Woljeonggyo Bridge; Observatory; K-BBQ",
+      "added": "2026-11-02",
+      "video_title": "3 days in Gyeongju, South Korea! 🇰🇷 Gyeongju's best shopping, cafes, and food (travel vlog)"
+    },
+    {
+      "region": "gyeongbuk",
+      "type": "spot",
+      "ko": "황리단길",
+      "en": "Hwangnidan-gil (Golden Street)",
+      "q": "경주 황리단길",
+      "menu_ko": "카페·상점 거리",
+      "menu_en": "Street of cafes and shops",
+      "videos": [
+        "v_dZT6AUjGk"
+      ],
+      "auto": true,
+      "source": "description",
+      "evidence": "24:10 Tteokgalbi Set Meal; Golden Street; Delicious Cake at Bush Cafe",
+      "added": "2026-11-02",
+      "video_title": "3 days in Gyeongju, South Korea! 🇰🇷 Gyeongju's best shopping, cafes, and food (travel vlog)"
+    },
+    {
+      "region": "gyeongbuk",
       "type": "restaurant",
-      "ko": "초당 고래 로스팅 카페",
-      "en": "Chodang Whale Roasting Cafe",
-      "q": "강릉 초당 고래 로스팅 카페",
+      "ko": "부시 카페",
+      "en": "Bush Cafe",
+      "q": "경주 부시 카페",
+      "menu_ko": "케이크",
+      "menu_en": "Cake",
+      "videos": [
+        "v_dZT6AUjGk"
+      ],
+      "auto": true,
+      "source": "description",
+      "evidence": "24:10 Tteokgalbi Set Meal; Golden Street; Delicious Cake at Bush Cafe",
+      "added": "2026-11-02",
+      "video_title": "3 days in Gyeongju, South Korea! 🇰🇷 Gyeongju's best shopping, cafes, and food (travel vlog)"
+    },
+    {
+      "region": "gyeongbuk",
+      "type": "spot",
+      "ko": "사다함",
+      "en": "Sadaham (Hanok stay)",
+      "q": "경주 사다함 한옥",
+      "menu_ko": "한옥 숙소 (에어비앤비 예약)",
+      "menu_en": "Hanok stay booked on Airbnb",
+      "videos": [
+        "teLRxsBnHqo"
+      ],
+      "auto": true,
+      "source": "description",
+      "evidence": "The Hanok is called Sadaham and it was booked on airbnb.",
+      "added": "2026-11-02",
+      "video_title": "48 Hours in Gyeongju, South Korea: Travel Vlog (Hanok Stay, Korean Food, Sightseeing and RAIN)"
+    },
+    {
+      "region": "gyeongbuk",
+      "type": "restaurant",
+      "ko": "도와당",
+      "en": "Dowadang",
+      "q": "경주 도와당",
+      "menu_ko": "한식 식당",
+      "menu_en": "Korean restaurant",
+      "videos": [
+        "teLRxsBnHqo"
+      ],
+      "auto": true,
+      "source": "description",
+      "evidence": "-Day 2: Restaurant (Dowadang), Matcha Desert place (Omamori Gyeongju), Wolseong Palace sight,  Gyeongju Town, cafe 1984,",
+      "added": "2026-11-02",
+      "video_title": "48 Hours in Gyeongju, South Korea: Travel Vlog (Hanok Stay, Korean Food, Sightseeing and RAIN)"
+    },
+    {
+      "region": "gyeongbuk",
+      "type": "restaurant",
+      "ko": "오마모리 경주",
+      "en": "Omamori Gyeongju",
+      "q": "경주 오마모리",
+      "menu_ko": "말차 디저트",
+      "menu_en": "Matcha desserts",
+      "videos": [
+        "teLRxsBnHqo"
+      ],
+      "auto": true,
+      "source": "description",
+      "evidence": "-Day 2: Restaurant (Dowadang), Matcha Desert place (Omamori Gyeongju), Wolseong Palace sight,  Gyeongju Town, cafe 1984,",
+      "added": "2026-11-02",
+      "video_title": "48 Hours in Gyeongju, South Korea: Travel Vlog (Hanok Stay, Korean Food, Sightseeing and RAIN)"
+    },
+    {
+      "region": "gyeongbuk",
+      "type": "spot",
+      "ko": "경주 월성",
+      "en": "Wolseong Palace Site",
+      "q": "경주 월성",
+      "menu_ko": "신라 왕궁터",
+      "menu_en": "Silla palace site",
+      "videos": [
+        "teLRxsBnHqo"
+      ],
+      "auto": true,
+      "source": "description",
+      "evidence": "-Day 2: Restaurant (Dowadang), Matcha Desert place (Omamori Gyeongju), Wolseong Palace sight,  Gyeongju Town, cafe 1984,",
+      "added": "2026-11-02",
+      "video_title": "48 Hours in Gyeongju, South Korea: Travel Vlog (Hanok Stay, Korean Food, Sightseeing and RAIN)"
+    },
+    {
+      "region": "gyeongbuk",
+      "type": "restaurant",
+      "ko": "카페 1984",
+      "en": "Cafe 1984",
+      "q": "경주 카페 1984",
       "menu_ko": "카페",
       "menu_en": "Cafe",
       "videos": [
-        "jMySDV7Kwko"
+        "teLRxsBnHqo"
       ],
       "auto": true,
       "source": "description",
-      "evidence": "5:27 Chodang Whale Roasting Cafe",
-      "added": "2026-10-26",
-      "video_title": "Weekend in GANGNEUNG | South Korea"
+      "evidence": "-Day 2: Restaurant (Dowadang), Matcha Desert place (Omamori Gyeongju), Wolseong Palace sight,  Gyeongju Town, cafe 1984,",
+      "added": "2026-11-02",
+      "video_title": "48 Hours in Gyeongju, South Korea: Travel Vlog (Hanok Stay, Korean Food, Sightseeing and RAIN)"
     },
     {
-      "region": "gangwon",
+      "region": "gyeongbuk",
       "type": "spot",
-      "ko": "안목해변",
-      "en": "Anmok Beach",
-      "q": "강릉 안목해변",
-      "menu_ko": "해변",
-      "menu_en": "Beach",
+      "ko": "금관총",
+      "en": "Geumgwanchong Tomb",
+      "q": "경주 금관총",
+      "menu_ko": "신라 고분",
+      "menu_en": "Silla royal tomb",
       "videos": [
-        "jMySDV7Kwko"
+        "teLRxsBnHqo"
       ],
       "auto": true,
       "source": "description",
-      "evidence": "6:30 Anmok Beach",
-      "added": "2026-10-26",
-      "video_title": "Weekend in GANGNEUNG | South Korea"
+      "evidence": "- Day 3: Geumgwanchong tomb, a street away from the Daereungwon Tomb Complex, Aden Cafe, Gwangalli Beach.",
+      "added": "2026-11-02",
+      "video_title": "48 Hours in Gyeongju, South Korea: Travel Vlog (Hanok Stay, Korean Food, Sightseeing and RAIN)"
     },
     {
-      "region": "gangwon",
+      "region": "gyeongbuk",
       "type": "restaurant",
-      "ko": "초당순두부",
-      "en": "Chodang Sundubu",
-      "q": "강릉 초당순두부",
-      "menu_ko": "순두부",
-      "menu_en": "Soft tofu (sundubu)",
+      "ko": "아덴 카페",
+      "en": "Aden Cafe",
+      "q": "경주 아덴 카페",
+      "menu_ko": "카페",
+      "menu_en": "Cafe",
       "videos": [
-        "jMySDV7Kwko"
+        "teLRxsBnHqo"
       ],
       "auto": true,
       "source": "description",
-      "evidence": "8:34 Chodang Sundubu",
-      "added": "2026-10-26",
-      "video_title": "Weekend in GANGNEUNG | South Korea"
+      "evidence": "- Day 3: Geumgwanchong tomb, a street away from the Daereungwon Tomb Complex, Aden Cafe, Gwangalli Beach.",
+      "added": "2026-11-02",
+      "video_title": "48 Hours in Gyeongju, South Korea: Travel Vlog (Hanok Stay, Korean Food, Sightseeing and RAIN)"
     },
     {
-      "region": "gangwon",
-      "type": "restaurant",
-      "ko": "순두부젤라또",
-      "en": "Soon Tofu Gelato",
-      "q": "강릉 순두부젤라또",
-      "menu_ko": "순두부 젤라또",
-      "menu_en": "Soft tofu gelato",
+      "region": "gyeongbuk",
+      "type": "spot",
+      "ko": "한옥문스테이",
+      "en": "Hanok Moonstay",
+      "q": "경주 한옥문스테이",
+      "menu_ko": "경주 전통 한옥 숙소",
+      "menu_en": "Traditional hanok stay in Gyeongju",
       "videos": [
-        "jMySDV7Kwko"
+        "nsFk-bseRMw"
       ],
       "auto": true,
       "source": "description",
-      "evidence": "10:00 Soon Tofu Gelato",
-      "added": "2026-10-26",
-      "video_title": "Weekend in GANGNEUNG | South Korea"
+      "evidence": "00:00 - Hanok Moonstay",
+      "added": "2026-11-02",
+      "video_title": "Step Into Korea’s Past: A Gyeongju Journey"
     },
     {
-      "region": "gangwon",
+      "region": "gyeongbuk",
       "type": "restaurant",
-      "ko": "춘천닭갈비 (강릉)",
-      "en": "Chuncheon Dak Galbi (Gangneung)",
-      "q": "강릉 춘천닭갈비",
-      "menu_ko": "닭갈비",
-      "menu_en": "Dak galbi (spicy stir-fried chicken)",
+      "ko": "카페 다시봄",
+      "en": "Cafe Dasi Bom",
+      "q": "경주 카페 다시봄",
+      "menu_ko": "정원이 있는 아늑한 카페",
+      "menu_en": "Cozy cafe with a garden",
       "videos": [
-        "jMySDV7Kwko"
+        "nsFk-bseRMw"
       ],
       "auto": true,
       "source": "description",
-      "evidence": "10:27 Chuncheon Dak Galbi",
-      "added": "2026-10-26",
-      "video_title": "Weekend in GANGNEUNG | South Korea"
+      "evidence": "07:18 - Cafe Dasi Bom",
+      "added": "2026-11-02",
+      "video_title": "Step Into Korea’s Past: A Gyeongju Journey"
+    },
+    {
+      "region": "gyeongbuk",
+      "type": "spot",
+      "ko": "석굴암",
+      "en": "Seokguram Grotto",
+      "q": "경주 석굴암",
+      "menu_ko": "유명한 석굴 사원",
+      "menu_en": "Famous stone grotto",
+      "videos": [
+        "nsFk-bseRMw"
+      ],
+      "auto": true,
+      "source": "description",
+      "evidence": "🪨 The famous Seokguram Grotto",
+      "added": "2026-11-02",
+      "video_title": "Step Into Korea’s Past: A Gyeongju Journey"
+    },
+    {
+      "region": "gyeongbuk",
+      "type": "spot",
+      "ko": "경주 교촌마을",
+      "en": "Gyochon Traditional Village",
+      "q": "경주 교촌마을",
+      "menu_ko": "한옥 전통마을",
+      "menu_en": "Traditional village with hanok houses",
+      "videos": [
+        "nsFk-bseRMw"
+      ],
+      "auto": true,
+      "source": "description",
+      "evidence": "🏘️ Gyochon Village with hanok houses",
+      "added": "2026-11-02",
+      "video_title": "Step Into Korea’s Past: A Gyeongju Journey"
     }
   ]
 }
