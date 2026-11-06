@@ -45,7 +45,7 @@ export function buildVideosJs() {
   try { store = JSON.parse(fs.readFileSync(path.join(SITE, "data/auto/videos-auto.json"), "utf8")); } catch (e) {
     if (fs.existsSync(path.join(SITE, "data/auto/videos-auto.json"))) throw new Error(`data/auto/videos-auto.json 형식이 깨졌어요 (쉼표·따옴표를 확인하세요): ${e.message}`);
   }
-  const pub = store.map(({ id, region, cats, title }) => ({ id, region, cats, title }));
+  const pub = store.map(({ id, region, cats, title, show }) => ({ id, region, cats, title, ...(show ? { show } : {}) }));
   fs.writeFileSync(
     path.join(SITE, "data/videos-auto.js"),
     `// 자동 생성 파일: data/auto/videos-auto.json 에서 scripts/build-places.mjs 가 만듦. 직접 고치지 마세요.\n` +

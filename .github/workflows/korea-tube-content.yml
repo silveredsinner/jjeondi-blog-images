@@ -18,7 +18,7 @@ on:
         description: "이 지역 글을 강제로 쓰기 (예: busan, 여러 지역은 seoul,jeju). 비우면 새 장소가 모인 지역만"
         default: ""
       discover:
-        description: "유튜브에서 새 영상 찾기: mukbang, beauty (쉼표로 여러 개). 비우면 안 찾음"
+        description: "유튜브에서 새 영상 찾기: mukbang, beauty, docu3days (쉼표로 여러 개). 비우면 안 찾음"
         default: ""
       discover_regions:
         description: "새 먹방 찾기를 이 지역만 (예: busan,gangwon,jeonbuk). 비우면 전국"
@@ -129,7 +129,7 @@ jobs:
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          DISCOVER: ${{ inputs.discover || 'mukbang,beauty' }}
+          DISCOVER: ${{ inputs.discover || 'mukbang,beauty,docu3days' }}
           PER_REGION: ${{ github.event_name == 'schedule' && '2' || '' }}
           MAX_NEW: ${{ github.event_name == 'schedule' && '12' || '' }}
           DISCOVER_REGIONS: ${{ inputs.discover_regions }}

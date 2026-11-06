@@ -16,6 +16,11 @@ window.REGION_NAMES = {
 };
 
 window.SHOW_NAMES = {
+  docu3days: {
+    ja: "ドキュメンタリー3日", "zh-Hans": "纪录片3日", "zh-Hant": "紀錄片3日",
+    es: "Documental 3 días (KBS)", fr: "Documentaire 3 jours (KBS)", de: "Dokumentation 3 Tage (KBS)",
+    vi: "Phim tài liệu 3 ngày (KBS)", th: "สารคดี 3 วัน (KBS)", id: "Dokumenter 3 Hari (KBS)", ru: "Документальный фильм «3 дня» (KBS)",
+  },
   hello1stkorea: {
     ja: "ようこそ、韓国は初めて？", "zh-Hans": "欢迎第一次来韩国吧", "zh-Hant": "歡迎第一次來韓國吧",
     es: "Bienvenidos, ¿primera vez en Corea?", fr: "Bienvenue, première fois en Corée ?", de: "Willkommen, zum ersten Mal in Korea?",
