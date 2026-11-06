@@ -693,5 +693,205 @@ window.VIDEOS.push(...[
       "beauty"
     ],
     "title": "What Locals buy vs. Tourists buy at OLIVE YOUNG!🤨 🤨 🤨"
+  },
+  {
+    "id": "f8QVHsuxn5U",
+    "region": "jeonnam",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일📸] '바람의 길목'이라 불려온 바다의 오지, 장도 | 바람과 함께 살아가다 - 신안 장도 72시간 | KBS 20161016 방송",
+    "show": "docu3days"
+  },
+  {
+    "id": "el_HU4bYJZ0",
+    "region": "gangwon",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일★풀버전] 블라디보스토크와 속초를 잇는 여객선 ‘동춘호’ 72시간 | “북방항로, 블라디보스토크 가는 뱃길 685km” (KBS 080221 방송)",
+    "show": "docu3days"
+  },
+  {
+    "id": "uLvyTJUEzRw",
+    "region": "gyeongbuk",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "10년 전 안동역의 소녀들, '내일로'의 청춘들.. 잘 지내고 있을까? 2025년, 잃어버린 낭만 한 조각을 찾아서 🚂ㅣKBS 다큐3일 특별판-어바웃타임 250822 방송",
+    "show": "docu3days"
+  },
+  {
+    "id": "pCt8Td0Lo1Y",
+    "region": "gangwon",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일★풀버전] 푸근하고 정겨운 대표 5일장! | “강원도의 힘, 정선 5일장” (KBS 130609 방송)",
+    "show": "docu3days"
+  },
+  {
+    "id": "wqKl8UbNuzw",
+    "region": "seoul",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일] 그럼에도 불구하고-노량진 고시촌 (1/2)",
+    "show": "docu3days"
+  },
+  {
+    "id": "VdNMKz8DzgE",
+    "region": "daegu",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일★풀버전] 바이크의 모든 것! 50년 넘은 전국 대표 오토바이 특화 거리 | “빠라바라밤 대구 오토바이 골목 72시간” (KBS 160703 방송)",
+    "show": "docu3days"
+  },
+  {
+    "id": "bhu2asm_c2M",
+    "region": "seoul",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일★풀버전] 시린 겨울, 연탄난로에 둘러앉아 따뜻한 시간을 보내는 그들의 마음의 온도는 몇 도 일까? 중계동 백사마을의 겨울나기 (KBS 20110130 방송)",
+    "show": "docu3days"
+  },
+  {
+    "id": "fmvPIj2SI_E",
+    "region": "seoul",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일📸] 빌딩 숲속 작은 포장마차가 건네는 위로 한 잔 | 한 잔의 위로, 용산 포장마차촌 72시간 | KBS 2013.11.24 방송",
+    "show": "docu3days"
+  },
+  {
+    "id": "Q2d7OQBgpkc",
+    "region": "gyeongbuk",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일] 강처럼 바람처럼 경북 영주 무섬마을 (풀영상)",
+    "show": "docu3days"
+  },
+  {
+    "id": "a1EOZeDcpEQ",
+    "region": "jeonnam",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일📸] 똑같이 나누고 다같이 잘산다! 행복한 바보섬, 신안 영산도 72시간 | KBS 2015.09.20",
+    "show": "docu3days"
+  },
+  {
+    "id": "XHbni8_35yE",
+    "region": "jeonnam",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일★풀버전] 새벽 3시부터 단 6시간 오픈! \"새벽, 정을 팝니다 - 남광주 도깨비시장 72시간\" (KBS 20170507 방송)",
+    "show": "docu3days"
+  },
+  {
+    "id": "HmeZZIr_8Qo",
+    "region": "seoul",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일📸] 1만 2천개의 점포에서 즐기는 다채로운 먹거리와 볼거리! 600년의 역사를 지닌 남대문시장 72시간 | KBS 2018.12.16 방송",
+    "show": "docu3days"
+  },
+  {
+    "id": "GbGh59SO60M",
+    "region": "busan",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일★풀버전] 부산 자갈치 시장에 찾아온 따뜻한 봄 | “그래도 봄바람은 분다 부산 자갈치 시장 3일” (KBS 100328 방송)",
+    "show": "docu3days"
+  },
+  {
+    "id": "wrxTA28IIvE",
+    "region": "daegu",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일📸] 🌞해가 뜨면 공구상가🌛달이 뜨면 포장마차! 대구 북성로 한잔의 추억 | 삼일야화, 대구 연탄불고기 포장마차 골목 72시간 | KBS 2015.11.22 방송",
+    "show": "docu3days"
+  },
+  {
+    "id": "kIvLvXLBJIY",
+    "region": "jeju",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일★풀버전] 장터 따라 🚚돌고 도는 장꾼들의 인생이야기 | \"길 따라 장 따라- 제주도 오일장 72시간\" (KBS 20150315 방송)",
+    "show": "docu3days"
+  },
+  {
+    "id": "42wdzmlgO_c",
+    "region": "gyeongnam",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일★풀버전] 우람한 고래 바위와 에메랄드빛 바다를 품은 힐링의 섬 |  \"섬, 그 품에 안기다 - 통영 수우도\" (KBS 20160501 방송)",
+    "show": "docu3days"
+  },
+  {
+    "id": "672dDcKi25c",
+    "region": "gyeongbuk",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일] 울지과 봉화 협곡 사이, 바람이 쉬어가는 간이역 - 원곡마을 양원역 72시간",
+    "show": "docu3days"
+  },
+  {
+    "id": "YYCxBgUwpEw",
+    "region": "busan",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일★풀버전] 울면서 들어오고, 울면서 떠나는 동네 \"시간의 거미줄 부산 안창마을 3일\" (KBS 101205 방송)",
+    "show": "docu3days"
+  },
+  {
+    "id": "PUsx-2II_Do",
+    "region": "chungcheong",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일] '내 마음의 보물섬 충남 보령 외연도'편 / KBS 20170809 방송",
+    "show": "docu3days"
+  },
+  {
+    "id": "Hw_TdQbq8W0",
+    "region": "gangwon",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일★풀버전] 매번 검문검색을 받아야 농사를 지을 수 있는 사람들 | “잃어버린 시간을 찾아서, 동해안 최북단 마을 명파리” (KBS 130721 방송)",
+    "show": "docu3days"
   }
 ]);
