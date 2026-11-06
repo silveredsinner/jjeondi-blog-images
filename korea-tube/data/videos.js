@@ -24,6 +24,7 @@ window.SHOWS = {
   hello1stkorea: { ko: "어서와 한국은 처음이지", en: "Welcome, First Time in Korea? (MBC every1)" },
   paikmarket: { ko: "백종원의 님아 그 시장을 가오", en: "Paik Jong-won's Market Tour" },
   baekban: { ko: "허영만의 백반기행", en: "Huh Young-man's Food Travel (TV CHOSUN)" },
+  docu3days: { ko: "다큐멘터리 3일", en: "Documentary 3 Days (KBS)" },
 };
 
 window.VIDEOS = [

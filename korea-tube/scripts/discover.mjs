@@ -2,7 +2,7 @@
 // 퍼가기(임베드) 허용 + 공개 + 쇼츠 아님 + 조회수 기준을 넘는 영상만 고르고,
 // Claude 가 제목·설명란을 읽어 지역과 주제가 분명한 영상만 남긴다 (근거 문구가 원문에 있어야 통과).
 // 필요한 환경변수: YOUTUBE_API_KEY, ANTHROPIC_API_KEY
-// 선택: DISCOVER=mukbang,beauty (찾을 주제), MAX_NEW (주제별 최대 추가 수, 기본 20),
+// 선택: DISCOVER=mukbang,beauty,docu3days (찾을 주제), MAX_NEW (주제별 최대 추가 수, 기본 20),
 //       MIN_VIEWS (최소 조회수, 기본 30000), REVIEW_FILE (PR 본문에 결과 추가)
 //       DISCOVER_REGIONS=busan,gangwon (먹방: 이 지역만 도시 이름으로 영어·한국어 검색, 다른 지역 영상은 이번에 안 넣음)
 //       PER_REGION (지역당 최대 추가 수, 기본 4) — 한 지역에 몰리지 않게
@@ -40,6 +40,8 @@ const REGION_KEYS = site.REGIONS.map((r) => r.key);
 const regionList = site.REGIONS.map((r) => `${r.key} = ${r.ko} (${r.en})`).join("\n");
 
 // 주제별 검색어. region 은 검색 힌트일 뿐이고, 실제 지역은 Claude 가 원문에서 확인한다.
+// 다큐멘터리 3일: 도시·섬마다 한국어로 검색
+const DOCU_PLACES = [...Object.values(CITIES).flat().map(([, ko]) => ko), "섬", "섬마을", "울릉도", "통영 섬", "신안 섬", "완도"];
 const TOPICS = {
   mukbang: {
     label: "먹방",
@@ -48,6 +50,14 @@ const TOPICS = {
       ? ONLY_REGIONS.flatMap((k) => (CITIES[k] || []).flatMap(([en, ko]) => [`${en} Korea mukbang`, `${ko} 먹방`]))
       : site.REGIONS.map((r) => `${r.en.split("·")[0]} Korea mukbang`),
     rule: "A mukbang or eating video: the creator eats Korean food on camera at a restaurant, market or street stall in Korea.",
+  },
+  docu3days: {
+    label: "다큐멘터리 3일",
+    cats: ["travel", "culture"],
+    show: "docu3days",
+    channel: /kbs/i, // KBS 공식 채널 영상만
+    queries: (ONLY_REGIONS.length ? ONLY_REGIONS.flatMap((k) => (CITIES[k] || []).map(([, ko]) => ko)) : DOCU_PLACES).map((p) => `다큐멘터리 3일 ${p}`),
+    rule: "An episode or clip of the KBS documentary series 'Documentary 3 Days' (다큐멘터리 3일 / 다큐3일), uploaded by an official KBS channel, about a specific city, town, market, port or island in Korea.",
   },
   beauty: {
     label: "K-뷰티",
@@ -141,6 +151,7 @@ for (const key of WANT) {
       const views = Number(it.statistics?.viewCount || 0);
       const ok = it.status?.privacyStatus === "public" && it.status?.embeddable === true && !it.status?.madeForKids &&
         seconds(it.contentDetails?.duration) >= MIN_SECONDS && views >= MIN_VIEWS;
+      if (ok && topic.channel && !topic.channel.test(it.snippet.channelTitle || "")) continue;
       if (ok) cands.push({ id: it.id, title: it.snippet.title, channel: it.snippet.channelTitle, description: it.snippet.description || "", views });
     }
   }
@@ -150,7 +161,8 @@ for (const key of WANT) {
   // 3) Claude 검토 (조회수 많은 순으로 15개씩)
   const added = [];
   const perRegion = {};
-  for (const v of store) if (v.cats.includes(topic.cats[1])) perRegion[v.region] = (perRegion[v.region] || 0) + 1;
+  // 주제별로 센다 (topic 이 없는 옛 항목은 카테고리로 판단)
+  for (const v of store) if (v.topic ? v.topic === key : !topic.show && v.cats.includes(topic.cats[1])) perRegion[v.region] = (perRegion[v.region] || 0) + 1;
   const startCount = { ...perRegion };
   for (let i = 0; i < cands.length && added.length < MAX_NEW; i += 15) {
     const batch = cands.slice(i, i + 15);
@@ -175,7 +187,7 @@ for (const key of WANT) {
       if (key === "mukbang" && ONLY_REGIONS.length && !ONLY_REGIONS.includes(x.region)) continue;
       if ((perRegion[x.region] || 0) - (startCount[x.region] || 0) >= PER_REGION) continue;
       perRegion[x.region] = (perRegion[x.region] || 0) + 1;
-      const v = { id: c.id, region: x.region, cats: topic.cats, title: c.title.slice(0, 120), channel: c.channel, views: c.views, evidence: x.evidence, added: today };
+      const v = { id: c.id, region: x.region, cats: topic.cats, ...(topic.show ? { show: topic.show } : {}), topic: key, title: c.title.slice(0, 120), channel: c.channel, views: c.views, evidence: x.evidence, added: today };
       store.push(v); have.add(c.id); added.push(v);
     }
   }
