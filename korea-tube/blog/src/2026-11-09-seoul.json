@@ -1,0 +1,226 @@
+{
+  "slug": "2026-11-09-seoul",
+  "date": "2026-11-09",
+  "region": "seoul",
+  "title": {
+    "ko": "서울 영상 속 맛집·명소: 다큐3일이 기록한 백사마을, 용산 포장마차촌, 남대문시장",
+    "en": "Seoul on Screen: Baeksa Village, Yongsan's Tent Bars and Namdaemun Market from KBS 'Documentary 3 Days'",
+    "ja": "ソウルの映像で見る、白沙村・龍山の屋台村・南大門市場｜KBS『ドキュメンタリー3日』より",
+    "zh-Hans": "镜头里的首尔：白沙村、龙山帐篷酒馆与南大门市场，KBS《纪录片3天》中的三个地方",
+    "zh-Hant": "透過鏡頭看首爾：白沙村、龍山帳篷酒館與南大門市場（KBS《紀錄片3日》）",
+    "es": "Seúl en pantalla: la aldea Baeksa, los puestos de tienda de Yongsan y el mercado Namdaemun en el documental 'Documentary 3 Days' de KBS",
+    "fr": "Séoul à l'écran : le village de Baeksa, les tentes-bars de Yongsan et le marché de Namdaemun vus dans « Documentaire 3 jours » de KBS",
+    "de": "Seoul auf dem Bildschirm: Baeksa-Dorf, Yongsans Zeltbars und der Namdaemun-Markt aus KBS 'Documentary 3 Days'",
+    "vi": "Seoul trên màn ảnh: Làng Baeksa, phố ốc đảo Yongsan và Chợ Namdaemun qua phim tài liệu 'Documentary 3 Days' của KBS",
+    "th": "ซีรีส์ 'ดอกุเมนทารี 3 วัน' ของ KBS: บ้านแพกซา ตลาดเต็นท์ยงซาน และตลาดนัมแดมุน",
+    "id": "Seoul di Layar: Desa Baeksa, Kedai Tenda Yongsan, dan Pasar Namdaemun dalam Dokumenter KBS 'Documentary 3 Days'",
+    "ru": "Сеул на экране: деревня Бэксагу, палаточные бары Ёнсана и рынок Намдэмун из документального сериала KBS «Документальный 3 дня»"
+  },
+  "summary": {
+    "ko": "KBS 다큐멘터리 3일에 소개된 서울의 세 곳, 서울의 마지막 달동네 중계동 백사마을, 닭발과 소주의 용산 포장마차촌, 호떡과 노점 먹거리의 남대문시장을 정리했습니다.",
+    "en": "Three Seoul places featured on KBS's 'Documentary 3 Days': Baeksa Village, the city's last hillside 'moon village'; the Yongsan tent bar cluster known for spicy chicken feet and soju; and Namdaemun Market with its hotteok and street food.",
+    "ja": "KBS『ドキュメンタリー3日』で取り上げられたソウルの3か所を紹介します。ソウル最後の丘の上の「月の村」白沙村、チキンの足とソジュが楽しめる龍山のテント式屋台街、そしてホットクやストリートフードが並ぶ南大門市場です。",
+    "zh-Hans": "KBS《纪录片3天》介绍的三处首尔地点：首尔最后的山坡“月亮村”白沙村，以辣鸡爪和烧酒闻名的龙山帐篷酒馆群，以及有糖饼和街头小吃的南大门市场。",
+    "zh-Hant": "KBS《紀錄片3日》介紹的三個首爾地點：首爾最後一處山坡「月亮村」白沙村、以雞爪和燒酒聞名的龍山帳篷酒館群，以及有韓式煎餅和街頭小吃的南大門市場。",
+    "es": "Tres lugares de Seúl que aparecen en 'Documentary 3 Days' de KBS: la aldea Baeksa, la última 'aldea de la luna' de la ciudad en una ladera; el conjunto de puestos de tienda de Yongsan, conocido por sus patas de pollo picantes y el soju; y el mercado Namdaemun, con sus hotteok y su comida callejera.",
+    "fr": "Trois lieux de Séoul présentés dans « Documentaire 3 jours » de KBS : le village de Baeksa, dernier « village de la lune » perché sur la colline de la capitale ; le quartier des tentes-bars de Yongsan, réputé pour ses pieds de poulet épicés et son soju ; et le marché de Namdaemun avec ses hotteok et sa cuisine de rue.",
+    "de": "Drei Orte in Seoul, die in KBS' Dokumentation 'Documentary 3 Days' vorkamen: das Baeksa-Dorf, das letzte 'Mondviertel' der Stadt an einem Hang; der Zeltbar-Komplex in Yongsan, bekannt für scharfe Hühnerfüße und Soju; und der Namdaemun-Markt mit Hotteok und Straßenessen.",
+    "vi": "Ba địa điểm ở Seoul từng xuất hiện trong chương trình 'Documentary 3 Days' của KBS: Làng Baeksa, 'ngôi làng mặt trăng' trên sườn đồi cuối cùng của thành phố; cụm quán lều Yongsan nổi tiếng với chân gà cay và soju; và Chợ Namdaemun với bánh hotteok cùng các món đường phố.",
+    "th": "สามสถานที่ในโซลที่เคยปรากฏใน 'ดอกุเมนทารี 3 วัน' ของ KBS ได้แก่ หมู่บ้านแพกซา หมู่บ้านบนเนินที่ถูกเรียกว่า 'หมู่บ้านพระจันทร์' แห่งสุดท้ายของเมือง กลุ่มร้านเต็นท์ดื่มที่ยงซานที่ขึ้นชื่อเรื่องตีนไก่เผ็ดและโซจู และตลาดนัมแดมุนที่มีโฮต็อกและของกินข้างทาง",
+    "id": "Tiga tempat di Seoul yang tampil dalam 'Documentary 3 Days' dari KBS: Desa Baeksa, sisa 'desa bulan' di lereng bukit terakhir di kota ini; deretan kedai tenda Yongsan yang terkenal dengan ceker ayam pedas dan soju; serta Pasar Namdaemun dengan hotteok dan jajanan kakinya.",
+    "ru": "Три места Сеула, показанные в документальном сериале KBS «Документальный 3 дня»: деревня Бэксагу, последняя горная «лунная деревня» города; скопление палаточных баров в Ёнсане, известных острой куриной лапкой и соджу; и рынок Намдэмун с хоттоком и уличной едой."
+  },
+  "body": {
+    "ko": "<h2>영상으로 만나는 서울의 또 다른 얼굴</h2><p>서울은 궁궐과 전통시장, 한강과 야경이 한 도시에 모인 한국의 수도입니다. 삼겹살, 광장시장의 빈대떡과 육회, 곱창, 노량진 해물라면처럼 잘 알려진 먹거리도 많지만, 이번 글에서는 KBS <strong>다큐멘터리 3일</strong>이 72시간 동안 카메라에 담은 서울의 세 장소를 소개합니다. 화려한 관광지보다는 사람들의 생활과 온기가 느껴지는 곳들입니다.</p><h2>소개할 장소</h2><h3>중계동 백사마을</h3><p>서울의 마지막 달동네로 불리는 언덕 위 마을입니다. 2011년 1월 방송된 다큐3일 「중계동 백사마을의 겨울나기」에서는 시린 겨울, 연탄난로에 둘러앉아 서로 온기를 나누는 주민들의 모습을 담았습니다. 먹거리를 찾는 곳이라기보다 서울의 지나온 시간을 돌아보는 장소이며, 주민들이 실제로 생활해 온 동네이니 방문한다면 조용히, 예의를 지켜 둘러보는 것이 좋습니다.</p><h3>용산 포장마차촌</h3><p>빌딩 숲 사이에 포장마차가 모여 있는 곳으로, 매운 닭발 같은 술안주에 소주 한 잔을 곁들이는 분위기가 특징입니다. 2013년 11월 방송된 다큐3일 「한 잔의 위로, 용산 포장마차촌 72시간」에서 하루를 마친 사람들이 작은 포장마차에서 위로를 나누는 모습이 그려졌습니다.</p><h3>남대문시장</h3><p>600년의 역사를 지닌 전통시장으로, 1만 개가 넘는 점포가 모여 있습니다. 시장 구경과 함께 호떡을 비롯한 노점 먹거리를 즐기기 좋습니다. 2018년 12월 방송된 다큐3일 「600년의 역사를 지닌 남대문시장 72시간」에서는 1만 2천여 점포가 만들어 내는 다채로운 먹거리와 볼거리를 소개했습니다.</p><h2>동선 팁</h2><p>남대문시장은 점포 구경과 노점 간식을 즐기기 좋은 낮 시간에, 용산 포장마차촌은 술안주와 소주가 어울리는 저녁 시간에 들르면 하루 일정이 자연스럽게 이어집니다. 중계동 백사마을은 서울 동북쪽에 있어 따로 반나절 정도 여유를 두고 다녀오는 편이 편합니다. 소개된 영상은 2011년부터 2018년 사이에 방송된 것이라 현재 모습은 달라졌을 수 있으니, 출발 전에 최신 정보를 한 번 확인해 보세요.</p>",
+    "en": "<h2>A Different Side of Seoul, Through the Documentary Lens</h2><p>Seoul is Korea's capital, a city where royal palaces, traditional markets, the Han River and glittering night views all share the same map. It is famous for dishes like samgyeopsal (grilled pork belly), bindaetteok and yukhoe at Gwangjang Market, gopchang (grilled intestines) and seafood ramyeon at Noryangjin. This guide, however, follows KBS's long-running series <strong>Documentary 3 Days</strong>, which spends 72 hours in one place, to three Seoul spots where everyday life and human warmth take center stage.</p><h2>The Places</h2><h3>Baeksa Village, Junggye-dong</h3><p>Often called Seoul's last 'moon village', a hillside shantytown that once sat close to the moon. The episode aired in January 2011 follows residents through a bitter winter as they gather around coal briquette stoves to keep each other warm. This is less a food stop than a window into Seoul's recent past. It is a neighborhood where people have actually lived, so if you visit, please walk quietly and be respectful of residents.</p><h3>Yongsan Pojangmacha Village</h3><p>A cluster of pojangmacha, Korea's tented street bars, tucked among office towers. The draw here is classic drinking food such as spicy chicken feet, paired with a glass of soju. The November 2013 episode, 'A Glass of Comfort: 72 Hours at Yongsan Pojangmacha Village', captures workers unwinding and finding a bit of solace in these small tents at the end of the day.</p><h3>Namdaemun Market</h3><p>A traditional market with roughly 600 years of history and more than 10,000 shops. Come to browse, then snack on hotteok (sweet filled pancakes) and other street stall bites. The December 2018 episode spends 72 hours among its roughly 12,000 shops, showcasing the market's wide range of food and sights.</p><h2>Getting Around</h2><p>Namdaemun Market works well during the day, when you can browse the shops and graze on street snacks, while the Yongsan tent bars suit the evening, when chicken feet and soju feel most at home. Doing them in that order makes for an easy day. Baeksa Village is in the northeastern part of Seoul, so it is more comfortable to set aside a separate half day for it. Keep in mind that these episodes aired between 2011 and 2018, so things may have changed since filming. It is worth checking current information before you head out.</p>",
+    "ja": "<h2>ドキュメンタリーの目から見た、もう一つのソウル</h2><p>ソウルは韓国の首都で、王宮、伝統市場、漢江、夜景の輝きが同じ地図の中に並ぶ都市です。サムギョプサル、広蔵市場のビンデトックやユッケ、ノリャンジン水産市場のコプチャンやシーフードラーメンなどで知られています。今回のガイドでは、KBSの長寿番組『ドキュメンタリー3日』を手がかりに、暮らしの温かさが感じられる3つの場所を紹介します。同番組は一つの場所で72時間を過ごす構成です。</p><h2>訪れる場所</h2><h3>中渓洞の白沙村（ペクサマウル）</h3><p>ソウル最後の「月の村」と呼ばれることの多い、丘の斜面に広がる集落です。1月に放送された回では、厳しい冬の中、住民たちが練炭ストーブを囲んで互いに暖を取る様子を追いました。食べ歩きの場所というより、ソウルの近年の暮らしを垣間見る場所です。実際に人が住んでいる地域なので、訪れる際は静かに歩き、住民の方々への配慮を忘れないようにしてください。</p><h3>龍山ポジャンマチャ村</h3><p>オフィスビルの合間に集まる、ポジャンマチャと呼ばれる韓国のテント式屋台の一角です。ここの魅力は、チキンの足のピリ辛料理などの定番のおつまみと、ソジュの一杯です。2013年11月の回『慰めの一杯：龍山ポジャンマチャ村での72時間』では、一日の終わりに小さなテントで一息つく会社員たちの姿が映し出されました。</p><h3>南大門市場</h3><p>約600年の歴史を持ち、1万以上の店が並ぶ伝統市場です。まずは店をのぞいて歩き、そのあとホットク（甘いタネの入ったパンケーキ）などの屋台の軽食を楽しみましょう。2018年12月の回では、約1万2千の店の中で72時間を過ごし、市場の多彩な食べ物と風景を紹介しました。</p><h2>移動のヒント</h2><p>南大門市場は昼間に店を見て歩き、屋台のおやつをつまむのにぴったりです。龍山のテント式屋台は、チキンの足とソジュが似合う夕方が向いています。この順番で回ると無理のない一日になります。白沙村はソウルの北東部にあるため、半日を別に取っておくとゆったり過ごせます。なお、これらの番組は2011年から2018年の間に放送されたもので、撮影から時間が経っている分、現在の様子は変わっている可能性があります。出かける前に最新の情報を確認することをおすすめします。</p>",
+    "zh-Hans": "<h2>透过纪录片镜头看首尔的另一面</h2><p>首尔是韩国的首都，王宫、传统市场、汉江和璀璨的夜景都在同一张地图上。这里以五花肉烤肉、绿豆煎饼和光藏市场的生牛肉丝拌饭等美食闻名，诺量津则有烤猪肠和海鲜拉面。不过本文依循KBS长寿节目<strong>《纪录片3天》</strong>的脉络，该节目会在同一个地方停留72小时，本文介绍的三个首尔地点，正是日常生活与人情温暖最为突出的地方。</p><h2>景点介绍</h2><h3>中界洞白沙村</h3><p>常被称为首尔最后的“月亮村”，是一处位于山坡上的棚户区，据说曾经离月亮很近。这集于2011年1月播出，记录居民在严寒的冬天里围着煤球炉互相取暖的情景。这里与其说是美食据点，不如说是一扇了解首尔近代生活的窗口。这里至今仍有居民生活，若前往参观，请安静步行，并尊重当地居民。</p><h3>龙山帐篷酒馆村</h3><p>一群聚集在办公楼之间的韩式帐篷酒馆（포장마차）。这里的主角是经典的下酒菜，例如辣鸡爪，搭配一杯烧酒。2013年11月的一集《一杯慰藉：在龙山帐篷酒馆村的72小时》，记录了上班族在一天结束时，在这些小帐篷里放松身心、找到些许慰藉的样子。</p><h3>南大门市场</h3><p>这是一个拥有约600年历史、店铺超过10,000家的传统市场。来这里可以先逛逛，再尝尝糖饼（甜馅煎饼）和其他街边摊小吃。2018年12月的一集在其约12,000家店铺之间停留72小时，展示了市场丰富的美食与景象。</p><h2>交通安排</h2><p>南大门市场适合白天前往，可以边逛店铺边吃街头小吃；龙山帐篷酒馆则适合傍晚，辣鸡爪配烧酒最有氛围。按这个顺序安排，一天就能轻松走完。白沙村位于首尔东北部，建议另外留出半天时间前往，会更从容。请注意，这些节目播出于2011至2018年之间，拍摄后情况可能已有变化，出发前建议先查询最新信息。</p>",
+    "zh-Hant": "<h2>透過紀錄片看首爾的另一面</h2><p>首爾是韓國的首都，皇宮、傳統市場、漢江和閃亮的夜景都在同一張地圖上。這裡以烤五花肉（samgyeopsal）、綠豆煎餅（bindaetteok），以及廣藏市場的生牛肉絲（yukhoe）聞名，也有人去弘大附近吃烤牛腸（gopchang），或到努量津市場吃海鮮泡麵。不過，本文介紹的是KBS長期播出的節目《紀錄片3日》，這個節目會在同一個地方待上72小時。我們從中選出三個首爾地點，它們都呈現了日常生活與人情溫度。</p><h2>三個地點</h2><h3>中谿洞白沙村</h3><p>常被稱為首爾最後的「月亮村」，是一處曾經位於接近月亮的山坡上的貧民聚落。這集於2011年1月播出，記錄居民在嚴寒的冬天圍著煤球爐互相取暖。這裡與其說是美食景點，不如說是一扇窗，讓人看見首爾不久前的樣貌。這是有人真正生活的社區，如果你前往參觀，請安靜走路，尊重當地居民。</p><h3>龍山帳篷酒館村</h3><p>一群韓國的街頭帳篷酒館（포장마차，pojangmacha）聚集在辦公大樓之間。這裡最吸引人的是經典的下酒菜，例如辣味雞爪，搭配一杯燒酒。2013年11月播出的〈一杯慰藉：在龍山帳篷酒館村的72小時〉，記錄了上班族在一天結束時，於這些小帳篷裡放鬆、找到一點安慰的模樣。</p><h3>南大門市場</h3><p>這是一座有大約600年歷史、擁有一萬家以上店家的傳統市場。可以在這裡逛街，再邊走邊吃韓式煎餅（hotteok，內餡甜的煎餅）和其他街邊小吃。2018年12月的這一集，在約12,000家店鋪之間停留72小時，呈現市場裡豐富的美食與風景。</p><h2>交通與行程安排</h2><p>南大門市場適合白天前往，可以逛店、順便吃點街頭小吃；龍山的帳篷酒館則適合傍晚，當雞爪和燒酒最有味道的時候。依這個順序安排，一天就能輕鬆走完。白沙村位於首爾東北部，最好另外留出半天前往，會比較從容。請注意，這些節目播出於2011年至2018年之間，拍攝後情況可能已經改變，出發前最好先確認最新資訊。</p>",
+    "es": "<h2>Otra cara de Seúl, vista a través del documental</h2><p>Seúl es la capital de Corea, una ciudad donde palacios reales, mercados tradicionales, el río Han y vistosas vistas nocturnas comparten el mismo mapa. Es famosa por platos como el samgyeopsal (panceta de cerdo a la parrilla), el bindaetteok y el yukhoe del mercado Gwangjang, o el gopchang (intestino a la parrilla) y el ramyeon de marisco de Noryangjin. Esta guía, sin embargo, sigue la serie de larga trayectoria de KBS <strong>Documentary 3 Days</strong>, que pasa 72 horas en un solo lugar, y lleva a tres puntos de Seúl donde la vida cotidiana y la calidez humana son protagonistas.</p><h2>Los lugares</h2><h3>Aldea Baeksa, Junggye-dong</h3><p>A menudo llamada la última 'aldea de la luna' de Seúl, es un barrio de chabolas en una ladera que en otro tiempo estuvo muy cerca de la luna. El episodio emitido en enero de 2011 acompaña a los vecinos durante un invierno duro, cuando se reúnen alrededor de estufas de briquetas de carbón para darse calor unos a otros. Es menos una parada gastronómica que una ventana al pasado reciente de Seúl. Es un barrio donde la gente vive de verdad, así que si la visitas, camina en silencio y respeta a los residentes.</p><h3>Aldea de puestos de Yongsan</h3><p>Un conjunto de pojangmacha, los bares callejeros con toldo de Corea, escondidos entre torres de oficinas. El atractivo aquí es la comida de bar clásica, como las patas de pollo picantes, acompañadas de un vaso de soju. El episodio de noviembre de 2013, 'A Glass of Comfort: 72 Hours at Yongsan Pojangmacha Village', muestra a trabajadores que descansan y encuentran un poco de consuelo en estas pequeñas carpas al final del día.</p><h3>Mercado Namdaemun</h3><p>Un mercado tradicional con unos 600 años de historia y más de 10.000 tiendas. Ven a pasear y luego picar hotteok (tortitas dulces rellenas) y otros bocados de los puestos callejeros. El episodio de diciembre de 2018 pasa 72 horas entre sus unas 12.000 tiendas, mostrando la gran variedad de comida y de escenas del mercado.</p><h2>Cómo moverse</h2><p>El mercado Namdaemun funciona bien de día, cuando puedes recorrer las tiendas y picar algo en los puestos, mientras que los puestos de Yongsan encajan mejor por la noche, cuando las patas de pollo y el soju se sienten más en casa. Hacerlos en ese orden hace un día sencillo. La aldea Baeksa está en la parte noreste de Seúl, así que es más cómodo reservarle una media jornada aparte. Ten en cuenta que estos episodios se emitieron entre 2011 y 2018, por lo que las cosas pueden haber cambiado desde el rodaje. Conviene comprobar la información actualizada antes de salir.</p>",
+    "fr": "<h2>Un autre visage de Séoul, vu à travers le documentaire</h2><p>Séoul est la capitale de la Corée, une ville où palais royaux, marchés traditionnels, fleuve Han et vues nocturnes scintillantes partagent la même carte. La ville est connue pour des plats comme le samgyeopsal (poitrine de porc grillée), le bindaetteok et le yukhoe du marché Gwangjang, ou encore le gopchang (intestins grillés) et les ramyeon aux fruits de mer de Noryangjin. Ce guide, en revanche, suit la série de longue date de KBS <strong>Documentaire 3 jours</strong>, qui passe 72 heures dans un même lieu, et vous emmène dans trois endroits de Séoul où la vie quotidienne et la chaleur humaine sont au premier plan.</p><h2>Les lieux</h2><h3>Village de Baeksa, Junggye-dong</h3><p>Souvent surnommé le dernier « village de la lune » de Séoul, un bidonville à flanc de colline qui se trouvait autrefois tout près de la lune. L'épisode diffusé en janvier 2011 suit les habitants durant un hiver rigoureux, réunis autour de poêles à briquettes de charbon pour se tenir chaud. Il s'agit moins d'une étape gastronomique qu'une fenêtre sur le passé récent de Séoul. C'est un quartier où des gens vivent réellement, alors si vous y allez, marchez calmement et faites preuve de respect envers les habitants.</p><h3>Village de pojangmacha de Yongsan</h3><p>Un ensemble de pojangmacha, les tentes-bars de rue coréennes, nichées entre des tours de bureaux. On vient ici pour la cuisine de bar classique, comme les pieds de poulet épicés, accompagnés d'un verre de soju. L'épisode de novembre 2013, « Un verre de réconfort : 72 heures au village de pojangmacha de Yongsan », montre des travailleurs qui se détendent et trouvent un peu de réconfort dans ces petites tentes en fin de journée.</p><h3>Marché de Namdaemun</h3><p>Un marché traditionnel riche d'environ 600 ans d'histoire et de plus de 10 000 boutiques. Venez flâner, puis grignotez des hotteok (crêpes sucrées fourrées) et d'autres bouchées de éventaires de rue. L'épisode de décembre 2018 passe 72 heures parmi ses quelque 12 000 boutiques, en mettant en valeur la grande variété de sa cuisine et de ses curiosités.</p><h2>Se déplacer</h2><p>Le marché de Namdaemun se visite de jour, quand on peut flâner entre les boutiques et grignoter en chemin, tandis que les tentes-bars de Yongsan conviennent mieux au soir, lorsque pieds de poulet et soju prennent tout leur sens. Enchaîner dans cet ordre rend la journée facile. Le village de Baeksa se trouve dans le nord-est de Séoul ; il est donc plus confortable de lui consacrer une demi-journée à part. Gardez à l'esprit que ces épisodes ont été diffusés entre 2011 et 2018, la situation a donc pu évoluer depuis le tournage. Il vaut la peine de vérifier les informations actuelles avant de partir.</p>",
+    "de": "<h2>Eine andere Seite Seouls, durch die Linse einer Dokumentation</h2><p>Seoul ist die Hauptstadt Koreas, eine Stadt, in der Königspaläste, traditionelle Märkte, der Han-Fluss und glitzernde Nachtansichten auf derselben Karte liegen. Berühmt ist sie für Gerichte wie Samgyeopsal (gegrillter Schweinebauch), Bindaetteok und Yukhoe auf dem Gwangjang-Markt, Gopchang (gegrillte Rinderdarm) und Meeresfrüchte-Ramyeon in Noryangjin. Dieser Guide folgt jedoch der langjährigen KBS-Reihe <strong>Documentary 3 Days</strong>, die 72 Stunden an einem Ort verbringt, zu drei Orten in Seoul, an denen der Alltag und menschliche Wärme im Mittelpunkt stehen.</p><h2>Die Orte</h2><h3>Baeksa-Dorf, Junggye-dong</h3><p>Oft als das letzte 'Mondviertel' Seouls bezeichnet, ein Armenviertel am Hang, das einst dem Mond nahe schien. Die im Januar 2011 ausgestrahlte Folge begleitet Bewohner durch einen strengen Winter, während sie sich um Kohlebriketöfen versammeln, um einander warm zu halten. Hier geht es weniger ums Essen als um einen Einblick in Seouls jüngere Vergangenheit. Es ist ein Wohnviertel, in dem Menschen tatsächlich leben. Wenn Sie es besuchen, gehen Sie bitte leise und respektvoll gegenüber den Bewohnern.</p><h3>Yongsan Pojangmacha-Dorf</h3><p>Eine Gruppe von Pojangmacha, den koreanischen Zeltbars am Straßenrand, zwischen Bürotürmen. Der Reiz liegt hier in klassischem Trinkessen wie scharfen Hühnerfüßen, dazu ein Glas Soju. Die Folge vom November 2013 mit dem Titel 'A Glass of Comfort: 72 Hours at Yongsan Pojangmacha Village' zeigt Arbeitende, die am Ende des Tages in diesen kleinen Zelten abschalten und ein wenig Trost finden.</p><h3>Namdaemun-Markt</h3><p>Ein traditioneller Markt mit rund 600 Jahren Geschichte und mehr als 10.000 Geschäften. Kommen Sie zum Stöbern und essen Sie dann Hotteok (süße gefüllte Pfannkuchen) und andere Snacks von Straßenständen. Die Folge vom Dezember 2018 verbringt 72 Stunden zwischen rund 12.000 Geschäften und zeigt die große Auswahl an Essen und Sehenswürdigkeiten des Marktes.</p><h2>Unterwegs</h2><p>Der Namdaemun-Markt eignet sich tagsüber gut, wenn Sie die Läden durchstöbern und Straßensnacks probieren können, während die Zeltbars in Yongsan am Abend passen, wenn Hühnerfüße und Soju am besten dazugehören. In dieser Reihenfolge ergibt sich ein unkomplizierter Tag. Das Baeksa-Dorf liegt im Nordosten Seouls, daher ist es angenehmer, dafür einen eigenen halben Tag einzuplanen. Beachten Sie, dass diese Folgen zwischen 2011 und 2018 ausgestrahlt wurden und sich seit den Dreharbeiten einiges verändert haben kann. Es lohnt sich, aktuelle Informationen zu prüfen, bevor Sie losgehen.</p>",
+    "vi": "<h2>Một góc nhìn khác về Seoul qua ống kính phim tài liệu</h2><p>Seoul là thủ đô của Hàn Quốc, nơi các cung điện hoàng gia, chợ truyền thống, sông Hàn và ánh đèn đêm lấp lánh cùng nằm trên một bản đồ. Thành phố nổi tiếng với các món như samgyeopsal (thịt ba chỉ nướng), bindaetteok và yukhoe ở Chợ Gwangjang, gopchang (ruột non nướng) và mì ramyeon hải sản ở Noryangjin. Tuy nhiên, hướng dẫn này theo chân loạt phim lâu năm <strong>Documentary 3 Days</strong> của KBS, chương trình dành 72 giờ ở một nơi, để đến ba địa điểm ở Seoul nơi cuộc sống thường ngày và sự ấm áp của con người là trọng tâm.</p><h2>Các địa điểm</h2><h3>Làng Baeksa, Junggye-dong</h3><p>Thường được gọi là 'ngôi làng mặt trăng' cuối cùng của Seoul, một khu ổ chuột trên sườn đồi từng nằm gần mặt trăng. Tập phim phát sóng vào tháng 1 năm 2011 theo chân cư dân trong mùa đông khắc nghiệt, quây quần bên bếp than tổ ong để sưởi ấm cho nhau. Đây không hẳn là điểm ăn uống mà là cánh cửa nhìn vào quá khứ gần của Seoul. Đây là khu dân cư nơi người ta thực sự sinh sống, nên nếu ghé thăm, xin hãy đi lại nhẹ nhàng và tôn trọng cư dân.</p><h3>Làng Pojangmacha Yongsan</h3><p>Một cụm pojangmacha, những quán rượu lều đường phố đặc trưng của Hàn Quốc, nằm xen giữa các tòa nhà văn phòng. Điểm hấp dẫn ở đây là các món nhậu truyền thống như chân gà cay, ăn kèm một ly soju. Tập tháng 11 năm 2013, 'A Glass of Comfort: 72 Hours at Yongsan Pojangmacha Village', ghi lại cảnh người lao động thư giãn và tìm chút an ủi trong những chiếc lều nhỏ vào cuối ngày.</p><h3>Chợ Namdaemun</h3><p>Một khu chợ truyền thống với khoảng 600 năm lịch sử và hơn 10.000 gian hàng. Hãy đến để dạo xem, rồi thưởng thức hotteok (bánh kếp nhân ngọt) và các món ăn vặt từ quầy hàng đường phố. Tập tháng 12 năm 2018 dành 72 giờ giữa khoảng 12.000 gian hàng của chợ, giới thiệu sự đa dạng về ẩm thực và cảnh sắc nơi đây.</p><h2>Di chuyển</h2><p>Chợ Namdaemun phù hợp vào ban ngày, khi bạn có thể dạo các gian hàng và thử đồ ăn vặt, còn cụm quán lều Yongsan hợp với buổi tối, khi chân gà cay và soju đúng là không khí của nó. Đi theo thứ tự này sẽ tạo nên một ngày thuận tiện. Làng Baeksa nằm ở phía đông bắc Seoul, nên sẽ thoải mái hơn nếu dành riêng nửa ngày cho nơi này. Hãy nhớ rằng các tập phim được phát sóng từ năm 2011 đến 2018, nên mọi thứ có thể đã thay đổi kể từ khi quay. Bạn nên kiểm tra thông tin hiện tại trước khi đi.</p>",
+    "th": "<h2>มุมอีกด้านของโซลผ่านเลนส์สารคดี</h2><p>โซลคือเมืองหลวงของเกาหลีใต้ เมืองที่พระราชวังโบราณ ตลาดดั้งเดิม แม่น้ำฮัน และวิวกลางคืนแสนสวย อยู่บนแผนที่เดียวกัน เมืองนี้มีอาหารที่คนรู้จักกันดี เช่น ซัมกยอบซัล (หมูสามชั้นย่าง) บินแดตต็อก และยุกฮเว ที่ตลาดควังจัง รวมถึงกอปชัง (ไส้ย่าง) และรามยอนซีฟู้ดที่โนรยังจิน อย่างไรก็ตาม คู่มือนี้พาไปตามซีรีส์ยาวนานของ KBS อย่าง <strong>ดอกุเมนทารี 3 วัน</strong> ซึ่งใช้เวลา 72 ชั่วโมงในแต่ละสถานที่ ไปยังสามจุดในโซลที่ชีวิตประจำวันและความอบอุ่นของผู้คนเป็นจุดเด่น</p><h2>สถานที่</h2><h3>หมู่บ้านแพกซา ซงกเย-dong</h3><p>มักถูกเรียกว่า 'หมู่บ้านพระจันทร์' แห่งสุดท้ายของโซล เป็นชุมชนแออัดบนเนินเขาที่เคยอยู่ใกล้ดวงจันทร์ ตอนที่ออกอากาศในเดือนมกราคม 2011 ติดตามชีวิตของชาวบ้านในฤดูหนาวที่หนาวจัด ขณะที่พวกเขารวมตัวกันรอบเตาถ่านอัดแท่งเพื่อให้ความอบอุ่นแก่กันและกัน สถานที่นี้เป็นเหมือนหน้าต่างสู่อดีตของโซลมากกว่าจุดแวะกินอาหาร เป็นย่านที่มีคนอาศัยอยู่จริง หากไปเยือน โปรดเดินอย่างเงียบ ๆ และเคารพชาวบ้าน</p><h3>หมู่บ้านพojangmacha ยงซาน</h3><p>กลุ่มพojangmacha หรือร้านเต็นท์ข้างถนนของเกาหลี ตั้งอยู่ท่ามกลางตึกสำนักงาน จุดเด่นคือของกินคู่เหล้าแบบดั้งเดิม เช่น ตีนไก่เผ็ด จิบคู่กับโซจู ตอนที่ออกอากาศในเดือนพฤศจิกายน 2013 ชื่อ 'แก้วแห่งความปลอบโยน: 72 ชั่วโมงที่หมู่บ้านพojangmacha ยงซาน' บันทึกภาพคนทำงานที่ผ่อนคลายและหาความสงบเล็ก ๆ ในเต็นท์เหล่านี้เมื่อสิ้นวัน</p><h3>ตลาดนัมแดมุน</h3><p>ตลาดดั้งเดิมที่มีประวัติกว่า 600 ปี และมีร้านค้ามากกว่า 10,000 ร้าน มาเดินชมร้านค้า แล้วแวะชิมโฮต็อก (แพนเค้กไส้หวาน) และของกินข้างทางอื่น ๆ ตอนที่ออกอากาศในเดือนธันวาคม 2018 ใช้เวลา 72 ชั่วโมงท่ามกลางร้านค้าประมาณ 12,000 ร้าน เผยให้เห็นอาหารและสิ่งที่น่าชมหลากหลายของตลาด</p><h2>การเดินทางและการวางแผน</h2><p>ตลาดนัมแดมุนเหมาะกับการไปช่วงกลางวัน เดินดูร้านและลิ้มรสของว่างข้างทาง ส่วนร้านเต็นท์ยงซานเหมาะกับช่วงเย็นที่ตีนไก่และโซจูเข้ากันที่สุด การไปตามลำดับนี้ทำให้วันหนึ่งไม่เหนื่อยเกินไป หมู่บ้านแพกซาอยู่ทางตะวันออกเฉียงเหนือของโซล จึงสบายกว่าหากจัดเวลาครึ่งวันแยกต่างหาก โปรดจำไว้ว่าตอนเหล่านี้ออกอากาศระหว่างปี 2011 ถึง 2018 ดังนั้นสถานการณ์อาจเปลี่ยนไปแล้วตั้งแต่ถ่ายทำ ควรตรวจสอบข้อมูลปัจจุบันก่อนออกเดินทาง</p>",
+    "id": "<h2>Sisi Lain Seoul Lewat Lensa Dokumenter</h2><p>Seoul adalah ibu kota Korea, kota tempat istana kerajaan, pasar tradisional, Sungai Han, dan pemandangan malam yang gemerlap berada dalam satu peta. Kota ini terkenal dengan hidangan seperti samgyeopsal (perut babi panggang), bindaetteok, dan yukhoe di Pasar Gwangjang, gopchang (usus panggang), serta ramyeon seafood di Noryangjin. Panduan ini, bagaimanapun, mengikuti seri KBS yang sudah lama tayang, <strong>Documentary 3 Days</strong>, yang menghabiskan 72 jam di satu tempat, menuju tiga lokasi di Seoul tempat kehidupan sehari-hari dan kehangatan manusia menjadi pusat cerita.</p><h2>Tempat-Tempat Tersebut</h2><h3>Desa Baeksa, Junggye-dong</h3><p>Sering disebut sebagai 'desa bulan' terakhir di Seoul, sebuah permukiman kumuh di lereng bukit yang dulu terasa begitu dekat dengan bulan. Episode yang tayang pada Januari 2011 ini mengikuti warga melewati musim dingin yang keras, saat mereka berkumpul di sekitar kompor briket batu bara untuk saling menghangatkan. Tempat ini lebih merupakan jendela menuju masa lalu Seoul baru-baru ini daripada tempat makan. Ini adalah lingkungan tempat orang benar-benar tinggal, jadi jika Anda berkunjung, mohon berjalan dengan tenang dan hormati warganya.</p><h3>Kedai Tenda Yongsan (Pojangmacha)</h3><p>Kumpulan pojangmacha, kedai tenda jalanan khas Korea, yang terselip di antara gedung-gedung perkantoran. Daya tariknya adalah makanan minum klasik seperti ceker ayam pedas, dipadukan dengan segelas soju. Episode November 2013, 'A Glass of Comfort: 72 Hours at Yongsan Pojangmacha Village', menangkap para pekerja yang melepas penat dan menemukan sedikit ketenangan di tenda-tenda kecil ini pada akhir hari.</p><h3>Pasar Namdaemun</h3><p>Pasar tradisional dengan sejarah sekitar 600 tahun dan lebih dari 10.000 toko. Datanglah untuk melihat-lihat, lalu cicipi hotteok (pancake manis berisi) dan jajanan dari kios-kios jalanan lainnya. Episode Desember 2018 menghabiskan 72 jam di antara sekitar 12.000 toko di pasar ini, menampilkan beragam makanan dan pemandangan pasar.</p><h2>Cara Berkeliling</h2><p>Pasar Namdaemun cocok dikunjungi pada siang hari, saat Anda bisa melihat-lihat toko dan mencicipi jajanan jalanan, sementara kedai tenda Yongsan lebih pas untuk malam hari, ketika ceker ayam dan soju terasa paling pas. Mengunjungi keduanya dengan urutan ini membuat satu hari terasa mudah. Desa Baeksa berada di bagian timur laut Seoul, jadi akan lebih nyaman jika Anda menyisihkan setengah hari tersendiri untuknya. Perlu diingat bahwa episode-episode ini tayang antara 2011 dan 2018, sehingga kondisi mungkin sudah berubah sejak saat pengambilan gambar. Sebaiknya periksa informasi terbaru sebelum berangkat.</p>",
+    "ru": "<h2>Другая сторона Сеула глазами документалистов</h2><p>Сеул — столица Кореи, город, где королевские дворцы, традиционные рынки, река Ханган и яркие ночные виды находятся на одной карте. Он известен такими блюдами, как самгёпсаль (жареная свиная грудинка), биндэтток и юкхе на рынке Кванджанг, копчан (жареные субпродукты) и морепродукты с лапшой рамён в Норянджине. Этот гид, однако, следует за давним сериалом KBS <strong>«Документальный 3 дня»</strong>, в котором съёмочная группа проводит 72 часа в одном месте. Мы собрали три точки Сеула, где на первом плане повседневная жизнь и человеческое тепло.</p><h2>Места</h2><h3>Деревня Бэксагу, Чунгге-дон</h3><p>Её часто называют последней «лунной деревней» Сеула — трущобным поселением на склоне холма, которое когда-то, казалось, находилось очень близко к Луне. Выпуск, вышедший в январе 2011 года, рассказывает о жителях, которые в суровую зиму собираются у угольных печей, чтобы согреть друг друга. Это не столько место для еды, сколько окно в недавнее прошлое Сеула. Здесь живут люди, поэтому, если вы приедете, пожалуйста, ходите тихо и уважайте жителей.</p><h3>Пхочжанмачха Ёнсан</h3><p>Скопление пхочжанмача — корейских палаточных уличных баров — между офисными башнями. Главное здесь — классическая закуска к выпивке, например острая куриная лапка, с бокалом соджу. Выпуск за ноябрь 2013 года «Бокал утешения: 72 часа в деревне пхочжанмача Ёнсан» показывает, как работники отдыхают и находят немного утешения в этих маленьких палатках в конце дня.</p><h3>Рынок Намдэмун</h3><p>Традиционный рынок с историей примерно в 600 лет и более чем 10 000 магазинов. Приходите посмотреть, а затем перекусите хоттоком (сладкими блинчиками с начинкой) и другими закусками с уличных прилавков. Выпуск за декабрь 2018 года проводит 72 часа среди примерно 12 000 магазинов рынка, показывая широкий выбор еды и достопримечательностей.</p><h2>Как добраться и спланировать день</h2><p>Рынок Намдэмун удобнее днём, когда можно неспешно пройтись по магазинам и попробовать уличные закуски, а палаточные бары Ёнсана подходят для вечера, когда куриная лапка и соджу лучше всего сочетаются. Такой порядок делает день простым. Деревня Бэксагу находится на северо-востоке Сеула, поэтому ей лучше выделить отдельные полдня. Имейте в виду, что эти выпуски вышли в период с 2011 по 2018 год, и с тех пор многое могло измениться. Перед поездкой стоит проверить актуальную информацию.</p>"
+  },
+  "places": [
+    {
+      "ko": "중계동 백사마을",
+      "en": "Baeksa Village, Junggye-dong (Seoul's last hillside 'moon village')",
+      "q": "서울 노원구 중계본동 백사마을",
+      "menu_ko": "서울의 마지막 달동네, 연탄난로 겨울나기",
+      "menu_en": "Seoul's last hillside shantytown, winter life with coal briquette stoves"
+    },
+    {
+      "ko": "용산 포장마차촌",
+      "en": "Yongsan Pojangmacha Village (street food tent bar cluster)",
+      "q": "용산 포장마차촌",
+      "menu_ko": "포장마차 술안주, 매운 닭발과 소주",
+      "menu_en": "Street tent bar snacks, spicy chicken feet with soju"
+    },
+    {
+      "ko": "남대문시장",
+      "en": "Namdaemun Market",
+      "q": "서울 중구 남대문시장",
+      "menu_ko": "1만 개 넘는 점포의 전통시장, 호떡·노점 먹거리",
+      "menu_en": "Traditional market with over 10,000 shops, hotteok and street food"
+    }
+  ],
+  "videos": [
+    {
+      "id": "bhu2asm_c2M",
+      "title": "[다큐3일★풀버전] 시린 겨울, 연탄난로에 둘러앉아 따뜻한 시간을 보내는 그들의 마음의 온도는 몇 도 일까? 중계동 백사마을의 겨울나기 (KBS 20110130 방송)"
+    },
+    {
+      "id": "fmvPIj2SI_E",
+      "title": "[다큐3일📸] 빌딩 숲속 작은 포장마차가 건네는 위로 한 잔 | 한 잔의 위로, 용산 포장마차촌 72시간 | KBS 2013.11.24 방송"
+    },
+    {
+      "id": "HmeZZIr_8Qo",
+      "title": "[다큐3일📸] 1만 2천개의 점포에서 즐기는 다채로운 먹거리와 볼거리! 600년의 역사를 지닌 남대문시장 72시간 | KBS 2018.12.16 방송"
+    }
+  ],
+  "placesI18n": {
+    "ja": [
+      {
+        "name": "中渓洞の白沙村（ソウル最後の丘の上の「月の村」）",
+        "menu": "ソウル最後の丘の斜面の集落。練炭ストーブで冬を過ごす暮らしが見られる"
+      },
+      {
+        "name": "龍山ポジャンマチャ村（屋台街）",
+        "menu": "テント式屋台の軽食。チキンの足のピリ辛料理とソジュ"
+      },
+      {
+        "name": "南大門市場",
+        "menu": "1万以上の店が並ぶ伝統市場。ホットクなど屋台の軽食"
+      }
+    ],
+    "zh-Hans": [
+      {
+        "name": "中界洞白沙村（首尔最后的山坡“月亮村”）",
+        "menu": "首尔最后的山坡棚户区，冬天的生活与煤球炉取暖"
+      },
+      {
+        "name": "龙山帐篷酒馆村（街头小吃帐篷酒馆群）",
+        "menu": "街边帐篷酒馆的小吃，辣鸡爪配烧酒"
+      },
+      {
+        "name": "南大门市场",
+        "menu": "拥有超过10,000家店铺的传统市场，糖饼与街头小吃"
+      }
+    ],
+    "zh-Hant": [
+      {
+        "name": "中谿洞白沙村（首爾最後的山坡「月亮村」）",
+        "menu": "首爾最後的山坡貧民聚落，可看見居民在寒冬中以煤球爐取暖的生活。這裡是居民真正居住的社區，請安靜參觀並尊重當地居民。"
+      },
+      {
+        "name": "龍山帳篷酒館村（街頭帳篷酒館群）",
+        "menu": "街頭帳篷酒館的小吃，招牌是辣味雞爪搭配燒酒。適合傍晚下班後前往，體驗韓國帳篷酒館的氛圍。"
+      },
+      {
+        "name": "南大門市場",
+        "menu": "擁有約600年歷史、一萬家以上店家的傳統市場，可逛街並品嚐韓式煎餅（hotteok）等街頭小吃。適合白天前往。"
+      }
+    ],
+    "es": [
+      {
+        "name": "Aldea Baeksa, Junggye-dong (la última 'aldea de la luna' de Seúl)",
+        "menu": "La última aldea de chabolas en una ladera de Seúl; la vida de invierno con estufas de briquetas de carbón"
+      },
+      {
+        "name": "Aldea de puestos de Yongsan (conjunto de bares callejeros)",
+        "menu": "Aperitivos de bares callejeros con toldo; patas de pollo picantes con soju"
+      },
+      {
+        "name": "Mercado Namdaemun",
+        "menu": "Mercado tradicional con más de 10.000 tiendas; hotteok y comida callejera"
+      }
+    ],
+    "fr": [
+      {
+        "name": "Village de Baeksa, Junggye-dong (dernier « village de la lune » de Séoul)",
+        "menu": "Dernier bidonville à flanc de colline de Séoul ; la vie d'hiver autour des poêles à briquettes de charbon"
+      },
+      {
+        "name": "Village de pojangmacha de Yongsan (ensemble de tentes-bars de rue)",
+        "menu": "Snacks de tentes de rue, pieds de poulet épicés accompagnés de soju"
+      },
+      {
+        "name": "Marché de Namdaemun",
+        "menu": "Marché traditionnel de plus de 10 000 boutiques, hotteok et cuisine de rue"
+      }
+    ],
+    "de": [
+      {
+        "name": "Baeksa-Dorf, Junggye-dong (Seouls letztes Mondviertel am Hang)",
+        "menu": "Armenviertel am Hang, Winterleben mit Kohlebriketöfen"
+      },
+      {
+        "name": "Yongsan Pojangmacha-Dorf (Zeltbar-Komplex mit Straßenessen)",
+        "menu": "Snacks aus den Zeltbars, scharfe Hühnerfüße mit Soju"
+      },
+      {
+        "name": "Namdaemun-Markt",
+        "menu": "Traditioneller Markt mit über 10.000 Geschäften, Hotteok und Straßenessen"
+      }
+    ],
+    "vi": [
+      {
+        "name": "Làng Baeksa, Junggye-dong (ngôi làng mặt trăng trên sườn đồi cuối cùng của Seoul)",
+        "menu": "Khu ổ chuột trên sườn đồi cuối cùng của Seoul, cuộc sống mùa đông bên bếp than tổ ong"
+      },
+      {
+        "name": "Làng Pojangmacha Yongsan (cụm quán lều ăn vặt đường phố)",
+        "menu": "Đồ nhậu đường phố trong lều, chân gà cay ăn kèm soju"
+      },
+      {
+        "name": "Chợ Namdaemun (남대문시장)",
+        "menu": "Chợ truyền thống với hơn 10.000 gian hàng, bánh hotteok và đồ ăn đường phố"
+      }
+    ],
+    "th": [
+      {
+        "name": "หมู่บ้านแพกซา (ซงกเย-ดง)",
+        "menu": "ชุมชนแออัดบนเนินเขาแห่งสุดท้ายของโซล ชีวิตฤดูหนาวกับเตาถ่านอัดแท่ง"
+      },
+      {
+        "name": "หมู่บ้านพojangmacha ยงซาน",
+        "menu": "ของว่างจากร้านเต็นท์ข้างถนน ตีนไก่เผ็ดคู่กับโซจู"
+      },
+      {
+        "name": "ตลาดนัมแดมุน",
+        "menu": "ตลาดดั้งเดิมที่มีร้านค้ามากกว่า 10,000 ร้าน โฮต็อกและของกินข้างทาง"
+      }
+    ],
+    "id": [
+      {
+        "name": "Desa Baeksa, Junggye-dong (desa bulan di lereng bukit terakhir Seoul)",
+        "menu": "Permukiman kumuh di lereng bukit terakhir di Seoul; kehidupan musim dingin dengan kompor briket batu bara"
+      },
+      {
+        "name": "Kedai Tenda Yongsan (Yongsan Pojangmacha)",
+        "menu": "Jajanan kedai tenda jalanan; ceker ayam pedas dengan soju"
+      },
+      {
+        "name": "Pasar Namdaemun",
+        "menu": "Pasar tradisional dengan lebih dari 10.000 toko; hotteok dan jajanan jalanan"
+      }
+    ],
+    "ru": [
+      {
+        "name": "Деревня Бэксагу, Чунгге-дон",
+        "menu": "Последняя трущобная деревня на склоне холма в Сеуле; зимняя жизнь с угольными печами. Это место для неспешной прогулки и уважения к жителям, а не для еды."
+      },
+      {
+        "name": "Пхочжанмачха Ёнсан",
+        "menu": "Уличные палаточные бары: острая куриная лапка и соджу."
+      },
+      {
+        "name": "Рынок Намдэмун",
+        "menu": "Традиционный рынок с более чем 10 000 магазинов; хоттоки и разнообразная уличная еда."
+      }
+    ]
+  }
+}

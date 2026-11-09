@@ -1,5 +1,159 @@
 [
   {
+    "slug": "2026-11-09-seoul",
+    "date": "2026-11-09",
+    "region": "seoul",
+    "title": {
+      "ko": "서울 영상 속 맛집·명소: 다큐3일이 기록한 백사마을, 용산 포장마차촌, 남대문시장",
+      "en": "Seoul on Screen: Baeksa Village, Yongsan's Tent Bars and Namdaemun Market from KBS 'Documentary 3 Days'",
+      "ja": "ソウルの映像で見る、白沙村・龍山の屋台村・南大門市場｜KBS『ドキュメンタリー3日』より",
+      "zh-Hans": "镜头里的首尔：白沙村、龙山帐篷酒馆与南大门市场，KBS《纪录片3天》中的三个地方",
+      "zh-Hant": "透過鏡頭看首爾：白沙村、龍山帳篷酒館與南大門市場（KBS《紀錄片3日》）",
+      "es": "Seúl en pantalla: la aldea Baeksa, los puestos de tienda de Yongsan y el mercado Namdaemun en el documental 'Documentary 3 Days' de KBS",
+      "fr": "Séoul à l'écran : le village de Baeksa, les tentes-bars de Yongsan et le marché de Namdaemun vus dans « Documentaire 3 jours » de KBS",
+      "de": "Seoul auf dem Bildschirm: Baeksa-Dorf, Yongsans Zeltbars und der Namdaemun-Markt aus KBS 'Documentary 3 Days'",
+      "vi": "Seoul trên màn ảnh: Làng Baeksa, phố ốc đảo Yongsan và Chợ Namdaemun qua phim tài liệu 'Documentary 3 Days' của KBS",
+      "th": "ซีรีส์ 'ดอกุเมนทารี 3 วัน' ของ KBS: บ้านแพกซา ตลาดเต็นท์ยงซาน และตลาดนัมแดมุน",
+      "id": "Seoul di Layar: Desa Baeksa, Kedai Tenda Yongsan, dan Pasar Namdaemun dalam Dokumenter KBS 'Documentary 3 Days'",
+      "ru": "Сеул на экране: деревня Бэксагу, палаточные бары Ёнсана и рынок Намдэмун из документального сериала KBS «Документальный 3 дня»"
+    },
+    "summary": {
+      "ko": "KBS 다큐멘터리 3일에 소개된 서울의 세 곳, 서울의 마지막 달동네 중계동 백사마을, 닭발과 소주의 용산 포장마차촌, 호떡과 노점 먹거리의 남대문시장을 정리했습니다.",
+      "en": "Three Seoul places featured on KBS's 'Documentary 3 Days': Baeksa Village, the city's last hillside 'moon village'; the Yongsan tent bar cluster known for spicy chicken feet and soju; and Namdaemun Market with its hotteok and street food.",
+      "ja": "KBS『ドキュメンタリー3日』で取り上げられたソウルの3か所を紹介します。ソウル最後の丘の上の「月の村」白沙村、チキンの足とソジュが楽しめる龍山のテント式屋台街、そしてホットクやストリートフードが並ぶ南大門市場です。",
+      "zh-Hans": "KBS《纪录片3天》介绍的三处首尔地点：首尔最后的山坡“月亮村”白沙村，以辣鸡爪和烧酒闻名的龙山帐篷酒馆群，以及有糖饼和街头小吃的南大门市场。",
+      "zh-Hant": "KBS《紀錄片3日》介紹的三個首爾地點：首爾最後一處山坡「月亮村」白沙村、以雞爪和燒酒聞名的龍山帳篷酒館群，以及有韓式煎餅和街頭小吃的南大門市場。",
+      "es": "Tres lugares de Seúl que aparecen en 'Documentary 3 Days' de KBS: la aldea Baeksa, la última 'aldea de la luna' de la ciudad en una ladera; el conjunto de puestos de tienda de Yongsan, conocido por sus patas de pollo picantes y el soju; y el mercado Namdaemun, con sus hotteok y su comida callejera.",
+      "fr": "Trois lieux de Séoul présentés dans « Documentaire 3 jours » de KBS : le village de Baeksa, dernier « village de la lune » perché sur la colline de la capitale ; le quartier des tentes-bars de Yongsan, réputé pour ses pieds de poulet épicés et son soju ; et le marché de Namdaemun avec ses hotteok et sa cuisine de rue.",
+      "de": "Drei Orte in Seoul, die in KBS' Dokumentation 'Documentary 3 Days' vorkamen: das Baeksa-Dorf, das letzte 'Mondviertel' der Stadt an einem Hang; der Zeltbar-Komplex in Yongsan, bekannt für scharfe Hühnerfüße und Soju; und der Namdaemun-Markt mit Hotteok und Straßenessen.",
+      "vi": "Ba địa điểm ở Seoul từng xuất hiện trong chương trình 'Documentary 3 Days' của KBS: Làng Baeksa, 'ngôi làng mặt trăng' trên sườn đồi cuối cùng của thành phố; cụm quán lều Yongsan nổi tiếng với chân gà cay và soju; và Chợ Namdaemun với bánh hotteok cùng các món đường phố.",
+      "th": "สามสถานที่ในโซลที่เคยปรากฏใน 'ดอกุเมนทารี 3 วัน' ของ KBS ได้แก่ หมู่บ้านแพกซา หมู่บ้านบนเนินที่ถูกเรียกว่า 'หมู่บ้านพระจันทร์' แห่งสุดท้ายของเมือง กลุ่มร้านเต็นท์ดื่มที่ยงซานที่ขึ้นชื่อเรื่องตีนไก่เผ็ดและโซจู และตลาดนัมแดมุนที่มีโฮต็อกและของกินข้างทาง",
+      "id": "Tiga tempat di Seoul yang tampil dalam 'Documentary 3 Days' dari KBS: Desa Baeksa, sisa 'desa bulan' di lereng bukit terakhir di kota ini; deretan kedai tenda Yongsan yang terkenal dengan ceker ayam pedas dan soju; serta Pasar Namdaemun dengan hotteok dan jajanan kakinya.",
+      "ru": "Три места Сеула, показанные в документальном сериале KBS «Документальный 3 дня»: деревня Бэксагу, последняя горная «лунная деревня» города; скопление палаточных баров в Ёнсане, известных острой куриной лапкой и соджу; и рынок Намдэмун с хоттоком и уличной едой."
+    },
+    "cover": "bhu2asm_c2M",
+    "videos": [
+      "bhu2asm_c2M",
+      "fmvPIj2SI_E",
+      "HmeZZIr_8Qo"
+    ]
+  },
+  {
+    "slug": "2026-11-09-jeonnam",
+    "date": "2026-11-09",
+    "region": "jeonnam",
+    "title": {
+      "ko": "전남 영상 속 명소: 다큐 3일이 찾아간 신안의 섬과 광주 새벽시장",
+      "en": "Jeonnam on Screen: Sinan's Remote Islands and a Dawn Market from KBS 'Documentary 3 Days'",
+      "ja": "全羅南道が映す風景：新安の離島と KBS『ドキュメンタリー3日』の夜明けの市場",
+      "zh-Hans": "全南荧幕风光：新安偏远海岛与KBS《纪录片3日》中的黎明市场",
+      "zh-Hant": "全羅南道的螢幕風景：新安偏遠島嶼與《紀錄片3日》拍攝的黎明市場",
+      "es": "Jeonnam en pantalla: las islas remotas de Sinan y un mercado de madrugada de 'Documentary 3 Days' de KBS",
+      "fr": "Jeonnam à l'écran : les îles isolées de Sinan et un marché à l'aube vus dans « Documentaire 3 Jours » de KBS",
+      "de": "Jeonnam im Fernsehen: Sinans abgelegene Inseln und ein Morgenmarkt aus KBS 'Documentary 3 Days'",
+      "vi": "Jeonnam trên màn ảnh: Quần đảo Sinan hẻo lánh và chợ rạng sáng từ 'Documentary 3 Days' của KBS",
+      "th": "จอนนัมบนจอ: เกาะห่างไกลของซินันและตลาดรุ่งอรุณจากสารคดี KBS 'Documentary 3 Days'",
+      "id": "Jeonnam di Layar: Pulau Terpencil Sinan dan Pasar Fajar dari Acara KBS 'Documentary 3 Days'",
+      "ru": "Чеонnam на экране: удалённые острова Синан и рассветный рынок из документального сериала KBS «Документальные 3 дня»"
+    },
+    "summary": {
+      "ko": "KBS '다큐멘터리 3일'에 나온 신안 장도와 영산도, 남광주 도깨비시장을 정리했습니다. 바람 부는 섬마을과 람사르 습지, 새벽 3시에 문을 여는 시장까지 남도의 또 다른 얼굴을 소개합니다.",
+      "en": "A guide to Jangdo and Yeongsando islands in Sinan and Namgwangju Dokkaebi Market, all featured on KBS 'Documentary 3 Days'. Windswept island villages, a Ramsar wetland, and a market that opens at 3 AM.",
+      "ja": "KBS『ドキュメンタリー3日』で紹介された新安の長島・永山島と、光州の南光州ドッケビ市場を案内します。風が吹き抜ける島の集落、ラムサール登録の湿地、午前3時に開く市場を紹介します。",
+      "zh-Hans": "介绍新安的将岛、永山岛以及光州南广州幽灵市场，三处都曾在KBS《纪录片3日》中播出。有海风吹拂的岛村、拉姆萨尔湿地，还有凌晨3点开市的市场。",
+      "zh-Hant": "介紹新安的長島與永山島，以及南光州妖怪市場，三處都曾在韓國KBS《紀錄片3日》中出現。有風勢強勁的島村、拉姆薩爾濕地，以及凌晨3點開市的市場。",
+      "es": "Guía de las islas Jangdo y Yeongsando en Sinan y del mercado Dokkaebi de Namgwangju, todos presentados en 'Documentary 3 Days' de KBS. Aldeas isleñas batidas por el viento, un humedal Ramsar y un mercado que abre a las 3 de la mañana.",
+      "fr": "Guide des îles de Jangdo et Yeongsando à Sinan, et du marché Dokkaebi de Namgwangju, tous présentés dans « Documentaire 3 Jours » de KBS. Villages insulaires battus par le vent, zone humide Ramsar et marché ouvert à 3 h du matin.",
+      "de": "Ein Reiseführer zu den Inseln Jangdo und Yeongsando in Sinan sowie zum Namgwangju Dokkaebi Markt, alle aus der KBS-Sendung 'Documentary 3 Days'. Windumtoste Inseldörfer, ein Ramsar-Feuchtgebiet und ein Markt, der um 3 Uhr morgens öffnet.",
+      "vi": "Hướng dẫn tham quan đảo Jangdo và Yeongsando ở Sinan cùng chợ Namgwangju Dokkaebi, tất cả đều xuất hiện trong chương trình 'Documentary 3 Days' của KBS. Các làng đảo gió lộng, vùng đất ngập nước Ramsar và một khu chợ mở cửa lúc 3 giờ sáng.",
+      "th": "คู่มือเกาะจังโดและเกาะยองซันโดในซินัน และตลาดโดกแคบีนัมกวางจู ทั้งหมดปรากฏในรายการ KBS 'Documentary 3 Days' หมู่บ้านบนเกาะที่ลมแรง พื้นที่ชุ่มน้ำแรมซาร์ และตลาดที่เปิดตั้งแต่ตี 3",
+      "id": "Panduan ke Pulau Jangdo dan Yeongsando di Sinan serta Pasar Dokkaebi Namgwangju, semuanya tampil di acara KBS 'Documentary 3 Days'. Desa pulau yang diterpa angin, lahan basah Ramsar, dan pasar yang buka pukul 3 pagi.",
+      "ru": "Путеводитель по островам Чандо и Ёнсандо в Синане и рынку Намгванджу Токкэби, которые попали в документальный сериал KBS «Документальные 3 дня». Продуваемые ветром островные деревни, рамсарские водно-болотные угодья и рынок, открывающийся в 3 утра."
+    },
+    "cover": "f8QVHsuxn5U",
+    "videos": [
+      "f8QVHsuxn5U",
+      "a1EOZeDcpEQ",
+      "XHbni8_35yE"
+    ]
+  },
+  {
+    "slug": "2026-11-09-gangwon",
+    "date": "2026-11-09",
+    "region": "gangwon",
+    "title": {
+      "ko": "강원 영상 속 명소: 속초국제여객터미널과 정선 5일장",
+      "en": "Gangwon on Screen: Sokcho International Passenger Terminal and Jeongseon 5-day Market",
+      "ja": "ガンウォン映像の名所：束草国際旅客ターミナルと旌善5日市場",
+      "zh-Hans": "江原道荧幕印象：束草国际客运码头与旌善五日市场",
+      "zh-Hant": "江原道銀幕風景：束草國際客運站與旌善五日市場",
+      "es": "Gangwon en pantalla: Terminal Internacional de Pasajeros de Sokcho y el Mercado de 5 Días de Jeongseon",
+      "fr": "Gangwon à l'écran : le terminal maritime international de Sokcho et le marché de 5 jours de Jeongseon",
+      "de": "Gangwon im Film: Internationaler Passagierterminal Sokcho und Jeongseon 5-Tage-Markt",
+      "vi": "Gangwon trên màn ảnh: Nhà ga hành khách quốc tế Sokcho và chợ 5 ngày Jeongseon",
+      "th": "ถ่ายทอดผ่านจอที่กังวอน: ท่าเรือโดยสารนานาชาติซokโช และตลาดห้าวันจองซอน",
+      "id": "Gangwon di Layar: Terminal Penumpang Internasional Sokcho dan Pasar 5 Hari Jeongseon",
+      "ru": "Гангвон на экране: Международный пассажирский терминал Сокчхо и рынок «5 дней» в Чонсоне"
+    },
+    "summary": {
+      "ko": "KBS 다큐멘터리 3일에 나온 강원의 두 장소, 블라디보스토크행 여객선이 떠나던 속초국제여객터미널과 산나물이 가득한 정선 5일장을 소개합니다.",
+      "en": "Two Gangwon places featured on KBS's Documentary 3 Days: the Sokcho ferry terminal for the Vladivostok route, and the Jeongseon 5-day Market with its mountain greens.",
+      "ja": "KBS『ドキュメンタリー3日』に登場した江原道の二つの場所、ウラジオストク行きフェリーが出発していた束草国際旅客ターミナルと、山菜があふれる旌善5日市場を紹介します。",
+      "zh-Hans": "KBS纪录片《3天》介绍过的江原道两处地点：开往海参崴航线的束草客运码头，以及摆满山菜的旌善五日市场。",
+      "zh-Hant": "KBS《三日》節目介紹的兩個江原道景點：開往海參崴航線的束草渡輪站，以及滿是山菜的旌善五日市場。",
+      "es": "Dos lugares de Gangwon que aparecen en el documental Documentary 3 Days de KBS: la terminal de ferris de Sokcho en la ruta a Vladivostok, y el Mercado de 5 Días de Jeongseon, con sus verduras de montaña.",
+      "fr": "Deux lieux du Gangwon présentés dans le documentaire « Documentary 3 Days » de KBS : le terminal de ferry de Sokcho, point de départ de la ligne vers Vladivostok, et le marché de 5 jours de Jeongseon, connu pour ses herbes de montagne.",
+      "de": "Zwei Orte in Gangwon, die in der KBS-Dokumentation Documentary 3 Days vorkamen: der Fährterminal in Sokcho für die Route nach Wladiwostok und der Jeongseon 5-Tage-Markt mit seinen Bergkräutern.",
+      "vi": "Hai địa điểm ở Gangwon xuất hiện trong chương trình Documentary 3 Days của KBS: bến phà quốc tế Sokcho đi tuyến Vladivostok và chợ 5 ngày Jeongseon với các loại rau núi.",
+      "th": "สองสถานที่ในกังวอนที่ปรากฏในรายการ 3 Days ของ KBS: ท่าเรือเฟอร์รี่ซokโชที่มีเส้นทางไปวladivostok และตลาดห้าวันจองซอนที่ขึ้นชื่อเรื่องผักป่าจากภูเขา",
+      "id": "Dua tempat di Gangwon yang tampil di acara Documentary 3 Days milik KBS: terminal feri Sokcho untuk rute Vladivostok, dan Pasar 5 Hari Jeongseon dengan sayuran gunungnya.",
+      "ru": "Два места Гангвона, показанные в программе KBS «Documentary 3 Days»: паромный терминал Сокчхо на маршруте во Владивосток и рынок «5 дней» в Чонсоне с горными травами."
+    },
+    "cover": "el_HU4bYJZ0",
+    "videos": [
+      "el_HU4bYJZ0",
+      "pCt8Td0Lo1Y"
+    ]
+  },
+  {
+    "slug": "2026-11-09-daegu",
+    "date": "2026-11-09",
+    "region": "daegu",
+    "title": {
+      "ko": "대구 영상 속 맛집·명소: 인교동 오토바이 골목과 북성로 연탄불고기 골목",
+      "en": "Daegu On Screen: Motorcycle Alley and the Bukseong-ro Briquette Bulgogi Tents",
+      "ja": "大邱の映像に登場する路地：仁橋洞のバイク通りと北城路の練炭プルコギ屋台",
+      "zh-Hans": "大邱荧幕上的街巷：引桥洞摩托车街与北城路煤球烤肉帐篷街",
+      "zh-Hant": "大邱影視場景：引橋洞機車巷與北城路煤球烤肉帳篷街",
+      "es": "Daegu en pantalla: el callejón de las motos y las carpas de bulgogi a la brasa de Bukseong-ro",
+      "fr": "Daegu à l'écran : la rue des motos et les tentes de bulgogi au charbon de Bukseong-ro",
+      "de": "Daegu auf dem Bildschirm: Motorradgasse und die Briketts-Bulgogi-Zelte in der Bukseong-ro",
+      "vi": "Daegu trên màn ảnh: Con hẻm xe máy và các quán lều nướng bulgogi than tổ ong ở Bukseong-ro",
+      "th": "ตรอกในจอที่แดกู: ตรอกมอเตอร์ไซค์และถนนปูซอง-โร ร้านเต็นท์ปิ้งบุลโกกิถ่านแกลบ",
+      "id": "Daegu di Layar Kaca: Gang Motor Ingyo-dong dan Gang Tenda Bulgogi Arang Bukseong-ro",
+      "ru": "Тэгу на экране: мотоциклетная аллея и палатки с бульгоги на брикетах в Пуксон-ро"
+    },
+    "summary": {
+      "ko": "KBS '다큐멘터리 3일'에 소개된 대구의 두 골목, 50년 넘은 인교동 오토바이 골목과 낮에는 공구상가, 밤에는 포장마차 거리가 되는 북성로 연탄불고기 골목을 소개합니다.",
+      "en": "Two Daegu streets featured on KBS's 'Documentary 3 Days': the 50-year-old motorcycle alley in Ingyo-dong and Bukseong-ro, a tool market street by day that turns into a row of briquette-bulgogi tents at night.",
+      "ja": "KBSの『ドキュメンタリー3日』で紹介された大邱の2つの通り。50年以上の歴史をもつ仁橋洞のバイク通りと、昼は工具店が並び夜は屋台が立つ北城路の練炭プルコギ通りを紹介します。",
+      "zh-Hans": "KBS《纪录片3天》介绍过的大邱两条街：仁教洞有50多年历史的摩托车街，以及白天是工具市场、入夜变成一排煤球烤肉帐篷摊的北城路。",
+      "zh-Hant": "兩條曾登上韓國KBS紀錄片《紀錄片3天》的大邱街道：仁橋洞超過50年歷史的機車街，以及白天是工具市場、入夜化為煤球烤肉帳篷攤的北城路。",
+      "es": "Dos calles de Daegu que aparecieron en 'Documentary 3 Days' de KBS: el callejón de motos de Ingyo-dong, con más de 50 años de historia, y Bukseong-ro, una calle de tiendas de herramientas de día que por la noche se convierte en una hilera de carpas de bulgogi a la brasa de carbón briquetas.",
+      "fr": "Deux rues de Daegu présentées dans l'émission « Documentary 3 Days » de KBS : la rue des motos d'Ingyo-dong, qui existe depuis plus de 50 ans, et Bukseong-ro, une rue de vente d'outillage le jour qui se transforme en rangée de tentes de bulgogi au charbon la nuit.",
+      "de": "Zwei Straßen in Daegu, die in KBS' Dokumentation 'Documentary 3 Days' vorgestellt wurden: die über 50 Jahre alte Motorradgasse in Ingyo-dong und die Bukseong-ro, tagsüber eine Werkzeugmarktstraße, abends eine Reihe von Zelten mit über Briketts gegrilltem Bulgogi.",
+      "vi": "Hai con phố ở Daegu từng xuất hiện trên chương trình 'Documentary 3 Days' của KBS: con hẻm xe máy hơn 50 năm tuổi ở Ingyo-dong, và phố Bukseong-ro, ban ngày là phố chợ dụng cụ, đến tối biến thành dãy quán lều nướng bulgogi than tổ ong.",
+      "th": "สองถนนในแดกูที่ปรากฏในรายการ 'Documentary 3 Days' ของ KBS ได้แก่ ตรอกมอเตอร์ไซค์ในอินเกียว-ดong อายุกว่า 50 ปี และถนนปูซอง-โร ซึ่งกลางวันเป็นถนนร้านเครื่องมือช่าง กลางคืนกลายเป็นแถวร้านเต็นท์ปิ้งบุลโกกิบนเตาถ่านอัดแท่ง",
+      "id": "Dua jalan di Daegu yang tampil dalam acara 'Documentary 3 Days' KBS: gang motor di Ingyo-dong yang sudah berusia 50 tahun, dan Bukseong-ro, jalan pasar perkakas di siang hari yang berubah menjadi deretan tenda makanan jalanan di malam hari.",
+      "ru": "Две улицы Тэгу, показанные в программе KBS 'Documentary 3 Days': 50-летняя мотоциклетная аллея в Ингё-дон и Пуксон-ро, днём улица магазинов инструментов, а ночью ряд палаток с бульгоги на угольных брикетах."
+    },
+    "cover": "VdNMKz8DzgE",
+    "videos": [
+      "VdNMKz8DzgE",
+      "wrxTA28IIvE"
+    ]
+  },
+  {
     "slug": "2026-11-02-jeonnam",
     "date": "2026-11-02",
     "region": "jeonnam",

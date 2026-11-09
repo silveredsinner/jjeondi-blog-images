@@ -1,671 +1,279 @@
 {
-  "date": "2026-11-02",
+  "date": "2026-11-09",
   "added": [
     {
-      "region": "chungcheong",
+      "region": "jeonnam",
       "type": "spot",
-      "ko": "장태산자연휴양림",
-      "en": "Jangtaesan Recreational Forest",
-      "q": "대전 장태산자연휴양림",
-      "menu_ko": "조용한 숲 속 자연 산책",
-      "menu_en": "Quiet nature walk in the forest",
+      "ko": "신안 장도",
+      "en": "Jangdo Island, Sinan",
+      "q": "신안군 흑산면 장도",
+      "menu_ko": "바람의 길목이라 불리는 외딴 섬, 빨간 지붕 골목과 멸치잡이",
+      "menu_en": "Remote windswept island with red-roofed alleys and anchovy fishing",
       "videos": [
-        "UE9PrFXIMfs"
+        "f8QVHsuxn5U"
       ],
       "auto": true,
       "source": "description",
-      "evidence": "starting with the quiet nature of Jangtaesan Recreational Forest,",
-      "added": "2026-11-02",
-      "video_title": "Daejeon Day Trip | Korea’s Most Famous Bakery, Seongsimdang & Jangtaesan in Fall"
+      "evidence": "섬 사람들이 겪어온 굴곡의 세월만큼이나 비탈진 골목골목 위로 빨간 지붕이 모여 있는 아름다운 섬, 장도",
+      "added": "2026-11-09",
+      "video_title": "[다큐3일📸] '바람의 길목'이라 불려온 바다의 오지, 장도 | 바람과 함께 살아가다 - 신안 장도 72시간 | KBS 20161016 방송"
     },
     {
-      "region": "chungcheong",
+      "region": "jeonnam",
       "type": "spot",
-      "ko": "한빛탑",
-      "en": "Hanbit Tower",
-      "q": "대전 한빛탑",
-      "menu_ko": "대전 랜드마크 타워",
-      "menu_en": "Daejeon landmark tower",
+      "ko": "장도 산지습지",
+      "en": "Jangdo Mountain Wetland (Ramsar Site)",
+      "q": "신안 장도 습지",
+      "menu_ko": "국내 최초 섬 습지, 람사르 습지",
+      "menu_en": "Korea's first island wetland, a Ramsar-designated site",
       "videos": [
-        "UE9PrFXIMfs"
+        "f8QVHsuxn5U"
       ],
       "auto": true,
       "source": "description",
-      "evidence": "The day ends at Hanbit Tower and a taste of Kkumdori ramen, a local specialty you can only find in Daejeon.",
-      "added": "2026-11-02",
-      "video_title": "Daejeon Day Trip | Korea’s Most Famous Bakery, Seongsimdang & Jangtaesan in Fall"
+      "evidence": "특히 면적만도 9만여 m2에 이르는 섬 정상부의 산지 습지는 400여 종의 다양한 생물군이 서식하는 생태의 보고.",
+      "added": "2026-11-09",
+      "video_title": "[다큐3일📸] '바람의 길목'이라 불려온 바다의 오지, 장도 | 바람과 함께 살아가다 - 신안 장도 72시간 | KBS 20161016 방송"
     },
     {
-      "region": "jeonbuk",
+      "region": "jeonnam",
       "type": "spot",
-      "ko": "한옥 호텔",
-      "en": "Hanok Hotel",
-      "q": "https://maps.app.goo.gl/z6pTCnfsSoBh1JUa6",
-      "menu_ko": "한옥 숙소 체험",
-      "menu_en": "Traditional hanok stay",
+      "ko": "소장도",
+      "en": "Sojangdo Islet",
+      "q": "신안 소장도",
+      "menu_ko": "간조 때 열리는 바닷길, 고둥·따개비 채취",
+      "menu_en": "Sea path opening at low tide; gathering sea snails and barnacles",
       "videos": [
-        "tswqv1FY_2s"
+        "f8QVHsuxn5U"
       ],
       "auto": true,
       "source": "description",
-      "evidence": "Hanok Hotel : https://maps.app.goo.gl/z6pTCnfsSoBh1JUa6",
-      "added": "2026-11-02",
-      "video_title": "World's Most Famous Korean Bibimbap 🇰🇷 Ultimate STREET FOOD Tour in Jeonju, South Korea!"
+      "evidence": "그러나 하루 두 번, 간조 때가 되면 바닷물이 빠지면서 걸어서 소장도로 갈 수 있는 길이 열린다!",
+      "added": "2026-11-09",
+      "video_title": "[다큐3일📸] '바람의 길목'이라 불려온 바다의 오지, 장도 | 바람과 함께 살아가다 - 신안 장도 72시간 | KBS 20161016 방송"
     },
     {
-      "region": "jeonbuk",
-      "type": "restaurant",
-      "ko": "한국집",
-      "en": "Hankook Jib",
-      "q": "전주 한국집",
-      "menu_ko": "전주비빔밥 (육회 비빔밥)",
-      "menu_en": "Jeonju bibimbap with marinated raw meat",
+      "region": "jeonnam",
+      "type": "spot",
+      "ko": "흑산초등학교 장도분교장",
+      "en": "Heuksan Elementary School Jangdo Branch",
+      "q": "흑산초등학교 장도분교장",
+      "menu_ko": "1955년 개교, 학생 1명의 섬 분교",
+      "menu_en": "Island branch school founded in 1955 with a single student",
       "videos": [
-        "tswqv1FY_2s",
-        "gUwiVRYbeZ0"
+        "f8QVHsuxn5U"
       ],
       "auto": true,
       "source": "description",
-      "evidence": "Hankook Jib : https://maps.app.goo.gl/KyP1J4AvwAFzUFzbA",
-      "added": "2026-11-02",
-      "video_title": "World's Most Famous Korean Bibimbap 🇰🇷 Ultimate STREET FOOD Tour in Jeonju, South Korea!"
+      "evidence": "바로 흑산 초등학교 장도 분교장이다.",
+      "added": "2026-11-09",
+      "video_title": "[다큐3일📸] '바람의 길목'이라 불려온 바다의 오지, 장도 | 바람과 함께 살아가다 - 신안 장도 72시간 | KBS 20161016 방송"
     },
     {
-      "region": "jeonbuk",
+      "region": "gangwon",
+      "type": "spot",
+      "ko": "속초국제여객터미널",
+      "en": "Sokcho International Passenger Terminal",
+      "q": "속초국제여객터미널",
+      "menu_ko": "속초-블라디보스토크 여객선 동춘호 출항지",
+      "menu_en": "Departure point of the Dongchun ferry from Sokcho to Vladivostok",
+      "videos": [
+        "el_HU4bYJZ0"
+      ],
+      "auto": true,
+      "source": "description",
+      "evidence": "국내 동해안 최북단 무역항인 속초국제여객터미널에 국제선이 등장한 건 2000년 4월. 속초에서 블라디보스토크를 잇는 여객선 ‘동춘호’였다.",
+      "added": "2026-11-09",
+      "video_title": "[다큐3일★풀버전] 블라디보스토크와 속초를 잇는 여객선 ‘동춘호’ 72시간 | “북방항로, 블라디보스토크 가는 뱃길 685km” (KBS 080221 방송)"
+    },
+    {
+      "needs_check": true,
+      "region": "gyeongbuk",
+      "type": "spot",
+      "ko": "안동역",
+      "en": "Andong Station",
+      "q": "안동역",
+      "menu_ko": "10년 전 약속의 재회 장소",
+      "menu_en": "Meeting place for a reunion promised 10 years earlier",
+      "videos": [
+        "uLvyTJUEzRw"
+      ],
+      "auto": true,
+      "source": "viewer_comment",
+      "evidence": "오빠딸 멤버들 안동역에 4명 모여서 노래부르는거보소 와;;;",
+      "added": "2026-11-09",
+      "video_title": "10년 전 안동역의 소녀들, '내일로'의 청춘들.. 잘 지내고 있을까? 2025년, 잃어버린 낭만 한 조각을 찾아서 🚂ㅣKBS 다큐3일 특별판-어바웃타임 250822 방송"
+    },
+    {
+      "region": "gangwon",
       "type": "market",
-      "ko": "남부시장",
-      "en": "Nambu Market",
-      "q": "전주 남부시장",
-      "menu_ko": "전통시장 길거리 음식",
-      "menu_en": "Traditional market street food",
+      "ko": "정선 5일장",
+      "en": "Jeongseon 5-day Market (Jeongseon Arirang Market)",
+      "q": "정선 5일장",
+      "menu_ko": "산나물 등 강원도 산골 장터",
+      "menu_en": "Traditional 5-day market with mountain greens and local produce",
       "videos": [
-        "tswqv1FY_2s",
-        "gUwiVRYbeZ0"
+        "pCt8Td0Lo1Y"
       ],
       "auto": true,
       "source": "description",
-      "evidence": "Nambu Market : https://maps.app.goo.gl/oAcnmocW5JTAt6xT7",
-      "added": "2026-11-02",
-      "video_title": "World's Most Famous Korean Bibimbap 🇰🇷 Ultimate STREET FOOD Tour in Jeonju, South Korea!"
+      "evidence": "오늘의 강원도를 일군 그 평범한 이웃들의 이야기,\n강원도 정선 5일장.",
+      "added": "2026-11-09",
+      "video_title": "[다큐3일★풀버전] 푸근하고 정겨운 대표 5일장! | “강원도의 힘, 정선 5일장” (KBS 130609 방송)"
     },
     {
-      "region": "jeonbuk",
-      "type": "restaurant",
-      "ko": "풍년제과 (PNB)",
-      "en": "PNB Bakery (Pungnyeon Jegwa)",
-      "q": "전주 PNB 풍년제과",
-      "menu_ko": "초코파이",
-      "menu_en": "Choco Pie",
-      "videos": [
-        "YGWFWpd0AjY"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "From sweet Choco Pie at the legendary PNB bakery to sizzling grilled cheese, the flavors here are unique and unforgettable.",
-      "added": "2026-11-02",
-      "video_title": "24 Hours in JEONJU, South Korea 🇰🇷 Hanok Village and Best Bibimbap"
-    },
-    {
-      "region": "jeonbuk",
-      "type": "restaurant",
-      "ko": "다우랑 (만두)",
-      "en": "Da Urang Dumplings",
-      "q": "120, Gyeonggijeon-Gil, Jeonju, Jeollabuk-do 55044, South Korea",
-      "menu_ko": "만두",
-      "menu_en": "Dumplings",
-      "videos": [
-        "gUwiVRYbeZ0"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "1. Da Urang Dumplings\n120, Gyeonggijeon-Gil, Jeonju, Jeollabuk-do 55044, South Korea",
-      "added": "2026-11-02",
-      "video_title": "ORIGINAL Bibimbap & KOREAN STREET FOOD Night Market in Jeonju South Korea"
-    },
-    {
-      "region": "jeonbuk",
-      "type": "restaurant",
-      "ko": "교동떡갈비",
-      "en": "Gyodong Tteokgalbi",
-      "q": "73-2, Pungnam-dong 3-ga, Wansan-gu, Jeonju-si, Jeollabuk-do",
-      "menu_ko": "떡갈비",
-      "menu_en": "Tteokgalbi (grilled short rib patties)",
-      "videos": [
-        "gUwiVRYbeZ0"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "2. Gyodong Tteokgalbi \n73-2, Pungnam-dong 3-ga, Wansan-gu, Jeonju-si, Jeollabuk-do",
-      "added": "2026-11-02",
-      "video_title": "ORIGINAL Bibimbap & KOREAN STREET FOOD Night Market in Jeonju South Korea"
-    },
-    {
-      "region": "jeonbuk",
-      "type": "restaurant",
-      "ko": "외할머니솜씨",
-      "en": "Oehalmeonisomssi Cafe",
-      "q": "전주 외할머니솜씨",
-      "menu_ko": "카페",
-      "menu_en": "Cafe",
-      "videos": [
-        "gUwiVRYbeZ0"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "3. Oehalmeonisomssi Cafe",
-      "added": "2026-11-02",
-      "video_title": "ORIGINAL Bibimbap & KOREAN STREET FOOD Night Market in Jeonju South Korea"
-    },
-    {
-      "region": "jeonbuk",
+      "region": "daegu",
       "type": "spot",
-      "ko": "자만벽화마을",
-      "en": "Jaman Mural Village (Human Mural Village)",
-      "q": "전주 자만벽화마을",
-      "menu_ko": "벽화마을",
-      "menu_en": "Mural village",
+      "ko": "대구 오토바이 골목",
+      "en": "Daegu Motorcycle Alley (Ingyo-dong)",
+      "q": "대구 인교동 오토바이 골목",
+      "menu_ko": "50년 넘은 오토바이 특화 거리 (판매·수리·튜닝·렌트 업체 56여 곳)",
+      "menu_en": "Motorcycle-specialized street with 50+ years of history (about 56 shops for sales, repair, tuning, rental)",
       "videos": [
-        "lC8hEbHE6x0"
+        "VdNMKz8DzgE"
       ],
       "auto": true,
       "source": "description",
-      "evidence": "Day 1, we'll experience the famous Hanok village before visiting Human Mural Village.",
-      "added": "2026-11-02",
-      "video_title": "Jeonju in 2 Days | Must See Sights & Culinary Adventure | Hanok Village, Mural Village, Streetfood"
+      "evidence": "50년 넘는 역사를 가진 대구 오토바이 골목. 누구보다 오토바이를 사랑하는 사람들과 함께 한 72시간이다.",
+      "added": "2026-11-09",
+      "video_title": "[다큐3일★풀버전] 바이크의 모든 것! 50년 넘은 전국 대표 오토바이 특화 거리 | “빠라바라밤 대구 오토바이 골목 72시간” (KBS 160703 방송)"
     },
     {
-      "region": "jeonbuk",
+      "region": "seoul",
       "type": "spot",
-      "ko": "국립전주박물관",
-      "en": "Jeonju National Museum",
-      "q": "국립전주박물관",
-      "menu_ko": "박물관",
-      "menu_en": "Museum",
+      "ko": "중계동 백사마을",
+      "en": "Baeksa Village, Junggye-dong (Seoul's last hillside 'moon village')",
+      "q": "서울 노원구 중계본동 백사마을",
+      "menu_ko": "서울의 마지막 달동네, 연탄난로 겨울나기",
+      "menu_en": "Seoul's last hillside shantytown, winter life with coal briquette stoves",
       "videos": [
-        "lC8hEbHE6x0"
+        "bhu2asm_c2M"
       ],
       "auto": true,
       "source": "description",
-      "evidence": "Then we will head to the Jeonju National Museum before catching sunset at Deokjin Park.",
-      "added": "2026-11-02",
-      "video_title": "Jeonju in 2 Days | Must See Sights & Culinary Adventure | Hanok Village, Mural Village, Streetfood"
+      "evidence": "서울을 내려다보는 마지막 달동네 중계동 백사마을의 겨울나기이다.",
+      "added": "2026-11-09",
+      "video_title": "[다큐3일★풀버전] 시린 겨울, 연탄난로에 둘러앉아 따뜻한 시간을 보내는 그들의 마음의 온도는 몇 도 일까? 중계동 백사마을의 겨울나기 (KBS 20110130 방송)"
     },
     {
-      "region": "jeonbuk",
+      "region": "seoul",
+      "type": "market",
+      "ko": "용산 포장마차촌",
+      "en": "Yongsan Pojangmacha Village (street food tent bar cluster)",
+      "q": "용산 포장마차촌",
+      "menu_ko": "포장마차 술안주, 매운 닭발과 소주",
+      "menu_en": "Street tent bar snacks, spicy chicken feet with soju",
+      "videos": [
+        "fmvPIj2SI_E"
+      ],
+      "auto": true,
+      "source": "description",
+      "evidence": "서로 위로하고 공생하는 용산 포장마차촌의 밤엔 공존의 달이 뜬다.",
+      "added": "2026-11-09",
+      "video_title": "[다큐3일📸] 빌딩 숲속 작은 포장마차가 건네는 위로 한 잔 | 한 잔의 위로, 용산 포장마차촌 72시간 | KBS 2013.11.24 방송"
+    },
+    {
+      "region": "gyeongbuk",
       "type": "spot",
-      "ko": "덕진공원",
-      "en": "Deokjin Park",
-      "q": "전주 덕진공원",
-      "menu_ko": "일몰 감상",
-      "menu_en": "Sunset viewing",
+      "ko": "영주 무섬마을",
+      "en": "Museom Village, Yeongju (traditional riverside village)",
+      "q": "영주 무섬마을",
+      "menu_ko": "내성천이 휘감아 도는 350년 고택 마을",
+      "menu_en": "Village of 350-year-old traditional houses encircled by the Naeseongcheon River",
       "videos": [
-        "lC8hEbHE6x0"
+        "Q2d7OQBgpkc"
       ],
       "auto": true,
       "source": "description",
-      "evidence": "Then we will head to the Jeonju National Museum before catching sunset at Deokjin Park.",
-      "added": "2026-11-02",
-      "video_title": "Jeonju in 2 Days | Must See Sights & Culinary Adventure | Hanok Village, Mural Village, Streetfood"
-    },
-    {
-      "region": "jeonnam",
-      "type": "restaurant",
-      "ko": "나무애그림 카페",
-      "en": "Namuaegeurim Cafe",
-      "q": "전남 여수시 자산4길 45",
-      "menu_ko": "음료, 수제 기념품, 오동도 전망",
-      "menu_en": "Drinks, handmade souvenirs, view of Odongdo Island",
-      "videos": [
-        "hPmCee2cdvc"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "☕ 나무애그림 Cafe",
-      "added": "2026-11-02",
-      "video_title": "Why You NEED to Visit Yeosu, South Korea | Travel Guide + Food Tour + FAQs"
+      "evidence": "무섬마을에서 만난 3일이다.",
+      "added": "2026-11-09",
+      "video_title": "[다큐3일] 강처럼 바람처럼 경북 영주 무섬마을 (풀영상)"
     },
     {
       "region": "jeonnam",
       "type": "spot",
-      "ko": "이순신광장",
-      "en": "Yi Sun-sin Square",
-      "q": "전남 여수시 중앙동 383",
-      "menu_ko": "거북선 복원선 무료 관람",
-      "menu_en": "Free-entry Turtle Ship replica",
+      "ko": "신안 영산도",
+      "en": "Yeongsando Island, Sinan",
+      "q": "신안 영산도",
+      "menu_ko": "'바보섬'으로 불리는 외딴 섬, 갯바위 자연산 미역 채취와 공동 분배(만보)",
+      "menu_en": "Remote island nicknamed 'Fool's Island'; wild seaweed harvesting and equal sharing (manbo)",
       "videos": [
-        "hPmCee2cdvc"
+        "a1EOZeDcpEQ"
       ],
       "auto": true,
       "source": "description",
-      "evidence": "⚔️ Yi Sun-Sin Square (이순신광장)",
-      "added": "2026-11-02",
-      "video_title": "Why You NEED to Visit Yeosu, South Korea | Travel Guide + Food Tour + FAQs"
-    },
-    {
-      "region": "jeonnam",
-      "type": "spot",
-      "ko": "아쿠아플라넷 여수",
-      "en": "Aqua Planet Yeosu",
-      "q": "전남 여수시 오동도로 61-11",
-      "menu_ko": "벨루가, 물범 등이 있는 아쿠아리움",
-      "menu_en": "Aquarium with beluga whales and seals",
-      "videos": [
-        "hPmCee2cdvc"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "🐬 Aqua Planet Yeosu (아쿠아플라넷 여수)",
-      "added": "2026-11-02",
-      "video_title": "Why You NEED to Visit Yeosu, South Korea | Travel Guide + Food Tour + FAQs"
-    },
-    {
-      "region": "jeonnam",
-      "type": "spot",
-      "ko": "하멜등대 & 하멜기념관",
-      "en": "Hamel Lighthouse & Hamel Museum",
-      "q": "여수 하멜등대",
-      "menu_ko": "네덜란드 선원 하멜 이야기",
-      "menu_en": "Story of Dutch sailor Hendrick Hamel",
-      "videos": [
-        "hPmCee2cdvc"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "📜 Hamel Museum & Lighthouse (하멜등대 & 하멜기념관)",
-      "added": "2026-11-02",
-      "video_title": "Why You NEED to Visit Yeosu, South Korea | Travel Guide + Food Tour + FAQs"
-    },
-    {
-      "region": "jeonnam",
-      "type": "spot",
-      "ko": "향일암",
-      "en": "Hyangiram Temple",
-      "q": "전남 여수시 돌산읍 향일암로 1",
-      "menu_ko": "절벽 위 사찰, 일출 명소",
-      "menu_en": "Cliffside temple famous for sunrise views",
-      "videos": [
-        "hPmCee2cdvc"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "🌄 Hyangiram Temple (향일암)",
-      "added": "2026-11-02",
-      "video_title": "Why You NEED to Visit Yeosu, South Korea | Travel Guide + Food Tour + FAQs"
-    },
-    {
-      "region": "jeonnam",
-      "type": "spot",
-      "ko": "천사벽화마을",
-      "en": "Angel Mural Village",
-      "q": "전남 여수시 고소동 268",
-      "menu_ko": "알록달록한 벽화 골목과 카페",
-      "menu_en": "Colorful mural alleys and cafes",
-      "videos": [
-        "hPmCee2cdvc"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "🎨 Angel Mural Village (천사벽화마을)",
-      "added": "2026-11-02",
-      "video_title": "Why You NEED to Visit Yeosu, South Korea | Travel Guide + Food Tour + FAQs"
+      "evidence": "다큐멘터리 3일 \"바보섬에 살고잪네 - 신안 영산도\" 20150920",
+      "added": "2026-11-09",
+      "video_title": "[다큐3일📸] 똑같이 나누고 다같이 잘산다! 행복한 바보섬, 신안 영산도 72시간 | KBS 2015.09.20"
     },
     {
       "region": "jeonnam",
       "type": "market",
-      "ko": "여수 수산시장",
-      "en": "Yeosu Fish Market",
-      "q": "전남 여수시 여객선터미널길 24",
-      "menu_ko": "신선한 해산물",
-      "menu_en": "Fresh seafood",
+      "ko": "남광주 도깨비시장",
+      "en": "Namgwangju Dokkaebi Market (Namgwangju Dawn Market)",
+      "q": "광주 남광주시장",
+      "menu_ko": "새벽 3시~오전 9시만 여는 새벽시장, 해산물·농산물·추어탕",
+      "menu_en": "Dawn market open only 3–9 AM; seafood, produce, loach soup",
       "videos": [
-        "hPmCee2cdvc"
+        "XHbni8_35yE"
       ],
       "auto": true,
       "source": "description",
-      "evidence": "📍Fish market: 680 Gyo-dong, Yeosu-si, Jeollanam-do",
-      "added": "2026-11-02",
-      "video_title": "Why You NEED to Visit Yeosu, South Korea | Travel Guide + Food Tour + FAQs"
+      "evidence": "현대화된 건물들 사이 보물처럼 숨어있는 ‘남광주 도깨비시장’은 새벽 3시부터 오전 9시까지만 만날 수 있는 특별한 시장이다.",
+      "added": "2026-11-09",
+      "video_title": "[다큐3일★풀버전] 새벽 3시부터 단 6시간 오픈! \"새벽, 정을 팝니다 - 남광주 도깨비시장 72시간\" (KBS 20170507 방송)"
     },
     {
-      "region": "jeonnam",
+      "region": "seoul",
+      "type": "market",
+      "ko": "남대문시장",
+      "en": "Namdaemun Market",
+      "q": "서울 중구 남대문시장",
+      "menu_ko": "1만 개 넘는 점포의 전통시장, 호떡·노점 먹거리",
+      "menu_en": "Traditional market with over 10,000 shops, hotteok and street food",
+      "videos": [
+        "HmeZZIr_8Qo"
+      ],
+      "auto": true,
+      "source": "description",
+      "evidence": "하루 약 30만 명이 방문하는 남대문시장은 오늘도 마음과 배를 채우려는 손님들로 북적인다.",
+      "added": "2026-11-09",
+      "video_title": "[다큐3일📸] 1만 2천개의 점포에서 즐기는 다채로운 먹거리와 볼거리! 600년의 역사를 지닌 남대문시장 72시간 | KBS 2018.12.16 방송"
+    },
+    {
+      "region": "daegu",
       "type": "spot",
-      "ko": "여수항",
-      "en": "Yeosu Port",
-      "q": "전남 여수시 종화동 458-4",
-      "menu_ko": "항구 주변 해산물 식당",
-      "menu_en": "Port-side seafood restaurants",
+      "ko": "북성로 연탄불고기 포장마차 골목",
+      "en": "Bukseong-ro Briquette Bulgogi Pojangmacha Alley (street food tents in the tool market street)",
+      "q": "대구 북성로 연탄불고기 골목",
+      "menu_ko": "연탄불고기, 우동",
+      "menu_en": "Briquette-grilled bulgogi, udon",
       "videos": [
-        "hPmCee2cdvc"
+        "wrxTA28IIvE"
       ],
       "auto": true,
       "source": "description",
-      "evidence": "📍 Yeosu Port: 458-4 Jonghwa-dong, Yeosu, Jeollanam-do",
-      "added": "2026-11-02",
-      "video_title": "Why You NEED to Visit Yeosu, South Korea | Travel Guide + Food Tour + FAQs"
+      "evidence": "북성로에 들어서는 대부분의 포장마차 메뉴는 연탄불고기와 우동 단 두 가지.",
+      "added": "2026-11-09",
+      "video_title": "[다큐3일📸] 🌞해가 뜨면 공구상가🌛달이 뜨면 포장마차! 대구 북성로 한잔의 추억 | 삼일야화, 대구 연탄불고기 포장마차 골목 72시간 | KBS 2015.11.22 방송"
     },
     {
-      "region": "jeonnam",
-      "type": "spot",
-      "ko": "여수 구항 해양공원",
-      "en": "Yeosu Guhang Marine Park",
-      "q": "전남 여수시 중앙동 246-1",
-      "menu_ko": "해안가 해산물 식당가",
-      "menu_en": "Seaside area with seafood eateries",
+      "needs_check": true,
+      "region": "jeju",
+      "type": "market",
+      "ko": "제주시 오일시장",
+      "en": "Jeju-si Five-Day Market (Ohil Sijang)",
+      "q": "제주시 민속오일시장",
+      "menu_ko": "제주 전역 장꾼들이 모이는 오일장",
+      "menu_en": "Traditional five-day market with traveling vendors",
       "videos": [
-        "hPmCee2cdvc"
+        "kIvLvXLBJIY"
       ],
       "auto": true,
-      "source": "description",
-      "evidence": "📍Yeosu Guhang Marine Park: Jungang-dong, Yeosu-si, Jeollanam-do",
-      "added": "2026-11-02",
-      "video_title": "Why You NEED to Visit Yeosu, South Korea | Travel Guide + Food Tour + FAQs"
-    },
-    {
-      "region": "jeonnam",
-      "type": "spot",
-      "ko": "순천만국가정원",
-      "en": "Suncheon Bay National Garden",
-      "q": "순천만국가정원",
-      "menu_ko": "국가정원 산책",
-      "menu_en": "Walk through the national garden",
-      "videos": [
-        "EVbJ-hm0-Q8"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "- Suncheon Bay National Garden + Suncheon Bay Wetland Reserve",
-      "added": "2026-11-02",
-      "video_title": "JEOLLA-DO 🇰🇷🍵🍃exploring the Korean countryside & green tea farm | Korea travel vlog"
-    },
-    {
-      "region": "jeonnam",
-      "type": "spot",
-      "ko": "보성 대한다원",
-      "en": "Boseong Green Tea Field Daehan Dawon",
-      "q": "보성 대한다원",
-      "menu_ko": "녹차밭",
-      "menu_en": "Green tea plantation",
-      "videos": [
-        "EVbJ-hm0-Q8"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "- Boseong Green Tea Field Daehan Dawon",
-      "added": "2026-11-02",
-      "video_title": "JEOLLA-DO 🇰🇷🍵🍃exploring the Korean countryside & green tea farm | Korea travel vlog"
-    },
-    {
-      "region": "jeonnam",
-      "type": "spot",
-      "ko": "다빈치호텔 순천",
-      "en": "Da Vinci Hotel Suncheon",
-      "q": "순천 다빈치호텔",
-      "menu_ko": "숙소",
-      "menu_en": "Hotel stay",
-      "videos": [
-        "EVbJ-hm0-Q8"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "and we stayed at the Da Vinci Hotel Suncheon (1000% recommended!)",
-      "added": "2026-11-02",
-      "video_title": "JEOLLA-DO 🇰🇷🍵🍃exploring the Korean countryside & green tea farm | Korea travel vlog"
-    },
-    {
-      "region": "gyeongbuk",
-      "type": "restaurant",
-      "ko": "올리비 카페",
-      "en": "Olivee Cafe",
-      "q": "경주 올리비 카페",
-      "menu_ko": "카페",
-      "menu_en": "Cafe",
-      "videos": [
-        "v_dZT6AUjGk"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "13:47 Shopping in Gyeongju; Olivee Cafe",
-      "added": "2026-11-02",
-      "video_title": "3 days in Gyeongju, South Korea! 🇰🇷 Gyeongju's best shopping, cafes, and food (travel vlog)"
-    },
-    {
-      "region": "gyeongbuk",
-      "type": "spot",
-      "ko": "월정교",
-      "en": "Woljeonggyo Bridge",
-      "q": "경주 월정교",
-      "menu_ko": "신라 시대 복원 다리",
-      "menu_en": "Restored Silla-era bridge",
-      "videos": [
-        "v_dZT6AUjGk",
-        "nsFk-bseRMw"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "18:32 Flower Fields; Woljeonggyo Bridge; Observatory; K-BBQ",
-      "added": "2026-11-02",
-      "video_title": "3 days in Gyeongju, South Korea! 🇰🇷 Gyeongju's best shopping, cafes, and food (travel vlog)"
-    },
-    {
-      "region": "gyeongbuk",
-      "type": "spot",
-      "ko": "황리단길",
-      "en": "Hwangnidan-gil (Golden Street)",
-      "q": "경주 황리단길",
-      "menu_ko": "카페·상점 거리",
-      "menu_en": "Street of cafes and shops",
-      "videos": [
-        "v_dZT6AUjGk"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "24:10 Tteokgalbi Set Meal; Golden Street; Delicious Cake at Bush Cafe",
-      "added": "2026-11-02",
-      "video_title": "3 days in Gyeongju, South Korea! 🇰🇷 Gyeongju's best shopping, cafes, and food (travel vlog)"
-    },
-    {
-      "region": "gyeongbuk",
-      "type": "restaurant",
-      "ko": "부시 카페",
-      "en": "Bush Cafe",
-      "q": "경주 부시 카페",
-      "menu_ko": "케이크",
-      "menu_en": "Cake",
-      "videos": [
-        "v_dZT6AUjGk"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "24:10 Tteokgalbi Set Meal; Golden Street; Delicious Cake at Bush Cafe",
-      "added": "2026-11-02",
-      "video_title": "3 days in Gyeongju, South Korea! 🇰🇷 Gyeongju's best shopping, cafes, and food (travel vlog)"
-    },
-    {
-      "region": "gyeongbuk",
-      "type": "spot",
-      "ko": "사다함",
-      "en": "Sadaham (Hanok stay)",
-      "q": "경주 사다함 한옥",
-      "menu_ko": "한옥 숙소 (에어비앤비 예약)",
-      "menu_en": "Hanok stay booked on Airbnb",
-      "videos": [
-        "teLRxsBnHqo"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "The Hanok is called Sadaham and it was booked on airbnb.",
-      "added": "2026-11-02",
-      "video_title": "48 Hours in Gyeongju, South Korea: Travel Vlog (Hanok Stay, Korean Food, Sightseeing and RAIN)"
-    },
-    {
-      "region": "gyeongbuk",
-      "type": "restaurant",
-      "ko": "도와당",
-      "en": "Dowadang",
-      "q": "경주 도와당",
-      "menu_ko": "한식 식당",
-      "menu_en": "Korean restaurant",
-      "videos": [
-        "teLRxsBnHqo"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "-Day 2: Restaurant (Dowadang), Matcha Desert place (Omamori Gyeongju), Wolseong Palace sight,  Gyeongju Town, cafe 1984,",
-      "added": "2026-11-02",
-      "video_title": "48 Hours in Gyeongju, South Korea: Travel Vlog (Hanok Stay, Korean Food, Sightseeing and RAIN)"
-    },
-    {
-      "region": "gyeongbuk",
-      "type": "restaurant",
-      "ko": "오마모리 경주",
-      "en": "Omamori Gyeongju",
-      "q": "경주 오마모리",
-      "menu_ko": "말차 디저트",
-      "menu_en": "Matcha desserts",
-      "videos": [
-        "teLRxsBnHqo"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "-Day 2: Restaurant (Dowadang), Matcha Desert place (Omamori Gyeongju), Wolseong Palace sight,  Gyeongju Town, cafe 1984,",
-      "added": "2026-11-02",
-      "video_title": "48 Hours in Gyeongju, South Korea: Travel Vlog (Hanok Stay, Korean Food, Sightseeing and RAIN)"
-    },
-    {
-      "region": "gyeongbuk",
-      "type": "spot",
-      "ko": "경주 월성",
-      "en": "Wolseong Palace Site",
-      "q": "경주 월성",
-      "menu_ko": "신라 왕궁터",
-      "menu_en": "Silla palace site",
-      "videos": [
-        "teLRxsBnHqo"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "-Day 2: Restaurant (Dowadang), Matcha Desert place (Omamori Gyeongju), Wolseong Palace sight,  Gyeongju Town, cafe 1984,",
-      "added": "2026-11-02",
-      "video_title": "48 Hours in Gyeongju, South Korea: Travel Vlog (Hanok Stay, Korean Food, Sightseeing and RAIN)"
-    },
-    {
-      "region": "gyeongbuk",
-      "type": "restaurant",
-      "ko": "카페 1984",
-      "en": "Cafe 1984",
-      "q": "경주 카페 1984",
-      "menu_ko": "카페",
-      "menu_en": "Cafe",
-      "videos": [
-        "teLRxsBnHqo"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "-Day 2: Restaurant (Dowadang), Matcha Desert place (Omamori Gyeongju), Wolseong Palace sight,  Gyeongju Town, cafe 1984,",
-      "added": "2026-11-02",
-      "video_title": "48 Hours in Gyeongju, South Korea: Travel Vlog (Hanok Stay, Korean Food, Sightseeing and RAIN)"
-    },
-    {
-      "region": "gyeongbuk",
-      "type": "spot",
-      "ko": "금관총",
-      "en": "Geumgwanchong Tomb",
-      "q": "경주 금관총",
-      "menu_ko": "신라 고분",
-      "menu_en": "Silla royal tomb",
-      "videos": [
-        "teLRxsBnHqo"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "- Day 3: Geumgwanchong tomb, a street away from the Daereungwon Tomb Complex, Aden Cafe, Gwangalli Beach.",
-      "added": "2026-11-02",
-      "video_title": "48 Hours in Gyeongju, South Korea: Travel Vlog (Hanok Stay, Korean Food, Sightseeing and RAIN)"
-    },
-    {
-      "region": "gyeongbuk",
-      "type": "restaurant",
-      "ko": "아덴 카페",
-      "en": "Aden Cafe",
-      "q": "경주 아덴 카페",
-      "menu_ko": "카페",
-      "menu_en": "Cafe",
-      "videos": [
-        "teLRxsBnHqo"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "- Day 3: Geumgwanchong tomb, a street away from the Daereungwon Tomb Complex, Aden Cafe, Gwangalli Beach.",
-      "added": "2026-11-02",
-      "video_title": "48 Hours in Gyeongju, South Korea: Travel Vlog (Hanok Stay, Korean Food, Sightseeing and RAIN)"
-    },
-    {
-      "region": "gyeongbuk",
-      "type": "spot",
-      "ko": "한옥문스테이",
-      "en": "Hanok Moonstay",
-      "q": "경주 한옥문스테이",
-      "menu_ko": "경주 전통 한옥 숙소",
-      "menu_en": "Traditional hanok stay in Gyeongju",
-      "videos": [
-        "nsFk-bseRMw"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "00:00 - Hanok Moonstay",
-      "added": "2026-11-02",
-      "video_title": "Step Into Korea’s Past: A Gyeongju Journey"
-    },
-    {
-      "region": "gyeongbuk",
-      "type": "restaurant",
-      "ko": "카페 다시봄",
-      "en": "Cafe Dasi Bom",
-      "q": "경주 카페 다시봄",
-      "menu_ko": "정원이 있는 아늑한 카페",
-      "menu_en": "Cozy cafe with a garden",
-      "videos": [
-        "nsFk-bseRMw"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "07:18 - Cafe Dasi Bom",
-      "added": "2026-11-02",
-      "video_title": "Step Into Korea’s Past: A Gyeongju Journey"
-    },
-    {
-      "region": "gyeongbuk",
-      "type": "spot",
-      "ko": "석굴암",
-      "en": "Seokguram Grotto",
-      "q": "경주 석굴암",
-      "menu_ko": "유명한 석굴 사원",
-      "menu_en": "Famous stone grotto",
-      "videos": [
-        "nsFk-bseRMw"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "🪨 The famous Seokguram Grotto",
-      "added": "2026-11-02",
-      "video_title": "Step Into Korea’s Past: A Gyeongju Journey"
-    },
-    {
-      "region": "gyeongbuk",
-      "type": "spot",
-      "ko": "경주 교촌마을",
-      "en": "Gyochon Traditional Village",
-      "q": "경주 교촌마을",
-      "menu_ko": "한옥 전통마을",
-      "menu_en": "Traditional village with hanok houses",
-      "videos": [
-        "nsFk-bseRMw"
-      ],
-      "auto": true,
-      "source": "description",
-      "evidence": "🏘️ Gyochon Village with hanok houses",
-      "added": "2026-11-02",
-      "video_title": "Step Into Korea’s Past: A Gyeongju Journey"
+      "source": "viewer_comment",
+      "evidence": "제주시 오일시장 상인의 한사람으로써\n좋은 프로그램 만들어주셔서  감사합니다~^^",
+      "added": "2026-11-09",
+      "video_title": "[다큐3일★풀버전] 장터 따라 🚚돌고 도는 장꾼들의 인생이야기 | \"길 따라 장 따라- 제주도 오일장 72시간\" (KBS 20150315 방송)"
     }
   ]
 }
