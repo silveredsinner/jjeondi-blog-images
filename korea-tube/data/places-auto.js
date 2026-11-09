@@ -1494,5 +1494,187 @@ window.PLACES_AUTO = [
       "nsFk-bseRMw"
     ],
     "auto": true
+  },
+  {
+    "region": "jeonnam",
+    "type": "spot",
+    "ko": "신안 장도",
+    "en": "Jangdo Island, Sinan",
+    "q": "신안군 흑산면 장도",
+    "menu_ko": "바람의 길목이라 불리는 외딴 섬, 빨간 지붕 골목과 멸치잡이",
+    "menu_en": "Remote windswept island with red-roofed alleys and anchovy fishing",
+    "videos": [
+      "f8QVHsuxn5U"
+    ],
+    "auto": true
+  },
+  {
+    "region": "jeonnam",
+    "type": "spot",
+    "ko": "장도 산지습지",
+    "en": "Jangdo Mountain Wetland (Ramsar Site)",
+    "q": "신안 장도 습지",
+    "menu_ko": "국내 최초 섬 습지, 람사르 습지",
+    "menu_en": "Korea's first island wetland, a Ramsar-designated site",
+    "videos": [
+      "f8QVHsuxn5U"
+    ],
+    "auto": true
+  },
+  {
+    "region": "jeonnam",
+    "type": "spot",
+    "ko": "소장도",
+    "en": "Sojangdo Islet",
+    "q": "신안 소장도",
+    "menu_ko": "간조 때 열리는 바닷길, 고둥·따개비 채취",
+    "menu_en": "Sea path opening at low tide; gathering sea snails and barnacles",
+    "videos": [
+      "f8QVHsuxn5U"
+    ],
+    "auto": true
+  },
+  {
+    "region": "jeonnam",
+    "type": "spot",
+    "ko": "흑산초등학교 장도분교장",
+    "en": "Heuksan Elementary School Jangdo Branch",
+    "q": "흑산초등학교 장도분교장",
+    "menu_ko": "1955년 개교, 학생 1명의 섬 분교",
+    "menu_en": "Island branch school founded in 1955 with a single student",
+    "videos": [
+      "f8QVHsuxn5U"
+    ],
+    "auto": true
+  },
+  {
+    "region": "gangwon",
+    "type": "spot",
+    "ko": "속초국제여객터미널",
+    "en": "Sokcho International Passenger Terminal",
+    "q": "속초국제여객터미널",
+    "menu_ko": "속초-블라디보스토크 여객선 동춘호 출항지",
+    "menu_en": "Departure point of the Dongchun ferry from Sokcho to Vladivostok",
+    "videos": [
+      "el_HU4bYJZ0"
+    ],
+    "auto": true
+  },
+  {
+    "region": "gangwon",
+    "type": "market",
+    "ko": "정선 5일장",
+    "en": "Jeongseon 5-day Market (Jeongseon Arirang Market)",
+    "q": "정선 5일장",
+    "menu_ko": "산나물 등 강원도 산골 장터",
+    "menu_en": "Traditional 5-day market with mountain greens and local produce",
+    "videos": [
+      "pCt8Td0Lo1Y"
+    ],
+    "auto": true
+  },
+  {
+    "region": "daegu",
+    "type": "spot",
+    "ko": "대구 오토바이 골목",
+    "en": "Daegu Motorcycle Alley (Ingyo-dong)",
+    "q": "대구 인교동 오토바이 골목",
+    "menu_ko": "50년 넘은 오토바이 특화 거리 (판매·수리·튜닝·렌트 업체 56여 곳)",
+    "menu_en": "Motorcycle-specialized street with 50+ years of history (about 56 shops for sales, repair, tuning, rental)",
+    "videos": [
+      "VdNMKz8DzgE"
+    ],
+    "auto": true
+  },
+  {
+    "region": "seoul",
+    "type": "spot",
+    "ko": "중계동 백사마을",
+    "en": "Baeksa Village, Junggye-dong (Seoul's last hillside 'moon village')",
+    "q": "서울 노원구 중계본동 백사마을",
+    "menu_ko": "서울의 마지막 달동네, 연탄난로 겨울나기",
+    "menu_en": "Seoul's last hillside shantytown, winter life with coal briquette stoves",
+    "videos": [
+      "bhu2asm_c2M"
+    ],
+    "auto": true
+  },
+  {
+    "region": "seoul",
+    "type": "market",
+    "ko": "용산 포장마차촌",
+    "en": "Yongsan Pojangmacha Village (street food tent bar cluster)",
+    "q": "용산 포장마차촌",
+    "menu_ko": "포장마차 술안주, 매운 닭발과 소주",
+    "menu_en": "Street tent bar snacks, spicy chicken feet with soju",
+    "videos": [
+      "fmvPIj2SI_E"
+    ],
+    "auto": true
+  },
+  {
+    "region": "gyeongbuk",
+    "type": "spot",
+    "ko": "영주 무섬마을",
+    "en": "Museom Village, Yeongju (traditional riverside village)",
+    "q": "영주 무섬마을",
+    "menu_ko": "내성천이 휘감아 도는 350년 고택 마을",
+    "menu_en": "Village of 350-year-old traditional houses encircled by the Naeseongcheon River",
+    "videos": [
+      "Q2d7OQBgpkc"
+    ],
+    "auto": true
+  },
+  {
+    "region": "jeonnam",
+    "type": "spot",
+    "ko": "신안 영산도",
+    "en": "Yeongsando Island, Sinan",
+    "q": "신안 영산도",
+    "menu_ko": "'바보섬'으로 불리는 외딴 섬, 갯바위 자연산 미역 채취와 공동 분배(만보)",
+    "menu_en": "Remote island nicknamed 'Fool's Island'; wild seaweed harvesting and equal sharing (manbo)",
+    "videos": [
+      "a1EOZeDcpEQ"
+    ],
+    "auto": true
+  },
+  {
+    "region": "jeonnam",
+    "type": "market",
+    "ko": "남광주 도깨비시장",
+    "en": "Namgwangju Dokkaebi Market (Namgwangju Dawn Market)",
+    "q": "광주 남광주시장",
+    "menu_ko": "새벽 3시~오전 9시만 여는 새벽시장, 해산물·농산물·추어탕",
+    "menu_en": "Dawn market open only 3–9 AM; seafood, produce, loach soup",
+    "videos": [
+      "XHbni8_35yE"
+    ],
+    "auto": true
+  },
+  {
+    "region": "seoul",
+    "type": "market",
+    "ko": "남대문시장",
+    "en": "Namdaemun Market",
+    "q": "서울 중구 남대문시장",
+    "menu_ko": "1만 개 넘는 점포의 전통시장, 호떡·노점 먹거리",
+    "menu_en": "Traditional market with over 10,000 shops, hotteok and street food",
+    "videos": [
+      "HmeZZIr_8Qo"
+    ],
+    "auto": true
+  },
+  {
+    "region": "daegu",
+    "type": "spot",
+    "ko": "북성로 연탄불고기 포장마차 골목",
+    "en": "Bukseong-ro Briquette Bulgogi Pojangmacha Alley (street food tents in the tool market street)",
+    "q": "대구 북성로 연탄불고기 골목",
+    "menu_ko": "연탄불고기, 우동",
+    "menu_en": "Briquette-grilled bulgogi, udon",
+    "videos": [
+      "wrxTA28IIvE"
+    ],
+    "auto": true
   }
 ];

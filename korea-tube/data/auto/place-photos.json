@@ -1031,5 +1031,62 @@
   "다빈치호텔 순천": {
     "checked": "2026-11-02",
     "kto": true
+  },
+  "대구 오토바이 골목": {
+    "checked": "2026-11-09",
+    "kto": true
+  },
+  "북성로 연탄불고기 포장마차 골목": {
+    "checked": "2026-11-09",
+    "kto": true
+  },
+  "속초국제여객터미널": {
+    "checked": "2026-11-09",
+    "kto": true
+  },
+  "정선 5일장": {
+    "checked": "2026-11-09",
+    "kto": true
+  },
+  "신안 장도": {
+    "checked": "2026-11-09",
+    "kto": true
+  },
+  "장도 산지습지": {
+    "checked": "2026-11-09",
+    "kto": true
+  },
+  "소장도": {
+    "checked": "2026-11-09",
+    "kto": true
+  },
+  "흑산초등학교 장도분교장": {
+    "checked": "2026-11-09",
+    "kto": true
+  },
+  "신안 영산도": {
+    "checked": "2026-11-09",
+    "kto": true
+  },
+  "남광주 도깨비시장": {
+    "checked": "2026-11-09",
+    "kto": true
+  },
+  "중계동 백사마을": {
+    "checked": "2026-11-09",
+    "kto": true
+  },
+  "용산 포장마차촌": {
+    "checked": "2026-11-09",
+    "kto": true
+  },
+  "남대문시장": {
+    "file": "photos/91c665a39fcc.jpg",
+    "kind": "place",
+    "source": "commons",
+    "credit": "Photo: Adbar, CC BY-SA 3.0, Wikimedia Commons",
+    "page": "https://commons.wikimedia.org/wiki/File:Namdaemun_Market_Alley.jpg",
+    "checked": "2026-11-09",
+    "kto": true
   }
 }

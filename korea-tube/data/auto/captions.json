@@ -2184,5 +2184,191 @@
       "ko"
     ],
     "checked": "2026-11-06"
+  },
+  "t4cbzo3PQTg": {
+    "langs": [
+      "de",
+      "en",
+      "es",
+      "fr",
+      "id",
+      "it",
+      "ja",
+      "ms",
+      "pt",
+      "th",
+      "vi",
+      "zh-Hans",
+      "zh-Hant"
+    ],
+    "asr": [
+      "ko"
+    ],
+    "checked": "2026-11-09"
+  },
+  "sD_rih5tHk0": {
+    "langs": [
+      "en",
+      "th",
+      "zh-Hant"
+    ],
+    "asr": [
+      "ko"
+    ],
+    "checked": "2026-11-09"
+  },
+  "m_L2WaRNyBc": {
+    "langs": [],
+    "asr": [
+      "en"
+    ],
+    "checked": "2026-11-09"
+  },
+  "jLdh3FvrpEQ": {
+    "langs": [],
+    "asr": [
+      "en"
+    ],
+    "checked": "2026-11-09"
+  },
+  "1NqhWEWsEIg": {
+    "langs": [],
+    "asr": [
+      "en"
+    ],
+    "checked": "2026-11-09"
+  },
+  "P-KLWXCc2es": {
+    "langs": [
+      "en"
+    ],
+    "asr": [],
+    "checked": "2026-11-09"
+  },
+  "a6xOi1cPls0": {
+    "langs": [],
+    "asr": [
+      "fil"
+    ],
+    "checked": "2026-11-09"
+  },
+  "plWWli77fes": {
+    "langs": [
+      "en",
+      "es",
+      "id",
+      "ja",
+      "ko",
+      "th",
+      "vi",
+      "zh"
+    ],
+    "asr": [],
+    "checked": "2026-11-09"
+  },
+  "KwSQ1t0FIks": {
+    "langs": [],
+    "asr": [
+      "en"
+    ],
+    "checked": "2026-11-09"
+  },
+  "2RX_dA5zaV8": {
+    "langs": [],
+    "asr": [
+      "id"
+    ],
+    "checked": "2026-11-09"
+  },
+  "BmsaVPcMxBs": {
+    "langs": [],
+    "asr": [
+      "ko"
+    ],
+    "checked": "2026-11-09"
+  },
+  "4sYHf1C2QcA": {
+    "langs": [],
+    "asr": [
+      "ko"
+    ],
+    "checked": "2026-11-09"
+  },
+  "0f_tFGoBs1U": {
+    "langs": [],
+    "asr": [
+      "ko"
+    ],
+    "checked": "2026-11-09"
+  },
+  "SaPdDmL64c8": {
+    "langs": [],
+    "asr": [
+      "ko"
+    ],
+    "checked": "2026-11-09"
+  },
+  "vp8HcooMmIU": {
+    "langs": [],
+    "asr": [
+      "ko"
+    ],
+    "checked": "2026-11-09"
+  },
+  "TJZ2oAJMtIk": {
+    "langs": [],
+    "asr": [
+      "ko"
+    ],
+    "checked": "2026-11-09"
+  },
+  "MYE5k1THfng": {
+    "langs": [],
+    "asr": [
+      "ko"
+    ],
+    "checked": "2026-11-09"
+  },
+  "iOTomwDM634": {
+    "langs": [],
+    "asr": [
+      "ko"
+    ],
+    "checked": "2026-11-09"
+  },
+  "T0i8AcXQrTY": {
+    "langs": [],
+    "asr": [
+      "ko"
+    ],
+    "checked": "2026-11-09"
+  },
+  "3zfUWg_5pD0": {
+    "langs": [],
+    "asr": [
+      "ko"
+    ],
+    "checked": "2026-11-09"
+  },
+  "scLTRedfLr4": {
+    "langs": [],
+    "asr": [
+      "ko"
+    ],
+    "checked": "2026-11-09"
+  },
+  "haGhX4SFXBg": {
+    "langs": [],
+    "asr": [
+      "ko"
+    ],
+    "checked": "2026-11-09"
+  },
+  "KtFMfWcdscY": {
+    "langs": [],
+    "asr": [
+      "ko"
+    ],
+    "checked": "2026-11-09"
   }
 }

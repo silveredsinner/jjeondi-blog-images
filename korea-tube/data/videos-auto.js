@@ -893,5 +893,224 @@ window.VIDEOS.push(...[
     ],
     "title": "[다큐3일★풀버전] 매번 검문검색을 받아야 농사를 지을 수 있는 사람들 | “잃어버린 시간을 찾아서, 동해안 최북단 마을 명파리” (KBS 130721 방송)",
     "show": "docu3days"
+  },
+  {
+    "id": "t4cbzo3PQTg",
+    "region": "daegu",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "맛집이 너무 많은 대구 서문시장 먹방 모음집😋칼제비, 매운 어묵, 몽디김밥, 잔치국수, 대왕카스테라, 신서문김밥 MUKBANG"
+  },
+  {
+    "id": "sD_rih5tHk0",
+    "region": "gangwon",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "2Days & 1Night Season3 : Gangwon Noodle Trip Part 1 [ENG, CHN, THA / 2019.01.27]"
+  },
+  {
+    "id": "m_L2WaRNyBc",
+    "region": "busan",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "I Tried THE BEST KOREAN FOODS in Busan, Korea"
+  },
+  {
+    "id": "jLdh3FvrpEQ",
+    "region": "jeju",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "everything i ate in jeju korea… so much food"
+  },
+  {
+    "id": "1NqhWEWsEIg",
+    "region": "seoul",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "5AM Korean 7-ELEVEN BREAKFAST & Must Try MICHELIN NOODLES in Seoul South Korea"
+  },
+  {
+    "id": "P-KLWXCc2es",
+    "region": "jeju",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "what i eat in a week in jeju, korea! 🦑🍽 a foodie's guide to the best cafes, restaurants & markets"
+  },
+  {
+    "id": "a6xOi1cPls0",
+    "region": "busan",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "KOREAN Night Market Street Food Tour 🇰🇷 Eating 10 Korean Food in Busan"
+  },
+  {
+    "id": "plWWli77fes",
+    "region": "daegu",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "[진즈하여행] 대구ㅣ먹방여행🍽️ l 진즈하 맛집 털고 옴😋 l EP.3"
+  },
+  {
+    "id": "KwSQ1t0FIks",
+    "region": "seoul",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "24 Hours of KOREAN STREET FOOD in Seoul 🇰🇷 Tteokbokki, Gomtang, Hotteok & More!!"
+  },
+  {
+    "id": "2RX_dA5zaV8",
+    "region": "gangwon",
+    "cats": [
+      "food",
+      "mukbang"
+    ],
+    "title": "🇰🇷MUKBANG 5 MAKANAN WAJIB DI KOREA! TRAVEL VLOG | MAIN KE PANTAI DI MUSIM DINGIN!"
+  },
+  {
+    "id": "BmsaVPcMxBs",
+    "region": "seoul",
+    "cats": [
+      "culture",
+      "beauty"
+    ],
+    "title": "KOREA VLOG 🇰🇷 exploring seoul, ikseondong, shopping in myeongdong, oliveyoung, business class"
+  },
+  {
+    "id": "4sYHf1C2QcA",
+    "region": "jeju",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일] 제주도 귀촌 일기 - 서귀포시 남원읍 (풀영상)",
+    "show": "docu3days"
+  },
+  {
+    "id": "0f_tFGoBs1U",
+    "region": "gyeonggi",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일★풀버전] 인천과는 227km 황해도 장산곶과는 17km. 서해 최북단 백령도에서의 3일 | \"그리움은 쌓인다 백령도\"  (KBS 20130915 방송)",
+    "show": "docu3days"
+  },
+  {
+    "id": "SaPdDmL64c8",
+    "region": "gyeonggi",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일 풀영상] 대한민국의 첫 관문 인천국제공항터미널 72시간 #꼬마통역사 #레아 (KBS 081227 방송)",
+    "show": "docu3days"
+  },
+  {
+    "id": "vp8HcooMmIU",
+    "region": "gyeongnam",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일★풀버전] 바다가 준 선물로 울고 웃는 삼천포항 사람들의 인생 이야기 | “바다가 준 선물 삼천포항 3일” (KBS 120408 방송)",
+    "show": "docu3days"
+  },
+  {
+    "id": "TJZ2oAJMtIk",
+    "region": "busan",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일★풀버전] 거대한 🏗컨테이너들이 날아다니고 로봇 같은 캐리어들이 24시간 움직이는 곳 \"바닷길을 열어라! - 부산신항 72시간\" (KBS 20160103 방송)",
+    "show": "docu3days"
+  },
+  {
+    "id": "MYE5k1THfng",
+    "region": "seoul",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일★풀버전] 추억을 사는 시장, 동묘 벼락시장 | “고물과 보물사이 동묘 벼룩시장” (KBS 141102 방송)",
+    "show": "docu3days"
+  },
+  {
+    "id": "iOTomwDM634",
+    "region": "gyeongnam",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일★풀버전] 천하절경을 이루는 천왕봉 일출을 보기위해 각지에서 모여드는 사람들로 늘 장터처럼 붐비는 곳 하늘아래 첫 집 '지리산 장터목산장' (KBS 20171025 방송)",
+    "show": "docu3days"
+  },
+  {
+    "id": "T0i8AcXQrTY",
+    "region": "jeonnam",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일📸] 국밥 두 그릇 주문하면 수육이 덤? 순천 웃장 국밥 거리 72시간 | KBS 2021.11.28 방송",
+    "show": "docu3days"
+  },
+  {
+    "id": "3zfUWg_5pD0",
+    "region": "chungcheong",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일★풀버전] 하루가 🦪‘굴’로 시작하고, 온 동네가 🦪‘굴’ 하나로 살아가는 \"굴 익는 마을의 겨울맞이 - 보령 천북 굴단지 72시간\" (KBS 20161218 방송)",
+    "show": "docu3days"
+  },
+  {
+    "id": "scLTRedfLr4",
+    "region": "seoul",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일★풀버전] 중림동에서 만난 특별한 아파트. 아파트가  곧 '마을'이다! | 서울도 중림리 - 성요셉아파트 72시간 (KBS 20170423 방송)",
+    "show": "docu3days"
+  },
+  {
+    "id": "haGhX4SFXBg",
+    "region": "chungcheong",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일★풀버전] 🏙육지에서 가장 멀리 떨어져 연기에 가린 듯 까마득하게 보이는 🏝섬 \"내 마음의 보물섬 - 충남 보령 외연도\" (KBS 20160724 방송)",
+    "show": "docu3days"
+  },
+  {
+    "id": "KtFMfWcdscY",
+    "region": "busan",
+    "cats": [
+      "travel",
+      "culture"
+    ],
+    "title": "[다큐3일★풀버전] 국민생선 고등어, 고단한 손길들을 거쳐 따뜻한 밥상에 오르기까지 날 것 그대로의 인생이야기가 있는 곳! 부산 공동어시장의 3일 (KBS 20131110 방송)",
+    "show": "docu3days"
   }
 ]);

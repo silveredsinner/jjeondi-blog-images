@@ -1,0 +1,367 @@
+{
+  "slug": "2026-11-09-jeonnam",
+  "date": "2026-11-09",
+  "region": "jeonnam",
+  "title": {
+    "ko": "전남 영상 속 명소: 다큐 3일이 찾아간 신안의 섬과 광주 새벽시장",
+    "en": "Jeonnam on Screen: Sinan's Remote Islands and a Dawn Market from KBS 'Documentary 3 Days'",
+    "ja": "全羅南道が映す風景：新安の離島と KBS『ドキュメンタリー3日』の夜明けの市場",
+    "zh-Hans": "全南荧幕风光：新安偏远海岛与KBS《纪录片3日》中的黎明市场",
+    "zh-Hant": "全羅南道的螢幕風景：新安偏遠島嶼與《紀錄片3日》拍攝的黎明市場",
+    "es": "Jeonnam en pantalla: las islas remotas de Sinan y un mercado de madrugada de 'Documentary 3 Days' de KBS",
+    "fr": "Jeonnam à l'écran : les îles isolées de Sinan et un marché à l'aube vus dans « Documentaire 3 Jours » de KBS",
+    "de": "Jeonnam im Fernsehen: Sinans abgelegene Inseln und ein Morgenmarkt aus KBS 'Documentary 3 Days'",
+    "vi": "Jeonnam trên màn ảnh: Quần đảo Sinan hẻo lánh và chợ rạng sáng từ 'Documentary 3 Days' của KBS",
+    "th": "จอนนัมบนจอ: เกาะห่างไกลของซินันและตลาดรุ่งอรุณจากสารคดี KBS 'Documentary 3 Days'",
+    "id": "Jeonnam di Layar: Pulau Terpencil Sinan dan Pasar Fajar dari Acara KBS 'Documentary 3 Days'",
+    "ru": "Чеонnam на экране: удалённые острова Синан и рассветный рынок из документального сериала KBS «Документальные 3 дня»"
+  },
+  "summary": {
+    "ko": "KBS '다큐멘터리 3일'에 나온 신안 장도와 영산도, 남광주 도깨비시장을 정리했습니다. 바람 부는 섬마을과 람사르 습지, 새벽 3시에 문을 여는 시장까지 남도의 또 다른 얼굴을 소개합니다.",
+    "en": "A guide to Jangdo and Yeongsando islands in Sinan and Namgwangju Dokkaebi Market, all featured on KBS 'Documentary 3 Days'. Windswept island villages, a Ramsar wetland, and a market that opens at 3 AM.",
+    "ja": "KBS『ドキュメンタリー3日』で紹介された新安の長島・永山島と、光州の南光州ドッケビ市場を案内します。風が吹き抜ける島の集落、ラムサール登録の湿地、午前3時に開く市場を紹介します。",
+    "zh-Hans": "介绍新安的将岛、永山岛以及光州南广州幽灵市场，三处都曾在KBS《纪录片3日》中播出。有海风吹拂的岛村、拉姆萨尔湿地，还有凌晨3点开市的市场。",
+    "zh-Hant": "介紹新安的長島與永山島，以及南光州妖怪市場，三處都曾在韓國KBS《紀錄片3日》中出現。有風勢強勁的島村、拉姆薩爾濕地，以及凌晨3點開市的市場。",
+    "es": "Guía de las islas Jangdo y Yeongsando en Sinan y del mercado Dokkaebi de Namgwangju, todos presentados en 'Documentary 3 Days' de KBS. Aldeas isleñas batidas por el viento, un humedal Ramsar y un mercado que abre a las 3 de la mañana.",
+    "fr": "Guide des îles de Jangdo et Yeongsando à Sinan, et du marché Dokkaebi de Namgwangju, tous présentés dans « Documentaire 3 Jours » de KBS. Villages insulaires battus par le vent, zone humide Ramsar et marché ouvert à 3 h du matin.",
+    "de": "Ein Reiseführer zu den Inseln Jangdo und Yeongsando in Sinan sowie zum Namgwangju Dokkaebi Markt, alle aus der KBS-Sendung 'Documentary 3 Days'. Windumtoste Inseldörfer, ein Ramsar-Feuchtgebiet und ein Markt, der um 3 Uhr morgens öffnet.",
+    "vi": "Hướng dẫn tham quan đảo Jangdo và Yeongsando ở Sinan cùng chợ Namgwangju Dokkaebi, tất cả đều xuất hiện trong chương trình 'Documentary 3 Days' của KBS. Các làng đảo gió lộng, vùng đất ngập nước Ramsar và một khu chợ mở cửa lúc 3 giờ sáng.",
+    "th": "คู่มือเกาะจังโดและเกาะยองซันโดในซินัน และตลาดโดกแคบีนัมกวางจู ทั้งหมดปรากฏในรายการ KBS 'Documentary 3 Days' หมู่บ้านบนเกาะที่ลมแรง พื้นที่ชุ่มน้ำแรมซาร์ และตลาดที่เปิดตั้งแต่ตี 3",
+    "id": "Panduan ke Pulau Jangdo dan Yeongsando di Sinan serta Pasar Dokkaebi Namgwangju, semuanya tampil di acara KBS 'Documentary 3 Days'. Desa pulau yang diterpa angin, lahan basah Ramsar, dan pasar yang buka pukul 3 pagi.",
+    "ru": "Путеводитель по островам Чандо и Ёнсандо в Синане и рынку Намгванджу Токкэби, которые попали в документальный сериал KBS «Документальные 3 дня». Продуваемые ветром островные деревни, рамсарские водно-болотные угодья и рынок, открывающийся в 3 утра."
+  },
+  "body": {
+    "ko": "<h2>다큐멘터리로 만나는 남도</h2><p>전남은 여수 밤바다와 순천만, 담양 대나무숲, 그리고 돌게장·떡갈비·남도 한정식 같은 음식으로 잘 알려진 곳입니다. 이번 글에서는 조금 다른 길을 따라가 봅니다. KBS '다큐멘터리 3일'이 72시간씩 머물며 기록한 신안의 외딴 섬들과, 새벽에만 열리는 남광주 도깨비시장입니다.</p><h2>신안 장도</h2><h3>신안 장도</h3><p>'바람의 길목'이라 불려온 바다의 외딴 섬입니다. 빨간 지붕이 이어지는 골목과 멸치잡이로 살아가는 섬마을의 모습이 인상적인 곳으로, <strong>[다큐3일] '바람의 길목'이라 불려온 바다의 오지, 장도 | 바람과 함께 살아가다 - 신안 장도 72시간</strong>(KBS 2016년 10월 16일 방송)에 담겼습니다.</p><h3>장도 산지습지</h3><p>국내 최초의 섬 습지이자 람사르 습지로 지정된 곳입니다. 섬 안의 산 위에 자리한 습지라는 점에서 장도를 찾는 이유가 되어 주는 장소로, 같은 장도 편 영상에 등장합니다.</p><h3>소장도</h3><p>장도 옆의 작은 섬으로, 물이 빠지는 간조 때 바닷길이 열립니다. 주민들이 이 길을 건너 고둥과 따개비를 채취하는 모습이 장도 편에 나옵니다.</p><h3>흑산초등학교 장도분교장</h3><p>1955년에 문을 연 섬 분교로, 방송 당시 학생은 단 한 명이었습니다. 작은 섬의 일상을 보여 주는 장소로 장도 편에 소개되었습니다.</p><h2>신안 영산도</h2><p>'바보섬'이라는 별명을 가진 외딴 섬입니다. 갯바위에서 자연산 미역을 채취하고, 그 수확을 똑같이 나누는 공동 분배 방식 '만보'가 이 섬의 특징입니다. <strong>[다큐3일] 똑같이 나누고 다같이 잘산다! 행복한 바보섬, 신안 영산도 72시간</strong>(KBS 2015년 9월 20일 방송)에서 그 모습을 볼 수 있습니다.</p><h2>남광주 도깨비시장</h2><p>새벽 3시부터 오전 9시까지, 하루 여섯 시간만 여는 새벽시장입니다. 해산물과 농산물이 오가고, 이른 아침 추어탕 한 그릇도 이곳의 풍경입니다. 행정구역상 광주에 있지만 남도 여행길에 함께 들르기 좋은 곳으로, <strong>[다큐3일] 새벽 3시부터 단 6시간 오픈! \"새벽, 정을 팝니다 - 남광주 도깨비시장 72시간\"</strong>(KBS 2017년 5월 7일 방송)에 나왔습니다.</p><h2>동선 팁</h2><p>장도와 영산도는 모두 신안의 외딴 섬이라 배편과 날씨에 일정이 크게 좌우됩니다. 출발 전에 운항 여부를 꼭 확인하고, 하루 이상 여유를 두는 편이 좋습니다. 장도에서는 산지습지, 분교, 마을 골목을 함께 둘러볼 수 있고, 소장도 바닷길은 간조 시간에 맞춰야 하니 물때를 미리 알아 두세요. 남광주 도깨비시장은 오전 9시면 문을 닫으므로, 광주에 하루 묵으며 새벽에 시장을 먼저 보고 섬으로 향하는 일정을 짜면 무리가 적습니다.</p>",
+    "en": "<h2>Southern Korea Through a Documentary Lens</h2><p>Jeonnam, the southwestern province of Korea, is best known for Yeosu's night sea, Suncheon Bay, the bamboo forests of Damyang, and dishes like raw marinated crab, tteokgalbi (grilled short-rib patties) and the lavish Namdo table spread. This guide takes a quieter route, following KBS's 'Documentary 3 Days', a series that spends 72 hours in one place. Here are the remote Sinan islands and the dawn market it filmed.</p><h2>Jangdo Island, Sinan</h2><h3>Jangdo Island</h3><p>Long called 'the path of the wind', Jangdo is a remote, windswept island where red-roofed houses line narrow alleys and villagers make a living from anchovy fishing. It appears in <strong>'Jangdo, the Remote Island Called the Path of the Wind – 72 Hours on Jangdo, Sinan'</strong> (KBS, aired October 16, 2016).</p><h3>Jangdo Mountain Wetland (Ramsar Site)</h3><p>This is Korea's first island wetland and a Ramsar-designated site. A wetland sitting on an island's mountain is unusual, and it is one of the main reasons to make the trip. It is featured in the same Jangdo episode.</p><h3>Sojangdo Islet</h3><p>A small islet next to Jangdo, reachable on foot when a sea path appears at low tide. The Jangdo episode shows residents crossing over to gather sea snails and barnacles.</p><h3>Heuksan Elementary School, Jangdo Branch</h3><p>Founded in 1955, this island branch school had just one student when the episode was filmed. It offers a glimpse of daily life on a very small island.</p><h2>Yeongsando Island, Sinan</h2><p>Nicknamed 'Fool's Island', Yeongsando is another remote Sinan island. Islanders harvest wild seaweed from the coastal rocks and divide the catch equally through a communal system called 'manbo'. You can see this in <strong>'Share Equally, Live Well Together! The Happy Fool's Island – 72 Hours on Yeongsando, Sinan'</strong> (KBS, aired September 20, 2015).</p><h2>Namgwangju Dokkaebi Market</h2><p>Also called Namgwangju Dawn Market, it opens at 3 AM and closes at 9 AM, just six hours a day. Seafood and farm produce change hands in the dark, and a bowl of chueotang (loach soup) is part of the early-morning scene. It is technically in Gwangju city rather than Jeonnam province, but it fits easily into a trip through the region. It was featured in <strong>'Open Only Six Hours from 3 AM! Selling Warmth at Dawn – 72 Hours at Namgwangju Dokkaebi Market'</strong> (KBS, aired May 7, 2017).</p><h2>Getting Around</h2><p>Jangdo and Yeongsando are both remote islands, so your schedule will depend heavily on ferries and weather. Check sailings before you set out and leave at least a spare day. On Jangdo you can combine the mountain wetland, the branch school and the village alleys, while the sea path to Sojangdo only opens at low tide, so look up tide times in advance. Since Namgwangju Dokkaebi Market closes at 9 AM, a practical plan is to stay a night in Gwangju, visit the market before dawn, and then head toward the islands.</p>",
+    "ja": "<h2>ドキュメンタリーの目線で見る韓国南部</h2><p>全羅南道は、麗水の夜の海、順天湾、潭陽の竹林、そして生ダレに漬けたカニや、テンガルビ（牛カルビのつくね焼き）、南道の豪華な膳などで知られる韓国南西部の道です。このガイドでは、一つの場所に72時間滞在する KBS の番組『ドキュメンタリー3日』をたどり、もう少し静かなルートを紹介します。撮影された新安の離島と夜明けの市場を見ていきましょう。</p><h2>新安の長島（チャンド）</h2><h3>長島</h3><p>「風の道」と呼ばれてきた長島は、赤い屋根の家々が狭い路地に並ぶ、風の強い離島です。住民はカタクチイワシ漁で暮らしを立てています。『長島、風の道と呼ばれる離島 ― 新安の長島での72時間』（KBS、2016年10月16日放送）で取り上げられました。</p><h3>長島山地湿地（ラムサール登録地）</h3><p>韓国で初めての島の湿地で、ラムサール条約に登録されています。島の山の上に湿地があるのは珍しく、この島を訪れる主な理由の一つです。同じ長島の回で紹介されています。</p><h3>小長島（ソジャンド）</h3><p>長島のそばにある小さな島で、干潮時に海の道が現れると歩いて渡ることができます。長島の回では、住民が巻貝やフジツボを採りに渡る様子が映されています。</p><h3>黒山初等学校 長島分校</h3><p>1955年に開校したこの分校は、撮影当時の生徒は一人だけでした。非常に小さな島での日常の暮らしをうかがい知ることができます。</p><h2>新安の永山島（ヨンサンド）</h2><p>「愚か者の島」と呼ばれる永山島も、新安にある離島の一つです。島民は海岸の岩場で天然のワカメを採り、「マンボ」と呼ばれる共同の仕組みで収穫を平等に分け合います。『分け合って、ともに豊かに暮らす　愚か者の島の幸せ ― 新安の永山島での72時間』（KBS、2015年9月20日放送）でその様子を見ることができます。</p><h2>南光州ドッケビ市場</h2><p>南光州夜明けの市場とも呼ばれ、午前3時に開き午前9時に閉まります。1日わずか6時間の営業です。暗いうちに海産物や農産物が取引され、早朝の風景にはチュオタン（ドジョウのスープ）の一杯も欠かせません。行政上は全羅南道ではなく光州市にありますが、この地域を巡る旅程にも無理なく組み込めます。『午前3時から6時間だけ開く　夜明けに届く温もり ― 南光州ドッケビ市場での72時間』（KBS、2017年5月7日放送）で紹介されました。</p><h2>移動のヒント</h2><p>長島と永山島はどちらも離島のため、日程はフェリーの運航と天候に大きく左右されます。出発前に運航状況を確認し、予備の日を少なくとも1日は取っておきましょう。長島では山地湿地、分校、集落の路地をまとめて回れます。小長島へ続く海の道は干潮時にしか現れないため、事前に潮の時刻を調べておいてください。南光州ドッケビ市場は午前9時に閉まるので、光州に一泊して夜明け前に市場を訪ね、その後島へ向かうのが現実的な計画です。</p>",
+    "zh-Hans": "<h2>从纪录片看韩国南部</h2><p>全罗南道是韩国西南部的省份，最为人熟知的是丽水的夜海、順天湾、潭阳的竹林，以及生拌螃蟹、炮烤肉饼（tteokgalbi）和丰盛的南道餐桌等美食。本文换一条较为安静的路线，跟随KBS的《纪录片3日》。该节目在一个地方连续拍摄72小时。以下是节目拍摄过的新安偏远岛屿和黎明市场。</p><h2>新安将岛</h2><h3>将岛</h3><p>将岛long被称为“风之路”，是一座偏远、海风强劲的岛屿，红色屋顶的房屋沿着狭窄的小巷排列，村民以捕捞鳀鱼为生。它出现在<strong>《将岛，被称为风之路的偏远岛屿——新安将岛72小时》</strong>（KBS，2016年10月16日播出）中。</p><h3>将岛山地湿地（拉姆萨尔湿地）</h3><p>这是韩国第一个岛屿湿地，也是列入拉姆萨尔公约的湿地。湿地坐落在岛上的山地，十分少见，也是前往此地的主要理由之一。同一集节目中也有介绍。</p><h3>小将岛</h3><p>将岛旁边的一座小岛，退潮时海上会出现一条小路，可以步行前往。将岛那一集中，可以看到居民涉水过去采集海螺和藤壶。</p><h3>黑山小学将岛分校</h3><p>该分校创立于1955年，拍摄该集时只有一名学生。它让人一窥极小岛屿上的日常生活。</p><h2>新安永山岛</h2><p>永山岛被称为“傻瓜岛”，是新安另一座偏远岛屿。岛民从海岸礁石上采集野生海藻，并通过名为“万凡”（manbo）的共同分配制度平均分配收获。你可以在<strong>《平均分享，共同好好生活！快乐的傻瓜岛——新安永山岛72小时》</strong>（KBS，2015年9月20日播出）中看到这一切。</p><h2>光州南广州幽灵市场</h2><p>也称南广州黎明市场，凌晨3点开市，上午9点收市，每天仅营业六小时。海鲜和农产品在黑暗中完成交易，一碗泥鳅汤（chueotang）也是清晨场景的一部分。它在行政上属于光州市而非全罗南道，但很容易融入该地区的行程。它出现在<strong>《凌晨3点起仅营业六小时！在黎明售卖温暖——南广州幽灵市场72小时》</strong>（KBS，2017年5月7日播出）中。</p><h2>交通与行程</h2><p>将岛和永山岛都是偏远岛屿，行程很大程度上取决于渡轮和天气。出发前请先确认航班时刻，并至少预留一天备用时间。在将岛，你可以把山地湿地、分校和村中小巷结合起来游览；通往小将岛的海上小路只在退潮时开放，请提前查好潮汐时间。由于南广州幽灵市场上午9点收市，比较实际的安排是在光州住一晚，黎明前去市场，然后再前往岛屿。</p>",
+    "zh-Hant": "<h2>從紀錄片看韓國南部</h2><p>全羅南道位於韓國西南部，一般最熱門的是麗水的夜海、順天灣、潭陽的竹林，以及生醃螃蟹、韓式牛小排餅（tteokgalbi）和豐盛的南道家常餐桌。本文則走一條比較安靜的路線，跟隨KBS的《紀錄片3日》。這個節目會在同一個地方停留72小時。以下介紹節目拍攝過的新安偏遠島嶼與黎明市場。</p><h2>新安長島</h2><h3>長島</h3><p>長島過去被稱為「風之路」，是一座偏遠且風勢強勁的島嶼。紅瓦屋沿著狹窄巷弄排列，島民多以捕捉鯷魚維生。節目《長島，被稱為風之路的偏遠島嶼——新安長島72小時》（KBS，2016年10月16日播出）中有介紹。</p><h3>長島山地濕地（拉姆薩爾濕地）</h3><p>這是韓國第一座島嶼濕地，也是列入拉姆薩爾公約的指定濕地。濕地位於島上山區，相當少見，也是安排此行的主要理由之一。同一集長島節目中也有拍攝。</p><h3>小長島</h3><p>小長島是緊鄰長島的小島，退潮時會出現一條海上步道，可以步行過去。長島那一集可以看到居民在退潮時過去採集海螺與藤壺。</p><h3>黑山小學長島分校</h3><p>這所島上分校創立於1955年，拍攝當時只有一名學生。從中可以一窺極小島嶼上的日常生活。</p><h2>新安永山島</h2><p>永山島又被稱為「傻瓜島」，同樣是新安偏遠的島嶼。島民會在沿岸礁石採收野生海藻，並透過名為「萬餅」（manbo）的共同分配制度，將收成平均分配。你可以在《平均分享，一起好好生活！快樂的傻瓜島——新安永山島72小時》（KBS，2015年9月20日播出）中看到這個情景。</p><h2>南光州妖怪市場</h2><p>這裡也被稱為南光州黎明市場，凌晨3點開市、早上9點收攤，每天只營業六小時。海鮮與農產品在黑暗中交易，一碗泥鰍湯（chueotang）也是清晨景象的一部分。它在行政上屬於光州市，而非全羅南道，但很容易納入這趟區域行程。節目《凌晨3點起只開六小時！在黎明中賣溫度——南光州妖怪市場72小時》（KBS，2017年5月7日播出）中有介紹。</p><h2>交通與行程安排</h2><p>長島和永山島都是偏遠島嶼，行程很大程度取決於船班與天氣。出發前請先確認船班，並至少預留一天的備用時間。在長島，你可以把山地濕地、分校與島上巷弄串在一起，前往小長島的海上步道只有在退潮時才會出現，請事先查好潮汐時間。由於南光州妖怪市場9點收攤，比較實際的做法是在光州住一晚，黎明前去逛市場，再前往島嶼。</p>",
+    "es": "<h2>El sur de Corea a través de un documental</h2><p>Jeonnam, la provincia del suroeste de Corea, es más conocida por el mar nocturno de Yeosu, la bahía de Suncheon, los bosques de bambú de Damyang y platos como el cangrejo crudo marinado, el tteokgalbi (empanadillas de costilla a la parrilla) y la opulenta mesa de Namdo. Esta guía toma una ruta más tranquila, siguiendo 'Documentary 3 Days' de KBS, una serie que pasa 72 horas en un mismo lugar. Estas son las remotas islas de Sinan y el mercado de madrugada que el programa grabó.</p><h2>Isla Jangdo, Sinan</h2><h3>Isla Jangdo</h3><p>Conocida desde hace tiempo como 'el camino del viento', Jangdo es una isla remota y batida por el viento, donde las casas de tejado rojo bordean callejuelas estrechas y los vecinos viven de la pesca de anchoas. Aparece en <strong>'Jangdo, la isla remota llamada el camino del viento – 72 horas en Jangdo, Sinan'</strong> (KBS, emitido el 16 de octubre de 2016).</p><h3>Humedal de montaña de Jangdo (sitio Ramsar)</h3><p>Es el primer humedal insular de Corea y un sitio designado por la Convención Ramsar. Que un humedal se encuentre en la montaña de una isla es poco común, y es uno de los principales motivos para hacer el viaje. Aparece en el mismo episodio sobre Jangdo.</p><h3>Islote Sojangdo</h3><p>Un pequeño islote junto a Jangdo, al que se puede llegar a pie cuando aparece un camino marino con la marea baja. El episodio muestra a los vecinos cruzando para recoger caracoles marinos y percebes.</p><h3>Escuela Primaria Heuksan, sucursal de Jangdo</h3><p>Fundada en 1955, esta sucursal escolar de la isla tenía un solo alumno cuando se grabó el episodio. Ofrece una mirada a la vida cotidiana en una isla muy pequeña.</p><h2>Isla Yeongsando, Sinan</h2><p>Apodada 'la isla del tonto', Yeongsando es otra isla remota de Sinan. Los isleños recogen algas silvestres de las rocas costeras y reparten la captura por igual mediante un sistema comunitario llamado 'manbo'. Puede verse en <strong>'¡Compartir por igual, vivir bien juntos! La feliz isla del tonto – 72 horas en Yeongsando, Sinan'</strong> (KBS, emitido el 20 de septiembre de 2015).</p><h2>Mercado Dokkaebi de Namgwangju</h2><p>También llamado mercado del amanecer de Namgwangju, abre a las 3 de la mañana y cierra a las 9, solo seis horas al día. Los mariscos y los productos del campo cambian de manos en la oscuridad, y un cuenco de chueotang (sopa de lubina de río) forma parte de la escena de primera hora. Técnicamente está en la ciudad de Gwangju y no en la provincia de Jeonnam, pero encaja fácilmente en un viaje por la región. Apareció en <strong>'Abierto solo seis horas desde las 3 de la mañana! Vendiendo calor al amanecer – 72 horas en el mercado Dokkaebi de Namgwangju'</strong> (KBS, emitido el 7 de mayo de 2017).</p><h2>Cómo moverse</h2><p>Jangdo y Yeongsando son islas remotas, así que tu horario dependerá en gran medida de los ferris y del clima. Consulta los horarios de salida antes de partir y deja al menos un día de margen. En Jangdo puedes combinar el humedal de montaña, la escuela sucursal y las callejuelas del pueblo, mientras que el camino marino hacia Sojangdo solo se abre con la marea baja, así que consulta los horarios de marea con antelación. Como el mercado Dokkaebi de Namgwangju cierra a las 9 de la mañana, un plan práctico es pasar una noche en Gwangju, visitar el mercado antes del amanecer y después dirigirte a las islas.</p>",
+    "fr": "<h2>La Corée du Sud vue à travers un documentaire</h2><p>Le Jeonnam, province du sud-ouest de la Corée, est surtout connu pour la mer nocturne de Yeosu, la baie de Suncheon, les forêts de bambous de Damyang et des plats comme le crabe cru mariné, le tteokgalbi (galettes de travers de bœuf grillées) et le grand banquet à la mode de Namdo. Ce guide prend une route plus calme, en suivant « Documentaire 3 Jours » de KBS, une série qui passe 72 heures dans un même lieu. Voici les îles isolées de Sinan et le marché de l'aube qu'elle a filmés.</p><h2>L'île de Jangdo, Sinan</h2><h3>Île de Jangdo</h3><p>Surnommée « le chemin du vent », Jangdo est une île isolée et balayée par les vents, où des maisons aux toits rouges bordent d'étroites ruelles et où les habitants vivent de la pêche à l'anchois. Elle apparaît dans <strong>« Jangdo, l'île isolée appelée le chemin du vent – 72 heures à Jangdo, Sinan »</strong> (KBS, diffusé le 16 octobre 2016).</p><h3>Zone humide de montagne de Jangdo (site Ramsar)</h3><p>Il s'agit de la première zone humide insulaire de Corée et d'un site désigné Ramsar. Une zone humide située sur la montagne d'une île est inhabituelle, et c'est l'une des principales raisons de faire le voyage. Elle figure dans le même épisode consacré à Jangdo.</p><h3>Îlot de Sojangdo</h3><p>Un petit îlot voisin de Jangdo, accessible à pied lorsqu'un chemin maritime apparaît à marée basse. L'épisode montre des habitants traversant pour récolter des escargots de mer et des balanes.</p><h3>École élémentaire de Heuksan, annexe de Jangdo</h3><p>Fondée en 1955, cette annexe scolaire insulaire ne comptait qu'un seul élève au moment du tournage. Elle offre un aperçu de la vie quotidienne sur une île très petite.</p><h2>L'île de Yeongsando, Sinan</h2><p>Surnommée « l'île des fous », Yeongsando est une autre île isolée de Sinan. Les insulaires récoltent des algues sauvages sur les rochers côtiers et partagent équitablement leurs prises selon un système collectif appelé « manbo ». Vous pouvez le voir dans <strong>« Partager équitablement, bien vivre ensemble ! L'heureuse île des fous – 72 heures à Yeongsando, Sinan »</strong> (KBS, diffusé le 20 septembre 2015).</p><h2>Marché Dokkaebi de Namgwangju</h2><p>Aussi appelé marché de l'aube de Namgwangju, il ouvre à 3 h du matin et ferme à 9 h, soit six heures par jour seulement. Poissons de mer et produits agricoles changent de mains dans l'obscurité, et un bol de chueotang (soupe de loche) fait partie du décor matinal. Il se trouve techniquement dans la ville de Gwangju et non dans la province du Jeonnam, mais il s'intègre facilement à un voyage dans la région. Il a été présenté dans <strong>« Ouvert seulement six heures à partir de 3 h du matin ! Vendre de la chaleur à l'aube – 72 heures au marché Dokkaebi de Namgwangju »</strong> (KBS, diffusé le 7 mai 2017).</p><h2>Se déplacer</h2><p>Jangdo et Yeongsando sont deux îles isolées, donc votre programme dépendra beaucoup des ferries et de la météo. Vérifiez les traversées avant de partir et prévoyez au moins une journée de marge. À Jangdo, vous pouvez combiner la zone humide de montagne, l'école annexe et les ruelles du village, tandis que le chemin maritime vers Sojangdo n'apparaît qu'à marée basse : consultez donc les horaires des marées à l'avance. Comme le marché Dokkaebi de Namgwangju ferme à 9 h, un plan pratique consiste à passer une nuit à Gwangju, à visiter le marché avant l'aube, puis à rejoindre les îles.</p>",
+    "de": "<h2>Südkorea durch die Linse einer Dokumentation</h2><p>Jeonnam, die südwestliche Provinz Koreas, ist vor allem für das nächtliche Meer von Yeosu, die Bucht von Suncheon, die Bambuswälder von Damyang und Gerichte wie roh mariniertes Krabbenfleisch, Tteokgalbi (gegrillte Rinderrippen-Taler) und die üppige Namdo-Tafel bekannt. Dieser Führer nimmt eine ruhigere Route und folgt KBS' 'Documentary 3 Days', einer Serie, die 72 Stunden an einem Ort verbringt. Hier geht es um die abgelegenen Inseln von Sinan und den Morgenmarkt, der dafür gefilmt wurde.</p><h2>Jangdo, Sinan</h2><h3>Jangdo</h3><p>Die Insel, seit Langem 'Weg des Windes' genannt, ist abgelegen und windumtost. Rotdächer säumen schmale Gassen, und die Dorfbewohner verdienen ihren Lebensunterhalt mit dem Sardellenfang. Die Insel ist in <strong>'Jangdo, die abgelegene Insel namens Weg des Windes – 72 Stunden auf Jangdo, Sinan'</strong> (KBS, ausgestrahlt am 16. Oktober 2016) zu sehen.</p><h3>Jangdo Berg-Feuchtgebiet (Ramsar-Gebiet)</h3><p>Dies ist Koreas erstes Inselfeuchtgebiet und ein als Ramsar-Gebiet ausgewiesener Standort. Ein Feuchtgebiet auf dem Berg einer Insel ist ungewöhnlich und ein wichtiger Grund für die Reise. Es ist in derselben Jangdo-Folge zu sehen.</p><h3>Sojangdo</h3><p>Ein kleines Eiland neben Jangdo, das zu Fuß erreichbar ist, wenn bei Ebbe ein Meerespfad auftaucht. Die Folge zeigt Bewohner, die hinüberlaufen, um Meeresschnecken und Seepocken zu sammeln.</p><h3>Grundschule Heuksan, Zweigstelle Jangdo</h3><p>Diese Inselschule wurde 1955 gegründet. Zur Zeit der Aufnahme hatte sie nur einen einzigen Schüler. Sie gibt einen Einblick in den Alltag auf einer sehr kleinen Insel.</p><h2>Yeongsando, Sinan</h2><p>Die abgelegene Insel Yeongsando, auch 'Insel der Narren' genannt, gehört ebenfalls zu Sinan. Die Inselbewohner ernten Wildalgen von den Felsen der Küste und teilen den Fang gleichmäßig nach einem gemeinschaftlichen System namens 'Manbo'. Dies zeigt <strong>'Teilen für ein gutes Leben! Die glückliche Narreninsel – 72 Stunden auf Yeongsando, Sinan'</strong> (KBS, ausgestrahlt am 20. September 2015).</p><h2>Namgwangju Dokkaebi Markt</h2><p>Auch Namgwangju-Morgenmarkt genannt, öffnet er um 3 Uhr morgens und schließt um 9 Uhr, also nur sechs Stunden am Tag. Meeresfrüchte und Landwirtschaftsprodukte wechseln in der Dunkelheit den Besitzer, und eine Schale Chueotang (Schlammpeitzger-Suppe) gehört zum frühen Morgen dazu. Der Markt liegt formal in der Stadt Gwangju und nicht in der Provinz Jeonnam, lässt sich aber problemlos in eine Reise durch die Region einbauen. Er war in <strong>'Nur sechs Stunden geöffnet, ab 3 Uhr! Wärme verkaufen im Morgengrauen – 72 Stunden auf dem Namgwangju Dokkaebi Markt'</strong> (KBS, ausgestrahlt am 7. Mai 2017) zu sehen.</p><h2>Unterwegs</h2><p>Jangdo und Yeongsando sind beide abgelegene Inseln, daher hängt dein Zeitplan stark von Fähren und Wetter ab. Prüfe die Abfahrtszeiten, bevor du aufbrichst, und plane mindestens einen Reservetag ein. Auf Jangdo lassen sich das Berg-Feuchtgebiet, die Zweigschule und die Dorfgassen kombinieren, während der Meerespfad nach Sojangdo nur bei Ebbe offen ist. Informiere dich deshalb vorab über die Gezeiten. Da der Namgwangju Dokkaebi Markt um 9 Uhr schließt, bietet sich an, eine Nacht in Gwangju zu verbringen, den Markt vor Sonnenaufgang zu besuchen und danach zu den Inseln aufzubrechen.</p>",
+    "vi": "<h2>Nam Hàn qua lăng kính phim tài liệu</h2><p>Jeonnam, tỉnh phía tây nam của Hàn Quốc, nổi tiếng nhất với biển đêm Yeosu, vịnh Suncheon, rừng tre Damyang, và các món như cua sống ngâm tương, tteokgalbi (chả sườn bò nướng) cùng mâm Namdo thịnh soạn. Bài viết này đi một lối yên tĩnh hơn, theo chân chương trình 'Documentary 3 Days' của KBS, loạt phim dành 72 giờ ở một nơi duy nhất. Dưới đây là các đảo xa ở Sinan và khu chợ rạng sáng được quay trong chương trình.</p><h2>Đảo Jangdo, Sinan</h2><h3>Đảo Jangdo</h3><p>Từ lâu được gọi là 'con đường của gió', Jangdo là hòn đảo hẻo lánh, gió lộng, với những ngôi nhà mái đỏ dọc theo các con hẻm nhỏ. Người dân sống chủ yếu nhờ đánh bắt cá cơm. Hòn đảo xuất hiện trong tập <strong>'Jangdo, hòn đảo xa xôi được gọi là con đường của gió – 72 giờ ở Jangdo, Sinan'</strong> (KBS, phát sóng ngày 16 tháng 10 năm 2016).</p><h3>Vùng đất ngập nước núi Jangdo (Ramsar)</h3><p>Đây là vùng đất ngập nước trên đảo đầu tiên của Hàn Quốc và là khu vực được công nhận theo Công ước Ramsar. Một vùng đất ngập nước nằm trên núi của một hòn đảo là điều không thường gặp, và đây là một trong những lý do chính để bạn đến đây. Địa điểm này cũng có trong cùng tập về Jangdo.</p><h3>Đảo nhỏ Sojangdo</h3><p>Một đảo nhỏ nằm cạnh Jangdo, có thể đi bộ qua khi xuất hiện lối đi trên biển lúc triều thấp. Tập phim về Jangdo cho thấy người dân băng qua để nhặt ốc biển và hàu sẹo.</p><h3>Trường tiểu học Heuksan, phân hiệu Jangdo</h3><p>Được thành lập năm 1955, phân hiệu trên đảo này chỉ có một học sinh vào thời điểm quay phim. Đây là cái nhìn thoáng qua về đời sống thường ngày trên một hòn đảo rất nhỏ.</p><h2>Đảo Yeongsando, Sinan</h2><p>Được gọi là 'Đảo Kẻ Ngốc', Yeongsando là một hòn đảo hẻo lánh khác ở Sinan. Người dân đảo thu hoạch rong biển tự nhiên trên các mỏm đá ven biển và chia đều sản lượng theo một hệ thống cộng đồng gọi là 'manbo'. Bạn có thể xem điều này trong <strong>'Chia đều, cùng sống tốt! Hòn đảo Kẻ Ngốc hạnh phúc – 72 giờ ở Yeongsando, Sinan'</strong> (KBS, phát sóng ngày 20 tháng 9 năm 2015).</p><h2>Chợ Namgwangju Dokkaebi</h2><p>Còn gọi là chợ rạng sáng Namgwangju, chợ mở cửa lúc 3 giờ sáng và đóng cửa lúc 9 giờ sáng, chỉ sáu giờ mỗi ngày. Hải sản và nông sản được mua bán trong bóng tối, và một bát chueotang (canh cá chạch) là một phần của khung cảnh buổi sáng sớm. Về mặt hành chính, chợ thuộc thành phố Gwangju chứ không thuộc tỉnh Jeonnam, nhưng vẫn dễ dàng nằm trong hành trình khám phá vùng này. Chợ được giới thiệu trong <strong>'Chỉ mở sáu giờ từ 3 giờ sáng! Bán hơi ấm lúc rạng đông – 72 giờ ở chợ Namgwangju Dokkaebi'</strong> (KBS, phát sóng ngày 7 tháng 5 năm 2017).</p><h2>Di chuyển</h2><p>Jangdo và Yeongsando đều là đảo xa, nên lịch trình của bạn phụ thuộc nhiều vào phà và thời tiết. Hãy kiểm tra lịch tàu trước khi khởi hành và dành ít nhất một ngày dự phòng. Ở Jangdo, bạn có thể kết hợp vùng đất ngập nước trên núi, phân hiệu trường học và các con hẻm làng, trong khi lối đi biển ra Sojangdo chỉ mở khi triều thấp, vì vậy hãy tra giờ thủy triều trước. Vì chợ Namgwangju Dokkaebi đóng cửa lúc 9 giờ sáng, một kế hoạch thực tế là nghỉ đêm ở Gwangju, đi chợ trước bình minh rồi mới đến các đảo.</p>",
+    "th": "<h2>เกาหลีใต้ผ่านเลนส์สารคดี</h2><p>จอนนัม จังหวัดทางตะวันตกเฉียงใต้ของเกาหลีใต้ เป็นที่รู้จักกันดีจากทะเลกลางคืนที่ยอซู อ่าวซุนชอน ป่าไผ่ที่ดัมยัง และอาหารอย่างปูดองซอสสด เต็กกัลบี (เนื้อซี่โครงบดปิ้ง) และโต๊ะอาหารแบบนัมโดที่หรูหรา คู่มือนี้พาไปเส้นทางที่เงียบกว่า ตามรายการ 'Documentary 3 Days' ของ KBS ซึ่งติดตามการใช้ชีวิตในสถานที่เดียวนาน 72 ชั่วโมง นี่คือเกาะห่างไกลของซินันและตลาดรุ่งอรุณที่รายการได้ไปถ่ายทำ</p><h2>เกาะจังโด ซินัน</h2><h3>เกาะจังโด</h3><p>เกาะนี้มีชื่อเรียกมานานว่า “เส้นทางของสายลม” จังโดเป็นเกาะห่างไกลที่ลมแรง มีบ้านหลังคาสีแดงเรียงรายอยู่ตามตรอกแคบ ๆ และชาวบ้านทำมาหากินด้วยการจับปลาไส้ตัน เกาะนี้ปรากฏใน <strong>'Jangdo, the Remote Island Called the Path of the Wind – 72 Hours on Jangdo, Sinan'</strong> (KBS ออกอากาศวันที่ 16 ตุลาคม 2016)</p><h3>พื้นที่ชุ่มน้ำบนภูเขาจังโด (แรมซาร์ไซต์)</h3><p>นี่คือพื้นที่ชุ่มน้ำบนเกาะแห่งแรกของเกาหลีใต้ และเป็นพื้นที่ที่กำหนดตามอนุสัญญาแรมซาร์ พื้นที่ชุ่มน้ำที่อยู่บนภูเขาของเกาะเป็นสิ่งที่ไม่ค่อยพบ และเป็นหนึ่งในเหตุผลหลักที่ควรมาเยือน พื้นที่นี้ปรากฏในตอนเดียวกันของจังโด</p><h3>เกาะเล็กโซจังโด</h3><p>เกาะเล็ก ๆ ที่อยู่ติดกับจังโด เดินไปถึงได้เมื่อมีเส้นทางทะเลโผล่ขึ้นมาตอนน้ำลง ในตอนของจังโดมีภาพชาวบ้านเดินข้ามไปเก็บหอยทะเลและเพรียง</p><h3>โรงเรียนประถมฮึกซาน สาขาจังโด</h3><p>โรงเรียนสาขาบนเกาะแห่งนี้ก่อตั้งในปี 1955 ตอนที่ถ่ายทำรายการ มีนักเรียนเพียงคนเดียว โรงเรียนนี้ให้ภาพชีวิตประจำวันบนเกาะที่เล็กมากได้เป็นอย่างดี</p><h2>เกาะยองซันโด ซินัน</h2><p>เกาะยองซันโดมีชื่อเล่นว่า “เกาะของคนโง่” เป็นอีกเกาะห่างไกลในซินัน ชาวเกาะเก็บสาหร่ายทะเลป่าจากหินชายฝั่ง และแบ่งสิ่งที่ได้มาอย่างเท่าเทียมผ่านระบบชุมชนที่เรียกว่า 'มันโบ' คุณจะเห็นเรื่องนี้ได้ใน <strong>'Share Equally, Live Well Together! The Happy Fool's Island – 72 Hours on Yeongsando, Sinan'</strong> (KBS ออกอากาศวันที่ 20 กันยายน 2015)</p><h2>ตลาดโดกแคบีนัมกวางจู</h2><p>เรียกอีกชื่อว่าตลาดรุ่งอรุณนัมกวางจู เปิดตั้งแต่ตี 3 และปิดตอน 9 โมงเช้า รวมเพียงวันละ 6 ชั่วโมง อาหารทะเลและผลผลิตจากฟาร์มเปลี่ยนมือกันในความมืด และชามชออทัง (ซุปปลาหมึกไข่) เป็นส่วนหนึ่งของบรรยากาศยามเช้าตรู่ ทางการตั้งอยู่ในเมืองกวางจู ไม่ได้อยู่ในจังหวัดจอนนัม แต่ก็สามารถแวะระหว่างการเดินทางในภูมิภาคนี้ได้ไม่ยาก ตลาดนี้ปรากฏใน <strong>'Open Only Six Hours from 3 AM! Selling Warmth at Dawn – 72 Hours at Namgwangju Dokkaebi Market'</strong> (KBS ออกอากาศวันที่ 7 พฤษภาคม 2017)</p><h2>การเดินทางภายในพื้นที่</h2><p>จังโดและยองซันโดเป็นเกาะห่างไกลทั้งคู่ ดังนั้นตารางเดินทางของคุณจะขึ้นอยู่กับเรือเฟอร์รี่และสภาพอากาศมาก ควรตรวจสอบเที่ยวเรือก่อนออกเดินทาง และเผื่อเวลาไว้อย่างน้อยหนึ่งวัน บนจังโดคุณสามารถผสมผสานการไปพื้นที่ชุ่มน้ำบนภูเขา โรงเรียนสาขา และตรอกหมู่บ้านเข้าด้วยกัน ส่วนเส้นทางทะเลไปเกาะโซจังโดเปิดเฉพาะตอนน้ำลง จึงควรดูเวลาน้ำขึ้นน้ำลงล่วงหน้า เนื่องจากตลาดโดกแคบีนัมกวางจูปิดตอน 9 โมงเช้า แผนที่ใช้ได้จริงคือพักค้างคืนที่กวางจู ไปตลาดก่อนรุ่งสาง แล้วค่อยเดินทางต่อไปยังเกาะ</p>",
+    "id": "<h2>Korea Selatan dari Kacamata Dokumenter</h2><p>Jeonnam, provinsi di barat daya Korea, paling dikenal lewat laut malam Yeosu, Teluk Suncheon, hutan bambu Damyang, serta hidangan seperti kepiting mentah marinasi, tteokgalbi (patty iga panggang) dan sajian Namdo yang melimpah. Panduan ini mengambil rute yang lebih tenang, mengikuti 'Documentary 3 Days' dari KBS, sebuah serial yang menghabiskan 72 jam di satu tempat. Berikut pulau-pulau terpencil Sinan dan pasar fajar yang difilmkan.</p><h2>Pulau Jangdo, Sinan</h2><h3>Pulau Jangdo</h3><p>Sejak lama dijuluki 'jalan angin', Jangdo adalah pulau terpencil yang diterpa angin, dengan rumah beratap merah berjajar di gang-gang sempit dan warga mencari nafkah dari penangkapan teri. Pulau ini tampil dalam <strong>'Jangdo, Pulau Terpencil yang Disebut Jalan Angin – 72 Jam di Jangdo, Sinan'</strong> (KBS, tayang 16 Oktober 2016).</p><h3>Lahan Basah Gunung Jangdo (Situs Ramsar)</h3><p>Ini adalah lahan basah pulau pertama di Korea dan termasuk situs yang ditetapkan Ramsar. Lahan basah di gunung pulau memang tidak biasa, dan ini menjadi salah satu alasan utama untuk berkunjung. Lokasi ini juga tampil dalam episode Jangdo yang sama.</p><h3>Pulau Kecil Sojangdo</h3><p>Pulau kecil di sebelah Jangdo yang bisa dicapai dengan berjalan kaki saat jalur laut muncul ketika air surut. Dalam episode Jangdo, warga terlihat menyeberang untuk mengumpulkan siput laut dan teritip.</p><h3>SD Heuksan, Cabang Jangdo</h3><p>Didirikan pada 1955, sekolah cabang di pulau ini hanya memiliki satu murid ketika episode tersebut difilmkan. Ini memberi gambaran kehidupan sehari-hari di pulau yang sangat kecil.</p><h2>Pulau Yeongsando, Sinan</h2><p>Dijuluki 'Pulau Orang Bodoh', Yeongsando adalah pulau terpencil lain di Sinan. Penduduk pulau memanen rumput laut liar dari bebatuan pesisir dan membagi hasil tangkapan secara merata melalui sistem gotong royong bernama 'manbo'. Anda bisa melihatnya dalam <strong>'Berbagi Secara Adil, Hidup Bersama dengan Baik! Pulau Orang Bodoh yang Bahagia – 72 Jam di Yeongsando, Sinan'</strong> (KBS, tayang 20 September 2015).</p><h2>Pasar Dokkaebi Namgwangju</h2><p>Juga disebut Pasar Fajar Namgwangju, pasar ini buka pukul 3 pagi dan tutup pukul 9 pagi, hanya enam jam sehari. Hasil laut dan hasil tani berpindah tangan dalam gelap, dan semangkuk chueotang (sup loach) menjadi bagian dari suasana pagi hari. Secara administratif pasar ini berada di Kota Gwangju, bukan di Provinsi Jeonnam, tetapi mudah dimasukkan dalam perjalanan di kawasan ini. Pasar ini tampil dalam <strong>'Buka Hanya Enam Jam dari Pukul 3 Pagi! Menjual Kehangatan di Fajar – 72 Jam di Pasar Dokkaebi Namgwangju'</strong> (KBS, tayang 7 Mei 2017).</p><h2>Cara Berkeliling</h2><p>Jangdo dan Yeongsando keduanya pulau terpencil, jadi jadwal Anda sangat bergantung pada feri dan cuaca. Periksa jadwal pelayaran sebelum berangkat dan sisakan setidaknya satu hari cadangan. Di Jangdo Anda bisa menggabungkan lahan basah gunung, sekolah cabang, dan gang-gang desa, sementara jalur laut ke Sojangdo hanya terbuka saat air surut, jadi cek jadwal pasang surut sebelumnya. Karena Pasar Dokkaebi Namgwangju tutup pukul 9 pagi, rencana praktisnya adalah menginap semalam di Gwangju, mengunjungi pasar sebelum fajar, lalu melanjutkan ke pulau-pulau.</p>",
+    "ru": "<h2>Южная Корея глазами документального кино</h2><p>Чолла-Намдо, юго-западная провинция Кореи, лучше всего известна ночным морем Ёсу, заливом Сунчхон, бамбуковыми рощами Тамян и блюдами вроде сырого маринованного краба, тхоккальби (жареных котлеток из говяжьих рёбрышек) и обильного стола Намдо. Этот маршрут спокойнее: он следует за сериалом KBS «Документальные 3 дня», где съёмочная группа 72 часа проводит в одном месте. Здесь удалённые острова Синан и рассветный рынок, которые попали в эфир.</p><h2>Остров Чандо, Синан</h2><h3>Остров Чандо</h3><p>Издавна называемый «тропой ветра», Чандо — удалённый продуваемый ветрами остров, где вдоль узких переулков стоят дома с красными крышами, а жители зарабатывают на жизнь ловлей анчоусов. Остров показан в выпуске <strong>«Чандо, удалённый остров, который называют тропой ветра — 72 часа на Чандо, Синан»</strong> (KBS, эфир 16 октября 2016 года).</p><h3>Горное водно-болотное угодье Чандо (объект Рамсарской конвенции)</h3><p>Это первое островное водно-болотное угодье в Корее и объект, включённый в список Рамсарской конвенции. Водно-болотное угодье на горе острова — редкость, и это одна из главных причин поехать сюда. Оно показано в том же выпуске о Чандо.</p><h3>Островок Соджандо</h3><p>Небольшой островок рядом с Чандо, до которого можно дойти пешком, когда при отливе появляется морская тропа. В выпуске о Чандо видно, как местные жители переходят на островок, чтобы собирать морских улиток и балянусов.</p><h3>Начальная школа Хыксан, филиал на Чандо</h3><p>Основанная в 1955 году, эта школа-филиал на острове в момент съёмок учился всего один ученик. Это возможность увидеть повседневную жизнь на очень маленьком острове.</p><h2>Остров Ёнсандо, Синан</h2><p>Прозванный «островом дураков», Ёнсандо — ещё один удалённый остров Синана. Островитяне собирают дикие водоросли на прибрежных скалах и делят улов поровну по общинной системе под названием «манбо». Это показано в выпуске <strong>«Делиться поровну, жить вместе хорошо! Счастливый остров дураков — 72 часа на Ёнсандо, Синан»</strong> (KBS, эфир 20 сентября 2015 года).</p><h2>Рынок Намгванджу Токкэби</h2><p>Также называемый рассветным рынком Намгванджу, он открывается в 3 утра и закрывается в 9 утра, всего шесть часов в день. Морепродукты и сельхозпродукты переходят из рук в руки в темноте, а миска чоотхана (супа из вьюнов) — часть раннего утреннего пейзажа. Формально рынок находится в городе Кванджу, а не в провинции Чолла-Намдо, но он легко вписывается в поездку по региону. Он попал в выпуск <strong>«Открыт всего шесть часов с 3 утра! Продавая тепло на рассвете — 72 часа на рынке Намгванджу Токкэби»</strong> (KBS, эфир 7 мая 2017 года).</p><h2>Как добраться и передвигаться</h2><p>Чандо и Ёнсандо — удалённые острова, поэтому ваш график во многом зависит от паромов и погоды. Проверьте расписание рейсов до выезда и оставьте хотя бы один запасной день. На Чандо можно совместить посещение горного водно-болотного угодья, островной школы и деревенских переулков, а морская тропа на Соджандо открывается только при отливе, поэтому заранее посмотрите время приливов. Поскольку рынок Намгванджу Токкэби закрывается в 9 утра, удобный план — переночевать в Кванджу, сходить на рынок до рассвета, а затем отправиться на острова.</p>"
+  },
+  "places": [
+    {
+      "ko": "신안 장도",
+      "en": "Jangdo Island, Sinan",
+      "q": "신안군 흑산면 장도",
+      "menu_ko": "바람의 길목이라 불리는 외딴 섬, 빨간 지붕 골목과 멸치잡이",
+      "menu_en": "Remote windswept island with red-roofed alleys and anchovy fishing"
+    },
+    {
+      "ko": "장도 산지습지",
+      "en": "Jangdo Mountain Wetland (Ramsar Site)",
+      "q": "신안 장도 습지",
+      "menu_ko": "국내 최초 섬 습지, 람사르 습지",
+      "menu_en": "Korea's first island wetland, a Ramsar-designated site"
+    },
+    {
+      "ko": "소장도",
+      "en": "Sojangdo Islet",
+      "q": "신안 소장도",
+      "menu_ko": "간조 때 열리는 바닷길, 고둥·따개비 채취",
+      "menu_en": "Sea path opening at low tide; gathering sea snails and barnacles"
+    },
+    {
+      "ko": "흑산초등학교 장도분교장",
+      "en": "Heuksan Elementary School Jangdo Branch",
+      "q": "흑산초등학교 장도분교장",
+      "menu_ko": "1955년 개교, 학생 1명의 섬 분교",
+      "menu_en": "Island branch school founded in 1955 with a single student"
+    },
+    {
+      "ko": "신안 영산도",
+      "en": "Yeongsando Island, Sinan",
+      "q": "신안 영산도",
+      "menu_ko": "'바보섬'으로 불리는 외딴 섬, 갯바위 자연산 미역 채취와 공동 분배(만보)",
+      "menu_en": "Remote island nicknamed 'Fool's Island'; wild seaweed harvesting and equal sharing (manbo)"
+    },
+    {
+      "ko": "남광주 도깨비시장",
+      "en": "Namgwangju Dokkaebi Market (Namgwangju Dawn Market)",
+      "q": "광주 남광주시장",
+      "menu_ko": "새벽 3시~오전 9시만 여는 새벽시장, 해산물·농산물·추어탕",
+      "menu_en": "Dawn market open only 3–9 AM; seafood, produce, loach soup"
+    }
+  ],
+  "videos": [
+    {
+      "id": "f8QVHsuxn5U",
+      "title": "[다큐3일📸] '바람의 길목'이라 불려온 바다의 오지, 장도 | 바람과 함께 살아가다 - 신안 장도 72시간 | KBS 20161016 방송"
+    },
+    {
+      "id": "a1EOZeDcpEQ",
+      "title": "[다큐3일📸] 똑같이 나누고 다같이 잘산다! 행복한 바보섬, 신안 영산도 72시간 | KBS 2015.09.20"
+    },
+    {
+      "id": "XHbni8_35yE",
+      "title": "[다큐3일★풀버전] 새벽 3시부터 단 6시간 오픈! \"새벽, 정을 팝니다 - 남광주 도깨비시장 72시간\" (KBS 20170507 방송)"
+    }
+  ],
+  "placesI18n": {
+    "ja": [
+      {
+        "name": "新安 長島（チャンド）",
+        "menu": "風が吹き抜ける離島。赤い屋根の路地とカタクチイワシ漁で知られる。"
+      },
+      {
+        "name": "長島山地湿地（ラムサール登録地）",
+        "menu": "韓国初の島の湿地で、ラムサール条約に登録されている。"
+      },
+      {
+        "name": "小長島（ソジャンド）",
+        "menu": "干潮時に海の道が現れる小さな島。巻貝やフジツボを採る住民の姿が見られる。"
+      },
+      {
+        "name": "黒山初等学校 長島分校",
+        "menu": "1955年開校の離島の分校。撮影当時の生徒は一人だけだった。"
+      },
+      {
+        "name": "新安 永山島（ヨンサンド）",
+        "menu": "「愚か者の島」と呼ばれる離島。天然のワカメを採り、マンボ制度で平等に分配する。"
+      },
+      {
+        "name": "南光州ドッケビ市場（南光州夜明けの市場）",
+        "menu": "午前3時から9時まで6時間だけ開く夜明けの市場。海産物や農産物、ドジョウのスープが名物。"
+      }
+    ],
+    "zh-Hans": [
+      {
+        "name": "新安将岛",
+        "menu": "偏远的海风岛屿，红色屋顶小巷，以捕捞鳀鱼为生"
+      },
+      {
+        "name": "将岛山地湿地（拉姆萨尔湿地）",
+        "menu": "韩国第一个岛屿湿地，列入拉姆萨尔公约的湿地"
+      },
+      {
+        "name": "小将岛",
+        "menu": "退潮时出现海上小路；居民在此采集海螺和藤壶"
+      },
+      {
+        "name": "黑山小学将岛分校",
+        "menu": "创立于1955年的岛屿分校，拍摄时只有一名学生"
+      },
+      {
+        "name": "新安永山岛",
+        "menu": "被称为“傻瓜岛”的偏远岛屿；采集野生海藻并通过万凡制度平均分配"
+      },
+      {
+        "name": "南广州幽灵市场（南广州黎明市场）",
+        "menu": "仅在凌晨3点至上午9点营业的黎明市场；售卖海鲜、农产品和泥鳅汤"
+      }
+    ],
+    "zh-Hant": [
+      {
+        "name": "新安長島",
+        "menu": "風勢強勁的偏遠島嶼，紅瓦巷弄與鯷魚捕撈"
+      },
+      {
+        "name": "長島山地濕地（拉姆薩爾濕地）",
+        "menu": "韓國第一座島嶼濕地，列入拉姆薩爾公約指定濕地"
+      },
+      {
+        "name": "小長島",
+        "menu": "退潮時出現海上步道；採集海螺與藤壺"
+      },
+      {
+        "name": "黑山小學長島分校",
+        "menu": "1955年創立的島上分校，拍攝時僅有一名學生"
+      },
+      {
+        "name": "新安永山島",
+        "menu": "又稱傻瓜島的偏遠島嶼；採收野生海藻並以萬餅制度平均分配"
+      },
+      {
+        "name": "南光州妖怪市場（南光州黎明市場）",
+        "menu": "凌晨3點至早上9點營業的黎明市場；海鮮、農產品與泥鰍湯"
+      }
+    ],
+    "es": [
+      {
+        "name": "Isla Jangdo, Sinan",
+        "menu": "Isla remota y batida por el viento, con callejuelas de tejados rojos y pesca de anchoas"
+      },
+      {
+        "name": "Humedal de montaña de Jangdo (sitio Ramsar)",
+        "menu": "El primer humedal insular de Corea, sitio designado por la Convención Ramsar"
+      },
+      {
+        "name": "Islote Sojangdo",
+        "menu": "Camino marino que se abre con la marea baja; recogida de caracoles marinos y percebes"
+      },
+      {
+        "name": "Escuela Primaria Heuksan, sucursal de Jangdo",
+        "menu": "Escuela sucursal de la isla fundada en 1955, con un solo alumno"
+      },
+      {
+        "name": "Isla Yeongsando, Sinan",
+        "menu": "Isla remota apodada 'la isla del tonto'; recogida de algas silvestres y reparto equitativo (manbo)"
+      },
+      {
+        "name": "Mercado Dokkaebi de Namgwangju (mercado del amanecer de Namgwangju)",
+        "menu": "Mercado de madrugada abierto solo de 3 a 9 de la mañana; mariscos, productos del campo, sopa de lubina de río"
+      }
+    ],
+    "fr": [
+      {
+        "name": "Île de Jangdo, Sinan (Sinan Jangdo)",
+        "menu": "Île isolée balayée par le vent, avec des ruelles aux toits rouges et la pêche à l'anchois"
+      },
+      {
+        "name": "Zone humide de montagne de Jangdo (site Ramsar)",
+        "menu": "Première zone humide insulaire de Corée, site désigné Ramsar"
+      },
+      {
+        "name": "Îlot de Sojangdo",
+        "menu": "Chemin maritime qui apparaît à marée basse ; récolte d'escargots de mer et de balanes"
+      },
+      {
+        "name": "École élémentaire de Heuksan, annexe de Jangdo",
+        "menu": "Annexe scolaire insulaire fondée en 1955, avec un seul élève"
+      },
+      {
+        "name": "Île de Yeongsando, Sinan (Sinan Yeongsando)",
+        "menu": "Île isolée surnommée « l'île des fous » ; récolte d'algues sauvages et partage équitable (manbo)"
+      },
+      {
+        "name": "Marché Dokkaebi de Namgwangju (marché de l'aube de Namgwangju)",
+        "menu": "Marché de l'aube ouvert seulement de 3 h à 9 h ; produits de la mer, produits agricoles, soupe de loche"
+      }
+    ],
+    "de": [
+      {
+        "name": "Insel Jangdo, Sinan",
+        "menu": "Abgelegene, windumtoste Insel mit rotdächerigen Gassen und Sardellenfang"
+      },
+      {
+        "name": "Jangdo Berg-Feuchtgebiet (Ramsar-Gebiet)",
+        "menu": "Koreas erstes Inselfeuchtgebiet, als Ramsar-Gebiet ausgewiesen"
+      },
+      {
+        "name": "Sojangdo",
+        "menu": "Meerespfad, der bei Ebbe erscheint; Sammeln von Meeresschnecken und Seepocken"
+      },
+      {
+        "name": "Grundschule Heuksan, Zweigstelle Jangdo",
+        "menu": "Inselzweigschule, 1955 gegründet, mit einem einzigen Schüler"
+      },
+      {
+        "name": "Insel Yeongsando, Sinan",
+        "menu": "Abgelegene Insel, auch 'Insel der Narren' genannt; Ernte von Wildalgen und gleichmäßige Teilung (Manbo)"
+      },
+      {
+        "name": "Namgwangju Dokkaebi Markt (Namgwangju-Morgenmarkt)",
+        "menu": "Morgenmarkt, nur von 3 bis 9 Uhr geöffnet; Meeresfrüchte, Landwirtschaftsprodukte, Schlammpeitzger-Suppe"
+      }
+    ],
+    "vi": [
+      {
+        "name": "Đảo Jangdo, Sinan",
+        "menu": "Hòn đảo hẻo lánh, gió lộng với các con hẻm mái đỏ và nghề đánh bắt cá cơm"
+      },
+      {
+        "name": "Vùng đất ngập nước núi Jangdo (Ramsar)",
+        "menu": "Vùng đất ngập nước trên đảo đầu tiên của Hàn Quốc, được công nhận theo Công ước Ramsar"
+      },
+      {
+        "name": "Đảo nhỏ Sojangdo",
+        "menu": "Lối đi trên biển mở khi triều thấp; nơi người dân nhặt ốc biển và hàu sẹo"
+      },
+      {
+        "name": "Trường tiểu học Heuksan, phân hiệu Jangdo",
+        "menu": "Phân hiệu trường trên đảo được thành lập năm 1955, chỉ có một học sinh"
+      },
+      {
+        "name": "Đảo Yeongsando, Sinan",
+        "menu": "Hòn đảo hẻo lánh được gọi là 'Đảo Kẻ Ngốc'; thu hoạch rong biển tự nhiên và chia đều theo hệ thống manbo"
+      },
+      {
+        "name": "Chợ Namgwangju Dokkaebi (Chợ rạng sáng Namgwangju)",
+        "menu": "Chợ rạng sáng chỉ mở từ 3 đến 9 giờ sáng; hải sản, nông sản và canh cá chạch"
+      }
+    ],
+    "th": [
+      {
+        "name": "เกาะจังโด ซินัน (신안 장도)",
+        "menu": "เกาะห่างไกลที่ลมแรง มีตรอกหลังคาสีแดงและการจับปลาไส้ตัน"
+      },
+      {
+        "name": "พื้นที่ชุ่มน้ำบนภูเขาจังโด (แรมซาร์ไซต์) (장도 산지습지)",
+        "menu": "พื้นที่ชุ่มน้ำบนเกาะแห่งแรกของเกาหลีใต้ เป็นพื้นที่ที่กำหนดตามอนุสัญญาแรมซาร์"
+      },
+      {
+        "name": "เกาะเล็กโซจังโด (소장도)",
+        "menu": "เส้นทางทะเลเปิดตอนน้ำลง ชาวบ้านเก็บหอยทะเลและเพรียง"
+      },
+      {
+        "name": "โรงเรียนประถมฮึกซาน สาขาจังโด (흑산초등학교 장도분교장)",
+        "menu": "โรงเรียนสาขาบนเกาะที่ก่อตั้งในปี 1955 มีนักเรียนเพียงคนเดียว"
+      },
+      {
+        "name": "เกาะยองซันโด ซินัน (신안 영산도)",
+        "menu": "เกาะห่างไกลที่มีชื่อเล่นว่า “เกาะของคนโง่” เก็บสาหร่ายทะเลป่าและแบ่งปันอย่างเท่าเทียม (มันโบ)"
+      },
+      {
+        "name": "ตลาดโดกแคบีนัมกวางจู (ตลาดรุ่งอรุณนัมกวางจู) (남광주 도깨비시장)",
+        "menu": "ตลาดรุ่งอรุณที่เปิดเฉพาะ 3–9 โมงเช้า มีอาหารทะเล ผลผลิตทางการเกษตร และชออทัง"
+      }
+    ],
+    "id": [
+      {
+        "name": "Pulau Jangdo, Sinan",
+        "menu": "Pulau terpencil yang diterpa angin dengan gang beratap merah dan penangkapan teri"
+      },
+      {
+        "name": "Lahan Basah Gunung Jangdo (Situs Ramsar)",
+        "menu": "Lahan basah pulau pertama di Korea, termasuk situs yang ditetapkan Ramsar"
+      },
+      {
+        "name": "Pulau Kecil Sojangdo",
+        "menu": "Jalur laut terbuka saat air surut; mengumpulkan siput laut dan teritip"
+      },
+      {
+        "name": "SD Heuksan Cabang Jangdo",
+        "menu": "Sekolah cabang pulau yang didirikan 1955 dengan satu murid"
+      },
+      {
+        "name": "Pulau Yeongsando, Sinan",
+        "menu": "Pulau terpencil yang dijuluki 'Pulau Orang Bodoh'; panen rumput laut liar dan pembagian merata (manbo)"
+      },
+      {
+        "name": "Pasar Dokkaebi Namgwangju (Pasar Fajar Namgwangju)",
+        "menu": "Pasar fajar yang hanya buka pukul 3–9 pagi; hasil laut, hasil tani, sup loach"
+      }
+    ],
+    "ru": [
+      {
+        "name": "Остров Чандо, Синан",
+        "menu": "Удалённый продуваемый ветрами остров с переулками с красными крышами и ловлей анчоусов"
+      },
+      {
+        "name": "Горное водно-болотное угодье Чандо (объект Рамсарской конвенции)",
+        "menu": "Первое островное водно-болотное угодье в Корее, объект Рамсарской конвенции"
+      },
+      {
+        "name": "Островок Соджандо",
+        "menu": "Морская тропа, открывающаяся при отливе; сбор морских улиток и балянусов"
+      },
+      {
+        "name": "Начальная школа Хыксан, филиал на Чандо",
+        "menu": "Островная школа-филиал, основанная в 1955 году, с одним учеником"
+      },
+      {
+        "name": "Остров Ёнсандо, Синан",
+        "menu": "Удалённый остров, прозванный «островом дураков»; сбор диких водорослей и равный раздел улова (манбо)"
+      },
+      {
+        "name": "Рынок Намгванджу Токкэби (Рассветный рынок Намгванджу)",
+        "menu": "Рассветный рынок, открытый только с 3 до 9 утра; морепродукты, продукты, суп из вьюнов"
+      }
+    ]
+  }
+}
